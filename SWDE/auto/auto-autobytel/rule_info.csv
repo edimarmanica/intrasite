@@ -1,0 +1,1021 @@
+ID,LABEL,RULE
+0,Read all expert reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)
+WHERE a1.VALUE='Read all expert reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='5' 
+AND b.VALUE='TD' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='1' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+1,Colors,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Colors' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='8' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+2,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+3,Colors,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Colors' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='9' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+4,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+5,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='4' 
+AND b.VALUE='TD' 
+AND c0.VALUE='P' AND c0.POSITION='2' 
+AND c1.VALUE='B' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+6,View all color combinations,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='View all color combinations' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='5' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+7,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='1' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+8,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+9,Car and Truck pricing can be complicated and sometimes confusing. That's why we train every Autobytel.com Accredited Car Dealer to provide,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Car and Truck pricing can be complicated and sometimes confusing. That\'s why we train every Autobytel.com Accredited Car Dealer to provide' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/DIV/P/text()' AND a1.POSITION='1' 
+AND a0.VALUE='P' AND a0.POSITION='5' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='P' AND c0.POSITION='3' 
+AND c1.VALUE='B' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+10,Colors,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)-->(c6)
+WHERE a1.VALUE='Colors' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='7' 
+AND b.VALUE='TD' 
+AND c0.VALUE='TABLE' AND c0.POSITION='1' 
+AND c1.VALUE='TBODY' AND c1.POSITION='1' 
+AND c2.VALUE='TR' AND c2.POSITION='1' 
+AND c3.VALUE='TD' AND c3.POSITION='1' 
+AND c4.VALUE='SPAN' AND c4.POSITION='1' 
+AND c5.VALUE='B' AND c5.POSITION='1' 
+AND c6.NODE_TYPE='3' AND c6.POSITION='1' 
+ RETURN c6.VALUE AS VALUE, c6.URL AS URL, 'Template' in LABELS(c6) as template"
+11,Consumer Ratings and Reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Consumer Ratings and Reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.VALUE='B' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+12,Colors,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Colors' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='9' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+13,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='5' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+14,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+15,Read more,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)-->(c6)
+WHERE a1.VALUE='Read more' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='6' 
+AND b.VALUE='TD' 
+AND c0.VALUE='TABLE' AND c0.POSITION='1' 
+AND c1.VALUE='TBODY' AND c1.POSITION='1' 
+AND c2.VALUE='TR' AND c2.POSITION='1' 
+AND c3.VALUE='TD' AND c3.POSITION='1' 
+AND c4.VALUE='SPAN' AND c4.POSITION='1' 
+AND c5.VALUE='B' AND c5.POSITION='1' 
+AND c6.NODE_TYPE='3' AND c6.POSITION='1' 
+ RETURN c6.VALUE AS VALUE, c6.URL AS URL, 'Template' in LABELS(c6) as template"
+16,Consumer Ratings and Reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Consumer Ratings and Reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='5' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+17,Consumer Ratings and Reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Consumer Ratings and Reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='5' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+18,Vehicle Overview from Edmunds.com,"MATCH (a1)<--(a0)<--(b)-->(c0)
+WHERE a1.VALUE='Vehicle Overview from Edmunds.com' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='3' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+19,Read all expert reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)-->(c6)
+WHERE a1.VALUE='Read all expert reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='5' 
+AND b.VALUE='TD' 
+AND c0.VALUE='TABLE' AND c0.POSITION='1' 
+AND c1.VALUE='TBODY' AND c1.POSITION='1' 
+AND c2.VALUE='TR' AND c2.POSITION='1' 
+AND c3.VALUE='TD' AND c3.POSITION='1' 
+AND c4.VALUE='SPAN' AND c4.POSITION='1' 
+AND c5.VALUE='B' AND c5.POSITION='1' 
+AND c6.NODE_TYPE='3' AND c6.POSITION='1' 
+ RETURN c6.VALUE AS VALUE, c6.URL AS URL, 'Template' in LABELS(c6) as template"
+20,Colors,"MATCH (a1)<--(a0)<--(b)-->(c0)
+WHERE a1.VALUE='Colors' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='9' 
+AND b.VALUE='TD' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='1' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+21,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='P' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+22,Starting MSRP:,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a2.VALUE='Starting MSRP:' AND a2.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/TABLE/TBODY/TR/TD/DIV/DIV/P/TABLE/TBODY/TR/TD/B/text()' AND a2.POSITION='1' 
+AND a1.VALUE='B' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='1' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+23,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='B' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+24,For This Vehicle:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='For This Vehicle:' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/DIV/B/text()' AND a1.POSITION='1' 
+AND a0.VALUE='B' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='21' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+25,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='5' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+26,View all color combinations,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='View all color combinations' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='8' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='6' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+27,2WD,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='2WD' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='3' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='H2' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+28,Read all expert reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Read all expert reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='6' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+29,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='B' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+30,View all color combinations,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='View all color combinations' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='6' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+31,View all photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='View all photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='5' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='6' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+32,View all photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)-->(c6)
+WHERE a1.VALUE='View all photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.VALUE='TABLE' AND c0.POSITION='1' 
+AND c1.VALUE='TBODY' AND c1.POSITION='1' 
+AND c2.VALUE='TR' AND c2.POSITION='1' 
+AND c3.VALUE='TD' AND c3.POSITION='1' 
+AND c4.VALUE='SPAN' AND c4.POSITION='1' 
+AND c5.VALUE='B' AND c5.POSITION='1' 
+AND c6.NODE_TYPE='3' AND c6.POSITION='1' 
+ RETURN c6.VALUE AS VALUE, c6.URL AS URL, 'Template' in LABELS(c6) as template"
+33,Photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='7' 
+AND b.VALUE='TD' 
+AND c0.VALUE='B' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+34,» Summary,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='» Summary' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='16' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+35,Read more,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Read more' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/P/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='1' 
+AND b.VALUE='P' 
+AND c0.VALUE='B' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+36,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='P' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+37,View all color combinations,"MATCH (a1)<--(a0)<--(b)-->(c0)
+WHERE a1.VALUE='View all color combinations' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='1' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+38,View all photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='View all photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='8' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+39,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+40,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+41,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='7' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+42,View all color combinations,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='View all color combinations' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='2' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+43,View all photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)-->(c6)
+WHERE a1.VALUE='View all photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='TABLE' AND c0.POSITION='1' 
+AND c1.VALUE='TBODY' AND c1.POSITION='1' 
+AND c2.VALUE='TR' AND c2.POSITION='1' 
+AND c3.VALUE='TD' AND c3.POSITION='1' 
+AND c4.VALUE='SPAN' AND c4.POSITION='1' 
+AND c5.VALUE='B' AND c5.POSITION='1' 
+AND c6.NODE_TYPE='3' AND c6.POSITION='1' 
+ RETURN c6.VALUE AS VALUE, c6.URL AS URL, 'Template' in LABELS(c6) as template"
+44,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='4' 
+AND b.VALUE='TD' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='2' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+45,View all photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)-->(c6)
+WHERE a1.VALUE='View all photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='TABLE' AND c0.POSITION='1' 
+AND c1.VALUE='TBODY' AND c1.POSITION='1' 
+AND c2.VALUE='TR' AND c2.POSITION='1' 
+AND c3.VALUE='TD' AND c3.POSITION='1' 
+AND c4.VALUE='SPAN' AND c4.POSITION='1' 
+AND c5.VALUE='B' AND c5.POSITION='1' 
+AND c6.NODE_TYPE='3' AND c6.POSITION='1' 
+ RETURN c6.VALUE AS VALUE, c6.URL AS URL, 'Template' in LABELS(c6) as template"
+46,2WD,"MATCH (a0)<--(b)-->(c0)
+WHERE a0.VALUE='2WD' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/TABLE/TBODY/TR/TD/DIV/text()' AND a0.POSITION='3' 
+AND b.VALUE='DIV' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='4' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+47,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+48,Photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='5' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+49,Colors,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Colors' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='8' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='5' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+50,Colors,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)-->(c6)
+WHERE a1.VALUE='Colors' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='8' 
+AND b.VALUE='TD' 
+AND c0.VALUE='TABLE' AND c0.POSITION='1' 
+AND c1.VALUE='TBODY' AND c1.POSITION='1' 
+AND c2.VALUE='TR' AND c2.POSITION='1' 
+AND c3.VALUE='TD' AND c3.POSITION='1' 
+AND c4.VALUE='SPAN' AND c4.POSITION='1' 
+AND c5.VALUE='B' AND c5.POSITION='1' 
+AND c6.NODE_TYPE='3' AND c6.POSITION='1' 
+ RETURN c6.VALUE AS VALUE, c6.URL AS URL, 'Template' in LABELS(c6) as template"
+51,Consumer Ratings and Reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Consumer Ratings and Reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+52,Vehicle Overview from Edmunds.com,"MATCH (a1)<--(a0)<--(b)-->(c0)
+WHERE a1.VALUE='Vehicle Overview from Edmunds.com' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='2' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+53,Colors,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Colors' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='7' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+54,View all color combinations,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='View all color combinations' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='8' 
+AND b.VALUE='TD' 
+AND c0.VALUE='B' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+55,Colors,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)-->(c6)
+WHERE a1.VALUE='Colors' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='9' 
+AND b.VALUE='TD' 
+AND c0.VALUE='TABLE' AND c0.POSITION='1' 
+AND c1.VALUE='TBODY' AND c1.POSITION='1' 
+AND c2.VALUE='TR' AND c2.POSITION='1' 
+AND c3.VALUE='TD' AND c3.POSITION='1' 
+AND c4.VALUE='SPAN' AND c4.POSITION='1' 
+AND c5.VALUE='B' AND c5.POSITION='1' 
+AND c6.NODE_TYPE='3' AND c6.POSITION='1' 
+ RETURN c6.VALUE AS VALUE, c6.URL AS URL, 'Template' in LABELS(c6) as template"
+56,View all color combinations,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='View all color combinations' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='7' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+57,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+58,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+59,» Summary,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='» Summary' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='22' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+60,Consumer Ratings and Reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Consumer Ratings and Reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='5' 
+AND b.VALUE='TD' 
+AND c0.VALUE='B' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+61,Starting Invoice:,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a2.VALUE='Starting Invoice:' AND a2.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/TABLE/TBODY/TR/TD/DIV/DIV/P/TABLE/TBODY/TR/TD/B/text()' AND a2.POSITION='1' 
+AND a1.VALUE='B' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='1' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+62,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+63,Colors,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Colors' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='5' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='2' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+64,Photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='6' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+65,Photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='5' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+66,View all photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='View all photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='5' 
+AND b.VALUE='TD' 
+AND c0.VALUE='B' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+67,Similar Cars:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Similar Cars:' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/DIV/B/text()' AND a1.POSITION='1' 
+AND a0.VALUE='B' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='19' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+68,For This Vehicle:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='For This Vehicle:' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/DIV/B/text()' AND a1.POSITION='1' 
+AND a0.VALUE='B' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='20' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+69,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='8' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+70,Vehicle Overview from Edmunds.com,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Vehicle Overview from Edmunds.com' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='5' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+71,Read more,"MATCH (a1)<--(a0)<--(b)-->(c0)
+WHERE a1.VALUE='Read more' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='6' 
+AND b.VALUE='TD' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='1' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+72,Car and Truck pricing can be complicated and sometimes confusing. That's why we train every Autobytel.com Accredited Car Dealer to provide,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Car and Truck pricing can be complicated and sometimes confusing. That\'s why we train every Autobytel.com Accredited Car Dealer to provide' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/DIV/P/text()' AND a1.POSITION='1' 
+AND a0.VALUE='P' AND a0.POSITION='5' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='P' AND c0.POSITION='2' 
+AND c1.VALUE='B' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+73,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='4' 
+AND b.VALUE='TD' 
+AND c0.VALUE='B' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+74,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='4' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+75,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='1' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+76,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='8' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+77,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='P' AND c0.POSITION='2' 
+AND c1.VALUE='B' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+78,» Summary,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='» Summary' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='17' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+79,View all photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='View all photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='5' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+80,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+81,View all photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='View all photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+82,Expert Reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Expert Reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='5' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+83,Similar Cars:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Similar Cars:' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/DIV/B/text()' AND a1.POSITION='1' 
+AND a0.VALUE='B' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='15' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+84,2WD,"MATCH (a0)<--(b)-->(c0)
+WHERE a0.VALUE='2WD' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/TABLE/TBODY/TR/TD/DIV/text()' AND a0.POSITION='3' 
+AND b.VALUE='DIV' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='2' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+85,2WD,"MATCH (a0)<--(b)-->(c0)
+WHERE a0.VALUE='2WD' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/TABLE/TBODY/TR/TD/DIV/text()' AND a0.POSITION='3' 
+AND b.VALUE='DIV' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='1' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+86,View all trims,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a2.VALUE='View all trims' AND a2.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/TABLE/TBODY/TR/TD/P/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='P' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='H2' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+87,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='6' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+88,Read more,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Read more' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='5' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+89,View all trims,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a2.VALUE='View all trims' AND a2.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/TABLE/TBODY/TR/TD/P/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='P' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='2' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+90,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='8' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+91,For This Vehicle:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='For This Vehicle:' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/DIV/B/text()' AND a1.POSITION='1' 
+AND a0.VALUE='B' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='18' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+92,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+93,Read more,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Read more' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='4' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+94,View all color combinations,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='View all color combinations' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='6' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+95,View all photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='View all photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='7' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+96,Summary,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Summary' AND a1.PATH='/HTML/BODY/DIV/DIV/SPAN/TABLE/TBODY/TR/TD/H2/text()' AND a1.POSITION='1' 
+AND a0.VALUE='H2' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='H1' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+97,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+98,For This Vehicle:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='For This Vehicle:' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/DIV/B/text()' AND a1.POSITION='1' 
+AND a0.VALUE='B' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='14' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+99,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+100,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='4' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+101,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='P' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+102,View all photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='View all photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='6' 
+AND b.VALUE='TD' 
+AND c0.VALUE='B' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+103,View all color combinations,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='View all color combinations' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='8' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+104,Vehicle Overview from Edmunds.com,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Vehicle Overview from Edmunds.com' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+105,Consumer Ratings and Reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)-->(c6)
+WHERE a1.VALUE='Consumer Ratings and Reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='TABLE' AND c0.POSITION='1' 
+AND c1.VALUE='TBODY' AND c1.POSITION='1' 
+AND c2.VALUE='TR' AND c2.POSITION='1' 
+AND c3.VALUE='TD' AND c3.POSITION='1' 
+AND c4.VALUE='SPAN' AND c4.POSITION='1' 
+AND c5.VALUE='B' AND c5.POSITION='1' 
+AND c6.NODE_TYPE='3' AND c6.POSITION='1' 
+ RETURN c6.VALUE AS VALUE, c6.URL AS URL, 'Template' in LABELS(c6) as template"
+106,10 Things You Should Know About the 2011 smart fortwo,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='10 Things You Should Know About the 2011 smart fortwo' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+107,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='4' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='5' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+108,Read more,"MATCH (a1)<--(a0)<--(b)-->(c0)
+WHERE a1.VALUE='Read more' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/P/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='1' 
+AND b.VALUE='P' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='1' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+109,Consumer Ratings and Reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Consumer Ratings and Reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='TD' 
+AND c0.VALUE='B' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+110,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+111,View all trims,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a2.VALUE='View all trims' AND a2.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/TABLE/TBODY/TR/TD/P/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='P' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='4' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+112,Consumer Ratings and Reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Consumer Ratings and Reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='5' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='6' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+113,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+114,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='4' 
+AND b.VALUE='TD' 
+AND c0.VALUE='P' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+115,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='4' 
+AND b.VALUE='TD' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='1' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+116,» Summary,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='» Summary' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='13' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+117,View all trims,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a2.VALUE='View all trims' AND a2.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/TABLE/TBODY/TR/TD/P/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='P' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+118,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+119,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='B' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+120,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='B' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+121,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='4' 
+AND b.VALUE='TD' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='3' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+122,Vehicle Overview from Edmunds.com,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Vehicle Overview from Edmunds.com' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+123,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='7' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+124,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='6' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+125,Consumer Ratings and Reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Consumer Ratings and Reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+126,Read more,"MATCH (a1)<--(a0)<--(b)-->(c0)
+WHERE a1.VALUE='Read more' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/P/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='1' 
+AND b.VALUE='P' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='2' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+127,Read more,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Read more' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='6' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+128,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='2' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+129,Photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='7' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+130,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='4' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+131,Colors,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Colors' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='8' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+132,Read all expert reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Read all expert reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='4' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+133,Photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='7' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='5' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+134,10 Things You Should Know About the 2011 Hyundai Genesis,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)-->(c6)
+WHERE a1.VALUE='10 Things You Should Know About the 2011 Hyundai Genesis' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='TABLE' AND c0.POSITION='1' 
+AND c1.VALUE='TBODY' AND c1.POSITION='1' 
+AND c2.VALUE='TR' AND c2.POSITION='1' 
+AND c3.VALUE='TD' AND c3.POSITION='1' 
+AND c4.VALUE='SPAN' AND c4.POSITION='1' 
+AND c5.VALUE='B' AND c5.POSITION='1' 
+AND c6.NODE_TYPE='3' AND c6.POSITION='1' 
+ RETURN c6.VALUE AS VALUE, c6.URL AS URL, 'Template' in LABELS(c6) as template"
+135,View all photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='View all photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='6' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+136,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='4' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='7' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+137,View all trims,"MATCH (a1)<--(a0)<--(b)-->(c0)
+WHERE a1.VALUE='View all trims' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/TABLE/TBODY/TR/TD/P/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='1' 
+AND b.VALUE='P' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='1' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+138,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+139,View all photos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='View all photos' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='6' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='6' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+140,View all trims,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a2.VALUE='View all trims' AND a2.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/TABLE/TBODY/TR/TD/P/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='P' AND a0.POSITION='2' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='3' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+141,Consumer Rating:,"MATCH (a3)<--(a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)
+WHERE a3.VALUE='Consumer Rating:' AND a3.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/TABLE/TBODY/TR/TD/DIV/DIV/TABLE/TBODY/TR/TD/B/text()' AND a3.POSITION='1' 
+AND a2.VALUE='B' AND a2.POSITION='1' 
+AND a1.VALUE='TD' AND a1.POSITION='1' 
+AND a0.VALUE='TR' AND a0.POSITION='1' 
+AND b.VALUE='TBODY' 
+AND c0.VALUE='TR' AND c0.POSITION='2' 
+AND c1.VALUE='TD' AND c1.POSITION='1' 
+AND c2.VALUE='A' AND c2.POSITION='1' 
+AND c3.NODE_TYPE='3' AND c3.POSITION='1' 
+ RETURN c3.VALUE AS VALUE, c3.URL AS URL, 'Template' in LABELS(c3) as template"
+142,There are currently no customer reviews for this vehicle.,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='There are currently no customer reviews for this vehicle.' AND a0.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/text()' AND a0.POSITION='1' 
+AND b.VALUE='TD' 
+AND c0.VALUE='A' AND c0.POSITION='5' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+143,Read more,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Read more' AND a1.PATH='/HTML/BODY/DIV/DIV/TABLE/TBODY/TR/TD/P/TABLE/TBODY/TR/TD/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='3' 
+AND b.VALUE='TD' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"

@@ -1,0 +1,1027 @@
+ID,LABEL,RULE
+0,Incentives:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Incentives:' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/LABEL/text()' AND a1.POSITION='1' 
+AND a0.VALUE='LABEL' AND a0.POSITION='7' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='SPAN' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+1,Base Price,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Base Price' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='1' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+2,"Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.","MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)
+WHERE a1.VALUE='Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='2' 
+AND c1.VALUE='DIV' AND c1.POSITION='5' 
+AND c2.VALUE='P' AND c2.POSITION='1' 
+AND c3.NODE_TYPE='3' AND c3.POSITION='1' 
+ RETURN c3.VALUE AS VALUE, c3.URL AS URL, 'Template' in LABELS(c3) as template"
+3,Incl.,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Incl.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='4' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+4,Read Reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Read Reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='2' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+5,Engine:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Engine:' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/LABEL/text()' AND a1.POSITION='1' 
+AND a0.VALUE='LABEL' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='LABEL' AND c0.POSITION='6' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+6,Incentives:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Incentives:' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/LABEL/text()' AND a1.POSITION='1' 
+AND a0.VALUE='LABEL' AND a0.POSITION='7' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='SPAN' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+7,Similar Models,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)
+WHERE a2.VALUE='Similar Models' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a2.POSITION='1' 
+AND a1.VALUE='H3' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='3' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.VALUE='UL' AND c2.POSITION='1' 
+AND c3.VALUE='LI' AND c3.POSITION='4' 
+AND c4.VALUE='A' AND c4.POSITION='1' 
+AND c5.NODE_TYPE='3' AND c5.POSITION='1' 
+ RETURN c5.VALUE AS VALUE, c5.URL AS URL, 'Template' in LABELS(c5) as template"
+8,N/C,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='N/C' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='4' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+9,Reviews,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Reviews' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/UL/LI/SPAN/text()' AND a2.POSITION='1' 
+AND a1.VALUE='SPAN' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='21' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='26' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+10,More,"MATCH (a1)<--(a0)<--(b)-->(c0)
+WHERE a1.VALUE='More' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='4' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+11,Read Reviews,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Read Reviews' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='H2' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+12,out of,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='out of' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/SPAN/text()' AND a1.POSITION='1' 
+AND a0.VALUE='SPAN' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='A' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+13,Fair Purchase Price,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Fair Purchase Price' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/SPAN/text()' AND a1.POSITION='1' 
+AND a0.VALUE='SPAN' AND a0.POSITION='6' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='SPAN' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+14,Price With Destination Charge and Required Equipment,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Price With Destination Charge and Required Equipment' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='1' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='4' 
+AND c1.VALUE='STRONG' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+15,Std. Equipment,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Std. Equipment' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/UL/LI/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='19' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='22' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+16,More,"MATCH (a1)<--(a0)<--(b)-->(c0)
+WHERE a1.VALUE='More' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='2' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+17,Gas Mileage:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Gas Mileage:' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/LABEL/text()' AND a1.POSITION='1' 
+AND a0.VALUE='LABEL' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='SPAN' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+18,View Saved Vehicles,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='View Saved Vehicles' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='SPAN' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+19,Benefits of Multiple Price Quotes,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a2.VALUE='Benefits of Multiple Price Quotes' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/FORM/DIV/DIV/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='H2' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+20,Gas Mileage:,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a2.VALUE='Gas Mileage:' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/LABEL/text()' AND a2.POSITION='1' 
+AND a1.VALUE='LABEL' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='H2' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+21,Specification:,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Specification:' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/UL/LI/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='14' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='25' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+22,Cost to Own,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Cost to Own' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/UL/LI/SPAN/text()' AND a2.POSITION='1' 
+AND a1.VALUE='SPAN' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='6' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='4' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+23,More,"MATCH (a1)<--(a0)<--(b)-->(c0)
+WHERE a1.VALUE='More' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='1' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+24,Pricing:,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Pricing:' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/UL/LI/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='2' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='4' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+25,More,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='More' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='STRONG' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+26,"Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.","MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)
+WHERE a1.VALUE='Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='14' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.VALUE='A' AND c2.POSITION='1' 
+AND c3.NODE_TYPE='3' AND c3.POSITION='1' 
+ RETURN c3.VALUE AS VALUE, c3.URL AS URL, 'Template' in LABELS(c3) as template"
+27,Engine:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Engine:' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/LABEL/text()' AND a1.POSITION='1' 
+AND a0.VALUE='LABEL' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='SPAN' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+28,"Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.","MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='11' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+29,MSRP,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='MSRP' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a2.POSITION='1' 
+AND a1.VALUE='DIV' AND a1.POSITION='2' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.VALUE='DIV' AND c1.POSITION='2' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+30,Invoice,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Invoice' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+31,Fair Purchase Price,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Fair Purchase Price' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/STRONG/text()' AND a1.POSITION='1' 
+AND a0.VALUE='STRONG' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='2' 
+AND c1.VALUE='STRONG' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+32,Invoice,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Invoice' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a2.POSITION='1' 
+AND a1.VALUE='DIV' AND a1.POSITION='2' 
+AND a0.VALUE='DIV' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.VALUE='DIV' AND c1.POSITION='2' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='2' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+33,- AOL Autos,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='- AOL Autos' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/UL/LI/SPAN/text()' AND a1.POSITION='1' 
+AND a0.VALUE='SPAN' AND a0.POSITION='1' 
+AND b.VALUE='LI' 
+AND c0.VALUE='A' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+34,Similar Models,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Similar Models' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a2.POSITION='1' 
+AND a1.VALUE='H3' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='3' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.VALUE='H3' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+35,Read Entire Review,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Read Entire Review' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='A' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+36,Similar Models,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)
+WHERE a2.VALUE='Similar Models' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a2.POSITION='1' 
+AND a1.VALUE='H3' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='3' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.VALUE='UL' AND c2.POSITION='1' 
+AND c3.VALUE='LI' AND c3.POSITION='2' 
+AND c4.VALUE='A' AND c4.POSITION='1' 
+AND c5.NODE_TYPE='3' AND c5.POSITION='1' 
+ RETURN c5.VALUE AS VALUE, c5.URL AS URL, 'Template' in LABELS(c5) as template"
+37,N/C,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='N/C' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='3' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+38,"Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.","MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='14' 
+AND c1.VALUE='H3' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+39,Estimated Payments,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Estimated Payments' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H2/text()' AND a1.POSITION='1' 
+AND a0.VALUE='H2' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='A' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+40,View Another Vehicle,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)
+WHERE a2.VALUE='View Another Vehicle' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a2.POSITION='1' 
+AND a1.VALUE='H3' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='5' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.VALUE='UL' AND c2.POSITION='1' 
+AND c3.VALUE='LI' AND c3.POSITION='2' 
+AND c4.VALUE='A' AND c4.POSITION='1' 
+AND c5.NODE_TYPE='3' AND c5.POSITION='1' 
+ RETURN c5.VALUE AS VALUE, c5.URL AS URL, 'Template' in LABELS(c5) as template"
+41,Price With Destination Charge and Required Equipment,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Price With Destination Charge and Required Equipment' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='1' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='2' 
+AND c1.VALUE='STRONG' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+42,Fair Purchase Price,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Fair Purchase Price' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/SPAN/text()' AND a1.POSITION='1' 
+AND a0.VALUE='SPAN' AND a0.POSITION='6' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='SPAN' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+43,Change Trim,"MATCH (a3)<--(a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a3.VALUE='Change Trim' AND a3.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/A/text()' AND a3.POSITION='1' 
+AND a2.VALUE='A' AND a2.POSITION='1' 
+AND a1.VALUE='DIV' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='H1' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+44,Std.,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Std.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='2' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+45,More,"MATCH (a1)<--(a0)<--(b)-->(c0)
+WHERE a1.VALUE='More' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.NODE_TYPE='3' AND c0.POSITION='3' 
+ RETURN c0.VALUE AS VALUE, c0.URL AS URL, 'Template' in LABELS(c0) as template"
+46,Std.,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Std.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='4' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+47,Price With Destination Charge and Required Equipment,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Price With Destination Charge and Required Equipment' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='1' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='3' 
+AND c1.VALUE='STRONG' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+48,MSRP,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='MSRP' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+49,View Another Vehicle,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)
+WHERE a2.VALUE='View Another Vehicle' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a2.POSITION='1' 
+AND a1.VALUE='H3' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='5' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.VALUE='UL' AND c2.POSITION='1' 
+AND c3.VALUE='LI' AND c3.POSITION='1' 
+AND c4.VALUE='A' AND c4.POSITION='1' 
+AND c5.NODE_TYPE='3' AND c5.POSITION='1' 
+ RETURN c5.VALUE AS VALUE, c5.URL AS URL, 'Template' in LABELS(c5) as template"
+50,MSRP,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)
+WHERE a2.VALUE='MSRP' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a2.POSITION='1' 
+AND a1.VALUE='DIV' AND a1.POSITION='2' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.VALUE='STRONG' AND c2.POSITION='1' 
+AND c3.NODE_TYPE='3' AND c3.POSITION='1' 
+ RETURN c3.VALUE AS VALUE, c3.URL AS URL, 'Template' in LABELS(c3) as template"
+51,Benefits of Multiple Price Quotes,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Benefits of Multiple Price Quotes' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/FORM/DIV/DIV/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+52,View Another Vehicle,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)
+WHERE a2.VALUE='View Another Vehicle' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a2.POSITION='1' 
+AND a1.VALUE='H3' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='5' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.VALUE='UL' AND c2.POSITION='1' 
+AND c3.VALUE='LI' AND c3.POSITION='3' 
+AND c4.VALUE='A' AND c4.POSITION='1' 
+AND c5.NODE_TYPE='3' AND c5.POSITION='1' 
+ RETURN c5.VALUE AS VALUE, c5.URL AS URL, 'Template' in LABELS(c5) as template"
+53,Incentives:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Incentives:' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/LABEL/text()' AND a1.POSITION='1' 
+AND a0.VALUE='LABEL' AND a0.POSITION='6' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='SPAN' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+54,Doors:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Doors:' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/LABEL/text()' AND a1.POSITION='1' 
+AND a0.VALUE='LABEL' AND a0.POSITION='5' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='SPAN' AND c0.POSITION='5' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+55,Incl.,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Incl.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='4' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+56,Engine:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Engine:' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/LABEL/text()' AND a1.POSITION='1' 
+AND a0.VALUE='LABEL' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='SPAN' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+57,Fair Purchase Price,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Fair Purchase Price' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/SPAN/text()' AND a1.POSITION='1' 
+AND a0.VALUE='SPAN' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='STRONG' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+58,View Another Vehicle,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)
+WHERE a2.VALUE='View Another Vehicle' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a2.POSITION='1' 
+AND a1.VALUE='H3' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='5' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.VALUE='UL' AND c2.POSITION='1' 
+AND c3.VALUE='LI' AND c3.POSITION='4' 
+AND c4.VALUE='A' AND c4.POSITION='1' 
+AND c5.NODE_TYPE='3' AND c5.POSITION='1' 
+ RETURN c5.VALUE AS VALUE, c5.URL AS URL, 'Template' in LABELS(c5) as template"
+59,Similar Models,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)
+WHERE a1.VALUE='Similar Models' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a1.POSITION='1' 
+AND a0.VALUE='H3' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='1' 
+AND c1.VALUE='UL' AND c1.POSITION='1' 
+AND c2.VALUE='LI' AND c2.POSITION='2' 
+AND c3.VALUE='A' AND c3.POSITION='1' 
+AND c4.NODE_TYPE='3' AND c4.POSITION='1' 
+ RETURN c4.VALUE AS VALUE, c4.URL AS URL, 'Template' in LABELS(c4) as template"
+60,Destination Charge,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Destination Charge' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='1' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+61,Std.,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Std.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='3' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+62,Base Price,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Base Price' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='1' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+63,Drive:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Drive:' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/LABEL/text()' AND a1.POSITION='1' 
+AND a0.VALUE='LABEL' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='SPAN' AND c0.POSITION='3' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+64,Home,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Home' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/UL/LI/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='1' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='7' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+65,Home,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Home' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/UL/LI/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='1' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='9' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+66,Videos,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Videos' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/UL/LI/SPAN/text()' AND a2.POSITION='1' 
+AND a1.VALUE='SPAN' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='12' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='5' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+67,"Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.","MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)
+WHERE a1.VALUE='Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='13' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.VALUE='A' AND c2.POSITION='1' 
+AND c3.NODE_TYPE='3' AND c3.POSITION='1' 
+ RETURN c3.VALUE AS VALUE, c3.URL AS URL, 'Template' in LABELS(c3) as template"
+68,Estimated Payments,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)
+WHERE a1.VALUE='Estimated Payments' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H2/text()' AND a1.POSITION='1' 
+AND a0.VALUE='H2' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='UL' AND c0.POSITION='1' 
+AND c1.VALUE='LI' AND c1.POSITION='4' 
+AND c2.VALUE='A' AND c2.POSITION='1' 
+AND c3.NODE_TYPE='3' AND c3.POSITION='1' 
+ RETURN c3.VALUE AS VALUE, c3.URL AS URL, 'Template' in LABELS(c3) as template"
+69,Std.,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Std.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='4' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+70,Similar Models,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)
+WHERE a1.VALUE='Similar Models' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a1.POSITION='1' 
+AND a0.VALUE='H3' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='1' 
+AND c1.VALUE='UL' AND c1.POSITION='1' 
+AND c2.VALUE='LI' AND c2.POSITION='3' 
+AND c3.VALUE='A' AND c3.POSITION='1' 
+AND c4.NODE_TYPE='3' AND c4.POSITION='1' 
+ RETURN c4.VALUE AS VALUE, c4.URL AS URL, 'Template' in LABELS(c4) as template"
+71,Dealer Price Quote,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Dealer Price Quote' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/UL/LI/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='7' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='11' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+72,Drive:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Drive:' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/LABEL/text()' AND a1.POSITION='1' 
+AND a0.VALUE='LABEL' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='SPAN' AND c0.POSITION='6' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+73,"Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.","MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='11' 
+AND c1.VALUE='P' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+74,"Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.","MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)
+WHERE a1.VALUE='Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='2' 
+AND c1.VALUE='DIV' AND c1.POSITION='5' 
+AND c2.VALUE='A' AND c2.POSITION='1' 
+AND c3.NODE_TYPE='3' AND c3.POSITION='1' 
+ RETURN c3.VALUE AS VALUE, c3.URL AS URL, 'Template' in LABELS(c3) as template"
+75,Similar Models,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)
+WHERE a1.VALUE='Similar Models' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a1.POSITION='1' 
+AND a0.VALUE='H3' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='1' 
+AND c1.VALUE='UL' AND c1.POSITION='1' 
+AND c2.VALUE='LI' AND c2.POSITION='1' 
+AND c3.VALUE='A' AND c3.POSITION='1' 
+AND c4.NODE_TYPE='3' AND c4.POSITION='1' 
+ RETURN c4.VALUE AS VALUE, c4.URL AS URL, 'Template' in LABELS(c4) as template"
+76,Home,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Home' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/UL/LI/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='1' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='11' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+77,Invoice,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)
+WHERE a2.VALUE='Invoice' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a2.POSITION='1' 
+AND a1.VALUE='DIV' AND a1.POSITION='2' 
+AND a0.VALUE='DIV' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='5' 
+AND c1.VALUE='P' AND c1.POSITION='1' 
+AND c2.VALUE='A' AND c2.POSITION='1' 
+AND c3.NODE_TYPE='3' AND c3.POSITION='1' 
+ RETURN c3.VALUE AS VALUE, c3.URL AS URL, 'Template' in LABELS(c3) as template"
+78,"Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.","MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='13' 
+AND c1.VALUE='H3' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+79,Close,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Close' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/FORM/DIV/DIV/SPAN/text()' AND a2.POSITION='1' 
+AND a1.VALUE='SPAN' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+80,Base Price,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Base Price' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='1' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+81,Benefits of Getting Multiple Price Quotes,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a2.VALUE='Benefits of Getting Multiple Price Quotes' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/FORM/DIV/DIV/H3/text()' AND a2.POSITION='1' 
+AND a1.VALUE='H3' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='H2' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+82,Specification:,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Specification:' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/UL/LI/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='14' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='26' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+83,"Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.","MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='15' 
+AND c1.VALUE='H3' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+84,More,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='More' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/A/text()' AND a1.POSITION='1' 
+AND a0.VALUE='A' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='STRONG' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+85,"Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.","MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='11' 
+AND c1.VALUE='H2' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+86,"Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.","MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)
+WHERE a1.VALUE='Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='2' 
+AND c1.VALUE='DIV' AND c1.POSITION='5' 
+AND c2.VALUE='P' AND c2.POSITION='1' 
+AND c3.VALUE='A' AND c3.POSITION='2' 
+AND c4.NODE_TYPE='3' AND c4.POSITION='1' 
+ RETURN c4.VALUE AS VALUE, c4.URL AS URL, 'Template' in LABELS(c4) as template"
+87,2010,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='2010' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/UL/LI/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='9' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='11' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+88,Incentives:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Incentives:' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/LABEL/text()' AND a1.POSITION='1' 
+AND a0.VALUE='LABEL' AND a0.POSITION='6' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='SPAN' AND c0.POSITION='4' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+89,out of,"MATCH (a0)<--(b)-->(c0)-->(c1)
+WHERE a0.VALUE='out of' AND a0.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/SPAN/text()' AND a0.POSITION='1' 
+AND b.VALUE='SPAN' 
+AND c0.VALUE='B' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+90,"Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.","MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='16' 
+AND c1.VALUE='H3' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+91,"Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.","MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)
+WHERE a1.VALUE='Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='11' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.VALUE='A' AND c2.POSITION='1' 
+AND c3.NODE_TYPE='3' AND c3.POSITION='1' 
+ RETURN c3.VALUE AS VALUE, c3.URL AS URL, 'Template' in LABELS(c3) as template"
+92,View Another Vehicle,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='View Another Vehicle' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a2.POSITION='1' 
+AND a1.VALUE='H3' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='5' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.VALUE='H3' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+93,Dealer Price Quote,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Dealer Price Quote' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/UL/LI/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='7' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='5' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+94,Incl.,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Incl.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='4' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+95,4,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='4' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/SPAN/text()' AND a1.POSITION='1' 
+AND a0.VALUE='SPAN' AND a0.POSITION='5' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='LABEL' AND c0.POSITION='6' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+96,MSRP,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='MSRP' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a2.POSITION='1' 
+AND a1.VALUE='DIV' AND a1.POSITION='2' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='5' 
+AND c1.VALUE='STRONG' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+97,Reviews,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Reviews' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/UL/LI/SPAN/text()' AND a2.POSITION='1' 
+AND a1.VALUE='SPAN' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='21' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='5' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+98,Cost to Own,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Cost to Own' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/UL/LI/SPAN/text()' AND a2.POSITION='1' 
+AND a1.VALUE='SPAN' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='6' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='5' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+99,Estimated Payments,"MATCH (a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)
+WHERE a0.VALUE='Estimated Payments' AND a0.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='1' 
+AND c1.VALUE='NOBR' AND c1.POSITION='1' 
+AND c2.VALUE='A' AND c2.POSITION='1' 
+AND c3.NODE_TYPE='3' AND c3.POSITION='1' 
+ RETURN c3.VALUE AS VALUE, c3.URL AS URL, 'Template' in LABELS(c3) as template"
+100,Similar Models,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)
+WHERE a1.VALUE='Similar Models' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a1.POSITION='1' 
+AND a0.VALUE='H3' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='1' 
+AND c1.VALUE='UL' AND c1.POSITION='1' 
+AND c2.VALUE='LI' AND c2.POSITION='4' 
+AND c3.VALUE='A' AND c3.POSITION='1' 
+AND c4.NODE_TYPE='3' AND c4.POSITION='1' 
+ RETURN c4.VALUE AS VALUE, c4.URL AS URL, 'Template' in LABELS(c4) as template"
+101,Invoice,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)
+WHERE a2.VALUE='Invoice' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a2.POSITION='1' 
+AND a1.VALUE='DIV' AND a1.POSITION='2' 
+AND a0.VALUE='DIV' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='5' 
+AND c1.VALUE='P' AND c1.POSITION='1' 
+AND c2.VALUE='U' AND c2.POSITION='1' 
+AND c3.NODE_TYPE='3' AND c3.POSITION='1' 
+ RETURN c3.VALUE AS VALUE, c3.URL AS URL, 'Template' in LABELS(c3) as template"
+102,Std.,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Std.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='3' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+103,Close,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a2.VALUE='Close' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/FORM/DIV/DIV/SPAN/text()' AND a2.POSITION='1' 
+AND a1.VALUE='SPAN' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='H2' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+104,Similar Models,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)
+WHERE a2.VALUE='Similar Models' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a2.POSITION='1' 
+AND a1.VALUE='H3' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='3' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.VALUE='UL' AND c2.POSITION='1' 
+AND c3.VALUE='LI' AND c3.POSITION='5' 
+AND c4.VALUE='A' AND c4.POSITION='1' 
+AND c5.NODE_TYPE='3' AND c5.POSITION='1' 
+ RETURN c5.VALUE AS VALUE, c5.URL AS URL, 'Template' in LABELS(c5) as template"
+105,"Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.","MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)
+WHERE a1.VALUE='Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='12' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.VALUE='A' AND c2.POSITION='1' 
+AND c3.NODE_TYPE='3' AND c3.POSITION='1' 
+ RETURN c3.VALUE AS VALUE, c3.URL AS URL, 'Template' in LABELS(c3) as template"
+106,Similar Models,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)
+WHERE a2.VALUE='Similar Models' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a2.POSITION='1' 
+AND a1.VALUE='H3' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='3' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.VALUE='UL' AND c2.POSITION='1' 
+AND c3.VALUE='LI' AND c3.POSITION='1' 
+AND c4.VALUE='A' AND c4.POSITION='1' 
+AND c5.NODE_TYPE='3' AND c5.POSITION='1' 
+ RETURN c5.VALUE AS VALUE, c5.URL AS URL, 'Template' in LABELS(c5) as template"
+107,Destination Charge,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='Destination Charge' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='1' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='2' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+108,N/C,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='N/C' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='4' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+109,Home,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Home' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/UL/LI/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='1' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='5' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+110,Benefits of Getting Multiple Price Quotes,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Benefits of Getting Multiple Price Quotes' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/FORM/DIV/DIV/H3/text()' AND a2.POSITION='1' 
+AND a1.VALUE='H3' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+111,Incentives:,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Incentives:' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/LABEL/text()' AND a1.POSITION='1' 
+AND a0.VALUE='LABEL' AND a0.POSITION='6' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='SPAN' AND c0.POSITION='6' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+112,Invoice,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Invoice' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a2.POSITION='1' 
+AND a1.VALUE='DIV' AND a1.POSITION='2' 
+AND a0.VALUE='DIV' AND a0.POSITION='2' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+113,GET A FREE DEALER PRICE QUOTE,"MATCH (a3)<--(a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a3.VALUE='GET A FREE DEALER PRICE QUOTE' AND a3.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/DIV/A/SPAN/text()' AND a3.POSITION='1' 
+AND a2.VALUE='SPAN' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='H2' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+114,Videos,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Videos' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/UL/LI/SPAN/text()' AND a2.POSITION='1' 
+AND a1.VALUE='SPAN' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='12' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='22' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+115,"Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.","MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a1.VALUE='Invoice price, or dealer Invoice, is the price a dealer pays the auto manufacturer for the vehicle, including destination charges.' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/text()' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='4' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='12' 
+AND c1.VALUE='H3' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+116,Incentives:,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a2.VALUE='Incentives:' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/DIV/LABEL/text()' AND a2.POSITION='1' 
+AND a1.VALUE='LABEL' AND a1.POSITION='6' 
+AND a0.VALUE='DIV' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='H2' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+117,N/C,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)
+WHERE a1.VALUE='N/C' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/TABLE/TBODY/TR/TD/text()' AND a1.POSITION='1' 
+AND a0.VALUE='TD' AND a0.POSITION='2' 
+AND b.VALUE='TR' 
+AND c0.VALUE='TD' AND c0.POSITION='1' 
+AND c1.NODE_TYPE='3' AND c1.POSITION='1' 
+ RETURN c1.VALUE AS VALUE, c1.URL AS URL, 'Template' in LABELS(c1) as template"
+118,View Another Vehicle,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)
+WHERE a2.VALUE='View Another Vehicle' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a2.POSITION='1' 
+AND a1.VALUE='H3' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='5' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='3' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.VALUE='UL' AND c2.POSITION='1' 
+AND c3.VALUE='LI' AND c3.POSITION='5' 
+AND c4.VALUE='A' AND c4.POSITION='1' 
+AND c5.NODE_TYPE='3' AND c5.POSITION='1' 
+ RETURN c5.VALUE AS VALUE, c5.URL AS URL, 'Template' in LABELS(c5) as template"
+119,Std. Equipment,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='Std. Equipment' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/UL/LI/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='19' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='23' 
+AND c1.VALUE='SPAN' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+120,2010,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)
+WHERE a2.VALUE='2010' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/UL/LI/A/text()' AND a2.POSITION='1' 
+AND a1.VALUE='A' AND a1.POSITION='1' 
+AND a0.VALUE='LI' AND a0.POSITION='9' 
+AND b.VALUE='UL' 
+AND c0.VALUE='LI' AND c0.POSITION='7' 
+AND c1.VALUE='A' AND c1.POSITION='1' 
+AND c2.NODE_TYPE='3' AND c2.POSITION='1' 
+ RETURN c2.VALUE AS VALUE, c2.URL AS URL, 'Template' in LABELS(c2) as template"
+121,Estimated Payments,"MATCH (a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)
+WHERE a1.VALUE='Estimated Payments' AND a1.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H2/text()' AND a1.POSITION='1' 
+AND a0.VALUE='H2' AND a0.POSITION='1' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='UL' AND c0.POSITION='1' 
+AND c1.VALUE='LI' AND c1.POSITION='3' 
+AND c2.VALUE='A' AND c2.POSITION='1' 
+AND c3.NODE_TYPE='3' AND c3.POSITION='1' 
+ RETURN c3.VALUE AS VALUE, c3.URL AS URL, 'Template' in LABELS(c3) as template"
+122,Similar Models,"MATCH (a2)<--(a1)<--(a0)<--(b)-->(c0)-->(c1)-->(c2)-->(c3)-->(c4)-->(c5)
+WHERE a2.VALUE='Similar Models' AND a2.PATH='/HTML/BODY/DIV/DIV/DIV/DIV/DIV/DIV/H3/text()' AND a2.POSITION='1' 
+AND a1.VALUE='H3' AND a1.POSITION='1' 
+AND a0.VALUE='DIV' AND a0.POSITION='3' 
+AND b.VALUE='DIV' 
+AND c0.VALUE='DIV' AND c0.POSITION='4' 
+AND c1.VALUE='DIV' AND c1.POSITION='1' 
+AND c2.VALUE='UL' AND c2.POSITION='1' 
+AND c3.VALUE='LI' AND c3.POSITION='3' 
+AND c4.VALUE='A' AND c4.POSITION='1' 
+AND c5.NODE_TYPE='3' AND c5.POSITION='1' 
+ RETURN c5.VALUE AS VALUE, c5.URL AS URL, 'Template' in LABELS(c5) as template"
