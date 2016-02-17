@@ -1,0 +1,6 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,book,book-barnesandnoble,author,rule_3147.csv,by,2000,2000,1994,0.997,0.997,2016-02-12 13:30
+SWDE,book,book-barnesandnoble,isbn_13,rule_19472.csv,ISBN-13:,2000,2000,2000,1.0,1.0,2016-02-12 13:30
+SWDE,book,book-barnesandnoble,publication_date,rule_9809.csv,Product Details,2000,2000,2000,1.0,1.0,2016-02-12 13:31
+SWDE,book,book-barnesandnoble,publisher,rule_6869.csv,Product Details,2000,2000,2000,1.0,1.0,2016-02-12 13:31
+SWDE,book,book-barnesandnoble,title,rule_4041.csv,by,2000,2000,2000,1.0,1.0,2016-02-12 13:32

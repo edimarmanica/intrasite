@@ -1,0 +1,46 @@
+
+
+*************2016-02-12 13:57 - author********************************
+dataset;SWDE;domain;book;site;book-buy;attribute;author;relevantes;1938;recuperados;1938;relevantes recuperados; 1938;recall;1.0;precision;1.0;date;2016-02-12 13:57
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:58 - isbn_13********************************
+dataset;SWDE;domain;book;site;book-buy;attribute;isbn_13;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-12 13:58
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:58 - publication_date********************************
+dataset;SWDE;domain;book;site;book-buy;attribute;publication_date;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-12 13:58
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:58 - publisher********************************
+dataset;SWDE;domain;book;site;book-buy;attribute;publisher;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-12 13:58
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:59 - title********************************
+dataset;SWDE;domain;book;site;book-buy;attribute;title;relevantes;2000;recuperados;1994;relevantes recuperados; 1994;recall;0.997;precision;1.0;date;2016-02-12 13:59
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Microsoft Office Access 2007 Inside Out] na página: 59
+Faltando: [1_@_Microsoft Office 2010 Plain & Simple] na página: 207
+Faltando: [1_@_Microsoft Office Home and Student 2007 Step by Step] na página: 559
+Faltando: [1_@_Microsoft Office Outlook 2007 Plain & Simple] na página: 841
+Faltando: [1_@_McItp Self-Paced Training Kit (Exams 70-431, 70-443, 70-444): Microsoft SQL Server 2005 Database Administrator Core Requirements] na página: 1386
+Faltando: [1_@_Microsoft Visual C# 2008 Step by Step] na página: 1830
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

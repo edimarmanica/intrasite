@@ -1,0 +1,6 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,book,book-bookdepository,author,rule_730.csv,By (author),2000,1987,1987,0.9935,1.0,2016-02-12 13:44
+SWDE,book,book-bookdepository,isbn_13,rule_57.csv,ISBN 13:,2000,2000,2000,1.0,1.0,2016-02-12 13:44
+SWDE,book,book-bookdepository,publication_date,rule_5.csv,Published:,1915,1915,1915,1.0,1.0,2016-02-12 13:44
+SWDE,book,book-bookdepository,publisher,rule_288.csv,Publisher:,1976,1976,1976,1.0,1.0,2016-02-12 13:44
+SWDE,book,book-bookdepository,title,rule_227.csv,See large image,2000,1919,1919,0.9595,1.0,2016-02-12 13:44

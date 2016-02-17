@@ -1,0 +1,6 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,book,book-abebooks,author,rule_360.csv,ISBN 13:,2000,2000,2000,1.0,1.0,2016-02-12 13:24
+SWDE,book,book-abebooks,isbn_13,rule_223.csv,ISBN 10:,2000,2000,2000,1.0,1.0,2016-02-12 13:24
+SWDE,book,book-abebooks,publication_date,rule_29.csv,Publication Date:,1993,1845,1845,0.9257400903161064,1.0,2016-02-12 13:24
+SWDE,book,book-abebooks,publisher,rule_45.csv,Publisher:,1850,1850,1850,1.0,1.0,2016-02-12 13:24
+SWDE,book,book-abebooks,title,rule_197.csv,ISBN 10:,2000,1998,1998,0.999,1.0,2016-02-12 13:24

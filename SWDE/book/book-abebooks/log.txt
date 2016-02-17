@@ -1,0 +1,190 @@
+
+
+*************2016-02-12 13:24 - author********************************
+dataset;SWDE;domain;book;site;book-abebooks;attribute;author;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-12 13:24
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:24 - isbn_13********************************
+dataset;SWDE;domain;book;site;book-abebooks;attribute;isbn_13;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-12 13:24
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:24 - publication_date********************************
+dataset;SWDE;domain;book;site;book-abebooks;attribute;publication_date;relevantes;1993;recuperados;1845;relevantes recuperados; 1845;recall;0.9257400903161064;precision;1.0;date;2016-02-12 13:24
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_2008] na página: 4
+Faltando: [1_@_2007] na página: 8
+Faltando: [1_@_2001] na página: 20
+Faltando: [1_@_2007] na página: 58
+Faltando: [1_@_2007] na página: 76
+Faltando: [1_@_1995] na página: 83
+Faltando: [1_@_2006] na página: 94
+Faltando: [1_@_1994] na página: 102
+Faltando: [1_@_2005] na página: 97
+Faltando: [1_@_1991] na página: 105
+Faltando: [1_@_2001] na página: 115
+Faltando: [1_@_2005] na página: 137
+Faltando: [1_@_1998] na página: 172
+Faltando: [1_@_2004] na página: 198
+Faltando: [1_@_2007] na página: 223
+Faltando: [1_@_2006] na página: 213
+Faltando: [1_@_1996] na página: 214
+Faltando: [1_@_1972] na página: 287
+Faltando: [1_@_2001] na página: 258
+Faltando: [1_@_1997] na página: 267
+Faltando: [1_@_1964] na página: 271
+Faltando: [1_@_2006] na página: 306
+Faltando: [1_@_2007] na página: 348
+Faltando: [1_@_2006] na página: 324
+Faltando: [1_@_2006] na página: 372
+Faltando: [1_@_1991] na página: 352
+Faltando: [1_@_2005] na página: 360
+Faltando: [1_@_2001] na página: 363
+Faltando: [1_@_2006] na página: 411
+Faltando: [1_@_1988] na página: 405
+Faltando: [1_@_2007] na página: 437
+Faltando: [1_@_1998] na página: 427
+Faltando: [1_@_2005] na página: 421
+Faltando: [1_@_2006] na página: 500
+Faltando: [1_@_1998] na página: 568
+Faltando: [1_@_2001] na página: 524
+Faltando: [1_@_2001] na página: 534
+Faltando: [1_@_2006] na página: 529
+Faltando: [1_@_2007] na página: 543
+Faltando: [1_@_2003] na página: 635
+Faltando: [1_@_2005] na página: 632
+Faltando: [1_@_2003] na página: 639
+Faltando: [1_@_2001] na página: 598
+Faltando: [1_@_2006] na página: 605
+Faltando: [1_@_2006] na página: 687
+Faltando: [1_@_2003] na página: 685
+Faltando: [1_@_1993] na página: 680
+Faltando: [1_@_2008] na página: 675
+Faltando: [1_@_2007] na página: 644
+Faltando: [1_@_2007] na página: 738
+Faltando: [1_@_1987] na página: 741
+Faltando: [1_@_2001] na página: 759
+Faltando: [1_@_2006] na página: 732
+Faltando: [1_@_2006] na página: 733
+Faltando: [1_@_1996] na página: 826
+Faltando: [1_@_2004] na página: 889
+Faltando: [1_@_2002] na página: 868
+Faltando: [1_@_1990] na página: 871
+Faltando: [1_@_2002] na página: 876
+Faltando: [1_@_2008] na página: 877
+Faltando: [1_@_2004] na página: 861
+Faltando: [1_@_2004] na página: 947
+Faltando: [1_@_1983] na página: 931
+Faltando: [1_@_2005] na página: 923
+Faltando: [1_@_2004] na página: 906
+Faltando: [1_@_2003] na página: 905
+Faltando: [1_@_2003] na página: 904
+Faltando: [1_@_2005] na página: 903
+Faltando: [1_@_1995] na página: 899
+Faltando: [1_@_1980] na página: 1008
+Faltando: [1_@_2006] na página: 1005
+Faltando: [1_@_1971] na página: 998
+Faltando: [1_@_1988] na página: 985
+Faltando: [1_@_2004] na página: 1134
+Faltando: [1_@_2007] na página: 1147
+Faltando: [1_@_2002] na página: 1138
+Faltando: [1_@_1988] na página: 1064
+Faltando: [1_@_1997] na página: 1261
+Faltando: [1_@_2003] na página: 1268
+Faltando: [1_@_2006] na página: 1279
+Faltando: [1_@_1992] na página: 1187
+Faltando: [1_@_1990] na página: 1186
+Faltando: [1_@_1991] na página: 1184
+Faltando: [1_@_1984] na página: 1190
+Faltando: [1_@_1988] na página: 1189
+Faltando: [1_@_2001] na página: 1195
+Faltando: [1_@_2006] na página: 1192
+Faltando: [1_@_2001] na página: 1199
+Faltando: [1_@_1990] na página: 1198
+Faltando: [1_@_2001] na página: 1367
+Faltando: [1_@_2007] na página: 1362
+Faltando: [1_@_2001] na página: 1358
+Faltando: [1_@_2004] na página: 1352
+Faltando: [1_@_2006] na página: 1348
+Faltando: [1_@_2000] na página: 1405
+Faltando: [1_@_2006] na página: 1404
+Faltando: [1_@_2007] na página: 1394
+Faltando: [1_@_2002] na página: 1389
+Faltando: [1_@_2006] na página: 1385
+Faltando: [1_@_2008] na página: 1381
+Faltando: [1_@_2001] na página: 1378
+Faltando: [1_@_2007] na página: 1379
+Faltando: [1_@_2000] na página: 1297
+Faltando: [1_@_2000] na página: 1296
+Faltando: [1_@_2006] na página: 1292
+Faltando: [1_@_1995] na página: 1330
+Faltando: [1_@_2005] na página: 1503
+Faltando: [1_@_2007] na página: 1520
+Faltando: [1_@_2003] na página: 1534
+Faltando: [1_@_2005] na página: 1510
+Faltando: [1_@_2000] na página: 1462
+Faltando: [1_@_1998] na página: 1444
+Faltando: [1_@_2002] na página: 1450
+Faltando: [1_@_1992] na página: 1606
+Faltando: [1_@_2008] na página: 1553
+Faltando: [1_@_1995] na página: 1555
+Faltando: [1_@_2005] na página: 1709
+Faltando: [1_@_1992] na página: 1668
+Faltando: [1_@_2006] na página: 1905
+Faltando: [1_@_2006] na página: 1906
+Faltando: [1_@_2008] na página: 1909
+Faltando: [1_@_1997] na página: 1908
+Faltando: [1_@_2005] na página: 1911
+Faltando: [1_@_1997] na página: 1897
+Faltando: [1_@_1999] na página: 1899
+Faltando: [1_@_2005] na página: 1900
+Faltando: [1_@_1997] na página: 1903
+Faltando: [1_@_1996] na página: 1888
+Faltando: [1_@_2004] na página: 1890
+Faltando: [1_@_2006] na página: 1891
+Faltando: [1_@_2005] na página: 1892
+Faltando: [1_@_2006] na página: 1894
+Faltando: [1_@_2003] na página: 1895
+Faltando: [1_@_2002] na página: 1880
+Faltando: [1_@_2007] na página: 1887
+Faltando: [1_@_2007] na página: 1886
+Faltando: [1_@_2008] na página: 1885
+Faltando: [1_@_2008] na página: 1984
+Faltando: [1_@_2005] na página: 1990
+Faltando: [1_@_2006] na página: 1976
+Faltando: [1_@_1981] na página: 1957
+Faltando: [1_@_2006] na página: 1942
+Faltando: [1_@_1996] na página: 1943
+Faltando: [1_@_2001] na página: 1925
+Faltando: [1_@_1996] na página: 1923
+Faltando: [1_@_2001] na página: 1922
+Faltando: [1_@_2006] na página: 1931
+Faltando: [1_@_2005] na página: 1929
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:24 - publisher********************************
+dataset;SWDE;domain;book;site;book-abebooks;attribute;publisher;relevantes;1850;recuperados;1850;relevantes recuperados; 1850;recall;1.0;precision;1.0;date;2016-02-12 13:24
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:24 - title********************************
+dataset;SWDE;domain;book;site;book-abebooks;attribute;title;relevantes;2000;recuperados;1998;relevantes recuperados; 1998;recall;0.999;precision;1.0;date;2016-02-12 13:24
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Organic Housekeeping: In Which the Nontoxic Avenger Shows You How to Improve Your Health and That of Your Family While You Save Time, Money, and Perhaps, Your Sanity] na página: 638
+Faltando: [1_@_How To Organize just About Everything: More Than 500 Step-by-Step Instructions For Everything From Organizing Your Closets to Planning a Wedding to Creating a Flawless Filing System] na página: 1933
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

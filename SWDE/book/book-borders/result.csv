@@ -1,0 +1,6 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,book,book-borders,author,rule_2741.csv,See All Contributors,2000,2000,2000,1.0,1.0,2016-02-12 13:46
+SWDE,book,book-borders,isbn_13,rule_2748.csv,ISBN13:,2000,2000,2000,1.0,1.0,2016-02-12 13:46
+SWDE,book,book-borders,publication_date,rule_2593.csv,See All Contributors,2000,2000,2000,1.0,1.0,2016-02-12 13:46
+SWDE,book,book-borders,publisher,rule_1960.csv,See All Contributors,2000,2000,2000,1.0,1.0,2016-02-12 13:46
+SWDE,book,book-borders,title,rule_2163.csv,See All Contributors,2000,1993,1993,0.9965,1.0,2016-02-12 13:46

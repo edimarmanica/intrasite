@@ -1,0 +1,1060 @@
+
+
+*************2016-02-12 14:07 - manufacturer********************************
+dataset;SWDE;domain;camera;site;camera-amazon;attribute;manufacturer;relevantes;1767;recuperados;1484;relevantes recuperados; 1484;recall;0.8398415393322015;precision;1.0;date;2016-02-12 14:07
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [2_@_Canon_@_: Canon] na página: 0
+Faltando: [2_@_Canon_@_: Canon] na página: 3
+Faltando: [2_@_Canon_@_: Canon] na página: 7
+Faltando: [2_@_Canon_@_: Canon] na página: 12
+Faltando: [2_@_Nikon_@_: Nikon] na página: 13
+Faltando: [2_@_Canon_@_: Canon] na página: 14
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 16
+Faltando: [2_@_Canon_@_: Canon] na página: 18
+Faltando: [2_@_Kodak_@_: Kodak] na página: 35
+Faltando: [2_@_Fuji_@_: Fuji] na página: 40
+Faltando: [2_@_Kodak_@_: Kodak] na página: 45
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 49
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 59
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 69
+Faltando: [2_@_Olympus_@_: Olympus] na página: 118
+Faltando: [2_@_Nikon_@_: Nikon] na página: 126
+Faltando: [2_@_Nikon_@_: Nikon] na página: 120
+Faltando: [2_@_Sony_@_: Sony] na página: 129
+Faltando: [2_@_Olympus_@_: Olympus] na página: 130
+Faltando: [2_@_Olympus_@_: Olympus] na página: 135
+Faltando: [2_@_Sony_@_: Sony] na página: 155
+Faltando: [2_@_General Electric_@_: General Electric] na página: 158
+Faltando: [2_@_Samsung_@_: Samsung] na página: 148
+Faltando: [2_@_Casio_@_: Casio] na página: 149
+Faltando: [2_@_General Electric_@_: General Electric] na página: 170
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 173
+Faltando: [2_@_General Electric_@_: General Electric] na página: 160
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 206
+Faltando: [2_@_General Electric_@_: General Electric] na página: 202
+Faltando: [2_@_Olympus_@_: Olympus] na página: 194
+Faltando: [2_@_Fuji_@_: Fuji] na página: 218
+Faltando: [2_@_Olympus_@_: Olympus] na página: 213
+Faltando: [2_@_Canon_@_: Canon] na página: 210
+Faltando: [2_@_Olympus_@_: Olympus] na página: 255
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 253
+Faltando: [2_@_Oregon Scientific_@_: Oregon Scientific] na página: 250
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 274
+Faltando: [2_@_Canon_@_: Canon] na página: 273
+Faltando: [2_@_HP_@_: HP] na página: 279
+Faltando: [2_@_HP_@_: HP] na página: 278
+Faltando: [2_@_General Electric_@_: General Electric] na página: 277
+Faltando: [2_@_Olympus_@_: Olympus] na página: 276
+Faltando: [2_@_Olympus_@_: Olympus] na página: 258
+Faltando: [2_@_Sony_@_: Sony] na página: 263
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 270
+Faltando: [2_@_Canon_@_: Canon] na página: 271
+Faltando: [2_@_Canon_@_: Canon] na página: 269
+Faltando: [2_@_Canon_@_: Canon] na página: 309
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 290
+Faltando: [2_@_Kodak_@_: Kodak] na página: 291
+Faltando: [2_@_Fuji_@_: Fuji] na página: 293
+Faltando: [2_@_Kodak_@_: Kodak] na página: 300
+Faltando: [2_@_Canon_@_: Canon] na página: 336
+Faltando: [2_@_Kodak_@_: Kodak] na página: 349
+Faltando: [2_@_Kodak_@_: Kodak] na página: 345
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 344
+Faltando: [2_@_HP_@_: HP] na página: 326
+Faltando: [2_@_Fuji_@_: Fuji] na página: 322
+Faltando: [2_@_Fuji_@_: Fuji] na página: 323
+Faltando: [2_@_Kodak_@_: Kodak] na página: 372
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 381
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 376
+Faltando: [2_@_Fuji_@_: Fuji] na página: 379
+Faltando: [2_@_Sony_@_: Sony] na página: 378
+Faltando: [2_@_Pentax_@_: Pentax] na página: 358
+Faltando: [2_@_HP_@_: HP] na página: 354
+Faltando: [2_@_Sony_@_: Sony] na página: 367
+Faltando: [2_@_Canon_@_: Canon] na página: 360
+Faltando: [2_@_Kodak_@_: Kodak] na página: 410
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 415
+Faltando: [2_@_Nikon_@_: Nikon] na página: 392
+Faltando: [2_@_Sony_@_: Sony] na página: 388
+Faltando: [2_@_Canon_@_: Canon] na página: 443
+Faltando: [2_@_General Electric_@_: General Electric] na página: 424
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 419
+Faltando: [2_@_HP_@_: HP] na página: 422
+Faltando: [2_@_Canon_@_: Canon] na página: 474
+Faltando: [2_@_Canon_@_: Canon] na página: 458
+Faltando: [2_@_Kodak_@_: Kodak] na página: 454
+Faltando: [2_@_Olympus_@_: Olympus] na página: 452
+Faltando: [2_@_Canon_@_: Canon] na página: 510
+Faltando: [2_@_Sony_@_: Sony] na página: 505
+Faltando: [2_@_General Electric_@_: General Electric] na página: 506
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 501
+Faltando: [2_@_Kodak_@_: Kodak] na página: 502
+Faltando: [2_@_HP_@_: HP] na página: 503
+Faltando: [2_@_Olympus_@_: Olympus] na página: 492
+Faltando: [2_@_Nikon_@_: Nikon] na página: 494
+Faltando: [2_@_Fuji_@_: Fuji] na página: 488
+Faltando: [2_@_Nikon_@_: Nikon] na página: 490
+Faltando: [2_@_Sony_@_: Sony] na página: 547
+Faltando: [2_@_Nikon_@_: Nikon] na página: 545
+Faltando: [2_@_Nikon_@_: Nikon] na página: 554
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 553
+Faltando: [2_@_Nikon_@_: Nikon] na página: 566
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 561
+Faltando: [2_@_Sony_@_: Sony] na página: 573
+Faltando: [2_@_General Electric_@_: General Electric] na página: 519
+Faltando: [2_@_Casio_@_: Casio] na página: 512
+Faltando: [2_@_Pentax_@_: Pentax] na página: 527
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 530
+Faltando: [2_@_Kodak_@_: Kodak] na página: 536
+Faltando: [2_@_Olympus_@_: Olympus] na página: 539
+Faltando: [2_@_Canon_@_: Canon] na página: 609
+Faltando: [2_@_Olympus_@_: Olympus] na página: 617
+Faltando: [2_@_Nikon_@_: Nikon] na página: 622
+Faltando: [2_@_HP_@_: HP] na página: 631
+Faltando: [2_@_Fuji_@_: Fuji] na página: 633
+Faltando: [2_@_Kodak_@_: Kodak] na página: 576
+Faltando: [2_@_Canon_@_: Canon] na página: 578
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 584
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 586
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 588
+Faltando: [2_@_Canon_@_: Canon] na página: 590
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 593
+Faltando: [2_@_Nikon_@_: Nikon] na página: 595
+Faltando: [2_@_General Electric_@_: General Electric] na página: 598
+Faltando: [2_@_General Electric_@_: General Electric] na página: 607
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 686
+Faltando: [2_@_HP_@_: HP] na página: 682
+Faltando: [2_@_Polaroid_@_: Polaroid] na página: 699
+Faltando: [2_@_Fuji_@_: Fuji] na página: 691
+Faltando: [2_@_General Electric_@_: General Electric] na página: 652
+Faltando: [2_@_General Electric_@_: General Electric] na página: 651
+Faltando: [2_@_Nikon_@_: Nikon] na página: 641
+Faltando: [2_@_Sony_@_: Sony] na página: 642
+Faltando: [2_@_Canon_@_: Canon] na página: 663
+Faltando: [2_@_Canon_@_: Canon] na página: 656
+Faltando: [2_@_Nikon_@_: Nikon] na página: 747
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 738
+Faltando: [2_@_Polaroid_@_: Polaroid] na página: 736
+Faltando: [2_@_Olympus_@_: Olympus] na página: 740
+Faltando: [2_@_Kodak_@_: Kodak] na página: 766
+Faltando: [2_@_Canon_@_: Canon] na página: 754
+Faltando: [2_@_Canon_@_: Canon] na página: 756
+Faltando: [2_@_General Electric_@_: General Electric] na página: 705
+Faltando: [2_@_Sony_@_: Sony] na página: 708
+Faltando: [2_@_Samsung_@_: Samsung] na página: 735
+Faltando: [2_@_HP_@_: HP] na página: 721
+Faltando: [2_@_HP_@_: HP] na página: 723
+Faltando: [2_@_General Electric_@_: General Electric] na página: 820
+Faltando: [2_@_Olympus_@_: Olympus] na página: 822
+Faltando: [2_@_General Electric_@_: General Electric] na página: 818
+Faltando: [2_@_General Electric_@_: General Electric] na página: 825
+Faltando: [2_@_General Electric_@_: General Electric] na página: 826
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 804
+Faltando: [2_@_General Electric_@_: General Electric] na página: 807
+Faltando: [2_@_Nikon_@_: Nikon] na página: 800
+Faltando: [2_@_HP_@_: HP] na página: 812
+Faltando: [2_@_Nikon_@_: Nikon] na página: 808
+Faltando: [2_@_Fuji_@_: Fuji] na página: 809
+Faltando: [2_@_General Electric_@_: General Electric] na página: 791
+Faltando: [2_@_Kodak_@_: Kodak] na página: 786
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 798
+Faltando: [2_@_General Electric_@_: General Electric] na página: 797
+Faltando: [2_@_General Electric_@_: General Electric] na página: 794
+Faltando: [2_@_General Electric_@_: General Electric] na página: 792
+Faltando: [2_@_General Electric_@_: General Electric] na página: 772
+Faltando: [2_@_Sony_@_: Sony] na página: 783
+Faltando: [2_@_Sony_@_: Sony] na página: 776
+Faltando: [2_@_Casio_@_: Casio] na página: 882
+Faltando: [2_@_Canon_@_: Canon] na página: 871
+Faltando: [2_@_Sony_@_: Sony] na página: 873
+Faltando: [2_@_Kodak_@_: Kodak] na página: 876
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 878
+Faltando: [2_@_Olympus_@_: Olympus] na página: 879
+Faltando: [2_@_General Electric_@_: General Electric] na página: 851
+Faltando: [2_@_Olympus_@_: Olympus] na página: 850
+Faltando: [2_@_General Electric_@_: General Electric] na página: 852
+Faltando: [2_@_General Electric_@_: General Electric] na página: 859
+Faltando: [2_@_Kodak_@_: Kodak] na página: 858
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 840
+Faltando: [2_@_Sony_@_: Sony] na página: 954
+Faltando: [2_@_HP_@_: HP] na página: 947
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 937
+Faltando: [2_@_Fuji_@_: Fuji] na página: 936
+Faltando: [2_@_Canon_@_: Canon] na página: 935
+Faltando: [2_@_Olympus_@_: Olympus] na página: 925
+Faltando: [2_@_Nikon_@_: Nikon] na página: 914
+Faltando: [2_@_HP_@_: HP] na página: 915
+Faltando: [2_@_HP_@_: HP] na página: 907
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1018
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1022
+Faltando: [2_@_Olympus_@_: Olympus] na página: 993
+Faltando: [2_@_Olympus_@_: Olympus] na página: 984
+Faltando: [2_@_General Electric_@_: General Electric] na página: 980
+Faltando: [2_@_Olympus_@_: Olympus] na página: 970
+Faltando: [2_@_Olympus_@_: Olympus] na página: 967
+Faltando: [2_@_Casio_@_: Casio] na página: 1101
+Faltando: [2_@_Fuji_@_: Fuji] na página: 1099
+Faltando: [2_@_Canon_@_: Canon] na página: 1093
+Faltando: [2_@_Sony_@_: Sony] na página: 1112
+Faltando: [2_@_Nikon_@_: Nikon] na página: 1134
+Faltando: [2_@_Sony_@_: Sony] na página: 1121
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1151
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 1136
+Faltando: [2_@_Sony_@_: Sony] na página: 1034
+Faltando: [2_@_Olympus_@_: Olympus] na página: 1039
+Faltando: [2_@_Casio_@_: Casio] na página: 1027
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 1028
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 1049
+Faltando: [2_@_Olympus_@_: Olympus] na página: 1055
+Faltando: [2_@_Kodak_@_: Kodak] na página: 1041
+Faltando: [2_@_Samsung_@_: Samsung] na página: 1043
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1044
+Faltando: [2_@_Olympus_@_: Olympus] na página: 1047
+Faltando: [2_@_Olympus_@_: Olympus] na página: 1069
+Faltando: [2_@_Sony_@_: Sony] na página: 1063
+Faltando: [2_@_Fuji_@_: Fuji] na página: 1225
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1244
+Faltando: [2_@_Sony_@_: Sony] na página: 1243
+Faltando: [2_@_Olympus_@_: Olympus] na página: 1255
+Faltando: [2_@_Sony_@_: Sony] na página: 1249
+Faltando: [2_@_Olympus_@_: Olympus] na página: 1248
+Faltando: [2_@_Casio_@_: Casio] na página: 1259
+Faltando: [2_@_Canon_@_: Canon] na página: 1257
+Faltando: [2_@_Kodak_@_: Kodak] na página: 1256
+Faltando: [2_@_Canon_@_: Canon] na página: 1264
+Faltando: [2_@_Fuji_@_: Fuji] na página: 1265
+Faltando: [2_@_Kodak_@_: Kodak] na página: 1279
+Faltando: [2_@_Sony_@_: Sony] na página: 1276
+Faltando: [2_@_Polaroid_@_: Polaroid] na página: 1274
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1164
+Faltando: [2_@_HP_@_: HP] na página: 1176
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 1178
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1186
+Faltando: [2_@_Olympus_@_: Olympus] na página: 1202
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 1210
+Faltando: [2_@_Nikon_@_: Nikon] na página: 1211
+Faltando: [2_@_Sony_@_: Sony] na página: 1358
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1306
+Faltando: [2_@_Kodak_@_: Kodak] na página: 1304
+Faltando: [2_@_Sony_@_: Sony] na página: 1311
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1308
+Faltando: [2_@_Canon_@_: Canon] na página: 1302
+Faltando: [2_@_Olympus_@_: Olympus] na página: 1288
+Faltando: [2_@_Nikon_@_: Nikon] na página: 1286
+Faltando: [2_@_Sony_@_: Sony] na página: 1287
+Faltando: [2_@_Olympus_@_: Olympus] na página: 1340
+Faltando: [2_@_Olympus_@_: Olympus] na página: 1320
+Faltando: [2_@_Canon_@_: Canon] na página: 1322
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1324
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1315
+Faltando: [2_@_Canon_@_: Canon] na página: 1317
+Faltando: [2_@_Kodak_@_: Kodak] na página: 1490
+Faltando: [2_@_Sony_@_: Sony] na página: 1488
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 1478
+Faltando: [2_@_Olympus_@_: Olympus] na página: 1486
+Faltando: [2_@_Sony_@_: Sony] na página: 1523
+Faltando: [2_@_Nikon_@_: Nikon] na página: 1529
+Faltando: [2_@_Canon_@_: Canon] na página: 1509
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 1508
+Faltando: [2_@_Canon_@_: Canon] na página: 1517
+Faltando: [2_@_Kodak_@_: Kodak] na página: 1433
+Faltando: [2_@_Fuji_@_: Fuji] na página: 1439
+Faltando: [2_@_Canon_@_: Canon] na página: 1437
+Faltando: [2_@_Kodak_@_: Kodak] na página: 1459
+Faltando: [2_@_Canon_@_: Canon] na página: 1608
+Faltando: [2_@_Canon_@_: Canon] na página: 1612
+Faltando: [2_@_Canon_@_: Canon] na página: 1613
+Faltando: [2_@_Kodak_@_: Kodak] na página: 1614
+Faltando: [2_@_Canon_@_: Canon] na página: 1604
+Faltando: [2_@_Fuji_@_: Fuji] na página: 1605
+Faltando: [2_@_Fuji_@_: Fuji] na página: 1607
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1620
+Faltando: [2_@_Olympus_@_: Olympus] na página: 1569
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 1549
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1544
+Faltando: [2_@_HP_@_: HP] na página: 1546
+Faltando: [2_@_Canon_@_: Canon] na página: 1566
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 1557
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1555
+Faltando: [2_@_Casio_@_: Casio] na página: 1761
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 1698
+Faltando: [2_@_Fuji_@_: Fuji] na página: 1697
+Faltando: [2_@_Pentax_@_: Pentax] na página: 1719
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1717
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1714
+Faltando: [2_@_General Electric_@_: General Electric] na página: 1678
+Faltando: [2_@_Fuji_@_: Fuji] na página: 1681
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 1692
+Faltando: [2_@_Canon_@_: Canon] na página: 1695
+Faltando: [2_@_Panasonic_@_: Panasonic] na página: 1690
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 14:07 - model********************************
+dataset;SWDE;domain;camera;site;camera-amazon;attribute;model;relevantes;1767;recuperados;1391;relevantes recuperados; 1391;recall;0.787209960384833;precision;1.0;date;2016-02-12 14:07
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Canon PowerShot SD1300 IS 12.1 MP Digital Camera with 4x Wide Angle Optical Image Stabilized Zoom and 2.7-Inch LCD (Silver)] na página: 0
+Faltando: [1_@_Canon PowerShot SD1300IS 12.1 MP Digital Camera with 4x Wide Angle Optical Image Stabilized Zoom and 2.7-Inch LCD (Blue)] na página: 3
+Faltando: [1_@_Canon PowerShot SD1300IS 12 MP Digital Camera with 4x Wide Angle Optical Image Stabilized Zoom and 2.7-Inch LCD (Pink)] na página: 7
+Faltando: [1_@_Canon PowerShot SD1300IS 12.1 MP Digital Camera with 4x Wide Angle Optical Image Stabilized Zoom and 2.7-Inch LCD (Green)] na página: 12
+Faltando: [1_@_Nikon Coolpix L22 12 MP Digital Camera with 3.6x Optical Zoom and 3.0-Inch LCD (Blue)] na página: 13
+Faltando: [1_@_Canon PowerShot SD1300IS 12 MP Digital Camera with 4x Wide Angle Optical Image Stabilized Zoom and 2.7-Inch LCD (Brown)] na página: 14
+Faltando: [1_@_Panasonic Lumix DMC-LX5 10.1 MP Digital Camera with 3.8x Optical Image Stabilized Zoom and 3.0-Inch LCD (Black)] na página: 16
+Faltando: [1_@_Canon PowerShot SX210IS 14.1 MP Digital Camera with 14x Wide Angle Optical Image Stabilized Zoom and 3.0-Inch LCD (Black)] na página: 18
+Faltando: [1_@_Kodak EasyShare M590 Digital Camera - Silver (New Model)] na página: 35
+Faltando: [1_@_Fujifilm FinePix Z70 12 MP Digital Camera with 5x Optical Zoom and 2.7-Inch LCD (Black)] na página: 40
+Faltando: [1_@_Vivitar ViviCam 8370, 8.0 MP Digital Camera with 3x Optical Zoom, 5x Digital Zoom, 2.4" LCD Monitor, Voice Memo, Face Detection, and Video Recording (Color: Black)] na página: 47
+Faltando: [1_@_Kodak Slice 14MP Digital Camera with Schneider-Kreuznach Prism 5x Optical Image Stabilized Zoom and 3.5-Inch Touch-Screen LCD (Black)] na página: 45
+Faltando: [1_@_Panasonic Lumix DMC-FS20K 10MP Digital Camera with 4x Wide Angle MEGA Optical Image Stabilized Zoom (Black)] na página: 49
+Faltando: [1_@_Panasonic Lumix DMC-LX1S 8MP Digital Camera with 4x Image Stabilized Optical Zoom (Silver)] na página: 59
+Faltando: [1_@_Olympus E-PL1 - Digital camera - mirrorless system - 12.3 Mpix - Olympus M.Zuiko Digital 14-42mm lens - optical zoom: 3 x - supported memory: SD, SDHC - champagne] na página: 62
+Faltando: [1_@_Panasonic Lumix DMC-LX1K 8MP Digital Camera with 4x Image Stabilized Optical Zoom (Black)] na página: 69
+Faltando: [1_@_Vivitar ViviCam 8370, 8.0 MP Digital Camera with 3x Optical Zoom, 5x Digital Zoom, 2.4" LCD Monitor, Voice Memo, Face Detection, and Video Recording + 2GB Accessory Bundle] na página: 91
+Faltando: [1_@_Olympus Stylus 760 7.1MP Digital Camera with Dual Image Stabilized 3x Optical Zoom (Pink)] na página: 118
+Faltando: [1_@_Nikon Coolpix S51 8.1MP Digital Camera with 3x Optical Vibration Reduction Zoom (Magenta)] na página: 126
+Faltando: [1_@_Nikon Coolpix S51 8.1MP Digital Camera with 3x Optical Vibration Reduction Zoom (Red)] na página: 120
+Faltando: [1_@_Sony Cybershot DSCT300 10.1MP Digital Camera with 5x Optical Zoom with Super Steady Shot (Silver)] na página: 129
+Faltando: [1_@_Olympus Stylus 820 8MP Digital Camera with 5x Optical Zoom (Blue)] na página: 130
+Faltando: [1_@_Olympus Stylus 820 8MP Digital Camera with 5x Optical Zoom (Black)] na página: 135
+Faltando: [1_@_Sony Cybershot DSC-T10 7.2MP Digital Camera with 3x Optical Steady Shot Zoom (Pink)] na página: 155
+Faltando: [1_@_GE J1250 12MP Digital Camera with 5X Optical Zoom and 2.7-Inch LCD with Auto Brightness (Black)] na página: 158
+Faltando: [1_@_Samsung Digimax NV20 12MP Digital Camera with 3x Advanced Shake Reduction Optical Zoom (Black)] na página: 148
+Faltando: [1_@_Casio Exilim EX-S770 7.2MP Digital Camera with 3x Optical Zoom (Dark Blue)] na página: 149
+Faltando: [1_@_GE G2-SL 8MP Ultra-Slim Digital Camera with 4X Optical Zoom and 2.7-Inch LCD with Auto Brightness (Silver)] na página: 170
+Faltando: [1_@_Panasonic DMC-FX07S 7.2MP Digital Camera with 3.6x Optical Image Stabilized Zoom (Silver)] na página: 173
+Faltando: [1_@_GE J1250 12MP Digital Camera with 5X Optical Zoom and 2.7-Inch LCD with Auto Brightness (Red)] na página: 160
+Faltando: [1_@_Panasonic Lumix DMC-ZS3 10.1 MP Digital Camera with 12x Wide Angle MEGA Optical Image Stabilized Zoom and 3 inch LCD (Black)] na página: 206
+Faltando: [1_@_GE A1255 12MP Digital Camera with 5X Optical Zoom and 2.7-Inch LCD with Auto Brightess (Red)] na página: 202
+Faltando: [1_@_Olympus Stylus 830 8MP Digital Camera with Dual Image Stabilized 5x Optical Zoom (Orange)] na página: 194
+Faltando: [1_@_Sony DSCTX7 DSC-TX7 10.2MP CMOS Digital Camera with 4x Optical Zoom with Optical Steady Shot Image Stabilization and 3.5-inch Touch Screen LCD in Red + 8GB Accessory Kit] na página: 223
+Faltando: [1_@_Fujifilm FinePix Z33WP 10 MP Waterproof Digital Camera with 3x Optical Zoom (Black)] na página: 218
+Faltando: [1_@_Olympus PEN E-PL1 12.3MP Live MOS Micro Four Thirds Interchangeable Lens Digital Camera with 14-42mm f/3.5-5.6 Zuiko Digital Zoom Lens (Slate Blue)] na página: 213
+Faltando: [1_@_Canon PowerShot SD960IS 12.1 MP Digital Camera with 4x Wide Angle Optical Image Stabilized Zoom and 2.8-inch LCD (Light Blue)] na página: 210
+Faltando: [1_@_Canon PowerShot SD980IS 12.1MP Digital Camera w/5x Ultra Wide Angle Optical Image Stabilized Zoom and 3-inch LCD (Gold) BP6L Battery/Charger BigVALUEInc Accessory Essentials Bundle] na página: 233
+Faltando: [1_@_Sony Cyber-shot DSC-TX1 - Digital camera - compact - 10.2 Mpix - optical zoom: 4 x - supported memory: MS Duo, MS PRO Duo, MS PRO-HG Duo - midnight blue] na página: 229
+Faltando: [1_@_Olympus Stylus 750 7.1MP Digital Camera with Digital Image Stabilized 5x Optical Zoom and CCD Shift Stabilization (Red)] na página: 255
+Faltando: [1_@_Panasonic DMC-FX50K 7.2MP Digital Camera with 3.6x Optical Image Stabilized Zoom (Black)] na página: 253
+Faltando: [1_@_Oregon Scientific DS6310-B 3MP ThinCam Digital Camera with Cradle (Blue)] na página: 250
+Faltando: [1_@_Panasonic Lumix DMC-TS10 14.1 MP Digital Camera with 4x Optical Image Stabilized Zoom and 2.7-Inch LCD (Blue)] na página: 274
+Faltando: [1_@_Canon PowerShot SD1200IS 10 MP Digital Camera with 3x Optical Image Stabilized Zoom and 2.5-inch LCD (Pink/Red)] na página: 273
+Faltando: [1_@_Sony DSC-H55 DSCH55 Cyber-shot� DSC-H55 14.1MP Digital Camera with G-Lens 10x Wide Angle Optical Zoom with SteadyShot Image Stabilization and 3.0 inch LCD in Black + 8GB Deluxe Accessory Kit] na página: 272
+Faltando: [1_@_HP PW460T 12 MP Digital Camera with 4X Optical Zoom and 3.0-Inch Touchscreen LCD (Blue)] na página: 279
+Faltando: [1_@_HP CW450 12 MP Digital Camera with 4X Optical Zoom and 2.7-Inch LCD (Black)] na página: 278
+Faltando: [1_@_GE A1250-BK 12MP Digital Camera with 5X Optical Zoom and 2.5 Inch LCD with Auto Brightness - Black] na página: 277
+Faltando: [1_@_Olympus PEN E-PL1 12.3MP Live MOS Micro Four Thirds Interchangeable Lens Digital Camera with 14-42mm f/3.5-5.6 Zuiko Digital Zoom Lens (Champagne Gold)] na página: 276
+Faltando: [1_@_Sony DSC-H55 DSCH55 Cyber-shot� DSC-H55 14.1MP Digital Camera with G-Lens 10x Wide Angle Optical Zoom with SteadyShot Image Stabilization and 3.0 inch LCD in Black + 4GB Accessory Kit] na página: 284
+Faltando: [1_@_Olympus Stylus 760 7.1MP Digital Camera with Dual Image Stabilized 3x Optical Zoom (Black)] na página: 258
+Faltando: [1_@_Sony Cybershot DSCW120/L 7.2MP Digital Camera with 4x Optical Zoom with Super Steady Shot (Blue)] na página: 263
+Faltando: [1_@_Panasonic Lumix DMC-TS10 14.1 MP Digital Camera with 4x Optical Image Stabilized Zoom and 2.7-Inch LCD (Black)] na página: 270
+Faltando: [1_@_Canon PowerShot SD780IS 12.1 MP Digital Camera with 3x Optical Image Stabilized Zoom and 2.5-inch LCD (Gold)] na página: 271
+Faltando: [1_@_Canon PowerShot SD1200IS 10 MP Digital Camera with 3x Optical Image Stabilized Zoom and 2.5-inch LCD (Silver)] na página: 269
+Faltando: [1_@_Sony DSCHX5 DSC-HX5V 10.2MP CMOS Digital Camera with 10x Wide Angle Zoom with Optical Steady Shot Image Stabilization and 3.0 inch LCD + 8GB ACCESSORY KIT] na página: 304
+Faltando: [1_@_Canon PowerShot A480 10 MP Digital Camera with 3.3x Optical Zoom and 2.5-inch LCD (Silver)] na página: 309
+Faltando: [1_@_Sony Cyber-shot DSC-S2000 - Digital camera - compact - 10.1 Mpix - optical zoom: 3 x - supported memory: MS Duo, SD, MS PRO Duo, SDHC, MS PRO-HG Duo - silver] na página: 314
+Faltando: [1_@_Panasonic Lumix DMC-FX700 14.1 MP Digital Camera with 5x Optical Image Stabilized Zoom and 3.0-Inch LCD (Black)] na página: 290
+Faltando: [1_@_Kodak EasyShare M580 14MP Digital Camera with 8x Wide Angle Optical Zoom and 3.0 Inch LCD (Pink)] na página: 291
+Faltando: [1_@_Fujifilm FinePix JZ300 12 MP Digital Camera with 10x Wide Angle Optical Zoom and 2.7-Inch LCD (Black)] na página: 293
+Faltando: [1_@_Kodak EasyShare M580 14MP Digital Camera with 8x Wide Angle Optical Zoom and 3.0 Inch LCD (Purple)] na página: 300
+Faltando: [1_@_Canon PowerShot SD1400IS 14.1 MP Digital Camera w/4x Wide Angle Optical IS Zoom (Silver) 8GB BP4L Battery/Charger BigVALUEInc Accessory Saver HD Bundle] na página: 338
+Faltando: [1_@_Canon PowerShot A1100IS 12.1 MP Digital Camera with 4x Optical Image Stabilized Zoom and 2.5-inch LCD (Pink)] na página: 336
+Faltando: [1_@_Kodak EasyShare Z915 Digital Camera (Blue)] na página: 349
+Faltando: [1_@_Kodak EasyShare M550 12MP Digital Camera with 5x Wide Angle Optical Zoom and 2.7 Inch LCD (Blue)] na página: 345
+Faltando: [1_@_Panasonic Lumix DMC-TS10 14.1 MP Digital Camera with 4x Optical Image Stabilized Zoom and 2.7-Inch LCD (Red)] na página: 344
+Faltando: [1_@_HP PW460T 12 MP Digital Camera with 4X Optical Zoom and 3.0-Inch Touchscreen LCD (Purple)] na página: 326
+Faltando: [1_@_Sony DSC-W370 14.1MP Digital Camera with 7x Wide Angle Optical Zoom with Steady Shot Image Stabilization and 3.0-inch Clear Photo LCD in Silver + 4GB Accessory Kit] na página: 325
+Faltando: [1_@_Fujifilm FinePix Z33WP 10MP Digital Camera with 3x Optical Zoom (Green)] na página: 322
+Faltando: [1_@_Fujifilm FinePix Z70 12 MP Digital Camera with 5x Optical Zoom and 2.7-Inch LCD (Silver)] na página: 323
+Faltando: [1_@_Kodak EasyShare Z915 Digital Camera (Red)] na página: 372
+Faltando: [1_@_Panasonic Lumix DMC-FX700 14.1 MP Digital Camera with 5x Optical Image Stabilized Zoom and 3.0-Inch LCD (Silver)] na página: 381
+Faltando: [1_@_Sony DSC-H55 DSCH55 Cyber-shot� DSC-H55 14.1MP Digital Camera with G-Lens 10x Wide Angle Optical Zoom with SteadyShot Image Stabilization and 3.0 inch LCD in Silver + 4GB Accessory Kit] na página: 380
+Faltando: [1_@_Panasonic Lumix DMC-TS10 14.1 MP Digital Camera with 4x Optical Image Stabilized Zoom and 2.7-Inch LCD (Silver)] na página: 376
+Faltando: [1_@_Fujifilm FinePix Z700EXR 12 MP Super CCD EXR Digital Camera with 5x Optical Zoom and 3.5-Inch Touch-Screen LCD (Black)] na página: 379
+Faltando: [1_@_Sony Cybershot DSC-W180 10.1MP Digital Camera with 3x SteadyShot Stabilized Zoom and 2.7-inch LCD (Red)] na página: 378
+Faltando: [1_@_Pentax Optio WS80 10MP Waterproof Digital Camera with 5x Internal Optical Zoom and 2.7-inch LCD (White and Purple)] na página: 358
+Faltando: [1_@_HP CW450T 12 MP Digital Camera with 4X Optical Zoom and 2.7-Inch Touchscreen LCD (Ocean Blue)] na página: 354
+Faltando: [1_@_Olympus E-P2 12.3 MP Micro Four Thirds Interchangeable Lens Digital Camera with 14-42mm f/3.5-5.6 Zuiko Digital Zoom Lens (Electronic View Finder not included)] na página: 364
+Faltando: [1_@_Sony Cyber-shot DSC-W180 10.1MP Digital Camera with 3x SteadyShot Stabilized Zoom and 2.7-inch LCD (Silver)] na página: 367
+Faltando: [1_@_Canon PowerShot SD940IS 12.1MP Digital Camera with 4x Wide Angle Optical Image Stabilized Zoom and 2.7-inch LCD (Brown)] na página: 360
+Faltando: [1_@_Kodak EasyShare C182 Digital Camera (Silver)] na página: 410
+Faltando: [1_@_Panasonic Lumix DMC-ZR3 14.1 MP Digital Camera with 8x Optical Image Stabilized Zoom and 2.7-Inch LCD (Black)] na página: 415
+Faltando: [1_@_Sony Cyber-shot DSC-W310 - Digital camera - compact - 12.1 Mpix - optical zoom: 4 x - supported memory: MS Duo, SD, MS PRO Duo, MS PRO Duo Mark2, SDHC, MS PRO-HG Duo - silver] na página: 402
+Faltando: [1_@_Nikon Coolpix S210 8MP Digital Camera with 3x Optical Zoom (Plum)] na página: 392
+Faltando: [1_@_Sony DSCHX5VB DSCHX5 DSC-HX5V 10.2MP CMOS Digital Camera with 10x Wide Angle Zoom with Optical Steady Shot Image Stabilization and 3.0 inch LCD + 4GB ACCESSORY KIT] na página: 389
+Faltando: [1_@_Sony Cybershot DSCW120/P 7.2MP Digital Camera with 4x Optical Zoom with Super Steady Shot (Pink)] na página: 388
+Faltando: [1_@_Sony DSCW370 RED DSC-W370 14.1MP Digital Camera with 7x Wide Angle Optical Zoom with Steady Shot Image Stabilization and 3.0-inch Clear Photo LCD in Red + 4GB Accessory Kit] na página: 440
+Faltando: [1_@_Canon PowerShot SD960IS 12.1 MP Digital Camera with 4x Wide Angle Optical Image Stabilized Zoom and 2.8-inch LCD (Silver)] na página: 443
+Faltando: [1_@_GE A1455 14MP Digital Camera with 5X Optical Zoom and 2.7-Inch LCD with Auto Brightness (Black)] na página: 424
+Faltando: [1_@_Panasonic Lumix DMC-TZ5K 9MP Digital Camera with 10x Wide Angle MEGA Optical Image Stabilized Zoom (Black)] na página: 419
+Faltando: [1_@_HP SW350 12 MP Digital Camera with 3X Optical Zoom and 2.7-Inch LCD (Black)] na página: 422
+Faltando: [1_@_Canon PowerShot A480 10 MP Digital Camera with 3.3x Optical Zoom and 2.5-inch LCD (Deep Red)] na página: 474
+Faltando: [1_@_Sony DSC-H55 DSCH55 Cyber-shot� DSC-H55 14.1MP Digital Camera with G-Lens 10x Wide Angle Optical Zoom with SteadyShot Image Stabilization and 3.0 inch LCD in Silver + 8GB Deluxe Accessory Kit] na página: 466
+Faltando: [1_@_Sony Cyber-shot DSC-W320 - Digital camera - compact - 14.1 Mpix - optical zoom: 4 x - supported memory: MS Duo, SD, MS PRO Duo, SDHC, MS PRO-HG Duo - silver] na página: 464
+Faltando: [1_@_Canon PowerShot SD980IS 12MP Digital Camera with 5x Ultra Wide Angle Optical Image Stabilized Zoom and 3-inch LCD (Gold)] na página: 458
+Faltando: [1_@_Kodak Slice 14MP Digital Camera with Schneider-Kreuznach Prism 5x Optical Image Stabilized Zoom and 3.5-Inch Touch-Screen LCD (Nickel)] na página: 454
+Faltando: [1_@_Olympus FE-25 10MP Digital Camera with 3x Optical Zoom and 2.4 inch LCD (Black)] na página: 452
+Faltando: [1_@_Canon Powershot E1 10MP Digital Camera with 4x Optical Image Stabilized Zoom (Blue)] na página: 510
+Faltando: [1_@_Sony Cybershot DSCW80 7.2MP Digital Camera with 3x Optical Zoom and Super Steady Shot (Silver)] na página: 505
+Faltando: [1_@_GE A950-BK 9MP Digital Camera with 5X Optical Zoom and 2.5 Inch LCD with Auto Brightness - Black] na página: 506
+Faltando: [1_@_Panasonic Lumix DMC-ZS1 10MP Digital Camera with 12x Wide Angle MEGA Optical Image Stabilized Zoom and 2.7 inch LCD (Black)] na página: 501
+Faltando: [1_@_Kodak EasyShare M1033 10MP Digital Camera with 3x Optical Zoom (Bronze)] na página: 502
+Faltando: [1_@_HP CW450T 12 MP Digital Camera with 4X Optical Zoom and 2.7-Inch Touchscreen LCD (Merlot)] na página: 503
+Faltando: [1_@_Olympus PEN E-P1 12.3 MP Micro Four Thirds Interchangeable Lens Digital Camera with 14-42mm f/3.5-5.6 Zuiko Digital Zoom Lens (Silver Body/Black Lens)] na página: 492
+Faltando: [1_@_Nikon Coolpix S550 10 MP Digital Camera with 5x Optical Zoom (Graphite Black)] na página: 494
+Faltando: [1_@_Fujifilm FinePix Z30 10MP Digital Camera with 3x Optical Zoom (Orange)] na página: 488
+Faltando: [1_@_Nikon Coolpix S620 12.2MP Digital Camera with 4x Optical Vibration Reduction (VR) Zoom and 2.7 inch LCD (Jet Black)] na página: 490
+Faltando: [1_@_Sony Cyber-shot� DSC-TX5 10.2MP CMOS Digital Camera with 4x Zoom with Optical Steady Shot Image Stabilization and 3.5 inch Touch Screen LCD in Black + 8GB Accessory Kit] na página: 487
+Faltando: [1_@_Sony DSCW370 GREEN DSC-W370 14.1MP Digital Camera with 7x Wide Angle Optical Zoom with Steady Shot Image Stabilization and 3.0-inch Clear Photo LCD in Green + 4GB Accessory Kit] na página: 486
+Faltando: [1_@_Canon PowerShot SD4500 IS Digital ELPH - Digital camera - compact - 10.0 Mpix - optical zoom: 10 x - supported memory: MMC, SD, SDXC, SDHC, MMCplus - brown] na página: 482
+Faltando: [1_@_Sony DSC-W370 14.1MP Digital Camera with 7x Wide Angle Optical Zoom with Steady Shot Image Stabilization and 3.0-inch Clear Photo LCD in Silver + 8GB Deluxe Accessory Kit] na página: 549
+Faltando: [1_@_Sony Cybershot DSCW150 8.1MP Digital Camera with 5x Optical Zoom with Super Steady Shot (Silver)] na página: 547
+Faltando: [1_@_Nikon Coolpix S610c 10MP Wi-Fi Digital Camera with 4x Optical Vibration Reduction (VR) Zoom (Midnight Black)] na página: 545
+Faltando: [1_@_Nikon Coolpix L18 8MP Digital Camera with 3x Optical Zoom (Navy)] na página: 554
+Faltando: [1_@_Panasonic Lumix DMC-FX500K 10.1MP Digital Camera with 5x Wide Angle MEGA Optical Image Stabilized Zoom (Black)] na página: 553
+Faltando: [1_@_Nikon Coolpix L18 8MP Digital Camera with 3x Optical Zoom (Ruby Red)] na página: 566
+Faltando: [1_@_Panasonic Lumix DMC-FS15 12MP Digital Camera with 5x MEGA Optical Image Stabilized Zoom and 2.7 inch LCD (Black)] na página: 561
+Faltando: [1_@_Sony Cybershot DSC-W180 10.1MP Digital Camera with 3x SteadyShot Stabilized Zoom and 2.7-inch LCD (Black)] na página: 573
+Faltando: [1_@_GE E1486TW 14MP Digital Camera with 8X Optical Zoom and 3.0-Inch Touch Panel LCD with Auto Brightness (Red)] na página: 519
+Faltando: [1_@_Casio EX-Z33BE 10.1MP Digital Camera with 3x Optical Zoom and 2.5 inch LCD (Blue)] na página: 512
+Faltando: [1_@_Pentax Optio M50 8MP Digital Camera with 5x Optical Zoom (Light Blue)] na página: 527
+Faltando: [1_@_Sony Cyber-shot� DSC-TX5 10.2MP CMOS Digital Camera with 4x Zoom with Optical Steady Shot Image Stabilization and 3.5 inch Touch Screen LCD in Silver + 4GB Accessory Kit] na página: 534
+Faltando: [1_@_Panasonic Lumix DMC-TZ5S 9MP Digital Camera with 10x Wide Angle MEGA Optical Image Stabilized Zoom (Silver)] na página: 530
+Faltando: [1_@_Sony Cyber-shot DSC-W320 - Digital camera - compact - 14.1 Mpix - optical zoom: 4 x - supported memory: MS Duo, SD, MS PRO Duo, SDHC, MS PRO-HG Duo - black] na página: 542
+Faltando: [1_@_Kodak EasyShare M550 12MP Digital Camera with 5x Wide Angle Optical Zoom and 2.7 Inch LCD (Dark Grey)] na página: 536
+Faltando: [1_@_Olympus FE370 8MP Digital Camera with 5x Optical Dual Image Stabilized Zoom (Black)] na página: 539
+Faltando: [1_@_Canon Powershot SD990IS 14.7MP Digital Camera with 3.7x Optical Image Stabilized Zoom (Black)] na página: 609
+Faltando: [1_@_Sony Cyber-shot� DSC-TX5 10.2MP CMOS Digital Camera with 4x Zoom with Optical Steady Shot Image Stabilization and 3.5 inch Touch Screen LCD in Silver + 8GB Accessory Kit] na página: 619
+Faltando: [1_@_Olympus Stylus 850SW 8MP Digital Camera with 3x Optical Zoom (Black)] na página: 617
+Faltando: [1_@_Nikon Coolpix S610 10MP Digital Camera with 4x Optical Vibration Reduction (VR) Zoom (Midnight Black)] na página: 622
+Faltando: [1_@_Kodak Z981 EasyShare Z981 14MP Digital Camera with Schneider-Kreuznach Variogon 26x Wide Angle Optical Image Stabilized Zoom Lens and 3.0 Inch LCD + 8GB Accessory Kit] na página: 623
+Faltando: [1_@_HP PW550 12 MP Digital Camera with 5X Optical Zoom and 2.7-Inch LCD (Black)] na página: 631
+Faltando: [1_@_Sony DSCW370 GREEN DSC-W370 14.1MP Digital Camera with 7x Wide Angle Optical Zoom with Steady Shot Image Stabilization and 3.0-inch Clear Photo LCD in Green + 8GB Deluxe Accessory Kit] na página: 630
+Faltando: [1_@_Sony Cyber-shot� DSC-TX5 10.2MP CMOS Digital Camera with 4x Zoom with Optical Steady Shot Image Stabilization and 3.5 inch Touch Screen LCD in Pink + 4GB Accessory Kit] na página: 635
+Faltando: [1_@_Fujifilm FinePix Z30 10MP Digital Camera with 3x Optical Zoom (Black)] na página: 633
+Faltando: [1_@_Kodak EasyShare Z915 Digital Camera (Black)] na página: 576
+Faltando: [1_@_Canon PowerShot SD780IS 12.1 MP Digital Camera with 3x Optical Image Stabilized Zoom and 2.5-inch LCD (Black)] na página: 578
+Faltando: [1_@_Panasonic Lumix DMC-ZR3 14.1 MP Digital Camera with 8x Optical Image Stabilized Zoom and 2.7-Inch LCD (Blue)] na página: 584
+Faltando: [1_@_Panasonic Lumix DMC-ZR3 14.1 MP Digital Camera with 8x Optical Image Stabilized Zoom and 2.7-Inch LCD (Silver)] na página: 586
+Faltando: [1_@_Panasonic Lumix DMC-LX5 10.1 MP Digital Camera with 3.8x Optical Image Stabilized Zoom and 3.0-Inch LCD (White)] na página: 588
+Faltando: [1_@_Canon PowerShot SX210IS 14.1 MP Digital Camera with 14x Wide Angle Optical Image Stabilized Zoom and 3.0-Inch LCD (Purple)] na página: 590
+Faltando: [1_@_Panasonic Lumix DMC-ZR3 14.1 MP Digital Camera with 8x Optical Image Stabilized Zoom and 2.7-Inch LCD (Red)] na página: 593
+Faltando: [1_@_Nikon Coolpix S210 8.0MP Digital Camera with 3x Optical Zoom (Graphite Black)] na página: 595
+Faltando: [1_@_GE E1486TW 14MP Digital Camera with 8X Optical Zoom and 3.0-Inch Touch Panel LCD with Auto Brightness (Black)] na página: 598
+Faltando: [1_@_Sony DSCS2100 DSC-S2100 12.1MP Digital Camera with 3x Optical Zoom with Digital Steady Shot Image Stabilization and 3.0 inch LCD in Black + 4GB Deluxe Accessory Kit] na página: 604
+Faltando: [1_@_GE A1455 14MP Digital Camera with 5X Optical Zoom and 2.7-Inch LCD with Auto Brightness (Red)] na página: 607
+Faltando: [1_@_Panasonic Lumix DMC-TZ5A 9.1MP Digital Camera with 10x Wide Angle MEGA Optical Image Stabilized Zoom (Blue)] na página: 686
+Faltando: [1_@_HP SW450 12 MP Digital Camera with 4X Optical Zoom and 2.7-Inch LCD (Red)] na página: 682
+Faltando: [1_@_Sony DSC-W350 14.1MP Digital Camera with 4x Wide Angle Zoom with Optical Steady Shot Image Stabilization and 2.7 inch LCD in Blue + 8GB Deluxe Accessory Kit] na página: 703
+Faltando: [1_@_Polaroid CIA-1437RC 14MP CCD Digital Camera with 2.7-Inch LCD Display (Red)] na página: 699
+Faltando: [1_@_Fujifilm FinePix Z30 10 MP Digital Camera with 3x Optical Zoom and 2.7 inch LCD (Whirl White)] na página: 691
+Faltando: [1_@_Sony DSC-W350 14.1MP Digital Camera with 4x Wide Angle Zoom with Optical Steady Shot Image Stabilization and 2.7 inch LCD in Silver + 8GB Deluxe Accessory Kit] na página: 689
+Faltando: [1_@_GE A1255 12MP Digital Camera with 5X Optical Zoom and 2.7-Inch LCD with Auto Brightess (Pink)] na página: 652
+Faltando: [1_@_GE E1486TW 14MP Digital Camera with 8X Optical Zoom and 3.0-Inch Touch Panel LCD with Auto Brightness (Silver)] na página: 651
+Faltando: [1_@_Sony DSC-W330 14.1MP Digital Camera with 4x Wide Angle Zoom with Digital Steady Shot Image Stabilization and 3.0 inch LCD in Silver + 4GB Accessory Kit] na página: 644
+Faltando: [1_@_Nikon Coolpix S610 10MP Digital Camera with 4x Optical Vibration Reduction (VR) Zoom (Smoke Gray)] na página: 641
+Faltando: [1_@_Sony Cyber-shot� DSC-TX5 10.2MP CMOS Digital Camera with 4x Zoom with Optical Steady Shot Image Stabilization and 3.5 inch Touch Screen LCD in Red + 8GB Accessory Kit] na página: 640
+Faltando: [1_@_Sony Cybershot DSCW150/R 8.1MP Digital Camera with 5x Optical Zoom with Super Steady Shot (Red)] na página: 642
+Faltando: [1_@_Sony Cyber-shot� DSC-TX5 10.2MP CMOS Digital Camera with 4x Zoom with Optical Steady Shot Image Stabilization and 3.5 inch Touch Screen LCD in Black + 4GB Accessory Kit] na página: 665
+Faltando: [1_@_Canon PowerShot SD770IS 10MP Digital Camera with 3x Optical Image Stabilized Zoom (Black)] na página: 663
+Faltando: [1_@_Canon PowerShot SD900 Titanium 10MP Digital Elph Camera with 3x Optical Zoom] na página: 656
+Faltando: [1_@_Nikon Coolpix S620 12.2MP Digital Camera with 4x Optical Vibration Reduction (VR) Zoom and 2.7 inch LCD (Rich Pearl)] na página: 747
+Faltando: [1_@_Panasonic Lumix DMC-TZ4K 8.1MP Digital Camera with 10x Wide Angle MEGA Optical Image Stabilized Zoom (Black)] na página: 738
+Faltando: [1_@_Sony DSC-W330 14.1MP Digital Camera with 4x Wide Angle Zoom with Digital Steady Shot Image Stabilization and 3.0 inch LCD in Red + 8GB Deluxe Accessory Kit] na página: 737
+Faltando: [1_@_Polaroid t1031 10.0 MP Digital Still Camera with 3.0 LCD Display (Orange)] na página: 736
+Faltando: [1_@_Olympus PEN E-P1 12.3 MP Micro Four Thirds Interchangeable Lens Digital Camera (Body Only)] na página: 740
+Faltando: [1_@_Kodak EasyShare M590 Digital Camera - Purple (New Model)] na página: 766
+Faltando: [1_@_Canon PowerShot SD780IS 12.1 MP Digital Camera with 3x Optical Image Stabilized Zoom and 2.5-inch LCD (Deep Red)] na página: 754
+Faltando: [1_@_Canon PowerShot SD940IS 12.1MP Digital Camera with 4x Wide Angle Optical Image Stabilized Zoom and 2.7-inch LCD (Silver)] na página: 756
+Faltando: [1_@_Sony DSC-W350 14.1MP Digital Camera with 4x Wide Angle Zoom with Optical Steady Shot Image Stabilization and 2.7 inch LCD in Silver + 4GB Accessory Kit] na página: 718
+Faltando: [1_@_GE C1033 10MP Digital Camera with 3X Optical Zoom and 2.4 Inch LCD with Auto Brightness (Silver)] na página: 705
+Faltando: [1_@_Sony Cybershot DSCW120 7.2MP Digital Camera with 4x Optical Zoom with Super Steady Shot (Silver)] na página: 708
+Faltando: [1_@_Sony DSCS2100 DSC-S2100 12.1MP Digital Camera with 3x Optical Zoom with Digital Steady Shot Image Stabilization and 3.0 inch LCD in Orange + 2GB Accessory Kit] na página: 730
+Faltando: [1_@_Samsung S860 8.1MP Digital Camera with 3x Optical Zoom (Black)] na página: 735
+Faltando: [1_@_Sony DSCS2100 DSC-S2100 12.1MP Digital Camera with 3x Optical Zoom with Digital Steady Shot Image Stabilization and 3.0 inch LCD in Silver + 4GB Deluxe Accessory Kit] na página: 720
+Faltando: [1_@_HP CW450 12 MP Digital Camera with 4X Optical Zoom and 2.7-Inch LCD (Candy Red)] na página: 721
+Faltando: [1_@_HP R742 Photosmart Digital Camera (Dark Blue)] na página: 723
+Faltando: [1_@_GE CRE00-BK Create by Jason Wu 12MP Digital Camera with 3x Optical Zoom and 2.7-Inch LCD (Black Metal)] na página: 820
+Faltando: [1_@_Olympus FE-25 10MP Digital Camera with 3x Optical Zoom and 2.4 inch LCD (Silver)] na página: 822
+Faltando: [1_@_Canon PowerShot SD3500IS 14.1 MP Digital Camera w/5x Ultra Wide Angle Optical IS Zoom (Black) 16GB BP6L Battery/Charger BigVALUEInc Accessory Saver HD Bundle] na página: 819
+Faltando: [1_@_GE G5WP 12MP Waterproof Digital Camera with 4X Optical Zoom and 2.7-Inch LCD with Auto Brightness (Raspberry Red)] na página: 818
+Faltando: [1_@_GE C1233 12MP Digital Camera with 3X Optical Zoom and 2.4 Inch LCD with Auto Brightness (Black)] na página: 825
+Faltando: [1_@_GE A1455 14MP Digital Camera with 5X Optical Zoom and 2.7-Inch LCD with Auto Brightness (Silver)] na página: 826
+Faltando: [1_@_Panasonic DMC-LX2K 10.2MP Digital Camera with 4x Optical Image Stabilized Zoom (Black)] na página: 804
+Faltando: [1_@_GE E1480W 14MP Digital Camera with 8X Optical Zoom and 3.0-Inch LCD with Auto Brightness (Silver)] na página: 807
+Faltando: [1_@_Nikon Coolpix S710 14.5MP Digital Camera with 3.6x Wide Angle Optical Vibration Reduction (VR) Zoom (Brilliant Silver)] na página: 800
+Faltando: [1_@_HP PW550 12 MP Digital Camera with 5X Optical Zoom and 2.7-Inch LCD (Plum)] na página: 812
+Faltando: [1_@_Nikon Coolpix S620 12.2MP Digital Camera with 4x Optical Vibration Reduction (VR) Zoom and 2.7 inch LCD (Dusty Pink)] na página: 808
+Faltando: [1_@_Fujifilm FinePix Z30 10MP Digital Camera with 3x Optical Zoom (Pink)] na página: 809
+Faltando: [1_@_GE A1250-SL 12MP Digital Camera with 5X Optical Zoom and 2.5 Inch LCD with Auto Brightness - Silver] na página: 791
+Faltando: [1_@_Sony Cyber-shot� DSC-TX5 10.2MP CMOS Digital Camera with 4x Zoom with Optical Steady Shot Image Stabilization and 3.5 inch Touch Screen LCD in Pink + 8GB Accessory Kit] na página: 788
+Faltando: [1_@_Kodak EasyShare M1073IS 10.2 MP Digital Camera with 3x Optical Image Stabilized Zoom (Silver)] na página: 786
+Faltando: [1_@_Panasonic Lumix DMC-LZ10K 10MP Digital Camera with 5x Wide Angle MEGA Optical Image Stabilized Zoom (Black)] na página: 798
+Faltando: [1_@_GE G5WP 12MP Waterproof Digital Camera with 4X Optical Zoom and 2.7-Inch LCD with Auto Brightness (Ocean Blue)] na página: 797
+Faltando: [1_@_GE C1233 12MP Digital Camera with 3X Optical Zoom and 2.4 Inch LCD with Auto Brightness (Red)] na página: 794
+Faltando: [1_@_GE G5WP 12MP Waterproof Digital Camera with 4X Optical Zoom and 2.7-Inch LCD with Auto Brightness (Graphite Grey)] na página: 792
+Faltando: [1_@_GE E1480W 14MP Digital Camera with 8X Optical Zoom and 3.0-Inch LCD with Auto Brightness (Red)] na página: 772
+Faltando: [1_@_Sony DSCW370 RED DSC-W370 14.1MP Digital Camera with 7x Wide Angle Optical Zoom with Steady Shot Image Stabilization and 3.0-inch Clear Photo LCD in Red + 8GB Deluxe Accessory Kit] na página: 782
+Faltando: [1_@_Sony Cybershot DSCW170/B 10.1MP Digital Camera with 5x Optical Zoom with Super Steady Shot (Black)] na página: 783
+Faltando: [1_@_Sony Cybershot DSCP100 5.1MP Digital Camera with 3x Optical Zoom] na página: 776
+Faltando: [1_@_Sony DSC-W350 14.1MP Digital Camera with 4x Wide Angle Zoom with Optical Steady Shot Image Stabilization and 2.7 inch LCD in Blue + 8GB Deluxe Accessory Kit] na página: 883
+Faltando: [1_@_Casio Exilim EX-Z1050 10.1MP Digital Camera with 3x Anti Shake Optical Zoom (Pink)] na página: 882
+Faltando: [1_@_Canon PowerShot SD960IS 12.1 MP Digital Camera with 4x Wide Angle Optical Image Stabilized Zoom and 2.8-inch LCD (Gold)] na página: 871
+Faltando: [1_@_Sony Cybershot DSCW130/P 8.1MP Digital Camera with 4x Optical Zoom with Super Steady Shot (Pink)] na página: 873
+Faltando: [1_@_Kodak EasyShare M863 8.2MP Digital Camera with 3x Optical Zoom (Copper)] na página: 876
+Faltando: [1_@_Panasonic Lumix DMC-ZS3 10MP Digital Camera with 12x Wide Angle MEGA Optical Image Stabilized Zoom and 3 inch LCD (Silver)] na página: 878
+Faltando: [1_@_Olympus FE-350 8MP Digital Camera with 4x Wide Angle Optical Zoom (Silver)] na página: 879
+Faltando: [1_@_GE J1250 12MP Digital Camera with 5X Optical Zoom and 2.7-Inch LCD with Auto Brightness (Silver)] na página: 851
+Faltando: [1_@_Olympus Stylus 1030SW 10.1MP Digital Camera with 3.6x Optical Wide Angle Zoom (Black)] na página: 850
+Faltando: [1_@_GE C1233 12MP Digital Camera with 3X Optical Zoom and 2.4 Inch LCD with Auto Brightness (Silver)] na página: 852
+Faltando: [1_@_GE E1050TW-RD 10 MP Digital Camera with 5X Optical Zoom and 3.0-Inch Touch Screen LCD with Auto Brightness (Red)] na página: 859
+Faltando: [1_@_Kodak EasyShare M1073IS 10.2 MP Digital Camera with 3x Optical Image Stabilized Zoom (Red)] na página: 858
+Faltando: [1_@_Panasonic Lumix DMC-ZS3 10MP Digital Camera with 12x Wide Angle MEGA Optical Image Stabilized Zoom and 3 inch LCD (Blue)] na página: 840
+Faltando: [1_@_Sony Cybershot DSCW80 7.2MP Digital Camera with 3x Optical Zoom and Super Steady Shot (White)] na página: 954
+Faltando: [1_@_HP SW350 12 MP Digital Camera with 3X Optical Zoom and 2.7-Inch LCD (Plum)] na página: 947
+Faltando: [1_@_Panasonic Lumix DMC-ZS1 10MP Digital Camera with 12x Wide Angle MEGA Optical Image Stabilized Zoom and 2.7 inch LCD (Silver)] na página: 937
+Faltando: [1_@_Fujifilm FinePix Z70 12 MP Digital Camera with 5x Optical Zoom and 2.7-Inch LCD (Blue)] na página: 936
+Faltando: [1_@_Canon PowerShot SX210IS 14.1 MP Digital Camera with 14x Wide Angle Optical Image Stabilized Zoom and 3.0-Inch LCD (Gold)] na página: 935
+Faltando: [1_@_Olympus PEN E-PL1 12.3MP Live MOS Micro Four Thirds Interchangeable Lens Digital Camera with 14-42mm f/3.5-5.6 Zuiko Digital Zoom Lens (Black)] na página: 925
+Faltando: [1_@_Nikon Coolpix S550 10MP Digital Camera with 5x Optical Zoom (Cool Blue)] na página: 914
+Faltando: [1_@_HP Photosmart M417 5.2MP Digital Camera with 3x Optical Zoom] na página: 915
+Faltando: [1_@_HP SW450 12 MP Digital Camera with 4X Optical Zoom and 2.7-Inch LCD (Turquoise)] na página: 907
+Faltando: [1_@_Canon PowerShot SD3500 IS Digital ELPH - Digital camera - compact - 14.1 Mpix - optical zoom: 5 x - supported memory: MMC, SD, SDXC, SDHC, MMCplus - silver] na página: 899
+Faltando: [1_@_Minox DCC 5.1MP Digital Classic Camera with Classic Camera Flash, Fixed 9.0mm Lens & 2.0" TFT LCD, CMOS Sensor, 2608 x 1956 Resolution, 128MB NAND Flash Memory] na página: 898
+Faltando: [1_@_GE C1033 10MP Digital Camera with 3X Optical Zoom and 2.4 Inch LCD with Auto Brightness (Purple)] na página: 1018
+Faltando: [1_@_GE E1480W 14MP Digital Camera with 8X Optical Zoom and 3.0-Inch LCD with Auto Brightness (Black)] na página: 1022
+Faltando: [1_@_Sony Cyber-shot� DSC-TX5 10.2MP CMOS Digital Camera with 4x Zoom with Optical Steady Shot Image Stabilization and 3.5 inch Touch Screen LCD in Red + 4GB Accessory Kit] na página: 1010
+Faltando: [1_@_Olympus Stylus 840 8.0MP Digital Camera with 5x Optical Dual Image Stabilized Zoom (Silver)] na página: 993
+Faltando: [1_@_Olympus Stylus 780 7.1MP Digital Camera with Dual Image Stabilized 5x Optical Zoom (Black)] na página: 984
+Faltando: [1_@_Canon PowerShot SD1400IS 14.1 MP Digital Camera w/4x Wide Angle Optical IS Zoom (Black) 16GB BP4L Battery/Charger BigVALUEInc Accessory Saver HD Bundle] na página: 991
+Faltando: [1_@_GE CRE00-RD Create by Jason Wu 12MP Digital Camera with 3x Optical Zoom and 2.7-Inch LCD (Red Metal)] na página: 980
+Faltando: [1_@_Olympus Stylus 830 8MP Digital Camera with Dual Image Stabilized 5x Optical Zoom (Silver)] na página: 970
+Faltando: [1_@_Sony DSC-S2100 12.1MP Digital Camera with 3x Optical Zoom with Digital Steady Shot Image Stabilization and 3.0 inch LCD in Orange + 4GB Deluxe Accessory Kit] na página: 960
+Faltando: [1_@_Olympus Stylus 820 8MP Digital Camera with 5x Optical Zoom (Silver)] na página: 967
+Faltando: [1_@_Casio Exilim EX-G1 12.1 MP Slim-line Endurance Digital Camera with 3x Optical Zoom (Black)] na página: 1101
+Faltando: [1_@_Fujifilm FinePix AX200 12 MP Digital Camera with 5x Wide Angle Optical Zoom and 2.7-Inch LCD (Black)] na página: 1099
+Faltando: [1_@_Canon PowerShot SD1200IS 10 MP Digital Camera with 3x Optical Image Stabilized Zoom and 2.5-inch LCD (Dark Gray)] na página: 1093
+Faltando: [1_@_Sony Cybershot DSCT300/R 10.1MP Digital Camera with 5x Optical Zoom with Super Steady Shot (Red)] na página: 1112
+Faltando: [1_@_Nikon Coolpix S210 8MP Digital Camera with 3x Optical Zoom (Brushed Bronze)] na página: 1134
+Faltando: [1_@_New! SONY Cyber-Shot DSC-HX5V 10.2MP Digital Camera Black-10x optical zoom, 25mm wide angle Sony G Lens, 3.0" LCD Screen!! Including 1 bonus accessoy-New *4GB* Memory Stick!!] na página: 1130
+Faltando: [1_@_Sony DSCTX7 DSC-TX7 10.2MP CMOS Digital Camera with 4x Optical Zoom with Optical Steady Shot Image Stabilization and 3.5-inch Touch Screen LCD in Blue + 8GB Accessory Kit] na página: 1122
+Faltando: [1_@_Sony Cybershot DSCW150/B 8.1MP Digital Camera with 5x Optical Zoom with Super Steady Shot (Black)] na página: 1121
+Faltando: [1_@_GE CRE00-BL Create by Jason Wu 12MP Digital Camera with 3x Optical Zoom and 2.7-Inch LCD (Blue Metal)] na página: 1151
+Faltando: [1_@_Sony DSCTX7 DSC-TX7 10.2MP CMOS Digital Camera with 4x Optical Zoom with Optical Steady Shot Image Stabilization and 3.5-inch Touch Screen LCD in Red + 4GB Accessory Kit] na página: 1148
+Faltando: [1_@_Sony DSCTX7 DSC-TX7 10.2MP CMOS Digital Camera with 4x Optical Zoom with Optical Steady Shot Image Stabilization and 3.5-inch Touch Screen LCD in Blue + 4GB Accessory Kit] na página: 1143
+Faltando: [1_@_Panasonic Lumix DMC-FX500S 10.1MP Digital Camera with 5x Wide Angle MEGA Optical Image Stabilized Zoom (Silver)] na página: 1136
+Faltando: [1_@_Sony Cybershot DSC-T20 8MP Digital Camera with 3x Optical Zoom and Super Steady Shot (Pink)] na página: 1034
+Faltando: [1_@_Olympus Stylus 750 7.1MP Digital Camera with Digital Image Stabilized 5x Optical Zoom and CCD Shift Stabilization (Black)] na página: 1039
+Faltando: [1_@_Casio EX-Z33BK 10.1MP Digital Camera with 3x Optical Zoom and 2.5 inch LCD (Black)] na página: 1027
+Faltando: [1_@_Panasonic DMC-FZ7 6MP Digital Camera with 12x Optical Image Stabilized Zoom (Black)] na página: 1028
+Faltando: [1_@_Panasonic Lumix DMC-FX12S 7.2MP Digital Camera with 3x Optical Image Stabilized Zoom (Silver)] na página: 1049
+Faltando: [1_@_Olympus E-PL1 - Digital camera - mirrorless system - 12.3 Mpix - Olympus M.Zuiko Digital 14-42mm and Zuiko Digital 40-150mm lenses - optical zoom: 3 x - supported memory: SD, SDHC - black] na página: 1050
+Faltando: [1_@_Olympus Stylus 830 8MP Digital Camera with Dual Image Stabilized 5x Optical Zoom (Black)] na página: 1055
+Faltando: [1_@_Kodak EasyShare M893IS 8.1MP Digital Camera with 3x Optical Image Stabilized Zoom (Purple)] na página: 1041
+Faltando: [1_@_Samsung S860 8.1MP Digital Camera with 3x Optical Zoom (Blue)] na página: 1043
+Faltando: [1_@_GE C1033 10MP Digital Camera with 3X Optical Zoom and 2.4 Inch LCD with Auto Brightness (Red)] na página: 1044
+Faltando: [1_@_Olympus Stylus 840 8.0MP Digital Camera with 5x Optical Dual Image Stabilized Zoom (Black)] na página: 1047
+Faltando: [1_@_Olympus FE-350 8MP Digital Camera with 4x Wide Angle Optical Zoom (Black)] na página: 1069
+Faltando: [1_@_Sony Cybershot DSCW120/B 7.2MP Digital Camera with 4x Optical Zoom with Super Steady Shot (Black)] na página: 1063
+Faltando: [1_@_Sony Cyber-shot� DSC-TX5 10.2MP CMOS Digital Camera with 4x Zoom with Optical Steady Shot Image Stabilization and 3.5 inch Touch Screen LCD in Green + 8GB Accessory Kit] na página: 1074
+Faltando: [1_@_Sony DSC-W330 14.1MP Digital Camera with 4x Wide Angle Zoom with Digital Steady Shot Image Stabilization and 3.0 inch LCD in Black + 8GB Deluxe Accessory Kit] na página: 1076
+Faltando: [1_@_Sony DSCHX5 DSC-HX5V 10.2MP CMOS Digital Camera with 10x Wide Angle Zoom with Optical Steady Shot Image Stabilization and 3.0 inch LCD + 8GB ACCESSORY KIT] na página: 1217
+Faltando: [1_@_Fujifilm Finepix Z20fd 10MP Digital Camera with 3x Optical Zoom (Ice Blue)] na página: 1225
+Faltando: [1_@_Canon PowerShot SD3500IS 14.1 MP Digital Camera w/5x Ultra Wide Angle Optical IS Zoom (Silver) 8GB BP6L Battery/Charger BigVALUEInc Accessory Saver HD Bundle] na página: 1234
+Faltando: [1_@_GE 1255W-RD 12MP Digital Camera with 5X Optical Zoom and 3.0-Inch LCD Screen with Auto Brightness (Red)] na página: 1244
+Faltando: [1_@_Sony DSCTX7 DSC-TX7 10.2MP CMOS Digital Camera with 4x Optical Zoom with Optical Steady Shot Image Stabilization and 3.5-inch Touch Screen LCD in Silver + 8GB Accessory Kit] na página: 1247
+Faltando: [1_@_Sony Cybershot DSCW80 7.2MP Digital Camera with 3x Optical Zoom and Super Steady Shot (Pink)] na página: 1243
+Faltando: [1_@_Olympus Stylus Tough-6000 10 MP Waterproof Digital Camera with 3.6x Wide Angle Optical Dual Image Stabilized Zoom and 2.7-Inch LCD (Orange)] na página: 1255
+Faltando: [1_@_Sony Cybershot DSCW90 8MP Digital Camera with 3x Optical Zoom and Super Steady Shot (Silver)] na página: 1249
+Faltando: [1_@_Olympus Stylus 740 7.1MP Digital Camera with Digital Image Stabilized 5x Optical Zoom (Silver)] na página: 1248
+Faltando: [1_@_Casio Exilim EX-G1 12.1 MP Slim-line Endurance Digital Camera with 3x Optical Zoom (Red)] na página: 1259
+Faltando: [1_@_Canon PowerShot SD780IS 12.1 MP Digital Camera with 3x Optical Image Stabilized Zoom and 2.5-inch LCD (Silver)] na página: 1257
+Faltando: [1_@_Kodak EasyShare M590 Digital Camera - Red (New Model)] na página: 1256
+Faltando: [1_@_Kodak Z981 EasyShare Z981 14MP Digital Camera with Schneider-Kreuznach Variogon 26x Wide Angle Optical Image Stabilized Zoom Lens and 3.0 Inch LCD + 8GB Deluxe Accessory Kit] na página: 1268
+Faltando: [1_@_Canon PowerShot SD980IS 12.1MP Digital Camera with 5x Ultra Wide Angle Optical Image Stabilized Zoom and 3-inch LCD (Blue)] na página: 1264
+Faltando: [1_@_Fujifilm FinePix Z70 12 MP Digital Camera with 5x Optical Zoom and 2.7-Inch LCD Photo Bundle (Berry)] na página: 1265
+Faltando: [1_@_Kodak EasyShare M863 8.2MP Digital Camera with 3x Optical Zoom (Silver)] na página: 1279
+Faltando: [1_@_Sony Cybershot DSCW170 10.1MP Digital Camera with 5x Optical Zoom with Super Steady Shot (Silver)] na página: 1276
+Faltando: [1_@_Polaroid CIA-1437TC 14MP CCD Digital Camera with 2.7-Inch LCD Display (Titanium)] na página: 1274
+Faltando: [1_@_GE J1455 14MP Digital Camera with 5X Optical Zoom and 3.0-Inch LCD with Auto Brightness (Black)] na página: 1164
+Faltando: [1_@_Sony DSC-W350 14.1MP Digital Camera with 4x Wide Angle Zoom with Optical Steady Shot Image Stabilization and 2.7 inch LCD in Black + 8GB Deluxe Accessory Kit] na página: 1170
+Faltando: [1_@_Sony DSC-W370 14.1MP Digital Camera with 7x Wide Angle Optical Zoom with Steady Shot Image Stabilization and 3.0-inch Clear Photo LCD in Red + 8GB Deluxe Accessory Kit] na página: 1173
+Faltando: [1_@_HP Photosmart R717 6.2MP Digital Camera with 3x Optical Zoom] na página: 1176
+Faltando: [1_@_Panasonic Lumix DMC-FX7K 5MP Digital Camera with 3x Image Stabilized Optical Zoom (Black)] na página: 1178
+Faltando: [1_@_GE C1033 10MP Digital Camera with 3X Optical Zoom and 2.4 Inch LCD with Auto Brightness (Black)] na página: 1186
+Faltando: [1_@_Canon PowerShot SD980IS 12.1MP Digital Camera w/5x Ultra Wide Angle Optical Image Stabilized Zoom and 3-inch LCD (Purple) 8GB BP6L Battery/Charger BigVALUEInc Accessory Saver Bundle] na página: 1184
+Faltando: [1_@_Sony DSC-W370 14.1MP Digital Camera with 7x Wide Angle Optical Zoom with Steady Shot Image Stabilization and 3.0-inch Clear Photo LCD in Green + 8GB Deluxe Accessory Kit] na página: 1189
+Faltando: [1_@_Sony DSC-W330 14.1MP Digital Camera with 4x Wide Angle Zoom with Digital Steady Shot Image Stabilization and 3.0 inch LCD in Silver + 8GB Deluxe Accessory Kit] na página: 1197
+Faltando: [1_@_Olympus Stylus 780 7.1MP Digital Camera with Dual Image Stabilized 5x Optical Zoom (Silver)] na página: 1202
+Faltando: [1_@_Sony DSC-W330 14.1MP Digital Camera with 4x Wide Angle Zoom with Digital Steady Shot Image Stabilization and 3.0 inch LCD in Silver + 8GB Deluxe Accessory Kit] na página: 1201
+Faltando: [1_@_Panasonic Lumix DMC-TZ4S 8.1MP Digital Camera with 10x Wide Angle MEGA Optical Image Stabilized Zoom (Silver)] na página: 1210
+Faltando: [1_@_Nikon Coolpix S710 14.5MP Digital Camera with 3.6x Wide Angle Optical Vibration Reduction (VR) Zoom (Graphite Black)] na página: 1211
+Faltando: [1_@_New! SONY Cyber-Shot DSC-HX5V 10.2MP Digital Camera Black-10x optical zoom, 25mm wide angle Sony G Lens, 3.0" LCD Screen!! Including 1 bonus accessoy-Extra High-Capacity Li-ion Battery!!] na página: 1370
+Faltando: [1_@_Sony Cybershot DSC-T77 10MP Digital Camera with 4x Optical Zoom with Super Steady Shot Image Stabilization (Pink)] na página: 1358
+Faltando: [1_@_Sony DSC-W370 14.1MP Digital Camera with 7x Wide Angle Optical Zoom with Steady Shot Image Stabilization and 3.0-inch Clear Photo LCD in Silver + 8GB Deluxe Accessory Kit] na página: 1356
+Faltando: [1_@_Sony Cybershot DSC-HX1 9.1MP Digital Camera with 20x Optical Zoom with Super Steady Shot Image Stabilization and 3.0 Inch LCD + 8GB Deluxe Sony Accessory Kit] na página: 1350
+Faltando: [1_@_Canon PowerShot SD980IS 12.1MP Digital Camera w/5x Ultra Wide Angle Optical Image Stabilized Zoom and 3-inch LCD (Silver) BP6L Battery/Charger BigVALUEInc Accessory Essentials Bundle] na página: 1400
+Faltando: [1_@_New! SONY Cyber-Shot DSC-HX5V 10.2MP Digital Camera Black-10x optical zoom, 25mm wide angle Sony G Lens, 3.0" LCD Screen!! Including 1 bonus accessoy-Camera Case!!] na página: 1397
+Faltando: [1_@_New! SONY Cyber-shot DSC-TX5 10.2MP Digital Camera GREEN, 4x Zoom with Optical Steady Shot Image Stabilization, 3.0-inch Touch Screen LCD With 1 BONUS Accessoy Kit: MINI Tripod!!] na página: 1391
+Faltando: [1_@_GE J1455 14MP Digital Camera with 5X Optical Zoom and 3.0-Inch LCD with Auto Brightness (Red)] na página: 1306
+Faltando: [1_@_Kodak EasyShare V803 8MP Digital Camera with 3x Optical Zoom (Silver Argent)] na página: 1304
+Faltando: [1_@_Sony Cybershot DSC-T70 8.1MP Digital Camera with 3x Optical Zoom with Super Steady Shot Image Stabilization (White)] na página: 1311
+Faltando: [1_@_Sony Cyber-shot� DSC-TX5 10.2MP CMOS Digital Camera with 4x Zoom with Optical Steady Shot Image Stabilization and 3.5 inch Touch Screen LCD in Green + 4GB Accessory Kit] na página: 1310
+Faltando: [1_@_GE J1455 14MP Digital Camera with 5X Optical Zoom and 3.0-Inch LCD with Auto Brightness (Silver)] na página: 1308
+Faltando: [1_@_Sony DSC-W330 14.1MP Digital Camera with 4x Wide Angle Zoom with Digital Steady Shot Image Stabilization and 3.0 inch LCD in Blue + 8GB Deluxe Accessory Kit] na página: 1296
+Faltando: [1_@_Canon Powershot SD990IS 14.7MP Digital Camera with 3.7x Optical Image Stabilized Zoom Coach Kit (Silver)] na página: 1302
+Faltando: [1_@_Sony DSC-W330 14.1MP Digital Camera with 4x Wide Angle Zoom with Digital Steady Shot Image Stabilization and 3.0 inch LCD in Black + 8GB Deluxe Accessory Kit] na página: 1301
+Faltando: [1_@_Olympus Stylus 740 7.1MP Digital Camera with Digital Image Stabilized 5x Optical Zoom (Blue)] na página: 1288
+Faltando: [1_@_Nikon Coolpix S620 12.2MP Digital Camera with 4x Optical Vibration Reduction (VR) Zoom and 2.7 inch LCD (Noble Purple)] na página: 1286
+Faltando: [1_@_Sony Cybershot DSCW80 7.2MP Digital Camera with 3x Optical Zoom and Super Steady Shot (Black)] na página: 1287
+Faltando: [1_@_Olympus Stylus 770SW 7.1MP Digital Camera with 3x Optical Zoom (Silver)] na página: 1340
+Faltando: [1_@_Olympus Stylus 1200 12MP Digital Camera with 3x Optical Zoom (Black)] na página: 1320
+Faltando: [1_@_Canon Powershot E1 10MP Digital Camera with 4x Optical Image Stabilized Zoom (White)] na página: 1322
+Faltando: [1_@_GE A1250-RD 12MP Digital Camera with 5X Optical Zoom and 2.5 Inch LCD with Auto Brightness - Red] na página: 1324
+Faltando: [1_@_GE A1050-RD 10MP Digital Camera with 5X Optical Zoom and 2.5 Inch LCD with Auto Brightness - Red] na página: 1315
+Faltando: [1_@_Canon PowerShot SD40 7.1MP Digital Elph Camera with 2.4x Optical Zoom (Olive Gray)] na página: 1317
+Faltando: [1_@_Sony DSC-W350 14.1MP Digital Camera with 4x Wide Angle Zoom with Optical Steady Shot Image Stabilization and 2.7 inch LCD in Black + 8GB Deluxe Accessory Kit] na página: 1494
+Faltando: [1_@_Kodak EasyShare C360 5MP Digital Camera with 3x Optical Zoom] na página: 1490
+Faltando: [1_@_Sony Cybershot DSCW130 8.1MP Digital Camera with 4x Optical Zoom with Super Steady Shot (Silver)] na página: 1488
+Faltando: [1_@_Sony DSC-W330 14.1MP Digital Camera with 4x Wide Angle Zoom with Digital Steady Shot Image Stabilization and 3.0 inch LCD in Blue + 8GB Deluxe Accessory Kit] na página: 1499
+Faltando: [1_@_Panasonic DMC-FX07K 7.2MP Digital Camera with 3.6x Optical Image Stabilized Zoom (Black)] na página: 1478
+Faltando: [1_@_Olympus Stylus 820 8MP Digital Camera with 5x Optical Zoom (Red)] na página: 1486
+Faltando: [1_@_Sony Cybershot DSC-T700 10.1MP Digital Camera with 4x Optical Zoom with Super Steady Shot Image Stabilization (Red)] na página: 1523
+Faltando: [1_@_Canon PowerShot SD3500IS 14.1 MP Digital Camera w/5x Ultra Wide Angle Optical IS Zoom (Silver) 16GB BP6L Battery/Charger BigVALUEInc Accessory Saver HD Bundle] na página: 1534
+Faltando: [1_@_Nikon Coolpix S620 12.2MP Digital Camera with 4x Optical Vibration Reduction (VR) Zoom and 2.7 inch LCD (Sky Blue)] na página: 1529
+Faltando: [1_@_Canon Powershot SD30 5MP Digital Elph Camera with 2.4x Optical Zoom (Rockstar Red)] na página: 1509
+Faltando: [1_@_Panasonic Lumix DMC-FS20P 10MP Digital Camera with 4x Wide Angle MEGA Optical Image Stabilized Zoom (Pink)] na página: 1508
+Faltando: [1_@_Sony DSC-W350 14.1MP Digital Camera with 4x Wide Angle Zoom with Optical Steady Shot Image Stabilization and 2.7 inch LCD in Silver + 8GB Deluxe Accessory Kit] na página: 1504
+Faltando: [1_@_Canon Powershot SD10 4MP Digital Camera (Silver)] na página: 1517
+Faltando: [1_@_New! SONY Cyber-Shot DSC-HX5V 10.2MP Digital Camera Black-10x optical zoom, 25mm wide angle Sony G Lens, 3.0" LCD Screen!! Including 1 bonus accessoy-MINI Tripod!!] na página: 1431
+Faltando: [1_@_Kodak EasyShare M590 Digital Camera - Blue (New Model)] na página: 1433
+Faltando: [1_@_Fujifilm FinePix AX200 12 MP Digital Camera with 5x Wide Angle Optical Zoom and 2.7-Inch LCD (Silver)] na página: 1439
+Faltando: [1_@_Canon PowerShot SD940IS 12.1MP Digital Camera with 4x Wide Angle Optical Image Stabilized Zoom and 2.7-inch LCD (Blue)] na página: 1437
+Faltando: [1_@_NEW FUJI FINEPIX F70EXR F70 BLACK DIGITAL CAMERA with 1 Year Seller Warranty! 10x Optical, Dual Image Stabilized Optical Zoom, 2.7" Large LCD (Including 5 Bonus)] na página: 1417
+Faltando: [1_@_NEW FUJI FINEPIX F70EXR F70 BLACK DIGITAL CAMERA with 1X Mini Travel -1 Year Seller Warranty! 10x Optical, Dual Image Stabilized Optical Zoom, 2.7" Large LCD] na página: 1423
+Faltando: [1_@_NEW FUJI FINEPIX F70EXR F70 BLACK DIGITAL CAMERA with 1 Year Seller Warranty! 10x Optical, Dual Image Stabilized Optical Zoom, 2.7" Large LCD (Including 6 Bonus)] na página: 1420
+Faltando: [1_@_Kodak EasyShare V803 8MP Digital Camera with 3x Optical Zoom (Mystic Purple)] na página: 1459
+Faltando: [1_@_Canon PowerShot SD3500IS 14.1 MP Digital Camera w/5x Ultra Wide Angle Optical IS Zoom (Pink) 8GB BP6L Battery/Charger BigVALUEInc Accessory Saver HD Bundle] na página: 1644
+Faltando: [1_@_Canon PowerShot SD940IS 12.1MP Digital Camera with 4x Wide Angle Optical Image Stabilized Zoom and 2.7-inch LCD (Black)] na página: 1608
+Faltando: [1_@_Canon PowerShot A1100IS 12.1 MP Digital Camera with 4x Optical Image Stabilized Zoom and 2.5-inch LCD (Silver)] na página: 1612
+Faltando: [1_@_Canon PowerShot SD1200IS 10 MP Digital Camera with 3x Optical Image Stabilized Zoom and 2.5-inch LCD (Blue)] na página: 1613
+Faltando: [1_@_Kodak EasyShare C182 Digital Camera (Red)] na página: 1614
+Faltando: [1_@_Canon PowerShot SD980IS 12.1MP Digital Camera with 5x Ultra Wide Angle Optical Image Stabilized Zoom and 3-inch LCD (Silver)] na página: 1604
+Faltando: [1_@_Fujifilm FinePix Z70 12 MP Digital Camera with 5x Optical Zoom and 2.7-Inch LCD (Berry Red)] na página: 1605
+Faltando: [1_@_Fujifilm FinePix JV100 12 MP Digital Camera with 3x Optical Zoom and 2.7inch LCD (Blue)] na página: 1607
+Faltando: [1_@_GE C1033 10MP Digital Camera with 3X Optical Zoom and 2.4 Inch LCD with Auto Brightness (Pink)] na página: 1620
+Faltando: [1_@_Canon PowerShot SD1400IS 14.1 MP Digital Camera w/4x Wide Angle Optical IS Zoom (Silver) 16GB BP4L Battery/Charger BigVALUEInc Accessory Saver HD Bundle] na página: 1582
+Faltando: [1_@_Olympus PEN E-PL1 Digital Camera - Champagne Gold - with 14-42mm Micro Four Thirds Lens, & Olympus M.Zuiko Digital ED 40-150mm f/4.0-5.6 Camera Lens - Black] na página: 1579
+Faltando: [1_@_Olympus Stylus 830 8MP Digital Camera with Dual Image Stabilized 5x Optical Zoom (Green)] na página: 1569
+Faltando: [1_@_Canon PowerShot SD3500IS 14.1 MP Digital Camera w/5x Ultra Wide Angle Optical IS Zoom (Pink) 16GB BP6L Battery/Charger BigVALUEInc Accessory Saver HD Bundle] na página: 1585
+Faltando: [1_@_Panasonic Lumix DMC-FX30K 7.2MP Digital Camera with 3.6x Optical Image Stabilized Zoom (Black)] na página: 1549
+Faltando: [1_@_GE A1255 12MP Digital Camera with 5X Optical Zoom and 2.7-Inch LCD with Auto Brightess (Silver)] na página: 1544
+Faltando: [1_@_HP Photosmart M407 4MP Digital Camera with 3x Optical Zoom] na página: 1546
+Faltando: [1_@_Canon Powershot SD30 5MP Digital Elph Camera with 2.4x Optical Zoom (Tuxedo Black)] na página: 1566
+Faltando: [1_@_Panasonic Lumix DMC-FS3A 8.1MP Digital Camera with 3x MEGA Optical Image Stabilized Zoom (Light Blue)] na página: 1557
+Faltando: [1_@_GE A1255 12MP Digital Camera with 5X Optical Zoom and 2.7-Inch LCD with Auto Brightess (Black)] na página: 1555
+Faltando: [1_@_Casio Exilim EX-Z700 7MP Digital Camera with 3x Anti Shake Optical Zoom (Silver)] na página: 1761
+Faltando: [1_@_Sony DSCTX7 DSC-TX7 10.2MP CMOS Digital Camera with 4x Optical Zoom with Optical Steady Shot Image Stabilization and 3.5-inch Touch Screen LCD in Silver + 4GB Accessory Kit] na página: 1729
+Faltando: [1_@_Canon PowerShot SD980IS 12.1MP Digital Camera w/5x Ultra Wide Angle Optical Image Stabilized Zoom and 3-inch LCD (Purple) 4GB BP6L Battery/Charger BigVALUEInc Accessory Saver Bundle] na página: 1752
+Faltando: [1_@_Canon PowerShot SD3500IS 14.1 MP Digital Camera w/5x Ultra Wide Angle Optical IS Zoom (Black) 8GB BP6L Battery/Charger BigVALUEInc Accessory Saver HD Bundle] na página: 1701
+Faltando: [1_@_Olympus E-P2 Pen, Interchangeable Lens Digital Camera, (EVF Not included) with M.Zuiko 14-42mm f/3.5-5.6 ED Black Lens, & Olympus M.Zuiko Digital ED 40-150mm f/4.0-5.6 Camera Lens - Black] na página: 1699
+Faltando: [1_@_Panasonic Lumix DMC-FS20S 10MP Digital Camera with 4x Wide Angle MEGA Optical Image Stabilized Zoom (Silver)] na página: 1698
+Faltando: [1_@_Fujifilm Finepix Z100fd 8MP Digital Camera with 5x Optical Image Stabilized Zoom (Pink)] na página: 1697
+Faltando: [1_@_NEW!~PANASONIC DMC-FZ35/FZ-38 12.1MP DIGITAL CAMERA *BLACK* Wide-angle 27mm LEICA DC VARIO-ELMARIT lens and 18x optical zoom!! ~1 BONUS:New *8GB* SD Memory Card~] na página: 1709
+Faltando: [1_@_Sony Cyber-shot DSC-WX1/B 10MP "Exmor R" CMOS Digital Camera with 5x Optical Steady Shot Stabilized Zoom and 2.7-inch LCD (Black) Sony Cybershot DSC-WX1 DSCWX1B DSCWX1 10mp Digital Camera + 16GB Deluxe Accessory Kit] na página: 1718
+Faltando: [1_@_Pentax Optio W60 Waterproof 10MP Digital Camera with 5x Wide Angle Optical Zoom (Silver)] na página: 1719
+Faltando: [1_@_GE G2-RD 8MP Ultra-Slim Digital Camera with 4X Optical Zoom and 2.7-Inch LCD with Auto Brightness (Red)] na página: 1717
+Faltando: [1_@_GE 1255W-PK 12MP Digital Camera with 5X Optical Zoom and 3.0-Inch LCD Screen with Auto Brightness (Pink)] na página: 1714
+Faltando: [1_@_GE 1255W-BK 12MP Digital Camera with 5X Optical Zoom and 3.0-Inch LCD Screen with Auto Brightness (Black)] na página: 1678
+Faltando: [1_@_Fujifilm Finepix Z100fd 8MP Digital Camera with 5x Optical Image Stabilized Zoom (Brown)] na página: 1681
+Faltando: [1_@_Panasonic DMC-FZ7S 6MP Digital Camera with 12x Optical Image Stabilized Zoom (Silver)] na página: 1692
+Faltando: [1_@_Sony DSCS2100 DSC-S2100 12.1MP Digital Camera with 3x Optical Zoom with Digital Steady Shot Image Stabilization and 3.0 inch LCD in Black + 2GB Accessory Kit] na página: 1694
+Faltando: [1_@_Canon PowerShot SD40 7.1MP Digital Elph Camera with 2.4x Optical Zoom (Twilight Sepia)] na página: 1695
+Faltando: [1_@_Panasonic Lumix DMC-FZ1S 2 MP Digital Camera w/12x Optical Zoom (Silver)] na página: 1690
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 14:07 - price********************************
+dataset;SWDE;domain;camera;site;camera-amazon;attribute;price;relevantes;1767;recuperados;1390;relevantes recuperados; 1390;recall;0.7866440294284097;precision;1.0;date;2016-02-12 14:07
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_$129.00] na página: 0
+Faltando: [1_@_$129.00] na página: 3
+Faltando: [1_@_$129.00] na página: 7
+Faltando: [1_@_$129.00] na página: 12
+Faltando: [1_@_$96.95] na página: 13
+Faltando: [1_@_$129.00] na página: 14
+Faltando: [1_@_$197.88] na página: 15
+Faltando: [1_@_$418.13] na página: 16
+Faltando: [1_@_$249.00] na página: 18
+Faltando: [1_@_$114.00] na página: 35
+Faltando: [1_@_$99.95] na página: 40
+Faltando: [1_@_$169.99] na página: 45
+Faltando: [1_@_$183.38] na página: 49
+Faltando: [1_@_$499.95] na página: 59
+Faltando: [1_@_$699.95] na página: 69
+Faltando: [1_@_$53.39] na página: 79
+Faltando: [1_@_$264.95] na página: 106
+Faltando: [1_@_$229.99] na página: 118
+Faltando: [1_@_$249.99] na página: 126
+Faltando: [1_@_$299.99] na página: 120
+Faltando: [1_@_$109.95] na página: 137
+Faltando: [1_@_$499.99] na página: 129
+Faltando: [1_@_$304.23] na página: 130
+Faltando: [1_@_$199.22] na página: 135
+Faltando: [1_@_$499.95] na página: 155
+Faltando: [1_@_$89.00] na página: 158
+Faltando: [1_@_$119.95] na página: 144
+Faltando: [1_@_$299.99] na página: 148
+Faltando: [1_@_$349.95] na página: 149
+Faltando: [1_@_$274.09] na página: 170
+Faltando: [1_@_$299.99] na página: 173
+Faltando: [1_@_$89.00] na página: 160
+Faltando: [1_@_$139.95] na página: 180
+Faltando: [1_@_$199.95] na página: 204
+Faltando: [1_@_$309.00] na página: 206
+Faltando: [1_@_$129.95] na página: 201
+Faltando: [1_@_$89.64] na página: 202
+Faltando: [1_@_$282.79] na página: 194
+Faltando: [1_@_$169.95] na página: 218
+Faltando: [1_@_$449.00] na página: 213
+Faltando: [1_@_$199.95] na página: 210
+Faltando: [1_@_$399.95] na página: 255
+Faltando: [1_@_$353.97] na página: 253
+Faltando: [1_@_$79.95] na página: 250
+Faltando: [1_@_$189.99] na página: 274
+Faltando: [1_@_$244.94] na página: 273
+Faltando: [1_@_$115.99] na página: 279
+Faltando: [1_@_$79.99] na página: 278
+Faltando: [1_@_$67.88] na página: 277
+Faltando: [1_@_$499.00] na página: 276
+Faltando: [1_@_$219.95] na página: 258
+Faltando: [1_@_$299.99] na página: 263
+Faltando: [1_@_$189.99] na página: 270
+Faltando: [1_@_$199.99] na página: 271
+Faltando: [1_@_$204.90] na página: 269
+Faltando: [1_@_$339.95] na página: 304
+Faltando: [1_@_$264.95] na página: 306
+Faltando: [1_@_$129.99] na página: 309
+Faltando: [1_@_$299.99] na página: 290
+Faltando: [1_@_$144.99] na página: 291
+Faltando: [1_@_$169.95] na página: 292
+Faltando: [1_@_$144.95] na página: 293
+Faltando: [1_@_$249.95] na página: 299
+Faltando: [1_@_$144.95] na página: 300
+Faltando: [1_@_$254.02] na página: 336
+Faltando: [1_@_$156.09] na página: 349
+Faltando: [1_@_$106.24] na página: 345
+Faltando: [1_@_$189.99] na página: 344
+Faltando: [1_@_$119.99] na página: 326
+Faltando: [1_@_$189.99] na página: 322
+Faltando: [1_@_$106.95] na página: 323
+Faltando: [1_@_$279.95] na página: 330
+Faltando: [1_@_$159.99] na página: 372
+Faltando: [1_@_$319.00] na página: 381
+Faltando: [1_@_$189.99] na página: 376
+Faltando: [1_@_$149.00] na página: 379
+Faltando: [1_@_$142.46] na página: 378
+Faltando: [1_@_$201.97] na página: 358
+Faltando: [1_@_$85.99] na página: 354
+Faltando: [1_@_$139.45] na página: 367
+Faltando: [1_@_$173.49] na página: 360
+Faltando: [1_@_$69.02] na página: 410
+Faltando: [1_@_$179.00] na página: 415
+Faltando: [1_@_$144.98] na página: 392
+Faltando: [1_@_$319.95] na página: 389
+Faltando: [1_@_$209.88] na página: 388
+Faltando: [1_@_$253.40] na página: 443
+Faltando: [1_@_$79.95] na página: 424
+Faltando: [1_@_$495.00] na página: 429
+Faltando: [1_@_$313.99] na página: 419
+Faltando: [1_@_$85.99] na página: 422
+Faltando: [1_@_$214.95] na página: 478
+Faltando: [1_@_$136.94] na página: 474
+Faltando: [1_@_$409.95] na página: 470
+Faltando: [1_@_$129.95] na página: 462
+Faltando: [1_@_$192.65] na página: 458
+Faltando: [1_@_$174.95] na página: 454
+Faltando: [1_@_$72.89] na página: 452
+Faltando: [1_@_$199.95] na página: 510
+Faltando: [1_@_$269.45] na página: 505
+Faltando: [1_@_$99.61] na página: 506
+Faltando: [1_@_$219.59] na página: 501
+Faltando: [1_@_$188.96] na página: 502
+Faltando: [1_@_$89.99] na página: 503
+Faltando: [1_@_$599.00] na página: 492
+Faltando: [1_@_$164.95] na página: 494
+Faltando: [1_@_$95.64] na página: 488
+Faltando: [1_@_$229.99] na página: 490
+Faltando: [1_@_$329.95] na página: 487
+Faltando: [1_@_$289.99] na página: 547
+Faltando: [1_@_$199.99] na página: 545
+Faltando: [1_@_$129.95] na página: 558
+Faltando: [1_@_$169.99] na página: 554
+Faltando: [1_@_$281.43] na página: 553
+Faltando: [1_@_$182.98] na página: 566
+Faltando: [1_@_$189.99] na página: 561
+Faltando: [1_@_$149.99] na página: 573
+Faltando: [1_@_$299.95] na página: 572
+Faltando: [1_@_$147.87] na página: 519
+Faltando: [1_@_$89.99] na página: 512
+Faltando: [1_@_$69.99] na página: 526
+Faltando: [1_@_$169.95] na página: 527
+Faltando: [1_@_$309.95] na página: 534
+Faltando: [1_@_$316.96] na página: 530
+Faltando: [1_@_$100.64] na página: 536
+Faltando: [1_@_$163.44] na página: 539
+Faltando: [1_@_$999.95] na página: 609
+Faltando: [1_@_$180.95] na página: 612
+Faltando: [1_@_$329.95] na página: 619
+Faltando: [1_@_$294.27] na página: 617
+Faltando: [1_@_$187.94] na página: 622
+Faltando: [1_@_$119.99] na página: 631
+Faltando: [1_@_$309.95] na página: 635
+Faltando: [1_@_$91.39] na página: 633
+Faltando: [1_@_$120.90] na página: 576
+Faltando: [1_@_$199.99] na página: 578
+Faltando: [1_@_$179.00] na página: 584
+Faltando: [1_@_$169.99] na página: 586
+Faltando: [1_@_$406.96] na página: 588
+Faltando: [1_@_$249.00] na página: 590
+Faltando: [1_@_$179.00] na página: 593
+Faltando: [1_@_$164.98] na página: 595
+Faltando: [1_@_$147.87] na página: 598
+Faltando: [1_@_$79.95] na página: 607
+Faltando: [1_@_$299.99] na página: 686
+Faltando: [1_@_$195.95] na página: 683
+Faltando: [1_@_$92.99] na página: 682
+Faltando: [1_@_$71.00] na página: 699
+Faltando: [1_@_$149.99] na página: 691
+Faltando: [1_@_$79.99] na página: 652
+Faltando: [1_@_$144.99] na página: 651
+Faltando: [1_@_$174.95] na página: 641
+Faltando: [1_@_$329.95] na página: 640
+Faltando: [1_@_$293.78] na página: 642
+Faltando: [1_@_$279.95] na página: 670
+Faltando: [1_@_$309.95] na página: 665
+Faltando: [1_@_$249.99] na página: 663
+Faltando: [1_@_$489.00] na página: 656
+Faltando: [1_@_$239.95] na página: 659
+Faltando: [1_@_$344.95] na página: 747
+Faltando: [1_@_$223.83] na página: 738
+Faltando: [1_@_$109.99] na página: 736
+Faltando: [1_@_$520.08] na página: 740
+Faltando: [1_@_$114.00] na página: 766
+Faltando: [1_@_$199.99] na página: 754
+Faltando: [1_@_$174.49] na página: 756
+Faltando: [1_@_$129.95] na página: 713
+Faltando: [1_@_$61.36] na página: 705
+Faltando: [1_@_$269.49] na página: 708
+Faltando: [1_@_$148.00] na página: 710
+Faltando: [1_@_$129.95] na página: 728
+Faltando: [1_@_$149.95] na página: 734
+Faltando: [1_@_$94.95] na página: 735
+Faltando: [1_@_$79.99] na página: 721
+Faltando: [1_@_$109.99] na página: 723
+Faltando: [1_@_$129.99] na página: 820
+Faltando: [1_@_$69.00] na página: 822
+Faltando: [1_@_$149.99] na página: 818
+Faltando: [1_@_$69.99] na página: 825
+Faltando: [1_@_$79.95] na página: 826
+Faltando: [1_@_$612.00] na página: 804
+Faltando: [1_@_$132.53] na página: 807
+Faltando: [1_@_$479.00] na página: 800
+Faltando: [1_@_$119.99] na página: 812
+Faltando: [1_@_$234.19] na página: 808
+Faltando: [1_@_$169.95] na página: 809
+Faltando: [1_@_$81.25] na página: 791
+Faltando: [1_@_$299.95] na página: 790
+Faltando: [1_@_$329.95] na página: 788
+Faltando: [1_@_$118.56] na página: 786
+Faltando: [1_@_$179.99] na página: 798
+Faltando: [1_@_$149.99] na página: 797
+Faltando: [1_@_$69.99] na página: 794
+Faltando: [1_@_$149.99] na página: 792
+Faltando: [1_@_$131.56] na página: 772
+Faltando: [1_@_$499.90] na página: 783
+Faltando: [1_@_$399.95] na página: 776
+Faltando: [1_@_$249.95] na página: 882
+Faltando: [1_@_$128.73] na página: 895
+Faltando: [1_@_$259.99] na página: 871
+Faltando: [1_@_$259.90] na página: 873
+Faltando: [1_@_$129.99] na página: 876
+Faltando: [1_@_$379.95] na página: 878
+Faltando: [1_@_$149.95] na página: 879
+Faltando: [1_@_$89.00] na página: 851
+Faltando: [1_@_$423.43] na página: 850
+Faltando: [1_@_$69.99] na página: 852
+Faltando: [1_@_$179.99] na página: 859
+Faltando: [1_@_$111.79] na página: 858
+Faltando: [1_@_$429.19] na página: 840
+Faltando: [1_@_$180.95] na página: 844
+Faltando: [1_@_$398.44] na página: 954
+Faltando: [1_@_$89.99] na página: 947
+Faltando: [1_@_$195.95] na página: 940
+Faltando: [1_@_$169.90] na página: 937
+Faltando: [1_@_$99.00] na página: 936
+Faltando: [1_@_$249.00] na página: 935
+Faltando: [1_@_$499.00] na página: 925
+Faltando: [1_@_$299.95] na página: 914
+Faltando: [1_@_$185.90] na página: 915
+Faltando: [1_@_$108.06] na página: 907
+Faltando: [1_@_$224.95] na página: 902
+Faltando: [1_@_$68.58] na página: 1018
+Faltando: [1_@_$129.00] na página: 1022
+Faltando: [1_@_$309.95] na página: 1010
+Faltando: [1_@_$169.95] na página: 1004
+Faltando: [1_@_$279.96] na página: 993
+Faltando: [1_@_$139.95] na página: 998
+Faltando: [1_@_$129.99] na página: 984
+Faltando: [1_@_$348.00] na página: 982
+Faltando: [1_@_$129.99] na página: 980
+Faltando: [1_@_$399.95] na página: 970
+Faltando: [1_@_$175.22] na página: 967
+Faltando: [1_@_$299.99] na página: 965
+Faltando: [1_@_$149.99] na página: 1101
+Faltando: [1_@_$82.96] na página: 1099
+Faltando: [1_@_$207.95] na página: 1093
+Faltando: [1_@_$699.95] na página: 1112
+Faltando: [1_@_$169.95] na página: 1134
+Faltando: [1_@_$184.95] na página: 1120
+Faltando: [1_@_$349.95] na página: 1121
+Faltando: [1_@_$129.99] na página: 1151
+Faltando: [1_@_$239.95] na página: 1150
+Faltando: [1_@_$119.95] na página: 1142
+Faltando: [1_@_$169.95] na página: 1137
+Faltando: [1_@_$205.18] na página: 1136
+Faltando: [1_@_$159.95] na página: 1032
+Faltando: [1_@_$349.95] na página: 1034
+Faltando: [1_@_$399.95] na página: 1039
+Faltando: [1_@_$169.95] na página: 1024
+Faltando: [1_@_$136.99] na página: 1027
+Faltando: [1_@_$369.00] na página: 1028
+Faltando: [1_@_$78.93] na página: 1029
+Faltando: [1_@_$184.99] na página: 1049
+Faltando: [1_@_$329.95] na página: 1055
+Faltando: [1_@_$154.99] na página: 1041
+Faltando: [1_@_$85.79] na página: 1043
+Faltando: [1_@_$169.95] na página: 1042
+Faltando: [1_@_$61.91] na página: 1044
+Faltando: [1_@_$219.95] na página: 1047
+Faltando: [1_@_$149.95] na página: 1069
+Faltando: [1_@_$294.96] na página: 1063
+Faltando: [1_@_$329.95] na página: 1074
+Faltando: [1_@_$148.00] na página: 1078
+Faltando: [1_@_$349.95] na página: 1217
+Faltando: [1_@_$182.50] na página: 1225
+Faltando: [1_@_$309.95] na página: 1238
+Faltando: [1_@_$169.99] na página: 1244
+Faltando: [1_@_$567.47] na página: 1243
+Faltando: [1_@_$179.00] na página: 1255
+Faltando: [1_@_$419.96] na página: 1249
+Faltando: [1_@_$299.95] na página: 1248
+Faltando: [1_@_$149.99] na página: 1259
+Faltando: [1_@_$199.99] na página: 1257
+Faltando: [1_@_$114.00] na página: 1256
+Faltando: [1_@_$179.95] na página: 1264
+Faltando: [1_@_$109.00] na página: 1265
+Faltando: [1_@_$129.99] na página: 1279
+Faltando: [1_@_$399.95] na página: 1276
+Faltando: [1_@_$81.99] na página: 1274
+Faltando: [1_@_$205.95] na página: 1157
+Faltando: [1_@_$111.16] na página: 1164
+Faltando: [1_@_$674.95] na página: 1174
+Faltando: [1_@_$329.00] na página: 1176
+Faltando: [1_@_$384.95] na página: 1178
+Faltando: [1_@_$184.95] na página: 1180
+Faltando: [1_@_$64.95] na página: 1186
+Faltando: [1_@_$296.95] na página: 1191
+Faltando: [1_@_$238.95] na página: 1195
+Faltando: [1_@_$389.95] na página: 1199
+Faltando: [1_@_$199.95] na página: 1202
+Faltando: [1_@_$146.95] na página: 1206
+Faltando: [1_@_$212.83] na página: 1210
+Faltando: [1_@_$399.99] na página: 1211
+Faltando: [1_@_$399.95] na página: 1366
+Faltando: [1_@_$159.95] na página: 1362
+Faltando: [1_@_$331.49] na página: 1358
+Faltando: [1_@_$309.95] na página: 1398
+Faltando: [1_@_$296.95] na página: 1393
+Faltando: [1_@_$309.95] na página: 1390
+Faltando: [1_@_$296.95] na página: 1384
+Faltando: [1_@_$296.95] na página: 1385
+Faltando: [1_@_$309.95] na página: 1386
+Faltando: [1_@_$309.95] na página: 1387
+Faltando: [1_@_$296.95] na página: 1378
+Faltando: [1_@_$111.16] na página: 1306
+Faltando: [1_@_$199.99] na página: 1304
+Faltando: [1_@_$449.96] na página: 1311
+Faltando: [1_@_$309.95] na página: 1310
+Faltando: [1_@_$111.16] na página: 1308
+Faltando: [1_@_$699.95] na página: 1302
+Faltando: [1_@_$398.33] na página: 1288
+Faltando: [1_@_$239.95] na página: 1289
+Faltando: [1_@_$399.99] na página: 1286
+Faltando: [1_@_$399.95] na página: 1287
+Faltando: [1_@_$329.99] na página: 1340
+Faltando: [1_@_$296.95] na página: 1329
+Faltando: [1_@_$146.95] na página: 1332
+Faltando: [1_@_$289.99] na página: 1320
+Faltando: [1_@_$384.95] na página: 1322
+Faltando: [1_@_$84.95] na página: 1324
+Faltando: [1_@_$100.28] na página: 1315
+Faltando: [1_@_$345.96] na página: 1317
+Faltando: [1_@_$119.95] na página: 1493
+Faltando: [1_@_$309.96] na página: 1490
+Faltando: [1_@_$299.95] na página: 1488
+Faltando: [1_@_$180.95] na página: 1489
+Faltando: [1_@_$159.95] na página: 1502
+Faltando: [1_@_$169.95] na página: 1503
+Faltando: [1_@_$299.95] na página: 1478
+Faltando: [1_@_$249.96] na página: 1486
+Faltando: [1_@_$389.99] na página: 1523
+Faltando: [1_@_$274.95] na página: 1529
+Faltando: [1_@_$399.44] na página: 1509
+Faltando: [1_@_$293.42] na página: 1508
+Faltando: [1_@_$146.95] na página: 1505
+Faltando: [1_@_$349.96] na página: 1517
+Faltando: [1_@_$309.95] na página: 1425
+Faltando: [1_@_$114.00] na página: 1433
+Faltando: [1_@_$69.95] na página: 1439
+Faltando: [1_@_$169.99] na página: 1437
+Faltando: [1_@_$239.90] na página: 1459
+Faltando: [1_@_$184.95] na página: 1633
+Faltando: [1_@_$168.89] na página: 1608
+Faltando: [1_@_$239.99] na página: 1612
+Faltando: [1_@_$197.99] na página: 1613
+Faltando: [1_@_$129.96] na página: 1614
+Faltando: [1_@_$205.59] na página: 1604
+Faltando: [1_@_$99.95] na página: 1605
+Faltando: [1_@_$79.99] na página: 1607
+Faltando: [1_@_$139.95] na página: 1621
+Faltando: [1_@_$79.99] na página: 1620
+Faltando: [1_@_$299.95] na página: 1569
+Faltando: [1_@_$139.95] na página: 1591
+Faltando: [1_@_$281.43] na página: 1549
+Faltando: [1_@_$159.95] na página: 1551
+Faltando: [1_@_$88.60] na página: 1544
+Faltando: [1_@_$144.95] na página: 1546
+Faltando: [1_@_$366.96] na página: 1566
+Faltando: [1_@_$299.95] na página: 1557
+Faltando: [1_@_$79.99] na página: 1555
+Faltando: [1_@_$349.95] na página: 1761
+Faltando: [1_@_$139.95] na página: 1737
+Faltando: [1_@_$279.95] na página: 1753
+Faltando: [1_@_$309.95] na página: 1755
+Faltando: [1_@_$294.95] na página: 1756
+Faltando: [1_@_$199.22] na página: 1698
+Faltando: [1_@_$189.99] na página: 1697
+Faltando: [1_@_$338.44] na página: 1719
+Faltando: [1_@_$263.25] na página: 1717
+Faltando: [1_@_$169.99] na página: 1714
+Faltando: [1_@_$110.76] na página: 1678
+Faltando: [1_@_$57.10] na página: 1684
+Faltando: [1_@_$198.44] na página: 1681
+Faltando: [1_@_$419.44] na página: 1692
+Faltando: [1_@_$361.96] na página: 1695
+Faltando: [1_@_$419.00] na página: 1690
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

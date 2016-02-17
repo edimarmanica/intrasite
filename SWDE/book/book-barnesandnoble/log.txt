@@ -1,0 +1,52 @@
+
+
+*************2016-02-12 13:30 - author********************************
+dataset;SWDE;domain;book;site;book-barnesandnoble;attribute;author;relevantes;2000;recuperados;2000;relevantes recuperados; 1994;recall;0.997;precision;0.997;date;2016-02-12 13:30
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Grosset & Dunlap] na página: 274
+Faltando: [3_@_Steve Englehart_@_Marv Wolfman_@_David Kraft] na página: 790
+Faltando: [1_@_Robert Kirkman] na página: 877
+Faltando: [4_@_David Friend_@_Judy Bachrach_@_Jim Windolf_@_Vanity Fair Editors] na página: 1382
+Faltando: [2_@_James Cameron_@_Benjamin Harper] na página: 1419
+Faltando: [1_@_Brian Michael Bendis] na página: 1443
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+Faltando: [Natasha Wing] na página: 274
+Faltando: [Gene Colan] na página: 790
+Faltando: [Charlie Adlard] na página: 877
+Faltando: [Graydon Carter] na página: 1382
+Faltando: [Nicole Pitesa] na página: 1419
+Faltando: [Alex Maleev] na página: 1443
+
+
+*************2016-02-12 13:30 - isbn_13********************************
+dataset;SWDE;domain;book;site;book-barnesandnoble;attribute;isbn_13;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-12 13:30
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:31 - publication_date********************************
+dataset;SWDE;domain;book;site;book-barnesandnoble;attribute;publication_date;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-12 13:31
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:31 - publisher********************************
+dataset;SWDE;domain;book;site;book-barnesandnoble;attribute;publisher;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-12 13:31
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:32 - title********************************
+dataset;SWDE;domain;book;site;book-barnesandnoble;attribute;title;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-12 13:32
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

@@ -1,0 +1,134 @@
+
+
+*************2016-02-12 13:44 - author********************************
+dataset;SWDE;domain;book;site;book-bookdepository;attribute;author;relevantes;2000;recuperados;1987;relevantes recuperados; 1987;recall;0.9935;precision;1.0;date;2016-02-12 13:44
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Robert Kirkman] na página: 10
+Faltando: [1_@_Bryan Lee O'Malley] na página: 30
+Faltando: [1_@_Robert Kirkman] na página: 160
+Faltando: [1_@_Robert Kirkman] na página: 500
+Faltando: [1_@_Michael Mack] na página: 766
+Faltando: [1_@_Shane McCarthy] na página: 862
+Faltando: [1_@_John Layman] na página: 953
+Faltando: [1_@_Toko Kawai] na página: 898
+Faltando: [1_@_Riyu Yamakami] na página: 897
+Faltando: [1_@_Friedrich Wilhelm Nietzsche] na página: 1083
+Faltando: [1_@_BBC Worldwide] na página: 1165
+Faltando: [1_@_Claire Freedman] na página: 1213
+Faltando: [1_@_Flores] na página: 1646
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:44 - isbn_13********************************
+dataset;SWDE;domain;book;site;book-bookdepository;attribute;isbn_13;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-12 13:44
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:44 - publication_date********************************
+dataset;SWDE;domain;book;site;book-bookdepository;attribute;publication_date;relevantes;1915;recuperados;1915;relevantes recuperados; 1915;recall;1.0;precision;1.0;date;2016-02-12 13:44
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:44 - publisher********************************
+dataset;SWDE;domain;book;site;book-bookdepository;attribute;publisher;relevantes;1976;recuperados;1976;relevantes recuperados; 1976;recall;1.0;precision;1.0;date;2016-02-12 13:44
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:44 - title********************************
+dataset;SWDE;domain;book;site;book-bookdepository;attribute;title;relevantes;2000;recuperados;1919;relevantes recuperados; 1919;recall;0.9595;precision;1.0;date;2016-02-12 13:44
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Where Is the Green Sheep? Doll: 6.5"] na página: 78
+Faltando: [1_@_The Walking Dead Compendium: v. 1] na página: 75
+Faltando: [1_@_Good Food] na página: 155
+Faltando: [1_@_Where Is the Green Sheep?] na página: 236
+Faltando: [1_@_Cutting for Stone] na página: 260
+Faltando: [1_@_Tess of the D'Urbervilles] na página: 302
+Faltando: [1_@_Empire of Silver] na página: 320
+Faltando: [1_@_Metro 2033] na página: 391
+Faltando: [1_@_The Tourist] na página: 439
+Faltando: [1_@_Truth] na página: 485
+Faltando: [1_@_Truth] na página: 484
+Faltando: [1_@_206 Bones] na página: 546
+Faltando: [1_@_Scar Tissue] na página: 552
+Faltando: [1_@_The Kite Runner] na página: 515
+Faltando: [1_@_Into the Wilderness] na página: 613
+Faltando: [1_@_The Secret Language of Destiny] na página: 604
+Faltando: [1_@_Without Warning] na página: 698
+Faltando: [1_@_The Boy Who Was Raised as a Dog: And Other Stories from a Child Psychiatrist's Notebook - What Traumatized Children Can Teach Us About Loss, Love, and Healing] na página: 641
+Faltando: [1_@_The Trial] na página: 640
+Faltando: [1_@_The Fry Chronicles: A Memoir] na página: 738
+Faltando: [1_@_The Adobe Photoshop Cs5 Book for Digital Photographers] na página: 708
+Faltando: [1_@_Awkward Family Photos] na página: 720
+Faltando: [1_@_The Spellmans Strike Again] na página: 816
+Faltando: [1_@_Stieg Larsson's Millennium Trilogy Deluxe Boxed Set: The Girl with the Dragon Tattoo, the Girl Who Played with Fire, the Girl Who Kicked the Hornet's Nest, Plus on Stieg Larsson] na página: 797
+Faltando: [1_@_When You Reach Me] na página: 793
+Faltando: [1_@_The Complete Writer: Level 2 Workbook: Writing with Ease - Strong Fundamentals] na página: 773
+Faltando: [1_@_The Winter of Our Disconnect: How Three Totally Wired Teenagers (and a Mother Who Slept with Her Iphone)Pulled the Plug on Their Technology and Lived to Tell the Tale] na página: 880
+Faltando: [1_@_Good Food] na página: 843
+Faltando: [1_@_Gourmet Rhapsody] na página: 1020
+Faltando: [1_@_The Accidental Billionaires: The Founding of Facebook: A Tale of Sex, Money, Genius, and Betrayal] na página: 1003
+Faltando: [1_@_The Guernsey Literary and Potato Peel Pie Society] na página: 994
+Faltando: [1_@_Things Fall Apart] na página: 999
+Faltando: [1_@_The Grand Design] na página: 984
+Faltando: [1_@_Diary of a Wimpy Kid. Do-It-Yourself Book] na página: 978
+Faltando: [1_@_Middlemarch, a Study of Provincial Life] na página: 1105
+Faltando: [1_@_Ship of Magic] na página: 1145
+Faltando: [1_@_The Bro Code] na página: 1053
+Faltando: [1_@_My Faith So Far: A Story of Conversion and Confusion] na página: 1181
+Faltando: [1_@_The Last Olympian] na página: 1204
+Faltando: [1_@_Unbelievable] na página: 1357
+Faltando: [1_@_Three Cups of Tea: One Man's Mission to Promote Peace... One School at a Time] na página: 1353
+Faltando: [1_@_The Waves (Hardback)] na página: 1396
+Faltando: [1_@_The Story of Little Black Sambo] na página: 1392
+Faltando: [1_@_Bis (Biss) zum Morgengrauen] na página: 1381
+Faltando: [1_@_Putas Asesinas] na página: 1299
+Faltando: [1_@_The Five People You Meet in Heaven] na página: 1288
+Faltando: [1_@_The Immortal Highlander] na página: 1280
+Faltando: [1_@_The Fatal Eggs] na página: 1329
+Faltando: [1_@_Last Dragon Standing] na página: 1502
+Faltando: [1_@_Last Dragon Standing] na página: 1503
+Faltando: [1_@_Everyday Raw Desserts] na página: 1508
+Faltando: [1_@_The Communist Manifesto] na página: 1463
+Faltando: [1_@_Night Before Christmas] na página: 1446
+Faltando: [1_@_How to Store Your Garden Produce: The Key to Self-sufficiency] na página: 1448
+Faltando: [1_@_Wolves of the Calla] na página: 1656
+Faltando: [1_@_The Drunkard's Walk: How Randomness Rules Our Lives] na página: 1609
+Faltando: [1_@_Shutter Island] na página: 1623
+Faltando: [1_@_Ask the Dust] na página: 1593
+Faltando: [1_@_A Woman of No Importance] na página: 1592
+Faltando: [1_@_Phantom] na página: 1547
+Faltando: [1_@_Pride] na página: 1556
+Faltando: [1_@_The Volatility Surface: A Practitioner's Guide] na página: 1768
+Faltando: [1_@_Mrs. Dalloway] na página: 1778
+Faltando: [1_@_Canon 50d: From Snapshots to Great Shots] na página: 1738
+Faltando: [1_@_Adobe Photoshop CS5 for Photographers: A professional image editor's guide to the creative use of Photoshop for the Macintosh and PC] na página: 1740
+Faltando: [1_@_Frankenstein, or the Modern Prometheus] na página: 1742
+Faltando: [1_@_Lord John and the Brotherhood of the Blade] na página: 1726
+Faltando: [1_@_3rd Revised edition of Writing Your Dissertation: How to Plan, Prepare and Present Your Work Successfully: The Bestselling Guide to Planning, Preparing and Presenting First-Class Work] na página: 1912
+Faltando: [1_@_First Light] na página: 1904
+Faltando: [1_@_When You Reach Me] na página: 1901
+Faltando: [1_@_The Evolution of Calpurnia Tate] na página: 1902
+Faltando: [1_@_The Pursuit of God] na página: 1891
+Faltando: [1_@_Mysterious Island] na página: 1884
+Faltando: [1_@_Don Quixote] na página: 1871
+Faltando: [1_@_North and South] na página: 1792
+Faltando: [1_@_Der Prophet] na página: 1986
+Faltando: [1_@_Psychoanalysis and the Unconscious and Fantasia of the Unconscious] na página: 1966
+Faltando: [1_@_The Charm School] na página: 1938
+Faltando: [1_@_2nd Revised edition of "Dialogues Concerning Natural Religion WITH Of the Immortality of the Soul AND Of Suicide": with "Of the Immortality of the Soul, "Of Suicide", "Of Miracles"] na página: 1951
+Faltando: [1_@_The White Queen] na página: 1944
+Faltando: [1_@_Caesar's Legion: The Epic Saga of Julius Caesar's Elite Tenth Legion and the Armies of Rome] na página: 1928
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

@@ -1,0 +1,6 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,book,book-booksamillion,author,rule_1683.csv,by,2000,2000,2000,1.0,1.0,2016-02-12 13:36
+SWDE,book,book-booksamillion,isbn_13,rule_1051.csv,ISBN-13,2000,2000,2000,1.0,1.0,2016-02-12 13:36
+SWDE,book,book-booksamillion,publication_date,rule_1751.csv,Date,2000,2000,2000,1.0,1.0,2016-02-12 13:36
+SWDE,book,book-booksamillion,publisher,rule_676.csv,Publisher,2000,2000,2000,1.0,1.0,2016-02-12 13:36
+SWDE,book,book-booksamillion,title,rule_1067.csv,by,2000,2000,2000,1.0,1.0,2016-02-12 13:36

@@ -1,0 +1,47 @@
+
+
+*************2016-02-12 13:46 - author********************************
+dataset;SWDE;domain;book;site;book-borders;attribute;author;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-12 13:46
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:46 - isbn_13********************************
+dataset;SWDE;domain;book;site;book-borders;attribute;isbn_13;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-12 13:46
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:46 - publication_date********************************
+dataset;SWDE;domain;book;site;book-borders;attribute;publication_date;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-12 13:46
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:46 - publisher********************************
+dataset;SWDE;domain;book;site;book-borders;attribute;publisher;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-12 13:46
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-12 13:46 - title********************************
+dataset;SWDE;domain;book;site;book-borders;attribute;title;relevantes;2000;recuperados;1993;relevantes recuperados; 1993;recall;0.9965;precision;1.0;date;2016-02-12 13:46
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Soccernomics: Why England Loses, Why Germany and Brazil Win, and Why the U.S., Japan, Australia, Turkey--and Even Iraq--are Destined to Become the Kings of the Worl] na página: 125
+Faltando: [1_@_The Scarlet Letter: Complete, authoritative Text with Biographical, Historical, and Cultural contexts, Critical History, and Essays from contemporary Critical Perspective] na página: 220
+Faltando: [1_@_Frankenstein: Complete, Authoritative Text With Biographical, Historical, and Cultural Contexts, Critical History, and Essays from Contemporary Critical] na página: 548
+Faltando: [1_@_Frankenstein: Complete, Authoritative Text With Biographical, Historical, and Cultural Contexts, Critical History, and Essays from Contemporary Critical perspective] na página: 561
+Faltando: [1_@_Warman’s State Quarters Deluxe: 50 States, District of Columbia & Territories, Philadelphia & Denver Mint Collection, Collector’s Quarter Folder 1999-2009] na página: 1226
+Faltando: [1_@_Bright Lights, Big Ass: A Self-Indulgent, Surly, Ex-Sorority Girl’s Guide to Why it Often Sucks in the City, or Who Are These Idiots and Why Do They All Live Next Door to Me?] na página: 1502
+Faltando: [1_@_The Biggest Loser Complete Calorie Counter: The Quick and Easy Guide to Thousands of Foods from Grocery Stores and Popular Restaurants--as Seen on Nbc’s Hit Show!] na página: 1881
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
