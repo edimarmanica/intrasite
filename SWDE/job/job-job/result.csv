@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,job,job-job,company,rule_2435.csv,Company:,2000,2000,2000,1.0,1.0,2016-02-17 12:26
+SWDE,job,job-job,date_posted,rule_984.csv,Date Posted:,2000,2000,2000,1.0,1.0,2016-02-17 12:26
+SWDE,job,job-job,location,rule_1897.csv,Location:,2000,2000,2000,1.0,1.0,2016-02-17 12:26
+SWDE,job,job-job,title,rule_2131.csv,Job Description,2000,2000,2000,1.0,1.0,2016-02-17 12:26

@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,movie,movie-boxofficemojo,director,rule_6708.csv,The Players,2000,1666,1666,0.833,1.0,2016-02-17 15:19
+SWDE,movie,movie-boxofficemojo,genre,rule_7503.csv,Genre:,2000,2000,2000,1.0,1.0,2016-02-17 15:19
+SWDE,movie,movie-boxofficemojo,rating,rule_2571.csv,MPAA Rating:,2000,2000,2000,1.0,1.0,2016-02-17 15:19
+SWDE,movie,movie-boxofficemojo,title,rule_6478.csv,Runtime:,2000,1908,1908,0.954,1.0,2016-02-17 15:19

@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,movie,movie-hollywood,director,rule_1374.csv,Director,1977,1683,57,0.028831562974203338,0.0338680926916221,2016-02-17 15:29
+SWDE,movie,movie-hollywood,genre,Attribute not found,,2000,0,0,0.0,0.0,2016-02-17 15:29
+SWDE,movie,movie-hollywood,rating,Attribute not found,,2000,0,0,0.0,0.0,2016-02-17 15:29
+SWDE,movie,movie-hollywood,title,rule_1526.csv,Credit,2000,47,2,0.001,0.0425531914893617,2016-02-17 15:29

@@ -1,0 +1,4 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,camera,camera-compsource,manufacturer,rule_7991.csv,You've Selected :,430,430,430,1.0,1.0,2016-02-17 11:24
+SWDE,camera,camera-compsource,model,rule_2429.csv,Product Name,430,412,412,0.958139534883721,1.0,2016-02-17 11:24
+SWDE,camera,camera-compsource,price,rule_8074.csv,In Stock:,430,223,223,0.5186046511627908,1.0,2016-02-17 11:24

@@ -1,0 +1,249 @@
+
+
+*************2016-02-17 11:24 - manufacturer********************************
+dataset;SWDE;domain;camera;site;camera-compsource;attribute;manufacturer;relevantes;430;recuperados;430;relevantes recuperados; 430;recall;1.0;precision;1.0;date;2016-02-17 11:24
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 11:24 - model********************************
+dataset;SWDE;domain;camera;site;camera-compsource;attribute;model;relevantes;430;recuperados;412;relevantes recuperados; 412;recall;0.958139534883721;precision;1.0;date;2016-02-17 11:24
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [2_@_Cobra Digital Dc150 Blue 1.3 Megapixel Dc150 1-In-3 Squeezable Digital Transparent Cameras (Blue)_@_DC150 Compact Camera] na página: 1
+Faltando: [2_@_Cobra Digital Dc1130gr 1.3 Megapixel Dc1130 Carabiner Digital Camera With Led Search Light (Green)_@_DC1130 Carabiner Compact Camera] na página: 2
+Faltando: [2_@_Vivitar ViviCam 5024 5.1 Megapixel Compact Camera-7.23 mm 2.4" LCD - 2592 x 1944 Image - 640 x 480 Video_@_ViviCam 5024 Compact Camera] na página: 7
+Faltando: [2_@_Vivitar ViviCam 8025 Digital Camera - 8.1 Megapixel - 3x Optical Zoom - 8x Digital Zoom - 2.4" Active Matrix TFT Color LCD_@_ViviCam 8025 Compact Camera] na página: 25
+Faltando: [2_@_Samsung CL65 Point & Shoot Digital Camera - Silver - 12 Megapixel - 16:9 - 5x Optical Zoom - 5x Digital Zoom - 3.5" Active Matrix TFT Color LCD_@_CL65 Compact Camera] na página: 135
+Faltando: [2_@_Cobra DCA1220 12 Megapixel Compact Camera-8.50 mm - Black 2.4" LCD - 640 x 480 Video_@_DCA1220 Compact Camera] na página: 163
+Faltando: [2_@_Cobra DCA1220 12 Megapixel Compact Camera - 2.80 mm-8.50 mm - Blue 2.4" LCD - 3x Optical Zoom - 640 x 480 Video - AVI_@_DCA1220 Compact Camera] na página: 162
+Faltando: [2_@_Vtech Kidizoom Plus Point & Shoot Digital Camera - 2 Megapixel - 2x Digital Zoom - 1.8" LCD_@_Kidizoom Plus Compact Camera] na página: 160
+Faltando: [2_@_Cobra DCA1220 12 Megapixel Compact Camera - 2.80 mm-8.50 mm - Red 2.4" LCD - 3x Optical Zoom - 640 x 480 Video - AVI_@_DCA1220 Compact Camera] na página: 164
+Faltando: [2_@_Cobra Digital DCA1030 10 Megapixel Compact Camera - 3 mm-8.25 mm - Red 2.5" LCD - 2.8x Optical Zoom - 640 x 480 Video_@_DCA1030 Compact Camera] na página: 237
+Faltando: [2_@_Fujifilm FinePix AX200 12.2 Megapixel Compact Camera - 5 mm-25 mm - Black 2.7" LCD - 5x Optical Zoom - 4000 x 3000 Image - 1280 x 720 Video_@_FinePix AX200 Compact Camera] na página: 251
+Faltando: [2_@_Canon PowerShot SD980 IS Point & Shoot Digital Camera - Silver - 12.1 Megapixel - 16:9 - 5x Optical Zoom - 4x Digital Zoom - 3" Active Matrix TFT Color LCD_@_PowerShot SD980 IS Compact Camera] na página: 282
+Faltando: [2_@_Canon PowerShot SD980 IS Point & Shoot Digital Camera - Purple - 12.1 Megapixel - 16:9 - 5x Optical Zoom - 4x Digital Zoom - 3" Active Matrix TFT Color LCD_@_PowerShot SD980 IS Compact Camera] na página: 281
+Faltando: [2_@_Fujifilm FinePix JZ500 14.1 Megapixel Compact Camera - 5 mm-50 mm - Black 2.7" LCD - 10x Optical Zoom - 4320 x 3240 Image - 1280 x 720 Video_@_FinePix JZ500 Compact Camera] na página: 264
+Faltando: [2_@_Stealth Cam Stc-I850 Sniper Pro 8.0 Megapixel Flash Scouting Camera_@_STC-I850 Scouting Compact Camera] na página: 311
+Faltando: [2_@_GE A1455 14.1 Megapixel Compact Camera - 6.30 mm-31.50 mm - Black 2.7" LCD - 5x Optical Zoom - 4320 x 3240 Image - 640 x 480 Video_@_A1455 Compact Camera] na página: 319
+Faltando: [2_@_Canon PowerShot S90 Point & Shoot Digital Camera - 10 Megapixel - 16:9 - 3.8x Optical Zoom - 4x Digital Zoom - 3" Active Matrix TFT Color LCD_@_PowerShot S90 Compact Camera] na página: 288
+Faltando: [2_@_Vivitar VT324N 12.1 Megapixel Compact Camera 2.4" LCD - 3x Optical Zoom_@_VT324N Compact Camera] na página: 292
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 11:24 - price********************************
+dataset;SWDE;domain;camera;site;camera-compsource;attribute;price;relevantes;430;recuperados;223;relevantes recuperados; 223;recall;0.5186046511627908;precision;1.0;date;2016-02-17 11:24
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_$415.00] na página: 0
+Faltando: [1_@_$22.00] na página: 1
+Faltando: [1_@_$28.00] na página: 2
+Faltando: [1_@_$51.00] na página: 7
+Faltando: [1_@_$56.00] na página: 18
+Faltando: [1_@_$58.00] na página: 25
+Faltando: [1_@_$63.00] na página: 34
+Faltando: [1_@_$175.00] na página: 43
+Faltando: [1_@_$177.00] na página: 46
+Faltando: [1_@_$177.00] na página: 47
+Faltando: [1_@_$176.00] na página: 44
+Faltando: [1_@_$176.00] na página: 45
+Faltando: [1_@_$181.00] na página: 51
+Faltando: [1_@_$181.00] na página: 50
+Faltando: [1_@_$177.00] na página: 49
+Faltando: [1_@_$177.00] na página: 48
+Faltando: [1_@_$182.00] na página: 55
+Faltando: [1_@_$182.00] na página: 54
+Faltando: [1_@_$182.00] na página: 53
+Faltando: [1_@_$181.00] na página: 52
+Faltando: [1_@_$193.00] na página: 59
+Faltando: [1_@_$189.00] na página: 57
+Faltando: [1_@_$182.00] na página: 56
+Faltando: [1_@_$193.00] na página: 62
+Faltando: [1_@_$193.00] na página: 61
+Faltando: [1_@_$193.00] na página: 60
+Faltando: [1_@_$198.00] na página: 68
+Faltando: [1_@_$223.00] na página: 70
+Faltando: [1_@_$223.00] na página: 71
+Faltando: [1_@_$194.00] na página: 64
+Faltando: [1_@_$194.00] na página: 65
+Faltando: [1_@_$194.00] na página: 66
+Faltando: [1_@_$194.00] na página: 67
+Faltando: [1_@_$230.00] na página: 76
+Faltando: [1_@_$235.00] na página: 77
+Faltando: [1_@_$236.00] na página: 78
+Faltando: [1_@_$236.00] na página: 79
+Faltando: [1_@_$226.00] na página: 72
+Faltando: [1_@_$226.00] na página: 73
+Faltando: [1_@_$227.00] na página: 74
+Faltando: [1_@_$230.00] na página: 75
+Faltando: [1_@_$246.00] na página: 85
+Faltando: [1_@_$246.00] na página: 84
+Faltando: [1_@_$252.00] na página: 87
+Faltando: [1_@_$236.00] na página: 81
+Faltando: [1_@_$236.00] na página: 80
+Faltando: [1_@_$246.00] na página: 83
+Faltando: [1_@_$246.00] na página: 82
+Faltando: [1_@_$265.00] na página: 93
+Faltando: [1_@_$265.00] na página: 92
+Faltando: [1_@_$265.00] na página: 95
+Faltando: [1_@_$265.00] na página: 94
+Faltando: [1_@_$253.00] na página: 88
+Faltando: [1_@_$263.00] na página: 91
+Faltando: [1_@_$263.00] na página: 90
+Faltando: [1_@_$284.00] na página: 102
+Faltando: [1_@_$284.00] na página: 103
+Faltando: [1_@_$278.00] na página: 100
+Faltando: [1_@_$278.00] na página: 98
+Faltando: [1_@_$278.00] na página: 99
+Faltando: [1_@_$266.00] na página: 96
+Faltando: [1_@_$291.00] na página: 106
+Faltando: [1_@_$292.00] na página: 107
+Faltando: [1_@_$284.00] na página: 104
+Faltando: [1_@_$285.00] na página: 105
+Faltando: [1_@_$298.00] na página: 119
+Faltando: [1_@_$298.00] na página: 118
+Faltando: [1_@_$298.00] na página: 117
+Faltando: [1_@_$298.00] na página: 116
+Faltando: [1_@_$298.00] na página: 115
+Faltando: [1_@_$298.00] na página: 114
+Faltando: [1_@_$298.00] na página: 113
+Faltando: [1_@_$312.00] na página: 127
+Faltando: [1_@_$311.00] na página: 126
+Faltando: [1_@_$311.00] na página: 125
+Faltando: [1_@_$311.00] na página: 124
+Faltando: [1_@_$311.00] na página: 123
+Faltando: [1_@_$300.00] na página: 120
+Faltando: [1_@_$376.00] na página: 137
+Faltando: [1_@_$452.00] na página: 139
+Faltando: [1_@_$395.00] na página: 138
+Faltando: [1_@_$468.00] na página: 140
+Faltando: [1_@_$330.00] na página: 129
+Faltando: [1_@_$312.00] na página: 128
+Faltando: [1_@_$330.00] na página: 131
+Faltando: [1_@_$330.00] na página: 130
+Faltando: [1_@_$332.00] na página: 133
+Faltando: [1_@_$332.00] na página: 132
+Faltando: [1_@_$56.00] na página: 156
+Faltando: [1_@_$56.00] na página: 157
+Faltando: [1_@_$79.00] na página: 174
+Faltando: [1_@_$70.00] na página: 163
+Faltando: [1_@_$70.00] na página: 162
+Faltando: [1_@_$78.00] na página: 165
+Faltando: [1_@_$70.00] na página: 164
+Faltando: [1_@_$86.00] na página: 177
+Faltando: [1_@_$113.00] na página: 207
+Faltando: [1_@_$99.00] na página: 193
+Faltando: [1_@_$100.00] na página: 194
+Faltando: [1_@_$151.00] na página: 220
+Faltando: [1_@_$160.00] na página: 221
+Faltando: [1_@_$142.00] na página: 217
+Faltando: [1_@_$142.00] na página: 218
+Faltando: [1_@_$142.00] na página: 219
+Faltando: [1_@_$120.00] na página: 214
+Faltando: [1_@_$114.00] na página: 208
+Faltando: [1_@_$119.00] na página: 210
+Faltando: [1_@_$67.00] na página: 237
+Faltando: [1_@_$189.00] na página: 236
+Faltando: [1_@_$180.00] na página: 235
+Faltando: [1_@_$177.00] na página: 234
+Faltando: [1_@_$168.00] na página: 227
+Faltando: [1_@_$168.00] na página: 226
+Faltando: [1_@_$168.00] na página: 225
+Faltando: [1_@_$85.00] na página: 254
+Faltando: [1_@_$85.00] na página: 255
+Faltando: [1_@_$83.00] na página: 250
+Faltando: [1_@_$83.00] na página: 251
+Faltando: [1_@_$83.00] na página: 249
+Faltando: [1_@_$285.00] na página: 275
+Faltando: [1_@_$285.00] na página: 274
+Faltando: [1_@_$285.00] na página: 273
+Faltando: [1_@_$300.00] na página: 279
+Faltando: [1_@_$300.00] na página: 278
+Faltando: [1_@_$285.00] na página: 277
+Faltando: [1_@_$285.00] na página: 276
+Faltando: [1_@_$331.00] na página: 283
+Faltando: [1_@_$330.00] na página: 282
+Faltando: [1_@_$330.00] na página: 281
+Faltando: [1_@_$334.00] na página: 286
+Faltando: [1_@_$331.00] na página: 285
+Faltando: [1_@_$331.00] na página: 284
+Faltando: [1_@_$201.00] na página: 258
+Faltando: [1_@_$201.00] na página: 259
+Faltando: [1_@_$225.00] na página: 262
+Faltando: [1_@_$225.00] na página: 263
+Faltando: [1_@_$209.00] na página: 260
+Faltando: [1_@_$225.00] na página: 261
+Faltando: [1_@_$250.00] na página: 266
+Faltando: [1_@_$250.00] na página: 267
+Faltando: [1_@_$230.00] na página: 264
+Faltando: [1_@_$250.00] na página: 270
+Faltando: [1_@_$250.00] na página: 271
+Faltando: [1_@_$250.00] na página: 268
+Faltando: [1_@_$250.00] na página: 269
+Faltando: [1_@_$100.00] na página: 304
+Faltando: [1_@_$104.00] na página: 311
+Faltando: [1_@_$402.00] na página: 288
+Faltando: [1_@_$495.00] na página: 289
+Faltando: [1_@_$88.00] na página: 292
+Faltando: [1_@_$90.00] na página: 293
+Faltando: [1_@_$90.00] na página: 294
+Faltando: [1_@_$126.00] na página: 343
+Faltando: [1_@_$118.00] na página: 337
+Faltando: [1_@_$117.00] na página: 336
+Faltando: [1_@_$130.00] na página: 351
+Faltando: [1_@_$127.00] na página: 350
+Faltando: [1_@_$127.00] na página: 349
+Faltando: [1_@_$127.00] na página: 348
+Faltando: [1_@_$127.00] na página: 347
+Faltando: [1_@_$127.00] na página: 346
+Faltando: [1_@_$126.00] na página: 345
+Faltando: [1_@_$110.00] na página: 321
+Faltando: [1_@_$115.00] na página: 334
+Faltando: [1_@_$117.00] na página: 335
+Faltando: [1_@_$115.00] na página: 333
+Faltando: [1_@_$115.00] na página: 330
+Faltando: [1_@_$115.00] na página: 331
+Faltando: [1_@_$139.00] na página: 373
+Faltando: [1_@_$139.00] na página: 375
+Faltando: [1_@_$139.00] na página: 374
+Faltando: [1_@_$138.00] na página: 369
+Faltando: [1_@_$138.00] na página: 368
+Faltando: [1_@_$138.00] na página: 370
+Faltando: [1_@_$142.00] na página: 380
+Faltando: [1_@_$142.00] na página: 379
+Faltando: [1_@_$135.00] na página: 357
+Faltando: [1_@_$137.00] na página: 359
+Faltando: [1_@_$132.00] na página: 354
+Faltando: [1_@_$138.00] na página: 367
+Faltando: [1_@_$137.00] na página: 360
+Faltando: [1_@_$137.00] na página: 361
+Faltando: [1_@_$137.00] na página: 362
+Faltando: [1_@_$163.00] na página: 411
+Faltando: [1_@_$162.00] na página: 408
+Faltando: [1_@_$163.00] na página: 414
+Faltando: [1_@_$163.00] na página: 415
+Faltando: [1_@_$163.00] na página: 412
+Faltando: [1_@_$163.00] na página: 413
+Faltando: [1_@_$150.00] na página: 402
+Faltando: [1_@_$151.00] na página: 403
+Faltando: [1_@_$147.00] na página: 400
+Faltando: [1_@_$147.00] na página: 401
+Faltando: [1_@_$162.00] na página: 406
+Faltando: [1_@_$162.00] na página: 407
+Faltando: [1_@_$155.00] na página: 404
+Faltando: [1_@_$157.00] na página: 405
+Faltando: [1_@_$147.00] na página: 399
+Faltando: [1_@_$147.00] na página: 398
+Faltando: [1_@_$147.00] na página: 397
+Faltando: [1_@_$142.00] na página: 387
+Faltando: [1_@_$142.00] na página: 385
+Faltando: [1_@_$142.00] na página: 388
+Faltando: [1_@_$163.00] na página: 417
+Faltando: [1_@_$163.00] na página: 416
+Faltando: [1_@_$171.00] na página: 423
+Faltando: [1_@_$167.00] na página: 422
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

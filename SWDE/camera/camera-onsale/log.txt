@@ -1,0 +1,45 @@
+
+
+*************2016-02-17 11:37 - manufacturer********************************
+dataset;SWDE;domain;camera;site;camera-onsale;attribute;manufacturer;relevantes;261;recuperados;261;relevantes recuperados; 261;recall;1.0;precision;1.0;date;2016-02-17 11:37
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 11:37 - model********************************
+dataset;SWDE;domain;camera;site;camera-onsale;attribute;model;relevantes;261;recuperados;240;relevantes recuperados; 240;recall;0.9195402298850575;precision;1.0;date;2016-02-17 11:37
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Cyber-shot DSC-WX1 - Digital camera - compact - 10.2 Mpix - optical zoom: 5 x - supported memory: MS Duo, MS PRO Duo, MS PRO-HG Duo - black (Open Box Product, Limited Availability, No Back Orders) (DSCWX1/B-OB)] na página: 2
+Faltando: [1_@_a NEX 5K - Digital camera - prosumer - 14.2 Mpix - 18-55mm OSS lens - optical zoom: 3 x - supported memory: MS Duo, SD, MS PRO Duo, SDXC, MS PRO-HG Duo HX, SDHC, MS PRO-HG Duo - black (NEX5K/B)] na página: 15
+Faltando: [1_@_Cyber-shot DSC-TX5 - Digital camera - compact - 10.2 Mpix - optical zoom: 4 x - supported memory: MS Duo, SD, MS PRO Duo, SDHC, MS PRO-HG Duo - black (DSCTX5/B)] na página: 18
+Faltando: [1_@_Xacti VPC-GH2 - Camcorder - High Definition - widescreen - 14.4 Mpix - optical zoom: 5 x - supported memory: SD, SDXC, SDHC - flash card - silver (VPC-GH2)] na página: 38
+Faltando: [1_@_Xacti VPC-CS1 - Camcorder - High Definition - widescreen - 3.4 Mpix - optical zoom: 9 x - supported memory: SD, SDXC, SDHC - flash card - silver (VPC-CS1)] na página: 39
+Faltando: [1_@_Xacti VPC-CG20 - Camcorder - High Definition - widescreen - 10.0 Mpix - optical zoom: 5 x - supported memory: SD, SDXC, SDHC - flash card - black (VPC-CG20BK)] na página: 42
+Faltando: [1_@_Xacti VPC-SH1 - Camcorder - High Definition - widescreen - 4.3 Mpix - optical zoom: 23 x - supported memory: SD, SDXC, SDHC - flash card - black (VPC-SH1BK)] na página: 40
+Faltando: [1_@_Xacti VPC-SH1 - Camcorder - High Definition - widescreen - 4.3 Mpix - optical zoom: 23 x - supported memory: SD, SDXC, SDHC - flash card - red (VPC-SH1R)] na página: 41
+Faltando: [1_@_Cyber-shot DSC-S2100 - Digital camera - compact - 12.1 Mpix - optical zoom: 3 x - supported memory: MS Duo, SD, MS PRO Duo, MS PRO Duo Mark2, SDHC, MS PRO-HG Duo - black (DSCS2100/B-BN)] na página: 46
+Faltando: [1_@_Cyber-shot DSC-W310 - Digital camera - compact - 12.1 Mpix - optical zoom: 4 x - supported memory: MS Duo, SD, MS PRO Duo, SDHC, MS PRO-HG Duo - black (DSCW310BDL/B)] na página: 45
+Faltando: [1_@_a NEX 5A - Digital camera - prosumer - 14.2 Mpix - 16mm lens - supported memory: MS Duo, SD, MS PRO Duo, SDXC, MS PRO-HG Duo HX, SDHC, MS PRO-HG Duo - black (NEX5A/B)] na página: 58
+Faltando: [1_@_Xacti VPC-PD2BK - Camcorder - High Definition - widescreen - 10.0 Mpix - optical zoom: 3 x - supported memory: SD, SDXC, SDHC - flash card - black (VPC-PD2BK)] na página: 63
+Faltando: [1_@_a NEX 5A - Digital camera - prosumer - 14.2 Mpix - 16mm lens - supported memory: MS Duo, SD, MS PRO Duo, SDXC, MS PRO-HG Duo HX, SDHC, MS PRO-HG Duo - silver (NEX5A/S)] na página: 62
+Faltando: [1_@_a NEX 5K - Digital camera - prosumer - 14.2 Mpix - 18-55mm OSS lens - optical zoom: 3 x - supported memory: MS Duo, SD, MS PRO Duo, SDXC, MS PRO-HG Duo HX, SDHC, MS PRO-HG Duo - silver (NEX5K/S)] na página: 60
+Faltando: [1_@_Everio GZ-HM1SUS - Camcorder - High Definition - widescreen - 10.62 Mpix - optical zoom: 10 x - supported memory: SD, SDHC - flash card - silver (GZHM1SUS)] na página: 86
+Faltando: [1_@_Xacti VPC-CG102 - Camcorder - High Definition - widescreen - 14.4 Mpix - optical zoom: 5 x - supported memory: SD, SDXC, SDHC - flash card - black (VPC-CG102BK)] na página: 93
+Faltando: [1_@_PowerShot SD4500 IS Digital ELPH - Digital camera - compact - 10.0 Mpix - optical zoom: 10 x - supported memory: MMC, SD, SDXC, SDHC, MMCplus (4612B001)] na página: 95
+Faltando: [1_@_Cyber-shot DSC-TX5 - Digital camera - compact - 10.2 Mpix - optical zoom: 4 x - supported memory: MS Duo, SD, MS PRO Duo, SDHC, MS PRO-HG Duo - red (DSCTX5/R)] na página: 212
+Faltando: [1_@_Cyber-shot DSC-TX5 - Digital camera - compact - 10.2 Mpix - optical zoom: 4 x - supported memory: MS Duo, SD, MS PRO Duo, SDHC, MS PRO-HG Duo - green (DSCTX5/G)] na página: 213
+Faltando: [1_@_Cyber-shot DSC-TX5 - Digital camera - compact - 10.2 Mpix - optical zoom: 4 x - supported memory: MS Duo, SD, MS PRO Duo, SDHC, MS PRO-HG Duo - pink (DSCTX5/P)] na página: 211
+Faltando: [1_@_Xacti VPC-CS1 - Camcorder - High Definition - widescreen - 3.4 Mpix - optical zoom: 9 x - supported memory: SD, SDXC, SDHC - flash card - pink (VPC-CS1P)] na página: 260
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 11:37 - price********************************
+dataset;SWDE;domain;camera;site;camera-onsale;attribute;price;relevantes;261;recuperados;261;relevantes recuperados; 261;recall;1.0;precision;1.0;date;2016-02-17 11:37
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

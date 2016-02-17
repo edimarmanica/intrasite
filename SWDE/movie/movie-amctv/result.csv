@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,movie,movie-amctv,director,rule_81.csv,Director:,1980,1980,1980,1.0,1.0,2016-02-17 15:04
+SWDE,movie,movie-amctv,genre,rule_529.csv,Genre/Type:,1995,1995,1995,1.0,1.0,2016-02-17 15:04
+SWDE,movie,movie-amctv,rating,rule_794.csv,MPAA Rating:,2000,2000,2000,1.0,1.0,2016-02-17 15:04
+SWDE,movie,movie-amctv,title,rule_558.csv,details,2000,2000,2000,1.0,1.0,2016-02-17 15:05

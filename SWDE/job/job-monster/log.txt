@@ -1,0 +1,24 @@
+
+
+*************2016-02-17 15:21 - company********************************
+dataset;SWDE;domain;job;site;job-monster;attribute;company;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-17 15:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 15:22 - location********************************
+dataset;SWDE;domain;job;site;job-monster;attribute;location;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-17 15:22
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 15:22 - title********************************
+dataset;SWDE;domain;job;site;job-monster;attribute;title;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-17 15:22
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

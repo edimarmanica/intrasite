@@ -1,0 +1,108 @@
+
+
+*************2016-02-17 11:22 - manufacturer********************************
+dataset;SWDE;domain;camera;site;camera-buy;attribute;manufacturer;relevantes;500;recuperados;500;relevantes recuperados; 500;recall;1.0;precision;1.0;date;2016-02-17 11:22
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 11:22 - model********************************
+dataset;SWDE;domain;camera;site;camera-buy;attribute;model;relevantes;500;recuperados;469;relevantes recuperados; 469;recall;0.938;precision;1.0;date;2016-02-17 11:22
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Kodak EasyShare Z981 14 Megapixel Digital Camera with 26X Optical Zoom, 26mm Wide-Angle Lens, 3" LCD, HD Video, Face Detection, Image Stabilization, Black] na página: 3
+Faltando: [1_@_Samsung DualView TL220 12 Megapixel Digital Camera with 4.6x / 27mm Schneider lens, 3" Touch Screen, 1.5" front LCD, Smart Auto, Dual Image Stabilization, Blue/Black] na página: 25
+Faltando: [1_@_FujiFilm FinePix S1500 10 Megapixel Digital Camera with 12x Optical Zoom, 2.7” LCD, Dual Image Stabilization, Face Detection w/ Automatic Red Eye Correction, High Sensitivity ISO1600] na página: 50
+Faltando: [1_@_FujiFilm FinePix F200EXR 12 Megapixel Digital Camera with 5x (28-140mm) wide-angle, 3" LCD, Dual Image Stabilization, Face Detection with Auto Red-Eye Removal, HD output] na página: 52
+Faltando: [1_@_Kodak EasyShare Z1015 IS 10 Megapixel Digital Camera w/ 15X SCHNEIDER-KREUZNACH VARIOGON Optical Zoom Lens, 28 mm wide-angle lens, 3" LCD, Smart Capture feature, & HD pictures and videos] na página: 86
+Faltando: [1_@_Sony Cyber-shot DSC-TX5 10 Megapixel Digital Camera with 4x Optical Zoom, 3" Wide Touch Screen, Waterproof, Dustproof, "Exmor R" Sensor, iSweep, Silver] na página: 80
+Faltando: [1_@_Nikon COOLPIX P6000 13 Megapixels Digital Camera w/ 4x Wide Angle Optical Zoom, 2.7" Hi-Res LCD, Optical VR Image Stabilization, Face Priority AF & TV Movies with Sound - Black] na página: 98
+Faltando: [1_@_Canon Powershot SX200 IS 12 Megapixel Digital Camera with 12x Optical Zoom, 28mm wide, DiG!C 4 Processor, 3" LCD, ISO 3200, & Optical Image Stabilizer - Blue] na página: 118
+Faltando: [1_@_Nikon COOLPIX S60 10 Megapixel Digital Camera w/ 5x Optical Zoom, Optical VR Image Stabilization, 3.5" High Res Touch Panel LCD, HD Pictmotion Slide Shows, & Autofocus and Auto Exposure - Burgundy] na página: 131
+Faltando: [1_@_Nikon COOLPIX S60 10 Megapixel Digital Camera w/ 5x Optical Zoom, Optical VR Image Stabilization, 3.5" High Res Touch Panel LCD, HD Pictmotion Slide Shows, & Autofocus and Auto Exposure - Black] na página: 152
+Faltando: [2_@_Panasonic DMC-FX37S Lumix 10 Megapixel Digital Camera with 25mm LEICA DC VARIO-ELMARIT Wide-Angle Lens, 5x Optical Zoom, 2.5 Diagonal Intelligent LCD and HD Output - Silver_@_Lumix DMC-FX37 Point & Shoot Digital Camera] na página: 151
+Faltando: [1_@_FujiFilm FinePix J20 10 Megapixel Digital Camera with 3x Optical Zoom, 2.7” LCD, Face Detection w/ Auto Red Eye correction, Automatic Scene Recognition] na página: 169
+Faltando: [1_@_Nikon COOLPIX S60 10 Megapixel Digital Camera w/ 5x Optical Zoom, Optical VR Image Stabilization, 3.5" High Res Touch Panel LCD, HD Pictmotion Slide Shows, & Autofocus and Auto Exposure - Bronze] na página: 160
+Faltando: [1_@_Olympus Stylus-7000 12 Megapixel Digital Camera with 7x Optical Zoom, 3" LCD, Dual Image Stabilization, In-Camera Panorama, Advanced Face Detection with Shadow Adjustment - Black] na página: 216
+Faltando: [1_@_Olympus Stylus Tough-6000 10 Megapixel Digital Camera with 3.6 Optical Zoom, 2.7" LCD, Shockproof (5ft), Waterproof (10ft), & Dual Image Stabilization - White] na página: 210
+Faltando: [1_@_Canon Powershot SX200 IS 12 Megapixel Digital Camera with 12x Optical Zoom, 28mm wide, DiG!C 4 Processor, 3" LCD, ISO 3200, & Optical Image Stabilizer - Black] na página: 292
+Faltando: [1_@_Olympus Stylus Tough-6000 10 Megapixel Digital Camera with 3.6 Optical Zoom, 2.7" LCD, Shockproof (5ft), Waterproof (10ft), & Dual Image Stabilization - Blue] na página: 293
+Faltando: [1_@_Olympus Stylus Tough-6000 10 Megapixel Digital Camera with 3.6 Optical Zoom, 2.7" LCD, Shockproof (5ft), Waterproof (10ft), & Dual Image Stabilization - Yellow] na página: 349
+Faltando: [1_@_Olympus FE-45 10 Megapixel Digital Camera with 3x Optical Zoom, 2.5" LCD, Digital Image Stabilization, Advanced Face Detection, & VGA Movie with Sound - Titanium] na página: 330
+Faltando: [1_@_Sony Cyber-shot DSC-WX5 12 Megapixel Digital Camera with 5x Optical Zoom, 3D Sweep Panorama, Backlight Correction, 2.8" LCD, Sony G-Lens, Superior Auto, Silver] na página: 376
+Faltando: [1_@_Olympus Stylus 550WP 10 Megapixel Digital Camera with 3x Optical Zoom, 2.5" LCD, Waterproof (10ft.), Digital Image Stabilization, & Face Detection - Black] na página: 359
+Faltando: [1_@_Nikon COOLPIX S1100pj 14 Megapixel Digital Camera with 5x Wide-Angle Zoom, 3" Touch Screen, Built-in Projector, VR Image Stabilization, Smart Portrait, Black] na página: 409
+Faltando: [1_@_Samsung DualView TL220 12 Megapixel Digital Camera with 4.6x / 27mm Schneider lens, 3" Touch Screen, 1.5" front LCD, Smart Auto, Dual Image Stabilization, Red/Black] na página: 395
+Faltando: [1_@_Nikon COOLPIX S60 10 Megapixel Digital Camera w/ 5x Optical Zoom, Optical VR Image Stabilization, 3.5" High Res Touch Panel LCD, HD Pictmotion Slide Shows, & Autofocus and Auto Exposure - White] na página: 391
+Faltando: [2_@_Nikon Coolpix S640 Point & Shoot Digital Camera - Precious Pink - 12.2 Megapixel - 16:9 - 5x Optical Zoom - 4x Digital Zoom - 2.7" Active Matrix TFT Color LCD_@_Coolpix S640 Compact Camera] na página: 424
+Faltando: [1_@_FujiFilm FinePix Z33WP 10 Megapixel Digital Camera with 3x Optical Zoom, 2.7” LCD, Water-proof to 3M (10ft.), Face Detection w/ Automatic Red Eye Correction - Black] na página: 428
+Faltando: [1_@_Canon PowerShot A1100 IS 12 Megapixel Digital Camera with 4X Optical Zoom, 2.5" LCD, Optical Image Stabilizer, Face Detection, & DiG!C 4 Processor - Pink] na página: 477
+Faltando: [1_@_Sony Cyber-shot DSC-WX5 12 Megapixel Digital Camera with 5x Optical Zoom, 3D Sweep Panorama, Backlight Correction, 2.8" LCD, Sony G-Lens, Superior Auto, Black] na página: 474
+Faltando: [1_@_Sony Cyber-shot DSC-S2100 12 Megapixel Digital Camera with 3x Optical Zoom, 3" LCD, Face Detection, SteadyShot™ Image Stabilization, AA battery, Silver] na página: 471
+Faltando: [1_@_Nikon COOLPIX S60 10 Megapixel Digital Camera w/ 5x Optical Zoom, Optical VR Image Stabilization, 3.5" High Res Touch Panel LCD, HD Pictmotion Slide Shows, & Autofocus and Auto Exposure - Red] na página: 464
+Faltando: [1_@_Olympus Stylus 550WP 10 Megapixel Digital Camera with 3x Optical Zoom, 2.5" LCD, Waterproof (10ft.), Digital Image Stabilization, & Face Detection - Blue] na página: 483
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 11:22 - price********************************
+dataset;SWDE;domain;camera;site;camera-buy;attribute;price;relevantes;500;recuperados;447;relevantes recuperados; 447;recall;0.894;precision;1.0;date;2016-02-17 11:22
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_$44.99] na página: 19
+Faltando: [1_@_$649.00] na página: 57
+Faltando: [1_@_$131.99] na página: 63
+Faltando: [1_@_$499.00] na página: 64
+Faltando: [1_@_$233.99] na página: 76
+Faltando: [1_@_$233.99] na página: 92
+Faltando: [1_@_$549.00] na página: 91
+Faltando: [1_@_$95.99] na página: 103
+Faltando: [1_@_$45.99] na página: 108
+Faltando: [1_@_$97.99] na página: 109
+Faltando: [1_@_$95.99] na página: 119
+Faltando: [1_@_$499.00] na página: 127
+Faltando: [1_@_$95.99] na página: 142
+Faltando: [1_@_$549.00] na página: 128
+Faltando: [1_@_$138.99] na página: 135
+Faltando: [1_@_$54.99] na página: 184
+Faltando: [1_@_$127.99] na página: 205
+Faltando: [1_@_$57.99] na página: 206
+Faltando: [1_@_$57.99] na página: 238
+Faltando: [1_@_$39.99] na página: 237
+Faltando: [1_@_$85.99] na página: 246
+Faltando: [1_@_$124.99] na página: 274
+Faltando: [1_@_$170.99] na página: 270
+Faltando: [1_@_$124.99] na página: 315
+Faltando: [1_@_$260.99] na página: 316
+Faltando: [1_@_$1,628.99] na página: 303
+Faltando: [1_@_$301.99] na página: 342
+Faltando: [1_@_$139.99] na página: 328
+Faltando: [1_@_$349.00] na página: 375
+Faltando: [1_@_$269.00] na página: 376
+Faltando: [1_@_$35.99] na página: 357
+Faltando: [1_@_$61.24] na página: 353
+Faltando: [1_@_$95.31] na página: 354
+Faltando: [1_@_$299.00] na página: 410
+Faltando: [1_@_$699.00] na página: 411
+Faltando: [1_@_$129.00] na página: 414
+Faltando: [1_@_$35.99] na página: 387
+Faltando: [1_@_$249.76] na página: 390
+Faltando: [1_@_$95.99] na página: 440
+Faltando: [1_@_$68.99] na página: 445
+Faltando: [1_@_$299.00] na página: 447
+Faltando: [1_@_$132.99] na página: 437
+Faltando: [1_@_$55.99] na página: 439
+Faltando: [1_@_$399.00] na página: 427
+Faltando: [1_@_$95.99] na página: 419
+Faltando: [1_@_$44.99] na página: 418
+Faltando: [1_@_$115.27] na página: 423
+Faltando: [1_@_$269.00] na página: 474
+Faltando: [1_@_$699.00] na página: 475
+Faltando: [1_@_$47.24] na página: 467
+Faltando: [1_@_$35.99] na página: 448
+Faltando: [1_@_$251.99] na página: 492
+Faltando: [1_@_$649.00] na página: 481
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

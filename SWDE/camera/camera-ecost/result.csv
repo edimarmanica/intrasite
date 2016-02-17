@@ -1,0 +1,4 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,camera,camera-ecost,manufacturer,rule_3736.csv,Manufacturer:,917,917,917,1.0,1.0,2016-02-17 11:26
+SWDE,camera,camera-ecost,model,rule_2622.csv,.socialNetworking td { padding: 5px; },923,923,921,0.9978331527627302,0.9978331527627302,2016-02-17 11:26
+SWDE,camera,camera-ecost,price,rule_3968.csv,Price:,911,911,911,1.0,1.0,2016-02-17 11:26

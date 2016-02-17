@@ -1,0 +1,4 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,camera,camera-pcnation,manufacturer,rule_614.csv,Brand Name:,234,234,234,1.0,1.0,2016-02-17 11:53
+SWDE,camera,camera-pcnation,model,rule_226.csv,Product Name:,234,234,234,1.0,1.0,2016-02-17 11:53
+SWDE,camera,camera-pcnation,price,rule_1256.csv,Our Price:,234,234,234,1.0,1.0,2016-02-17 11:53

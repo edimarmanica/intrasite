@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,movie,movie-allmovie,director,rule_366.csv,Director,1998,1998,1998,1.0,1.0,2016-02-17 14:27
+SWDE,movie,movie-allmovie,genre,rule_43.csv,Genres,1998,1996,1996,0.998998998998999,1.0,2016-02-17 14:27
+SWDE,movie,movie-allmovie,rating,rule_591.csv,MPAA Rating,2000,2000,2000,1.0,1.0,2016-02-17 14:27
+SWDE,movie,movie-allmovie,title,rule_306.csv,Send to Friend,2000,1260,1260,0.63,1.0,2016-02-17 14:27

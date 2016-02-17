@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,job,job-techcentric,company,rule_3798.csv,Company,2000,2000,2000,1.0,1.0,2016-02-17 13:12
+SWDE,job,job-techcentric,date_posted,rule_50.csv,Published on,2000,2000,2000,1.0,1.0,2016-02-17 13:12
+SWDE,job,job-techcentric,location,rule_3481.csv,Location,2000,2000,2000,1.0,1.0,2016-02-17 13:12
+SWDE,job,job-techcentric,title,rule_2885.csv,Job title,2000,2000,2000,1.0,1.0,2016-02-17 13:12

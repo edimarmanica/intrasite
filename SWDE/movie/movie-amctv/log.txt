@@ -1,0 +1,32 @@
+
+
+*************2016-02-17 15:04 - director********************************
+dataset;SWDE;domain;movie;site;movie-amctv;attribute;director;relevantes;1980;recuperados;1980;relevantes recuperados; 1980;recall;1.0;precision;1.0;date;2016-02-17 15:04
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 15:04 - genre********************************
+dataset;SWDE;domain;movie;site;movie-amctv;attribute;genre;relevantes;1995;recuperados;1995;relevantes recuperados; 1995;recall;1.0;precision;1.0;date;2016-02-17 15:04
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 15:04 - rating********************************
+dataset;SWDE;domain;movie;site;movie-amctv;attribute;rating;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-17 15:04
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 15:05 - title********************************
+dataset;SWDE;domain;movie;site;movie-amctv;attribute;title;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-17 15:05
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

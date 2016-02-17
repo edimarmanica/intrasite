@@ -1,0 +1,28 @@
+
+
+*************2016-02-17 11:26 - manufacturer********************************
+dataset;SWDE;domain;camera;site;camera-ecost;attribute;manufacturer;relevantes;917;recuperados;917;relevantes recuperados; 917;recall;1.0;precision;1.0;date;2016-02-17 11:26
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 11:26 - model********************************
+dataset;SWDE;domain;camera;site;camera-ecost;attribute;model;relevantes;923;recuperados;923;relevantes recuperados; 921;recall;0.9978331527627302;precision;0.9978331527627302;date;2016-02-17 11:26
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Kodak Easyshare 8.2 Megapixel Digital Camera – Silver - KDK M863] na página: 31
+Faltando: [1_@_Kodak EasyShare 8.2 MegaPixel Ultra-Compact Digital Camera – Black - M863] na página: 308
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+Faltando: [Kodak Easyshare 8.2 Megapixel Digital Camera â Silver - KDK M863] na página: 31
+Faltando: [Kodak EasyShare 8.2 MegaPixel Ultra-Compact Digital Camera â Black - M863] na página: 308
+
+
+*************2016-02-17 11:26 - price********************************
+dataset;SWDE;domain;camera;site;camera-ecost;attribute;price;relevantes;911;recuperados;911;relevantes recuperados; 911;recall;1.0;precision;1.0;date;2016-02-17 11:26
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

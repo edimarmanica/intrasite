@@ -1,0 +1,4 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,camera,camera-thenerds,manufacturer,rule_917.csv,Brand Name:,309,309,309,1.0,1.0,2016-02-17 11:54
+SWDE,camera,camera-thenerds,model,rule_1540.csv,Digital Cameras,309,309,309,1.0,1.0,2016-02-17 11:54
+SWDE,camera,camera-thenerds,price,rule_1025.csv,Price:,309,309,309,1.0,1.0,2016-02-17 11:54

@@ -1,0 +1,4 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,camera,camera-onsale,manufacturer,rule_3462.csv,Home,261,261,261,1.0,1.0,2016-02-17 11:37
+SWDE,camera,camera-onsale,model,rule_1963.csv,Learn more about the product,261,240,240,0.9195402298850575,1.0,2016-02-17 11:37
+SWDE,camera,camera-onsale,price,rule_1189.csv,Price:,261,261,261,1.0,1.0,2016-02-17 11:37

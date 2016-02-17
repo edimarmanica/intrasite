@@ -1,0 +1,4 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,camera,camera-beachaudio,manufacturer,rule_3056.csv,Manufacturer,247,247,247,1.0,1.0,2016-02-17 11:16
+SWDE,camera,camera-beachaudio,model,rule_3154.csv,Product Name,247,247,247,1.0,1.0,2016-02-17 11:16
+SWDE,camera,camera-beachaudio,price,rule_2113.csv,Price:,247,222,222,0.8987854251012146,1.0,2016-02-17 11:16

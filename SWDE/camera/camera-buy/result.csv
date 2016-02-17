@@ -1,0 +1,4 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,camera,camera-buy,manufacturer,rule_13455.csv,Manufacturer:,500,500,500,1.0,1.0,2016-02-17 11:22
+SWDE,camera,camera-buy,model,rule_2605.csv,Share this Product,500,469,469,0.938,1.0,2016-02-17 11:22
+SWDE,camera,camera-buy,price,rule_11122.csv,Price,500,447,447,0.894,1.0,2016-02-17 11:22

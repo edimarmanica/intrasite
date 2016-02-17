@@ -1,0 +1,796 @@
+
+
+*************2016-02-17 13:09 - company********************************
+dataset;SWDE;domain;job;site;job-nettemps;attribute;company;relevantes;2000;recuperados;1236;relevantes recuperados; 1236;recall;0.618;precision;1.0;date;2016-02-17 13:09
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Infomatics Inc] na página: 1236
+Faltando: [1_@_Infotech prism] na página: 1237
+Faltando: [1_@_Zealtech Inc] na página: 1238
+Faltando: [1_@_Hevar Systems Inc] na página: 1239
+Faltando: [1_@_Cat Technology Inc] na página: 1244
+Faltando: [1_@_Competent Systems Inc] na página: 1245
+Faltando: [1_@_syntel] na página: 1246
+Faltando: [1_@_Jobbook] na página: 1247
+Faltando: [1_@_Technology Consultants Inc] na página: 1240
+Faltando: [1_@_Kodak] na página: 1241
+Faltando: [1_@_Caresoft Inc] na página: 1242
+Faltando: [1_@_itechus,inc] na página: 1243
+Faltando: [1_@_Uniqsoft Inc] na página: 1255
+Faltando: [1_@_IntoneNetworks] na página: 1254
+Faltando: [1_@_IBM] na página: 1253
+Faltando: [1_@_Technical strategies INC] na página: 1252
+Faltando: [1_@_MorganFranklin] na página: 1251
+Faltando: [1_@_Ventures Unlimited Inc.] na página: 1250
+Faltando: [1_@_IBM] na página: 1249
+Faltando: [1_@_Hewlett-Packard Company] na página: 1248
+Faltando: [1_@_IBM] na página: 1263
+Faltando: [1_@_agile enterprise solutions, inc] na página: 1262
+Faltando: [1_@_Cat Technology Inc] na página: 1261
+Faltando: [1_@_Maple Resource Specialist] na página: 1260
+Faltando: [1_@_Saicon Consultants Inc] na página: 1259
+Faltando: [1_@_Reliable Software Resources] na página: 1258
+Faltando: [1_@_Softsol] na página: 1257
+Faltando: [1_@_Cedent Consulting Inc] na página: 1256
+Faltando: [1_@_Regal Computer Systems Inc] na página: 1270
+Faltando: [1_@_Aclat, Inc.] na página: 1271
+Faltando: [1_@_Ventures Unlimited Inc.] na página: 1268
+Faltando: [1_@_TTS Solutionsusa Inc] na página: 1269
+Faltando: [1_@_CAT Technology INC] na página: 1266
+Faltando: [1_@_US Tech Solutions] na página: 1267
+Faltando: [1_@_Brook Technologies] na página: 1264
+Faltando: [1_@_Serco, Inc.] na página: 1265
+Faltando: [1_@_Hevar Systems Inc] na página: 1278
+Faltando: [1_@_Goteti] na página: 1279
+Faltando: [1_@_RJT Compuquest] na página: 1276
+Faltando: [1_@_Suntech Pros] na página: 1277
+Faltando: [1_@_Knowledge Matrix , Inc.] na página: 1274
+Faltando: [1_@_Aclat, Inc.] na página: 1275
+Faltando: [1_@_GenuineIT LLC] na página: 1272
+Faltando: [1_@_iSoft Solutions LLC] na página: 1273
+Faltando: [1_@_Motus It Inc] na página: 1375
+Faltando: [1_@_Allegis Group] na página: 1374
+Faltando: [1_@_Confidential Company] na página: 1373
+Faltando: [1_@_CAT Technology Inc] na página: 1372
+Faltando: [1_@_Salesforce.com] na página: 1371
+Faltando: [1_@_Data Group Inc] na página: 1370
+Faltando: [1_@_Silverlink Technologies] na página: 1369
+Faltando: [1_@_Ramy Infotech Inc] na página: 1368
+Faltando: [1_@_Systems Technology Group Inc. (STG)] na página: 1367
+Faltando: [1_@_Open Systems Technologies] na página: 1366
+Faltando: [1_@_Derex Technologies Inc] na página: 1365
+Faltando: [1_@_Software Transformations] na página: 1364
+Faltando: [1_@_resourcesys inc] na página: 1363
+Faltando: [1_@_AT&T] na página: 1362
+Faltando: [1_@_Rapisource Llc] na página: 1361
+Faltando: [1_@_Beyondtek It] na página: 1360
+Faltando: [1_@_Raytheon] na página: 1358
+Faltando: [1_@_Cillium corp] na página: 1359
+Faltando: [1_@_IDC Technologies, Inc] na página: 1356
+Faltando: [1_@_Onyx Infosoft] na página: 1357
+Faltando: [1_@_Staples] na página: 1354
+Faltando: [1_@_Systel Inc] na página: 1355
+Faltando: [1_@_Sogeti, USA LLC] na página: 1352
+Faltando: [1_@_Gilt Groupe] na página: 1353
+Faltando: [1_@_Enterprise Pals] na página: 1350
+Faltando: [1_@_AT&T] na página: 1351
+Faltando: [1_@_Tech Tammina] na página: 1348
+Faltando: [1_@_e-solutions Inc] na página: 1349
+Faltando: [1_@_NYSE Euronext] na página: 1346
+Faltando: [1_@_Teclincs LLC] na página: 1347
+Faltando: [1_@_High Performance Tech. Inc.] na página: 1344
+Faltando: [1_@_Microsoft] na página: 1345
+Faltando: [1_@_Amzur Technologies] na página: 1405
+Faltando: [1_@_DirecTV] na página: 1404
+Faltando: [1_@_Oxy] na página: 1407
+Faltando: [1_@_Brook Technologies, Inc] na página: 1406
+Faltando: [1_@_Mphasis] na página: 1401
+Faltando: [1_@_Protalent inc] na página: 1400
+Faltando: [1_@_ThoughtWorks Inc.] na página: 1403
+Faltando: [1_@_Reqroute Inc] na página: 1402
+Faltando: [1_@_Okaya Inc] na página: 1397
+Faltando: [1_@_Donur Technical Services Inc.] na página: 1396
+Faltando: [1_@_Manpower] na página: 1399
+Faltando: [1_@_infoway software] na página: 1398
+Faltando: [1_@_Brook Technologies] na página: 1393
+Faltando: [1_@_Vaktech] na página: 1392
+Faltando: [1_@_Enterprisepals inc] na página: 1395
+Faltando: [1_@_agile enterprise solutions, inc] na página: 1394
+Faltando: [1_@_Vortalsoft, Inc] na página: 1388
+Faltando: [1_@_ADP- Automatic Data Processing] na página: 1389
+Faltando: [1_@_Expedia Inc.] na página: 1390
+Faltando: [1_@_Fabergent] na página: 1391
+Faltando: [1_@_Northrop Grumman] na página: 1384
+Faltando: [1_@_MVP Systems Software, Inc.] na página: 1385
+Faltando: [1_@_Cat Technology Inc] na página: 1386
+Faltando: [1_@_Simplion Technologies] na página: 1387
+Faltando: [1_@_Zealtech Inc] na página: 1380
+Faltando: [1_@_NlB Services] na página: 1381
+Faltando: [1_@_Advansoft] na página: 1382
+Faltando: [1_@_Rare Medium Atlanta, LLC] na página: 1383
+Faltando: [1_@_VMware Inc] na página: 1376
+Faltando: [1_@_Riviera Consulting LLC] na página: 1377
+Faltando: [1_@_Trinity Consulting Inc] na página: 1378
+Faltando: [1_@_Next Level Business Services LLC.] na página: 1379
+Faltando: [1_@_Infomatics Inc] na página: 1307
+Faltando: [1_@_Systel Inc] na página: 1306
+Faltando: [1_@_Sapient Corporation] na página: 1305
+Faltando: [1_@_USASOFTECH] na página: 1304
+Faltando: [1_@_Manpower] na página: 1311
+Faltando: [1_@_Sedna Consulting Group] na página: 1310
+Faltando: [1_@_Brook Technologies] na página: 1309
+Faltando: [1_@_DirecTV] na página: 1308
+Faltando: [1_@_Innovative Intelligent Solutions] na página: 1299
+Faltando: [1_@_e-solutions] na página: 1298
+Faltando: [1_@_Infoway Software] na página: 1297
+Faltando: [1_@_Scane Corp] na página: 1296
+Faltando: [1_@_AT&T] na página: 1303
+Faltando: [1_@_NlB Services] na página: 1302
+Faltando: [1_@_Data Group Inc] na página: 1301
+Faltando: [1_@_Key Business Solutions, Inc.] na página: 1300
+Faltando: [1_@_Xceltrait Inc] na página: 1290
+Faltando: [1_@_Cat Technology Inc] na página: 1291
+Faltando: [1_@_FirstOrderSystems.com] na página: 1288
+Faltando: [1_@_Fcs Software Solutions Limited] na página: 1289
+Faltando: [1_@_HealthSpring] na página: 1294
+Faltando: [1_@_Two95 International Inc.] na página: 1295
+Faltando: [1_@_Bank of America Corp.] na página: 1292
+Faltando: [1_@_Tasacom Technologies Inc] na página: 1293
+Faltando: [1_@_Ventures Unlimited Inc.] na página: 1282
+Faltando: [1_@_Vortalsoft, Inc] na página: 1283
+Faltando: [1_@_DePaul University] na página: 1280
+Faltando: [1_@_Ramy Infotech Inc] na página: 1281
+Faltando: [1_@_SystemGuru Inc] na página: 1286
+Faltando: [1_@_Thought Creek Inc] na página: 1287
+Faltando: [1_@_Reveille Technologies Inc] na página: 1284
+Faltando: [1_@_EnsureSoft] na página: 1285
+Faltando: [1_@_Universal Consulting Partners Inc] na página: 1337
+Faltando: [1_@_Ramy Infotech Inc] na página: 1336
+Faltando: [1_@_Comtech Global Inc] na página: 1339
+Faltando: [1_@_Ascentiant International] na página: 1338
+Faltando: [1_@_Amtex Systems.com] na página: 1341
+Faltando: [1_@_It Trailblazers] na página: 1340
+Faltando: [1_@_Trident Consulting Inc.] na página: 1343
+Faltando: [1_@_Two95 International Inc.] na página: 1342
+Faltando: [1_@_DaVita] na página: 1329
+Faltando: [1_@_HP] na página: 1328
+Faltando: [1_@_Enterprise Solutions Inc] na página: 1331
+Faltando: [1_@_www.bennettinc.net] na página: 1330
+Faltando: [1_@_AT&T] na página: 1333
+Faltando: [1_@_Global Commerce & Information] na página: 1332
+Faltando: [1_@_krisintek inc] na página: 1335
+Faltando: [1_@_Trident Consulting Inc.] na página: 1334
+Faltando: [1_@_US Tech Solutions] na página: 1320
+Faltando: [1_@_RedSalsa Technologies Inc.--] na página: 1321
+Faltando: [1_@_MIT Lincoln Laboratory] na página: 1322
+Faltando: [1_@_Fcs Software Solutions Limited] na página: 1323
+Faltando: [1_@_SAP] na página: 1324
+Faltando: [1_@_EPS Resource] na página: 1325
+Faltando: [1_@_IHS, Inc.] na página: 1326
+Faltando: [1_@_National Systems Consulting] na página: 1327
+Faltando: [1_@_Highrise It Consultancy] na página: 1312
+Faltando: [1_@_JinRam, LLC] na página: 1313
+Faltando: [1_@_Zensar Technologies] na página: 1314
+Faltando: [1_@_Tech Tammina] na página: 1315
+Faltando: [1_@_Okaya Inc] na página: 1316
+Faltando: [1_@_E*TRADE Group] na página: 1317
+Faltando: [1_@_Abis Technologies Inc] na página: 1318
+Faltando: [1_@_Manpower] na página: 1319
+Faltando: [1_@_Tephra Inc.] na página: 1494
+Faltando: [1_@_CAT Technology INC] na página: 1495
+Faltando: [1_@_Fcs Software Solutions Limited] na página: 1492
+Faltando: [1_@_horizon computer services] na página: 1493
+Faltando: [1_@_Pearson] na página: 1490
+Faltando: [1_@_agile enterprise solutions, inc] na página: 1491
+Faltando: [1_@_Electronic Arts] na página: 1488
+Faltando: [1_@_Beyondtek It] na página: 1489
+Faltando: [1_@_Staples] na página: 1502
+Faltando: [1_@_ITBMS] na página: 1503
+Faltando: [1_@_Itrendz] na página: 1500
+Faltando: [1_@_Quinstreet] na página: 1501
+Faltando: [1_@_Penske] na página: 1498
+Faltando: [1_@_Microsoft] na página: 1499
+Faltando: [1_@_Simplion Technologies] na página: 1496
+Faltando: [1_@_Okaya Inc] na página: 1497
+Faltando: [1_@_Key Business Solutions, Inc.] na página: 1479
+Faltando: [1_@_General Dynamics] na página: 1478
+Faltando: [1_@_BEYONTEC SOLUTIONS] na página: 1477
+Faltando: [1_@_Suntech Pros] na página: 1476
+Faltando: [1_@_Nastech Services Inc.] na página: 1475
+Faltando: [1_@_Hi - Caliber It] na página: 1474
+Faltando: [1_@_Revolution Prep] na página: 1473
+Faltando: [1_@_Ventures Unlimited Inc.] na página: 1472
+Faltando: [1_@_Resource Huntgroup] na página: 1487
+Faltando: [1_@_Kaizen Technologies Inc] na página: 1486
+Faltando: [1_@_adaminfotech.com] na página: 1485
+Faltando: [1_@_Tasacom Technologies Inc] na página: 1484
+Faltando: [1_@_Primus Global Services Inc] na página: 1483
+Faltando: [1_@_KAR Auction Services, Inc.] na página: 1482
+Faltando: [1_@_RiverPoint Group LLC] na página: 1481
+Faltando: [1_@_Fcs Software Solutions Limited] na página: 1480
+Faltando: [1_@_Maruti Tech services] na página: 1524
+Faltando: [1_@_Technology Software, Inc] na página: 1525
+Faltando: [1_@_LifeLock] na página: 1526
+Faltando: [1_@_Capgemini US LLC] na página: 1527
+Faltando: [1_@_USR Systems Inc] na página: 1520
+Faltando: [1_@_Truglobal Inc] na página: 1521
+Faltando: [1_@_Ces Usa Inc] na página: 1522
+Faltando: [1_@_Amazon] na página: 1523
+Faltando: [1_@_Idexcel Inc] na página: 1532
+Faltando: [1_@_IDC Technologies, Inc] na página: 1533
+Faltando: [1_@_VMware Inc] na página: 1534
+Faltando: [1_@_X-istech Pvt Ltd] na página: 1535
+Faltando: [1_@_CSC] na página: 1528
+Faltando: [1_@_EATEAM Inc] na página: 1529
+Faltando: [1_@_IBM] na página: 1530
+Faltando: [1_@_3S Global Business Solutions] na página: 1531
+Faltando: [1_@_Oracle] na página: 1509
+Faltando: [1_@_INFOMET] na página: 1508
+Faltando: [1_@_XpertTech Inc] na página: 1511
+Faltando: [1_@_Okaya Inc] na página: 1510
+Faltando: [1_@_Infotechspectrum] na página: 1505
+Faltando: [1_@_Kaizen Technologies Inc] na página: 1504
+Faltando: [1_@_NetVision Resources] na página: 1507
+Faltando: [1_@_Relevante Inc] na página: 1506
+Faltando: [1_@_Brook Technologies, Inc] na página: 1517
+Faltando: [1_@_Pearson Education] na página: 1516
+Faltando: [1_@_V Group Inc] na página: 1519
+Faltando: [1_@_IDC Technologies Inc.] na página: 1518
+Faltando: [1_@_curve it consulting] na página: 1513
+Faltando: [1_@_Okaya Inc] na página: 1512
+Faltando: [1_@_Dell] na página: 1515
+Faltando: [1_@_Allegis Group] na página: 1514
+Faltando: [1_@_Harrier Infotech Usa Inc] na página: 1426
+Faltando: [1_@_Riviera Consulting LLC] na página: 1427
+Faltando: [1_@_Okaya Inc] na página: 1424
+Faltando: [1_@_Sogeti, USA LLC] na página: 1425
+Faltando: [1_@_ARAMARK] na página: 1430
+Faltando: [1_@_SEATTLE PUBLIC SCHOOLS] na página: 1431
+Faltando: [1_@_Booz Allen Hamilton, Inc] na página: 1428
+Faltando: [1_@_Capgemini US LLC] na página: 1429
+Faltando: [1_@_Brook Technologies, Inc] na página: 1434
+Faltando: [1_@_Fcs Software Solutions Limited] na página: 1435
+Faltando: [1_@_geminiitlabs inc] na página: 1432
+Faltando: [1_@_Compugra Systems Inc] na página: 1433
+Faltando: [1_@_Ramy Infotech Inc] na página: 1438
+Faltando: [1_@_Techcorps Inc] na página: 1439
+Faltando: [1_@_Fcs Software Solutions Limited] na página: 1436
+Faltando: [1_@_Pride Team] na página: 1437
+Faltando: [1_@_Infoway Software] na página: 1411
+Faltando: [1_@_SignalDemand] na página: 1410
+Faltando: [1_@_isymmetry] na página: 1409
+Faltando: [1_@_Rapidit Inc] na página: 1408
+Faltando: [1_@_Bureau Veritas] na página: 1415
+Faltando: [1_@_Econtent Managers Usa Inc] na página: 1414
+Faltando: [1_@_Ajax Infotech] na página: 1413
+Faltando: [1_@_Majestic Systems Integration Inc] na página: 1412
+Faltando: [1_@_Orange Information Technology Solutions] na página: 1419
+Faltando: [1_@_Dnutch Associates Inc.] na página: 1418
+Faltando: [1_@_Prosoft Cyberworld Group, Inc] na página: 1417
+Faltando: [1_@_Ramy Infotech Inc] na página: 1416
+Faltando: [1_@_IDC Technologies.com] na página: 1423
+Faltando: [1_@_United Professionals Group Llc] na página: 1422
+Faltando: [1_@_BIW Corporation] na página: 1421
+Faltando: [1_@_Cillium corp] na página: 1420
+Faltando: [1_@_Flairsoft] na página: 1456
+Faltando: [1_@_Data Group Inc] na página: 1457
+Faltando: [1_@_NITYA SOFTWARE SOLUTIONS INC] na página: 1458
+Faltando: [1_@_Primus Global Services Inc] na página: 1459
+Faltando: [1_@_krisintek inc] na página: 1460
+Faltando: [1_@_Cybersoft Technologies Inc] na página: 1461
+Faltando: [1_@_Novus Biologicals] na página: 1462
+Faltando: [1_@_Accenture] na página: 1463
+Faltando: [1_@_Ventures Unlimited Inc.] na página: 1464
+Faltando: [1_@_Zynga Inc] na página: 1465
+Faltando: [1_@_Baisys] na página: 1466
+Faltando: [1_@_CSC] na página: 1467
+Faltando: [1_@_Scottrade] na página: 1468
+Faltando: [1_@_Mastch Inc] na página: 1469
+Faltando: [1_@_agile enterprise solutions, inc] na página: 1470
+Faltando: [1_@_HP] na página: 1471
+Faltando: [1_@_SGS North America] na página: 1441
+Faltando: [1_@_Goteti] na página: 1440
+Faltando: [1_@_SEEDAC, LLC] na página: 1443
+Faltando: [1_@_HP] na página: 1442
+Faltando: [1_@_PricewaterhouseCoopers] na página: 1445
+Faltando: [1_@_Ramy Infotech Inc] na página: 1444
+Faltando: [1_@_Cat Technology Inc] na página: 1447
+Faltando: [1_@_Data Group, Inc] na página: 1446
+Faltando: [1_@_http://www.jobs.tekshapers.com] na página: 1449
+Faltando: [1_@_NetStrive Consulting, LLC] na página: 1448
+Faltando: [1_@_iGATE GLOBAL SOLUTIONS] na página: 1451
+Faltando: [1_@_e-solutions Inc] na página: 1450
+Faltando: [1_@_E Solutions Inc] na página: 1453
+Faltando: [1_@_IBM] na página: 1452
+Faltando: [1_@_Ezen Computer Srevices Inc] na página: 1455
+Faltando: [1_@_Youngsoft Inc] na página: 1454
+Faltando: [1_@_CAT Technology INC] na página: 1642
+Faltando: [1_@_Xperttech Inc] na página: 1643
+Faltando: [1_@_BAISYS CONSULTING] na página: 1640
+Faltando: [1_@_Abis Technologies Inc] na página: 1641
+Faltando: [1_@_Infowaysoftware.com] na página: 1646
+Faltando: [1_@_RiverPoint Group LLC] na página: 1647
+Faltando: [1_@_CAT Technology INC] na página: 1644
+Faltando: [1_@_Aurionrpo] na página: 1645
+Faltando: [1_@_E Solutions Inc] na página: 1634
+Faltando: [1_@_Microsoft] na página: 1635
+Faltando: [1_@_prideteam] na página: 1632
+Faltando: [1_@_Tech Tammina] na página: 1633
+Faltando: [1_@_Hewlett-Packard Company] na página: 1638
+Faltando: [1_@_T-Mobile] na página: 1639
+Faltando: [1_@_Alrek Business Solutions, Inc] na página: 1636
+Faltando: [1_@_Collabera] na página: 1637
+Faltando: [1_@_General Dynamics] na página: 1659
+Faltando: [1_@_tw telecom] na página: 1658
+Faltando: [1_@_SunGard] na página: 1657
+Faltando: [1_@_Fcs Software Solutions Limited] na página: 1656
+Faltando: [1_@_Apex 2000 INC] na página: 1663
+Faltando: [1_@_Amtex Systems.com] na página: 1662
+Faltando: [1_@_Universal Software] na página: 1661
+Faltando: [1_@_IBM] na página: 1660
+Faltando: [1_@_Hewlett-Packard Company] na página: 1651
+Faltando: [1_@_Okaya Inc] na página: 1650
+Faltando: [1_@_NetVision Resources] na página: 1649
+Faltando: [1_@_E Solutions Inc] na página: 1648
+Faltando: [1_@_AM-LOGIC ENTERPRISE L.C.] na página: 1655
+Faltando: [1_@_Computech Corporation] na página: 1654
+Faltando: [1_@_General Dynamics] na página: 1653
+Faltando: [1_@_Cybersoft Technologies Inc] na página: 1652
+Faltando: [1_@_PricewaterhouseCoopers] na página: 1608
+Faltando: [1_@_Ivytech Solutions Inc] na página: 1609
+Faltando: [1_@_Zensar Technologies] na página: 1610
+Faltando: [1_@_Ventures Unlimited Inc.] na página: 1611
+Faltando: [1_@_ING Financial Services] na página: 1612
+Faltando: [1_@_Trinity Consulting Inc] na página: 1613
+Faltando: [1_@_Rapidit Inc] na página: 1614
+Faltando: [1_@_Blackbaud, Inc] na página: 1615
+Faltando: [1_@_HP] na página: 1600
+Faltando: [1_@_eDataForce Consulting LLC] na página: 1601
+Faltando: [1_@_RNG Infotech inc] na página: 1602
+Faltando: [1_@_Generic Solutions Inc] na página: 1603
+Faltando: [1_@_Ventures Unlimited Inc.] na página: 1604
+Faltando: [1_@_ISS Global] na página: 1605
+Faltando: [1_@_CompNova] na página: 1606
+Faltando: [1_@_Amtex Systems.com] na página: 1607
+Faltando: [1_@_CedarCrestonce Inc] na página: 1625
+Faltando: [1_@_Comprobase] na página: 1624
+Faltando: [1_@_Ramy Infotech Inc] na página: 1627
+Faltando: [1_@_National Systems consulting] na página: 1626
+Faltando: [1_@_SVG US] na página: 1629
+Faltando: [1_@_IDC Technologies.com] na página: 1628
+Faltando: [1_@_Dew Softech Inc,] na página: 1631
+Faltando: [1_@_Dell] na página: 1630
+Faltando: [1_@_Baisys Consulting] na página: 1617
+Faltando: [1_@_Xperttect Inc] na página: 1616
+Faltando: [1_@_Okaya Inc] na página: 1619
+Faltando: [1_@_Sharp Decisions] na página: 1618
+Faltando: [1_@_Ventures Unlimited Inc.] na página: 1621
+Faltando: [1_@_Systel Inc.] na página: 1620
+Faltando: [1_@_Share point Engine] na página: 1623
+Faltando: [1_@_The Mice Groups] na página: 1622
+Faltando: [1_@_E Solutions Inc] na página: 1582
+Faltando: [1_@_Apollo Technology Solutions LLC] na página: 1583
+Faltando: [1_@_Innomethods] na página: 1580
+Faltando: [1_@_FirstOrderSystems.com] na página: 1581
+Faltando: [1_@_Future Technologies] na página: 1578
+Faltando: [1_@_Generic Solutions Inc] na página: 1579
+Faltando: [1_@_Amtex Systems Inc] na página: 1576
+Faltando: [1_@_Quality IT Source, LLC] na página: 1577
+Faltando: [1_@_Oracle] na página: 1574
+Faltando: [1_@_Nihaki Systems Inc] na página: 1575
+Faltando: [1_@_Various] na página: 1572
+Faltando: [1_@_Abacus Management Services] na página: 1573
+Faltando: [1_@_Okaya Inc] na página: 1570
+Faltando: [1_@_Mint Rpo] na página: 1571
+Faltando: [1_@_Deegit Inc] na página: 1568
+Faltando: [1_@_HMS] na página: 1569
+Faltando: [1_@_Caresoft Inc] na página: 1599
+Faltando: [1_@_SRA International] na página: 1598
+Faltando: [1_@_Affuel Systems Group Inc] na página: 1597
+Faltando: [1_@_JVNTech] na página: 1596
+Faltando: [1_@_Harvard University] na página: 1595
+Faltando: [1_@_Accenture] na página: 1594
+Faltando: [1_@_Sapient Corporation] na página: 1593
+Faltando: [1_@_Key Business Solutions, Inc.] na página: 1592
+Faltando: [1_@_Denali Advanced Integration] na página: 1591
+Faltando: [1_@_Fcs Software Solutions Limited] na página: 1590
+Faltando: [1_@_Riviera Consulting LLC] na página: 1589
+Faltando: [1_@_Active Soft Inc] na página: 1588
+Faltando: [1_@_VKNetworks.Com, Inc] na página: 1587
+Faltando: [1_@_Okaya Inc] na página: 1586
+Faltando: [1_@_Information Builders, Inc.] na página: 1585
+Faltando: [1_@_ABIS Technologies Inc.] na página: 1584
+Faltando: [1_@_Active Soft Inc] na página: 1548
+Faltando: [1_@_Facebook] na página: 1549
+Faltando: [1_@_Inent Inc] na página: 1550
+Faltando: [1_@_Enterprise Solution Inc] na página: 1551
+Faltando: [1_@_SystemGuru Inc] na página: 1544
+Faltando: [1_@_CSC] na página: 1545
+Faltando: [1_@_IDC Technologies Inc.] na página: 1546
+Faltando: [1_@_HP] na página: 1547
+Faltando: [1_@_Sierra Infosys Inc] na página: 1540
+Faltando: [1_@_American IT Associates] na página: 1541
+Faltando: [1_@_Atterro] na página: 1542
+Faltando: [1_@_cigniti inc] na página: 1543
+Faltando: [1_@_Software Folks Inc] na página: 1536
+Faltando: [1_@_E Solutions Inc] na página: 1537
+Faltando: [1_@_ABIS TECHNOLOGIES] na página: 1538
+Faltando: [1_@_3k Technologies Llc] na página: 1539
+Faltando: [1_@_Riviera Consulting LLC] na página: 1565
+Faltando: [1_@_PetSmart Store Support Group, Inc.] na página: 1564
+Faltando: [1_@_TTS Solutions, Inc] na página: 1567
+Faltando: [1_@_Sapient Corporation] na página: 1566
+Faltando: [1_@_CSC] na página: 1561
+Faltando: [1_@_Baisys] na página: 1560
+Faltando: [1_@_Vista Applied Solutions Group Inc] na página: 1563
+Faltando: [1_@_Intera, Inc] na página: 1562
+Faltando: [1_@_Baisys] na página: 1557
+Faltando: [1_@_Clairvoyant Technosolutions, Inc] na página: 1556
+Faltando: [1_@_Okaya Inc] na página: 1559
+Faltando: [1_@_Ajax Infotech] na página: 1558
+Faltando: [1_@_N Alliance LLC] na página: 1553
+Faltando: [1_@_REJIS Commission] na página: 1552
+Faltando: [1_@_Motus It Inc] na página: 1555
+Faltando: [1_@_Accenture] na página: 1554
+Faltando: [1_@_Ramy Infotech Inc] na página: 1763
+Faltando: [1_@_Verizon] na página: 1762
+Faltando: [1_@_Booz Allen Hamilton, Inc] na página: 1761
+Faltando: [1_@_Centric Group] na página: 1760
+Faltando: [1_@_Recruiting Point] na página: 1767
+Faltando: [1_@_WebMD] na página: 1766
+Faltando: [1_@_Oracle] na página: 1765
+Faltando: [1_@_Staples] na página: 1764
+Faltando: [1_@_Brook Technologies] na página: 1771
+Faltando: [1_@_Derex Technologies Inc] na página: 1770
+Faltando: [1_@_Sharp Decisions] na página: 1769
+Faltando: [1_@_TIMCO Aviation Services, Inc.] na página: 1768
+Faltando: [1_@_Primus Global Services Inc] na página: 1775
+Faltando: [1_@_Krg Technologies Inc] na página: 1774
+Faltando: [1_@_Guident Technologies Inc] na página: 1773
+Faltando: [1_@_Key Business Solutions, Inc.] na página: 1772
+Faltando: [1_@_Trinity Consulting Inc] na página: 1778
+Faltando: [1_@_innosoul Inc] na página: 1779
+Faltando: [1_@_Ventures Unlimited Inc.] na página: 1776
+Faltando: [1_@_Universal Software Corporation] na página: 1777
+Faltando: [1_@_Bank of America] na página: 1782
+Faltando: [1_@_IBM] na página: 1783
+Faltando: [1_@_Yale University] na página: 1780
+Faltando: [1_@_systelinc] na página: 1781
+Faltando: [1_@_Maple Resource Specialist] na página: 1786
+Faltando: [1_@_BNY Mellon] na página: 1787
+Faltando: [1_@_crossfireconsulting.com, Inc.] na página: 1784
+Faltando: [1_@_EMC] na página: 1785
+Faltando: [1_@_Advanced Technology Systems Inc.] na página: 1790
+Faltando: [1_@_Ajax Infotech] na página: 1791
+Faltando: [1_@_Tekishub Consulting Services Llc] na página: 1788
+Faltando: [1_@_CGI] na página: 1789
+Faltando: [1_@_Systel Inc] na página: 1729
+Faltando: [1_@_Cat Technology Inc] na página: 1728
+Faltando: [1_@_Entellects Corp] na página: 1731
+Faltando: [1_@_brook technologies] na página: 1730
+Faltando: [1_@_Fcs Software Solutions Limited] na página: 1733
+Faltando: [1_@_E*TRADE Group] na página: 1732
+Faltando: [1_@_Mint Rpo] na página: 1735
+Faltando: [1_@_Cigniti Inc] na página: 1734
+Faltando: [1_@_IDC Technologies, Inc] na página: 1737
+Faltando: [1_@_Primus Global Services Inc] na página: 1736
+Faltando: [1_@_Ramy Infotech Inc] na página: 1739
+Faltando: [1_@_APS Healthcare] na página: 1738
+Faltando: [1_@_Aureus Tech Systems, LLC] na página: 1741
+Faltando: [1_@_Fcs Software Solutions Limited] na página: 1740
+Faltando: [1_@_Infinity Search LLC] na página: 1743
+Faltando: [1_@_Riviera Consulting LLC] na página: 1742
+Faltando: [1_@_eDataForce Consulting LLC] na página: 1744
+Faltando: [1_@_Sharp Decisions] na página: 1745
+Faltando: [1_@_agile enterprise solutions, inc] na página: 1746
+Faltando: [1_@_Itbms] na página: 1747
+Faltando: [1_@_C-Vision] na página: 1748
+Faltando: [1_@_SolutionGraph LLC] na página: 1749
+Faltando: [1_@_Hevar System, Inc] na página: 1750
+Faltando: [1_@_Axis Technical Group,Inc] na página: 1751
+Faltando: [1_@_Vastika Inc] na página: 1752
+Faltando: [1_@_Ramy Infotech Inc] na página: 1753
+Faltando: [1_@_Avanade Inc.] na página: 1754
+Faltando: [1_@_IBM] na página: 1755
+Faltando: [1_@_Tech Tammina] na página: 1756
+Faltando: [1_@_Inirus LLC] na página: 1757
+Faltando: [1_@_Oracle] na página: 1758
+Faltando: [1_@_Caresoft Inc] na página: 1759
+Faltando: [1_@_Tephra Inc.] na página: 1703
+Faltando: [1_@_Cat Technology Inc] na página: 1702
+Faltando: [1_@_VMware Inc] na página: 1701
+Faltando: [1_@_Okaya Inc] na página: 1700
+Faltando: [1_@_Vedicsoft] na página: 1699
+Faltando: [1_@_GSI Commerce] na página: 1698
+Faltando: [1_@_Isilon Systems] na página: 1697
+Faltando: [1_@_Riviera Consulting LLC] na página: 1696
+Faltando: [1_@_New York University] na página: 1711
+Faltando: [1_@_People Tech Group] na página: 1710
+Faltando: [1_@_Blackbaud, Inc] na página: 1709
+Faltando: [1_@_USA Softech Inc] na página: 1708
+Faltando: [1_@_Blink Consulting Inc] na página: 1707
+Faltando: [1_@_Genius IT Solutions Inc] na página: 1706
+Faltando: [1_@_Microsoft] na página: 1705
+Faltando: [1_@_Ramy Infotech Inc] na página: 1704
+Faltando: [1_@_Motus It Inc] na página: 1718
+Faltando: [1_@_Trident Consulting Inc.] na página: 1719
+Faltando: [1_@_ABIS Technologies Inc.] na página: 1716
+Faltando: [1_@_E Solutions Inc] na página: 1717
+Faltando: [1_@_Sun-it Solutions, Inc] na página: 1714
+Faltando: [1_@_Bluekraft LLC] na página: 1715
+Faltando: [1_@_Krg Technologies Inc] na página: 1712
+Faltando: [1_@_Caresoft Inc] na página: 1713
+Faltando: [1_@_Textron] na página: 1726
+Faltando: [1_@_Crystal McKenzie, Inc.] na página: 1727
+Faltando: [1_@_Sogeti, USA LLC] na página: 1724
+Faltando: [1_@_Idexcel] na página: 1725
+Faltando: [1_@_Caresoft Inc] na página: 1722
+Faltando: [1_@_Ventures Unlimited Inc.] na página: 1723
+Faltando: [1_@_ING North America Insurance Corporation] na página: 1720
+Faltando: [1_@_PG & E] na página: 1721
+Faltando: [1_@_e-solutions] na página: 1669
+Faltando: [1_@_Resource Huntgroup] na página: 1668
+Faltando: [1_@_HP] na página: 1671
+Faltando: [1_@_Net 2 Source] na página: 1670
+Faltando: [1_@_Ventures Unlimited Inc.] na página: 1665
+Faltando: [1_@_Zealtech Inc] na página: 1664
+Faltando: [1_@_Army National Guard] na página: 1667
+Faltando: [1_@_IT-SCIENT LLC] na página: 1666
+Faltando: [1_@_IDC Technologies, Inc] na página: 1677
+Faltando: [1_@_Ces Usa Inc] na página: 1676
+Faltando: [1_@_Fcs Software Solutions Limited] na página: 1679
+Faltando: [1_@_Competent Systems Inc] na página: 1678
+Faltando: [1_@_iSoft Solutions LLC] na página: 1673
+Faltando: [1_@_Cat Technology Inc] na página: 1672
+Faltando: [1_@_Oracle] na página: 1675
+Faltando: [1_@_Amtex Systems Inc] na página: 1674
+Faltando: [1_@_AVA Consulting] na página: 1684
+Faltando: [1_@_Orion Systems Integrators Inc.] na página: 1685
+Faltando: [1_@_Qivliq LLC] na página: 1686
+Faltando: [1_@_Applet Systems] na página: 1687
+Faltando: [1_@_Okaya Inc] na página: 1680
+Faltando: [1_@_Okaya Inc] na página: 1681
+Faltando: [1_@_HP] na página: 1682
+Faltando: [1_@_agile enterprise solutions, inc] na página: 1683
+Faltando: [1_@_People Tech Group] na página: 1692
+Faltando: [1_@_Nyvasoft,inc] na página: 1693
+Faltando: [1_@_Beta Soft Systems Inc] na página: 1694
+Faltando: [1_@_Orange Information Technology Solutions] na página: 1695
+Faltando: [1_@_Sogeti, USA LLC] na página: 1688
+Faltando: [1_@_Dendrite International] na página: 1689
+Faltando: [1_@_ING DIRECT] na página: 1690
+Faltando: [1_@_servsolid] na página: 1691
+Faltando: [1_@_Cybersoft Technologies Inc] na página: 1913
+Faltando: [1_@_Spectraforce Technologies Inc.] na página: 1912
+Faltando: [1_@_Riviera Consulting LLC] na página: 1915
+Faltando: [1_@_Technosoft Corporation] na página: 1914
+Faltando: [1_@_Electronic Arts] na página: 1917
+Faltando: [1_@_TTS Solutions, Inc] na página: 1916
+Faltando: [1_@_Ventures Unlimited Inc.] na página: 1919
+Faltando: [1_@_Revolution Analytics] na página: 1918
+Faltando: [1_@_Towers Watson] na página: 1905
+Faltando: [1_@_Tekshapers Inc.] na página: 1904
+Faltando: [1_@_Prosoft Cyberworld Group, Inc] na página: 1907
+Faltando: [1_@_http://www.jobs.tekshapers.com] na página: 1906
+Faltando: [1_@_Pegasystems Inc] na página: 1909
+Faltando: [1_@_Synerfac Technical Staffing] na página: 1908
+Faltando: [1_@_NetVision Resources] na página: 1911
+Faltando: [1_@_Brook Technologies] na página: 1910
+Faltando: [1_@_Accenture] na página: 1896
+Faltando: [1_@_Pearlsoft Solutions Inc] na página: 1897
+Faltando: [1_@_Intel] na página: 1898
+Faltando: [1_@_Charter Global Inc] na página: 1899
+Faltando: [1_@_APPLET SYSTEMS LLC] na página: 1900
+Faltando: [1_@_Primus Global Services Inc] na página: 1901
+Faltando: [1_@_Sumas Corporation] na página: 1902
+Faltando: [1_@_Parsons Corporation] na página: 1903
+Faltando: [1_@_Otsi] na página: 1888
+Faltando: [1_@_Comcast] na página: 1889
+Faltando: [1_@_ON Semiconductor] na página: 1890
+Faltando: [1_@_Accenture] na página: 1891
+Faltando: [1_@_Okaya Inc] na página: 1892
+Faltando: [1_@_Trinity Consulting Inc] na página: 1893
+Faltando: [1_@_IDC Technologies.com] na página: 1894
+Faltando: [1_@_Sharp Decisions] na página: 1895
+Faltando: [1_@_Nam Info Inc] na página: 1883
+Faltando: [1_@_Quality IT Source, LLC] na página: 1882
+Faltando: [1_@_IT SCIENT] na página: 1881
+Faltando: [1_@_Okaya Inc] na página: 1880
+Faltando: [1_@_X-istech Pvt Ltd] na página: 1887
+Faltando: [1_@_Charter Global Inc.] na página: 1886
+Faltando: [1_@_IDC Technologies, Inc] na página: 1885
+Faltando: [1_@_CAT Technology INC] na página: 1884
+Faltando: [1_@_whizit solutions] na página: 1875
+Faltando: [1_@_Tech Tammina] na página: 1874
+Faltando: [1_@_Alrek Business Solutions, Inc] na página: 1873
+Faltando: [1_@_JPMorgan Chase] na página: 1872
+Faltando: [1_@_Logiqlabs LLC] na página: 1879
+Faltando: [1_@_Allied Informatics, Inc] na página: 1878
+Faltando: [1_@_IBM] na página: 1877
+Faltando: [1_@_Zensar Technologies] na página: 1876
+Faltando: [1_@_Comtech Global Inc] na página: 1866
+Faltando: [1_@_National Systems consulting] na página: 1867
+Faltando: [1_@_Enterprise Solution Inc.] na página: 1864
+Faltando: [1_@_venturesoftglobal] na página: 1865
+Faltando: [1_@_Brook Technologies] na página: 1870
+Faltando: [1_@_Elsevier] na página: 1871
+Faltando: [1_@_HUGE] na página: 1868
+Faltando: [1_@_AT&T] na página: 1869
+Faltando: [1_@_Open Systems Technologies] na página: 1858
+Faltando: [1_@_Fcs Software Solutions Limited] na página: 1859
+Faltando: [1_@_Ramy Infotech Inc] na página: 1856
+Faltando: [1_@_Pearson Education] na página: 1857
+Faltando: [1_@_Expoinfo, Inc.] na página: 1862
+Faltando: [1_@_Salesforce.com] na página: 1863
+Faltando: [1_@_Highrise It Consultancy] na página: 1860
+Faltando: [1_@_Okaya Inc] na página: 1861
+Faltando: [1_@_The Boeing Company] na página: 1853
+Faltando: [1_@_Data Group, Inc] na página: 1852
+Faltando: [1_@_Tasacom Technologies Inc] na página: 1855
+Faltando: [1_@_Resource Huntgroup] na página: 1854
+Faltando: [1_@_Charter Global Inc.] na página: 1849
+Faltando: [1_@_Net 2 Source] na página: 1848
+Faltando: [1_@_Cat Technology Inc] na página: 1851
+Faltando: [1_@_United Professionals Group Llc] na página: 1850
+Faltando: [1_@_Idc Technologies Inc] na página: 1845
+Faltando: [1_@_Ventures Unlimited Inc.] na página: 1844
+Faltando: [1_@_CSC] na página: 1847
+Faltando: [1_@_Rites Llc] na página: 1846
+Faltando: [1_@_Ramy Infotech Inc] na página: 1841
+Faltando: [1_@_Thomson Reuters-Boston] na página: 1840
+Faltando: [1_@_Aurionrpo] na página: 1843
+Faltando: [1_@_MSR Cosmos] na página: 1842
+Faltando: [1_@_Yale University] na página: 1836
+Faltando: [1_@_Ava Consulting] na página: 1837
+Faltando: [1_@_Sena Info Technologies,Inc] na página: 1838
+Faltando: [1_@_CSC] na página: 1839
+Faltando: [1_@_Blackstone Technology Group] na página: 1832
+Faltando: [1_@_agile enterprise solutions, inc] na página: 1833
+Faltando: [1_@_NLB Services, Inc] na página: 1834
+Faltando: [1_@_Pearson] na página: 1835
+Faltando: [1_@_Trinity Consulting Inc] na página: 1828
+Faltando: [1_@_GenuineIT LLC] na página: 1829
+Faltando: [1_@_Tejase technologies Inc] na página: 1830
+Faltando: [1_@_ML Technologies] na página: 1831
+Faltando: [1_@_EPATHUSA INC] na página: 1824
+Faltando: [1_@_Charter Global Inc] na página: 1825
+Faltando: [1_@_Info Ways] na página: 1826
+Faltando: [1_@_CAT Technologies Inc] na página: 1827
+Faltando: [1_@_Comrise] na página: 1823
+Faltando: [1_@_SRA International] na página: 1822
+Faltando: [1_@_Northpointcorp] na página: 1821
+Faltando: [1_@_Citi] na página: 1820
+Faltando: [1_@_Itbms] na página: 1819
+Faltando: [1_@_Astir It Solutions Inc] na página: 1818
+Faltando: [1_@_AIT Resource Group Inc.] na página: 1817
+Faltando: [1_@_Quest Infosoft] na página: 1816
+Faltando: [1_@_Divihn Integeration Inc] na página: 1815
+Faltando: [1_@_Charter Global, Inc.] na página: 1814
+Faltando: [1_@_Abis Technologies Inc] na página: 1813
+Faltando: [1_@_Reqroute Inc] na página: 1812
+Faltando: [1_@_CAT Technology INC] na página: 1811
+Faltando: [1_@_E Solutions Inc] na página: 1810
+Faltando: [1_@_ISL Techsolutions Inc] na página: 1809
+Faltando: [1_@_Winwire Technologies Inc] na página: 1808
+Faltando: [1_@_Econtent Managers Usa Inc] na página: 1806
+Faltando: [1_@_CAT Technology INC] na página: 1807
+Faltando: [1_@_Cougar Tech USA] na página: 1804
+Faltando: [1_@_Veralogic Group] na página: 1805
+Faltando: [1_@_ZSL Inc] na página: 1802
+Faltando: [1_@_Booz Allen Hamilton, Inc] na página: 1803
+Faltando: [1_@_Surya Systems, Inc.] na página: 1800
+Faltando: [1_@_IDC Technologies Inc.] na página: 1801
+Faltando: [1_@_PriServe Consulting Inc] na página: 1798
+Faltando: [1_@_prosoft] na página: 1799
+Faltando: [1_@_E-Solutions] na página: 1796
+Faltando: [1_@_Expedia Inc.] na página: 1797
+Faltando: [1_@_It Trailblazers] na página: 1794
+Faltando: [1_@_Yasmesoft Inc] na página: 1795
+Faltando: [1_@_RKMC Inc.] na página: 1792
+Faltando: [1_@_Siemens USA] na página: 1793
+Faltando: [1_@_Fcs Software Solutions Limited] na página: 1987
+Faltando: [1_@_Btech Inc.] na página: 1986
+Faltando: [1_@_Nmesh souktions INC] na página: 1985
+Faltando: [1_@_IDC Technologies.com] na página: 1984
+Faltando: [1_@_Datasoft Technologies, Inc.] na página: 1991
+Faltando: [1_@_Key Business Solutions, Inc.] na página: 1990
+Faltando: [1_@_Confidential Company] na página: 1989
+Faltando: [1_@_Two95 International Inc.] na página: 1988
+Faltando: [1_@_Advance Technical Solutions Inc] na página: 1995
+Faltando: [1_@_Ztek Consulting Inc.] na página: 1994
+Faltando: [1_@_Dew Softech Inc,] na página: 1993
+Faltando: [1_@_Avanade Inc.] na página: 1992
+Faltando: [1_@_Opus Infosys] na página: 1999
+Faltando: [1_@_Cat Technology Inc] na página: 1998
+Faltando: [1_@_Tekishub Consulting Services Llc] na página: 1997
+Faltando: [1_@_NLB Services] na página: 1996
+Faltando: [1_@_Ventures Unlimited Inc.] na página: 1972
+Faltando: [1_@_ZOTAS Inc.] na página: 1973
+Faltando: [1_@_WellPoint] na página: 1974
+Faltando: [1_@_URS Corporation] na página: 1975
+Faltando: [1_@_www.bennettinc.net] na página: 1968
+Faltando: [1_@_MISI Company] na página: 1969
+Faltando: [1_@_Sharp Decisions] na página: 1970
+Faltando: [1_@_AurionPro Solutions Limited] na página: 1971
+Faltando: [1_@_Deegit Inc] na página: 1980
+Faltando: [1_@_Kaizen Technologies Inc] na página: 1981
+Faltando: [1_@_Rockfish Interactive] na página: 1982
+Faltando: [1_@_3 S Global] na página: 1983
+Faltando: [1_@_Intel] na página: 1976
+Faltando: [1_@_Sriven Systems] na página: 1977
+Faltando: [1_@_Ces Usa Inc] na página: 1978
+Faltando: [1_@_LanceSoft Inc.] na página: 1979
+Faltando: [1_@_Vertis Inc.] na página: 1957
+Faltando: [1_@_Rovi Corporation] na página: 1956
+Faltando: [1_@_Compugra Systems Inc] na página: 1959
+Faltando: [1_@_Cat Technology Inc] na página: 1958
+Faltando: [1_@_JPMorgan Chase] na página: 1953
+Faltando: [1_@_Sapient Corporation] na página: 1952
+Faltando: [1_@_Ramy Infotech Inc] na página: 1955
+Faltando: [1_@_Rapidit Inc] na página: 1954
+Faltando: [1_@_NPD Global] na página: 1965
+Faltando: [1_@_Microsoft] na página: 1964
+Faltando: [1_@_Mastech] na página: 1967
+Faltando: [1_@_Cat Technology Inc] na página: 1966
+Faltando: [1_@_SRS Consulting] na página: 1961
+Faltando: [1_@_Ikon] na página: 1960
+Faltando: [1_@_Amazon] na página: 1963
+Faltando: [1_@_The Babcock & Wilcox Companies] na página: 1962
+Faltando: [1_@_CompNova] na página: 1942
+Faltando: [1_@_Advanced Technology Systems Inc.] na página: 1943
+Faltando: [1_@_JPMorgan Chase] na página: 1940
+Faltando: [1_@_Pacific Investment Management Company] na página: 1941
+Faltando: [1_@_Okaya Inc] na página: 1938
+Faltando: [1_@_Future Skies Inc.] na página: 1939
+Faltando: [1_@_Data Glove] na página: 1936
+Faltando: [1_@_Amtex Systems.com] na página: 1937
+Faltando: [1_@_Caresoft Inc] na página: 1950
+Faltando: [1_@_Fiserv] na página: 1951
+Faltando: [1_@_Zensar Technologies] na página: 1948
+Faltando: [1_@_Raytheon] na página: 1949
+Faltando: [1_@_Manpower] na página: 1946
+Faltando: [1_@_Javaji System Solutions] na página: 1947
+Faltando: [1_@_Sapient Corporation] na página: 1944
+Faltando: [1_@_Abacus Management Services] na página: 1945
+Faltando: [1_@_Siemens USA] na página: 1927
+Faltando: [1_@_ITSI] na página: 1926
+Faltando: [1_@_Econosoft Inc] na página: 1925
+Faltando: [1_@_Logiqlabs Llc] na página: 1924
+Faltando: [1_@_T-Mobile] na página: 1923
+Faltando: [1_@_Softwarefolks] na página: 1922
+Faltando: [1_@_Tekishub Consulting Services Llc] na página: 1921
+Faltando: [1_@_IDC Technologies, Inc] na página: 1920
+Faltando: [1_@_Orange Information Technology Solutions] na página: 1935
+Faltando: [1_@_Data Group Inc] na página: 1934
+Faltando: [1_@_Pearl Consultaing Services Inc] na página: 1933
+Faltando: [1_@_Accenture] na página: 1932
+Faltando: [1_@_RedSalsa Technologies Inc.--] na página: 1931
+Faltando: [1_@_PAREXEL International LLC] na página: 1930
+Faltando: [1_@_itekserv in] na página: 1929
+Faltando: [1_@_Cox Communications, Inc.] na página: 1928
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 13:09 - date_posted********************************
+dataset;SWDE;domain;job;site;job-nettemps;attribute;date_posted;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-17 13:09
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 13:09 - location********************************
+dataset;SWDE;domain;job;site;job-nettemps;attribute;location;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-17 13:09
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 13:09 - title********************************
+dataset;SWDE;domain;job;site;job-nettemps;attribute;title;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-17 13:09
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

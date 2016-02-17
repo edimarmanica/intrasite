@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,job,job-jobcircle,company,rule_2060.csv,Upcoming Events,2000,2000,2000,1.0,1.0,2016-02-17 12:50
+SWDE,job,job-jobcircle,date_posted,rule_868.csv,Please refer to job code,2000,345,345,0.1725,1.0,2016-02-17 12:50
+SWDE,job,job-jobcircle,location,rule_3232.csv,Location:,2000,2000,2000,1.0,1.0,2016-02-17 12:50
+SWDE,job,job-jobcircle,title,rule_62.csv,when responding to this ad.,2000,345,345,0.1725,1.0,2016-02-17 12:51

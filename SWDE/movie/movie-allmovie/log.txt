@@ -1,0 +1,774 @@
+
+
+*************2016-02-17 14:27 - director********************************
+dataset;SWDE;domain;movie;site;movie-allmovie;attribute;director;relevantes;1998;recuperados;1998;relevantes recuperados; 1998;recall;1.0;precision;1.0;date;2016-02-17 14:27
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 14:27 - genre********************************
+dataset;SWDE;domain;movie;site;movie-allmovie;attribute;genre;relevantes;1998;recuperados;1996;relevantes recuperados; 1996;recall;0.998998998998999;precision;1.0;date;2016-02-17 14:27
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [2_@_Children's/Family_@_Fantasy] na página: 108
+Faltando: [1_@_Culture & Society [nf]] na página: 1819
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 14:27 - rating********************************
+dataset;SWDE;domain;movie;site;movie-allmovie;attribute;rating;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-17 14:27
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 14:27 - title********************************
+dataset;SWDE;domain;movie;site;movie-allmovie;attribute;title;relevantes;2000;recuperados;1260;relevantes recuperados; 1260;recall;0.63;precision;1.0;date;2016-02-17 14:27
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Red] na página: 3
+Faltando: [1_@_Chungking Express] na página: 4
+Faltando: [1_@_Belle de Jour] na página: 8
+Faltando: [1_@_The World of Apu] na página: 10
+Faltando: [1_@_A Woman Under the Influence] na página: 11
+Faltando: [1_@_A Streetcar Named Desire] na página: 13
+Faltando: [1_@_Raise the Red Lantern] na página: 18
+Faltando: [1_@_Pather Panchali] na página: 21
+Faltando: [1_@_Picnic at Hanging Rock] na página: 20
+Faltando: [1_@_The Marriage of Maria Braun] na página: 26
+Faltando: [1_@_The Last Wave] na página: 28
+Faltando: [1_@_Deliverance] na página: 35
+Faltando: [1_@_Fanny & Alexander] na página: 32
+Faltando: [1_@_Barry Lyndon] na página: 39
+Faltando: [1_@_The Conformist] na página: 37
+Faltando: [1_@_Stranger Than Paradise] na página: 68
+Faltando: [1_@_Smile] na página: 69
+Faltando: [1_@_Who Framed Roger Rabbit] na página: 65
+Faltando: [1_@_Tampopo] na página: 67
+Faltando: [1_@_Bridget Jones's Diary] na página: 85
+Faltando: [1_@_Born Yesterday] na página: 82
+Faltando: [1_@_Mary Poppins] na página: 93
+Faltando: [1_@_101 Dalmatians] na página: 91
+Faltando: [1_@_The Nightmare Before Christmas] na página: 90
+Faltando: [1_@_A Bug's Life] na página: 101
+Faltando: [1_@_Spy Kids] na página: 98
+Faltando: [1_@_Monsters, Inc.] na página: 97
+Faltando: [1_@_Sleeping Beauty] na página: 110
+Faltando: [1_@_The Many Adventures of Winnie the Pooh] na página: 107
+Faltando: [1_@_A Christmas Carol] na página: 118
+Faltando: [1_@_The Journey of Natty Gann] na página: 117
+Faltando: [1_@_Fairy Tale: A True Story] na página: 127
+Faltando: [1_@_Mulan] na página: 126
+Faltando: [1_@_The Absent-Minded Professor] na página: 123
+Faltando: [1_@_Miss Evers' Boys] na página: 142
+Faltando: [1_@_The Secret Garden] na página: 133
+Faltando: [1_@_The Three Lives of Thomasina] na página: 132
+Faltando: [1_@_The Leopard] na página: 134
+Faltando: [1_@_Mary, Queen of Scots] na página: 156
+Faltando: [1_@_Ludwig] na página: 157
+Faltando: [1_@_Edward II] na página: 158
+Faltando: [1_@_Queen Margot] na página: 144
+Faltando: [1_@_Zulu] na página: 146
+Faltando: [1_@_Ofelas] na página: 147
+Faltando: [1_@_The Diary of Anne Frank] na página: 150
+Faltando: [1_@_Jefferson in Paris] na página: 169
+Faltando: [1_@_Iron Monkey] na página: 174
+Faltando: [1_@_Anne of the Thousand Days] na página: 163
+Faltando: [1_@_The Swiss Family Robinson] na página: 184
+Faltando: [1_@_The Man Who Would Be King] na página: 190
+Faltando: [1_@_Never Cry Wolf] na página: 189
+Faltando: [1_@_Into the West] na página: 179
+Faltando: [1_@_Fitzcarraldo] na página: 176
+Faltando: [1_@_Those Magnificent Men in Their Flying Machines] na página: 183
+Faltando: [1_@_Treasure Island] na página: 180
+Faltando: [1_@_20,000 Leagues Under the Sea] na página: 204
+Faltando: [1_@_The Incredible Journey] na página: 201
+Faltando: [1_@_The Great Waldo Pepper] na página: 203
+Faltando: [1_@_The Jungle Book] na página: 192
+Faltando: [1_@_Quest for Fire] na página: 195
+Faltando: [1_@_Robin and Marian] na página: 194
+Faltando: [1_@_White Squall] na página: 221
+Faltando: [1_@_The Discreet Charm of the Bourgeoisie] na página: 222
+Faltando: [1_@_Celine and Julie Go Boating] na página: 223
+Faltando: [1_@_White Fang] na página: 216
+Faltando: [1_@_Return to Snowy River] na página: 217
+Faltando: [1_@_A Far Off Place] na página: 218
+Faltando: [1_@_Dragonslayer] na página: 219
+Faltando: [1_@_Lionheart] na página: 212
+Faltando: [1_@_Lassie] na página: 213
+Faltando: [1_@_The Pirates of Penzance] na página: 214
+Faltando: [1_@_Operation Condor] na página: 209
+Faltando: [1_@_Goto, L'ile d'amour] na página: 234
+Faltando: [1_@_The Phantom of Liberty] na página: 230
+Faltando: [1_@_Prospero's Books] na página: 228
+Faltando: [1_@_Ceddo] na página: 226
+Faltando: [1_@_Conspirators of Pleasure] na página: 225
+Faltando: [1_@_Renaissance] na página: 224
+Faltando: [1_@_Vengeance Is Mine] na página: 254
+Faltando: [1_@_Blood Simple] na página: 250
+Faltando: [1_@_In Cold Blood] na página: 243
+Faltando: [1_@_Going in Style] na página: 277
+Faltando: [1_@_The Killing of a Chinese Bookie] na página: 276
+Faltando: [1_@_Bobby G. Can't Swim] na página: 283
+Faltando: [1_@_Dog Day Afternoon] na página: 258
+Faltando: [1_@_Full Contact] na página: 259
+Faltando: [1_@_Le Samouraï] na página: 257
+Faltando: [1_@_Jackie Brown] na página: 263
+Faltando: [1_@_The Friends of Eddie Coyle] na página: 270
+Faltando: [1_@_Get Carter] na página: 269
+Faltando: [1_@_Kagemusha] na página: 311
+Faltando: [1_@_The Emigrants] na página: 313
+Faltando: [1_@_Kundun] na página: 312
+Faltando: [1_@_War and Peace] na página: 317
+Faltando: [1_@_The Story of David] na página: 318
+Faltando: [1_@_No Way to Treat a Lady] na página: 292
+Faltando: [1_@_Internal Affairs] na página: 294
+Faltando: [1_@_Until They Sail] na página: 298
+Faltando: [1_@_Ordinary Decent Criminal] na página: 301
+Faltando: [1_@_Trick Baby] na página: 302
+Faltando: [1_@_Excalibur] na página: 341
+Faltando: [1_@_Ghost] na página: 340
+Faltando: [1_@_Heaven Can Wait] na página: 339
+Faltando: [1_@_Truly, Madly, Deeply] na página: 337
+Faltando: [1_@_The Navigator: A Medieval Odyssey] na página: 350
+Faltando: [1_@_The Crow] na página: 349
+Faltando: [1_@_Witch Hunt] na página: 346
+Faltando: [1_@_The Charge of the Light Brigade] na página: 327
+Faltando: [1_@_Cromwell] na página: 322
+Faltando: [1_@_Wings of Fame] na página: 334
+Faltando: [1_@_Princess Mononoke] na página: 328
+Faltando: [1_@_Wings of Desire] na página: 329
+Faltando: [1_@_Gotcha!] na página: 373
+Faltando: [1_@_The Mackintosh Man] na página: 371
+Faltando: [1_@_Operation Crossbow] na página: 370
+Faltando: [1_@_The Tamarind Seed] na página: 383
+Faltando: [1_@_The Eagle Has Landed] na página: 376
+Faltando: [1_@_Darling Lili] na página: 366
+Faltando: [1_@_Ffolkes] na página: 367
+Faltando: [1_@_Barefoot Gen] na página: 410
+Faltando: [1_@_Welcome to Sarajevo] na página: 415
+Faltando: [1_@_The Amateur] na página: 400
+Faltando: [1_@_What's Up, Tiger Lily?] na página: 394
+Faltando: [1_@_The Kremlin Letter] na página: 393
+Faltando: [1_@_Scorpio] na página: 397
+Faltando: [1_@_The Innocent] na página: 391
+Faltando: [1_@_The Amsterdam Kill] na página: 390
+Faltando: [1_@_Night of the Demon] na página: 445
+Faltando: [1_@_Submarine X-1] na página: 432
+Faltando: [1_@_Scream] na página: 433
+Faltando: [1_@_The Thing] na página: 434
+Faltando: [1_@_MacArthur] na página: 417
+Faltando: [1_@_Von Ryan's Express] na página: 423
+Faltando: [1_@_Little Shop of Horrors] na página: 476
+Faltando: [1_@_Kill, Baby, Kill] na página: 477
+Faltando: [1_@_Something Wicked This Way Comes] na página: 474
+Faltando: [1_@_Ganja and Hess] na página: 472
+Faltando: [1_@_Dust Devil] na página: 467
+Faltando: [1_@_The Raven] na página: 461
+Faltando: [1_@_Shivers] na página: 458
+Faltando: [1_@_Videodrome] na página: 456
+Faltando: [1_@_La Noche del Terror Ciego] na página: 455
+Faltando: [1_@_Homicidal] na página: 454
+Faltando: [1_@_Mr. Sardonicus] na página: 453
+Faltando: [1_@_Nosferatu the Vampyre] na página: 452
+Faltando: [1_@_Viy] na página: 450
+Faltando: [1_@_The Others] na página: 448
+Faltando: [1_@_All About Eve] na página: 489
+Faltando: [1_@_The Big Heat] na página: 485
+Faltando: [1_@_The Asphalt Jungle] na página: 486
+Faltando: [1_@_The Wages of Fear] na página: 481
+Faltando: [1_@_An Officer and a Gentleman] na página: 551
+Faltando: [1_@_Splash] na página: 548
+Faltando: [1_@_Robocop] na página: 549
+Faltando: [1_@_Return of the Secaucus 7] na página: 546
+Faltando: [1_@_Fame] na página: 555
+Faltando: [1_@_Rushmore] na página: 567
+Faltando: [1_@_Beverly Hills Cop] na página: 563
+Faltando: [1_@_Tron] na página: 560
+Faltando: [1_@_Straw Dogs] na página: 524
+Faltando: [1_@_Love Story] na página: 528
+Faltando: [1_@_Careful, He Might Hear You] na página: 608
+Faltando: [1_@_The Quiet Room] na página: 614
+Faltando: [1_@_Children of the Revolution] na página: 612
+Faltando: [1_@_Love Serenade] na página: 613
+Faltando: [1_@_Romper Stomper] na página: 618
+Faltando: [1_@_Strictly Ballroom] na página: 619
+Faltando: [1_@_Muriel's Wedding] na página: 616
+Faltando: [1_@_Love and Other Catastrophes] na página: 623
+Faltando: [1_@_Lonely Hearts] na página: 620
+Faltando: [1_@_The Last Days of Chez Nous] na página: 621
+Faltando: [1_@_Newsfront] na página: 627
+Faltando: [1_@_Puberty Blues] na página: 626
+Faltando: [1_@_Sirens] na página: 625
+Faltando: [1_@_Paperback Hero] na página: 631
+Faltando: [1_@_The Coca-Cola Kid] na página: 629
+Faltando: [1_@_The Efficiency Expert] na página: 628
+Faltando: [1_@_Cosi] na página: 635
+Faltando: [1_@_Two Hands] na página: 639
+Faltando: [1_@_Heatwave] na página: 637
+Faltando: [1_@_Chasing Amy] na página: 582
+Faltando: [1_@_Pretty Woman] na página: 584
+Faltando: [1_@_I, the Worst of All] na página: 590
+Faltando: [1_@_Garage Olimpo] na página: 591
+Faltando: [1_@_An Angel at My Table] na página: 593
+Faltando: [1_@_The Year of Living Dangerously] na página: 595
+Faltando: [1_@_The Chant of Jimmie Blacksmith] na página: 594
+Faltando: [1_@_Tim] na página: 597
+Faltando: [1_@_A Woman's Tale] na página: 596
+Faltando: [1_@_My Brilliant Career] na página: 600
+Faltando: [1_@_The Man from Snowy River] na página: 602
+Faltando: [1_@_Crocodile Dundee] na página: 607
+Faltando: [1_@_The Narrow Margin] na página: 687
+Faltando: [1_@_The Parallax View] na página: 685
+Faltando: [1_@_The Tenant] na página: 681
+Faltando: [1_@_The Wicker Man] na página: 678
+Faltando: [1_@_Winter Kills] na página: 677
+Faltando: [1_@_Purple Noon] na página: 676
+Faltando: [1_@_Seconds] na página: 675
+Faltando: [1_@_Primal Fear] na página: 674
+Faltando: [1_@_Insomnia] na página: 673
+Faltando: [1_@_The Sixth Sense] na página: 672
+Faltando: [1_@_The Boys From Brazil] na página: 700
+Faltando: [1_@_Blow Out] na página: 701
+Faltando: [1_@_The China Syndrome] na página: 699
+Faltando: [1_@_Duel] na página: 694
+Faltando: [1_@_Toto the Hero] na página: 653
+Faltando: [1_@_Daens] na página: 652
+Faltando: [1_@_Das Boot ist voll] na página: 648
+Faltando: [1_@_Beresina oder die letzten Tage der Schweiz] na página: 645
+Faltando: [1_@_The Cars That Ate Paris] na página: 644
+Faltando: [1_@_Colonel Redl] na página: 646
+Faltando: [1_@_The Wedding Party] na página: 641
+Faltando: [1_@_The Castle] na página: 642
+Faltando: [1_@_Don't Look Now] na página: 668
+Faltando: [1_@_The Day of the Jackal] na página: 665
+Faltando: [1_@_Four Days in September] na página: 660
+Faltando: [1_@_The Vanishing] na página: 661
+Faltando: [1_@_Kiss Me Deadly] na página: 663
+Faltando: [1_@_La Vie Sexuelle des Belges (1950-1978)] na página: 656
+Faltando: [1_@_The Music Teacher] na página: 657
+Faltando: [1_@_East Palace, West Palace] na página: 746
+Faltando: [1_@_The Women from the Lake of Scented Souls] na página: 745
+Faltando: [1_@_Bu jian bu san] na página: 744
+Faltando: [1_@_Once a Thief] na página: 749
+Faltando: [1_@_The Story of Qiu Ju] na página: 736
+Faltando: [1_@_So Close to Paradise] na página: 743
+Faltando: [1_@_Xiu Xiu: The Sent-Down Girl] na página: 742
+Faltando: [1_@_Red Sorghum] na página: 740
+Faltando: [1_@_Blue] na página: 763
+Faltando: [1_@_MicroCosmos] na página: 760
+Faltando: [1_@_Murmur of the Heart] na página: 766
+Faltando: [1_@_Monsieur Hire] na página: 767
+Faltando: [1_@_Day for Night] na página: 765
+Faltando: [1_@_Zentropa] na página: 754
+Faltando: [1_@_Sokkotanssi] na página: 755
+Faltando: [1_@_Don Giovanni] na página: 758
+Faltando: [1_@_Hajyt] na página: 756
+Faltando: [1_@_Leningrad Cowboys Go America] na página: 757
+Faltando: [1_@_La Fracture du Myocarde] na página: 713
+Faltando: [1_@_The Adjuster] na página: 715
+Faltando: [1_@_Bye Bye Blues] na página: 714
+Faltando: [1_@_The Hanging Garden] na página: 717
+Faltando: [1_@_Calendar] na página: 707
+Faltando: [1_@_The Boys of St. Vincent] na página: 706
+Faltando: [1_@_Strangers in Good Company] na página: 708
+Faltando: [1_@_Surfacing] na página: 729
+Faltando: [1_@_Les Bons Débarras] na página: 730
+Faltando: [1_@_Joe's So Mean to Josephine] na página: 733
+Faltando: [1_@_The Blue Kite] na página: 734
+Faltando: [1_@_Farewell, My Concubine] na página: 735
+Faltando: [1_@_To Walk With Lions] na página: 724
+Faltando: [1_@_Double Happiness] na página: 727
+Faltando: [1_@_The Andromeda Strain] na página: 823
+Faltando: [1_@_Slaughterhouse-Five] na página: 816
+Faltando: [1_@_The Omega Man] na página: 818
+Faltando: [1_@_The Stepford Wives] na página: 830
+Faltando: [1_@_The Man Who Fell to Earth] na página: 806
+Faltando: [1_@_Macskajatek] na página: 800
+Faltando: [1_@_Solaris] na página: 802
+Faltando: [1_@_Westworld] na página: 812
+Faltando: [1_@_When Worlds Collide] na página: 811
+Faltando: [1_@_The Legend of Drunken Master] na página: 791
+Faltando: [1_@_Temptress Moon] na página: 789
+Faltando: [1_@_The Wicked City] na página: 788
+Faltando: [1_@_Temptation of a Monk] na página: 787
+Faltando: [1_@_Piroska és a farkas] na página: 799
+Faltando: [1_@_Tutajosok] na página: 798
+Faltando: [1_@_Budapesti Mesek] na página: 797
+Faltando: [1_@_Tai Chi Master] na página: 795
+Faltando: [1_@_The Chinese Connection] na página: 794
+Faltando: [1_@_Five Fingers of Death] na página: 793
+Faltando: [1_@_The Taste of Others] na página: 774
+Faltando: [1_@_Contempt] na página: 772
+Faltando: [1_@_Forbidden Games] na página: 770
+Faltando: [1_@_Entre Nous] na página: 771
+Faltando: [1_@_Bullet in the Head] na página: 783
+Faltando: [1_@_Sam Dung] na página: 781
+Faltando: [1_@_Marius et Jeannette] na página: 778
+Faltando: [1_@_The Life of Jesus] na página: 779
+Faltando: [1_@_Charisma] na página: 881
+Faltando: [1_@_In the Realm of the Senses] na página: 880
+Faltando: [1_@_Castle in the Sky] na página: 882
+Faltando: [1_@_Sonatine] na página: 884
+Faltando: [1_@_Gaby: A True Story] na página: 886
+Faltando: [1_@_El Castillo De La Pureza] na página: 889
+Faltando: [1_@_Who the Hell Is Juliette?] na página: 888
+Faltando: [1_@_De Wisselwachter] na página: 891
+Faltando: [1_@_Character] na página: 892
+Faltando: [1_@_Spetters] na página: 895
+Faltando: [1_@_De Stilte Rond Christine M] na página: 894
+Faltando: [1_@_Indagine su un Cittadino al di Sopra di Ogni Sospetto] na página: 864
+Faltando: [1_@_A Brief Vacation] na página: 865
+Faltando: [1_@_Three Brothers] na página: 866
+Faltando: [1_@_The Seduction of Mimi] na página: 868
+Faltando: [1_@_Love and Anarchy] na página: 870
+Faltando: [1_@_Intervista] na página: 872
+Faltando: [1_@_1900] na página: 876
+Faltando: [1_@_Fiorile] na página: 877
+Faltando: [1_@_The Truce] na página: 878
+Faltando: [1_@_Kiki's Delivery Service] na página: 879
+Faltando: [1_@_Mother India] na página: 851
+Faltando: [1_@_Vanaprastham] na página: 850
+Faltando: [1_@_Sholay] na página: 849
+Faltando: [1_@_Aparajito] na página: 848
+Faltando: [1_@_La Traviata] na página: 854
+Faltando: [1_@_Kadosh] na página: 852
+Faltando: [1_@_Amarcord] na página: 859
+Faltando: [1_@_Nights of Cabiria] na página: 857
+Faltando: [1_@_Il Postino] na página: 863
+Faltando: [1_@_Cadaveri Eccellenti] na página: 861
+Faltando: [1_@_Profumo di Donna] na página: 860
+Faltando: [1_@_Fantastic Voyage] na página: 835
+Faltando: [1_@_The Brood] na página: 838
+Faltando: [1_@_The Dead Zone] na página: 836
+Faltando: [1_@_eXistenZ] na página: 842
+Faltando: [1_@_Tetsuo II: Body Hammer] na página: 847
+Faltando: [1_@_All Things Fair] na página: 957
+Faltando: [1_@_Pippi Longstocking] na página: 958
+Faltando: [1_@_Shame] na página: 953
+Faltando: [1_@_The Sacrifice] na página: 954
+Faltando: [1_@_Ansikte mot Ansikte] na página: 955
+Faltando: [1_@_El Nido] na página: 948
+Faltando: [1_@_Mama Cumple Cien Años] na página: 949
+Faltando: [1_@_High Heels] na página: 950
+Faltando: [1_@_El Jardin de las Delicias] na página: 951
+Faltando: [1_@_The Grandfather] na página: 944
+Faltando: [1_@_Thesis] na página: 945
+Faltando: [1_@_Tie Me Up! Tie Me Down!] na página: 947
+Faltando: [1_@_Manolito Gafotas] na página: 943
+Faltando: [1_@_Butterfly] na página: 942
+Faltando: [1_@_Jamón Jamón] na página: 939
+Faltando: [1_@_Tristana] na página: 933
+Faltando: [1_@_Moloch] na página: 929
+Faltando: [1_@_Prisoner of the Mountains] na página: 928
+Faltando: [1_@_Brother] na página: 931
+Faltando: [1_@_Lost in the Stars] na página: 926
+Faltando: [1_@_The Young Girls of Rochefort] na página: 925
+Faltando: [1_@_King Creole] na página: 923
+Faltando: [1_@_All That Jazz] na página: 917
+Faltando: [1_@_Pennies from Heaven] na página: 915
+Faltando: [1_@_White] na página: 909
+Faltando: [1_@_The Double Life of Veronique] na página: 908
+Faltando: [1_@_A Year of the Quiet Sun] na página: 907
+Faltando: [1_@_Camera Buff] na página: 906
+Faltando: [1_@_Man of Iron] na página: 905
+Faltando: [1_@_Sofie] na página: 904
+Faltando: [1_@_Shipwrecked] na página: 903
+Faltando: [1_@_Bad Taste] na página: 902
+Faltando: [1_@_Loaded] na página: 901
+Faltando: [1_@_Broken English] na página: 900
+Faltando: [1_@_What Becomes of the Broken Hearted?] na página: 899
+Faltando: [1_@_Once Were Warriors] na página: 898
+Faltando: [1_@_Gebroken Spiegels] na página: 897
+Faltando: [1_@_Het Meisje Met Het Rode Haar] na página: 896
+Faltando: [1_@_That Summer of White Roses] na página: 1017
+Faltando: [1_@_You Can Count On Me] na página: 1019
+Faltando: [1_@_The Taste of Cherry] na página: 1020
+Faltando: [1_@_Gabbeh] na página: 1021
+Faltando: [1_@_Cyclo] na página: 1023
+Faltando: [1_@_Sugarbaby] na página: 1008
+Faltando: [1_@_Men...] na página: 1009
+Faltando: [1_@_Lili Marleen] na página: 1010
+Faltando: [1_@_Hanussen] na página: 1011
+Faltando: [1_@_Christiane F.] na página: 1012
+Faltando: [1_@_Chariots of the Gods] na página: 1013
+Faltando: [1_@_When Father Was Away on Business] na página: 1015
+Faltando: [1_@_Circle of Deceit] na página: 1001
+Faltando: [1_@_The Marquise of O] na página: 1000
+Faltando: [1_@_Stroszek] na página: 1003
+Faltando: [1_@_Veronika Voss] na página: 1002
+Faltando: [1_@_The Lost Honor of Katharina Blum] na página: 1004
+Faltando: [1_@_The American Friend] na página: 1007
+Faltando: [1_@_Visions of Light: The Art of Cinematography] na página: 993
+Faltando: [1_@_Ed Wood] na página: 996
+Faltando: [1_@_The Tin Drum] na página: 999
+Faltando: [1_@_The Wings of the Dove] na página: 986
+Faltando: [1_@_The English Patient] na página: 990
+Faltando: [1_@_Trainspotting] na página: 991
+Faltando: [1_@_My Name Is Joe] na página: 983
+Faltando: [1_@_Ratcatcher] na página: 981
+Faltando: [1_@_A Passage to India] na página: 971
+Faltando: [1_@_The Ruling Class] na página: 969
+Faltando: [1_@_Macbeth] na página: 974
+Faltando: [1_@_Dangerous Moves] na página: 962
+Faltando: [1_@_Mio in the Land of Faraway] na página: 960
+Faltando: [1_@_Shakespeare in Love] na página: 966
+Faltando: [1_@_The Draughtsman's Contract] na página: 964
+Faltando: [1_@_The Insider] na página: 1100
+Faltando: [1_@_The Straight Story] na página: 1102
+Faltando: [1_@_In the Bedroom] na página: 1095
+Faltando: [1_@_Days of Heaven] na página: 1089
+Faltando: [1_@_Through the Olive Trees] na página: 1116
+Faltando: [1_@_Sling Blade] na página: 1113
+Faltando: [1_@_Les Voleurs] na página: 1112
+Faltando: [1_@_La haine] na página: 1115
+Faltando: [1_@_Good Will Hunting] na página: 1106
+Faltando: [1_@_Violette Nozière] na página: 1133
+Faltando: [1_@_A Delicate Balance] na página: 1128
+Faltando: [1_@_White Dog] na página: 1126
+Faltando: [1_@_3 Women] na página: 1127
+Faltando: [1_@_What's Eating Gilbert Grape] na página: 1121
+Faltando: [1_@_The Misfits] na página: 1151
+Faltando: [1_@_Rachel, Rachel] na página: 1149
+Faltando: [1_@_Silkwood] na página: 1145
+Faltando: [1_@_Summer] na página: 1142
+Faltando: [1_@_The Swimmer] na página: 1140
+Faltando: [1_@_Testament] na página: 1139
+Faltando: [1_@_Under the Volcano] na página: 1136
+Faltando: [1_@_Paris, Texas] na página: 1033
+Faltando: [1_@_Shaft in Africa] na página: 1037
+Faltando: [1_@_Vanishing Point] na página: 1039
+Faltando: [1_@_Quiz Show] na página: 1025
+Faltando: [1_@_Faces] na página: 1026
+Faltando: [1_@_If...] na página: 1027
+Faltando: [1_@_Juggernaut] na página: 1052
+Faltando: [1_@_Shaft's Big Score!] na página: 1041
+Faltando: [1_@_The Poseidon Adventure] na página: 1043
+Faltando: [1_@_Shanghai Noon] na página: 1045
+Faltando: [1_@_Walking Tall] na página: 1066
+Faltando: [1_@_Enemy of the State] na página: 1057
+Faltando: [1_@_Con Air] na página: 1062
+Faltando: [1_@_Armageddon] na página: 1086
+Faltando: [1_@_Battle Creek Brawl] na página: 1085
+Faltando: [1_@_Le Mans] na página: 1075
+Faltando: [1_@_Flight of the Navigator] na página: 1077
+Faltando: [1_@_The Life of Brian] na página: 1216
+Faltando: [1_@_Richard Pryor: Here and Now] na página: 1230
+Faltando: [1_@_The Mouse That Roared] na página: 1238
+Faltando: [1_@_Pink Flamingos] na página: 1234
+Faltando: [1_@_The King of Comedy] na página: 1244
+Faltando: [1_@_I Love You, Alice B. Toklas] na página: 1247
+Faltando: [1_@_La Lectrice] na página: 1241
+Faltando: [1_@_La Chèvre] na página: 1242
+Faltando: [1_@_Get Out Your Handkerchiefs] na página: 1254
+Faltando: [1_@_Hi, Mom!] na página: 1250
+Faltando: [1_@_High Hopes] na página: 1249
+Faltando: [1_@_Buffet Froid] na página: 1261
+Faltando: [1_@_Delicatessen] na página: 1258
+Faltando: [1_@_Down and Out in Beverly Hills] na página: 1256
+Faltando: [1_@_The Bad News Bears] na página: 1265
+Faltando: [1_@_Ruthless People] na página: 1278
+Faltando: [1_@_Emma] na página: 1274
+Faltando: [1_@_Grosse Pointe Blank] na página: 1272
+Faltando: [1_@_Citizen Ruth] na página: 1273
+Faltando: [1_@_The King of Marvin Gardens] na página: 1154
+Faltando: [1_@_I Never Sang for My Father] na página: 1156
+Faltando: [1_@_The Heart Is a Lonely Hunter] na página: 1158
+Faltando: [1_@_The Duellists] na página: 1164
+Faltando: [1_@_Chocolat] na página: 1167
+Faltando: [1_@_Children of a Lesser God] na página: 1168
+Faltando: [1_@_Au Revoir Les Enfants] na página: 1169
+Faltando: [1_@_Advise and Consent] na página: 1170
+Faltando: [1_@_M/Other] na página: 1173
+Faltando: [1_@_Wuthering Heights] na página: 1179
+Faltando: [1_@_Three Sisters] na página: 1181
+Faltando: [1_@_The Stone Boy] na página: 1186
+Faltando: [1_@_Twice in a Lifetime] na página: 1184
+Faltando: [1_@_Brubaker] na página: 1190
+Faltando: [1_@_Beloved] na página: 1195
+Faltando: [1_@_Zabriskie Point] na página: 1197
+Faltando: [1_@_Eye of God] na página: 1196
+Faltando: [1_@_O Brother, Where Art Thou?] na página: 1200
+Faltando: [1_@_Flirting With Disaster] na página: 1210
+Faltando: [1_@_Swingers] na página: 1209
+Faltando: [1_@_Bullets Over Broadway] na página: 1215
+Faltando: [1_@_Clerks] na página: 1213
+Faltando: [1_@_Hercules] na página: 1368
+Faltando: [1_@_Mr. Destiny] na página: 1365
+Faltando: [1_@_Scrooge] na página: 1363
+Faltando: [1_@_The Visitors] na página: 1361
+Faltando: [1_@_The Tempest] na página: 1354
+Faltando: [1_@_Hail Mary] na página: 1355
+Faltando: [1_@_For Ever Mozart] na página: 1353
+Faltando: [1_@_The Brave Little Toaster] na página: 1348
+Faltando: [1_@_Darby O'Gill and the Little People] na página: 1347
+Faltando: [1_@_Hell in the Pacific] na página: 1404
+Faltando: [1_@_Go Tell the Spartans] na página: 1406
+Faltando: [1_@_The War Boy] na página: 1401
+Faltando: [1_@_The Hill] na página: 1400
+Faltando: [1_@_Bad Company] na página: 1396
+Faltando: [1_@_The McKenzie Break] na página: 1399
+Faltando: [1_@_The Ballad of Cable Hogue] na página: 1395
+Faltando: [1_@_The Shootist] na página: 1386
+Faltando: [1_@_McCabe & Mrs. Miller] na página: 1380
+Faltando: [1_@_Akira Kurosawa's Dreams] na página: 1378
+Faltando: [1_@_Superman IV: The Quest for Peace] na página: 1379
+Faltando: [1_@_The Muppet Christmas Carol] na página: 1307
+Faltando: [1_@_Pete's Dragon] na página: 1306
+Faltando: [1_@_Recess the Movie: School's Out] na página: 1311
+Faltando: [1_@_The Emperor's New Groove] na página: 1310
+Faltando: [1_@_Bedknobs and Broomsticks] na página: 1309
+Faltando: [1_@_Where's Poppa?] na página: 1298
+Faltando: [1_@_10] na página: 1303
+Faltando: [1_@_Everyone Says I Love You] na página: 1295
+Faltando: [1_@_Night on Earth] na página: 1280
+Faltando: [1_@_Boyfriends and Girlfriends] na página: 1286
+Faltando: [1_@_The Closet] na página: 1287
+Faltando: [1_@_Robin Hood] na página: 1337
+Faltando: [1_@_The Rescuers] na página: 1339
+Faltando: [1_@_The Rescuers Down Under] na página: 1338
+Faltando: [1_@_The Great Mouse Detective] na página: 1343
+Faltando: [1_@_Pocahontas] na página: 1331
+Faltando: [1_@_Zebra in the Kitchen] na página: 1333
+Faltando: [1_@_The Trouble With Angels] na página: 1335
+Faltando: [1_@_Mr. Toad's Wild Ride] na página: 1321
+Faltando: [1_@_Air Bud] na página: 1323
+Faltando: [1_@_Hercules] na página: 1324
+Faltando: [1_@_Shiloh] na página: 1325
+Faltando: [1_@_The Hunchback of Notre Dame] na página: 1327
+Faltando: [1_@_Dinosaur] na página: 1312
+Faltando: [1_@_Fantasia 2000] na página: 1315
+Faltando: [1_@_With a Friend Like Harry...] na página: 1491
+Faltando: [1_@_Flesh for Frankenstein] na página: 1488
+Faltando: [1_@_Stormy Monday] na página: 1501
+Faltando: [1_@_Le Cercle Rouge] na página: 1496
+Faltando: [1_@_The Addiction] na página: 1479
+Faltando: [1_@_Captain Kronos: Vampire Hunter] na página: 1476
+Faltando: [1_@_Count Yorga, Vampire] na página: 1475
+Faltando: [1_@_Demon Seed] na página: 1474
+Faltando: [1_@_The Hills Have Eyes] na página: 1472
+Faltando: [1_@_I Drink Your Blood] na página: 1487
+Faltando: [1_@_The Wizard of Gore] na página: 1486
+Faltando: [1_@_Destroy All Monsters!] na página: 1483
+Faltando: [1_@_The Vampire Lovers] na página: 1480
+Faltando: [1_@_To Kill a Clown] na página: 1526
+Faltando: [1_@_Jack's Back] na página: 1533
+Faltando: [1_@_See No Evil] na página: 1528
+Faltando: [1_@_Road Games] na página: 1529
+Faltando: [1_@_The Little Girl Who Lives Down the Lane] na página: 1504
+Faltando: [1_@_The Hand That Rocks the Cradle] na página: 1506
+Faltando: [1_@_Dead Silence] na página: 1519
+Faltando: [1_@_Shanks] na página: 1426
+Faltando: [1_@_Q: The Winged Serpent] na página: 1427
+Faltando: [1_@_Scarecrows] na página: 1430
+Faltando: [1_@_Frankenstein Must Be Destroyed] na página: 1428
+Faltando: [1_@_13 Ghosts] na página: 1429
+Faltando: [1_@_Sisters] na página: 1433
+Faltando: [1_@_The Mephisto Waltz] na página: 1436
+Faltando: [1_@_The Lighthorsemen] na página: 1410
+Faltando: [1_@_The Americanization of Emily] na página: 1409
+Faltando: [1_@_The Bridge at Remagen] na página: 1408
+Faltando: [1_@_The War Lover] na página: 1412
+Faltando: [1_@_Brass Target] na página: 1419
+Faltando: [1_@_Castle Keep] na página: 1421
+Faltando: [1_@_From Dusk Till Dawn] na página: 1456
+Faltando: [1_@_God Told Me To] na página: 1460
+Faltando: [1_@_Sssssss] na página: 1461
+Faltando: [1_@_The Revenge of Frankenstein] na página: 1462
+Faltando: [1_@_Raw Meat] na página: 1463
+Faltando: [1_@_The Crazies] na página: 1465
+Faltando: [1_@_Hatchet for the Honeymoon] na página: 1466
+Faltando: [1_@_Wolfen] na página: 1468
+Faltando: [1_@_Willard] na página: 1469
+Faltando: [1_@_Piranha] na página: 1471
+Faltando: [1_@_The Legend of Hell House] na página: 1440
+Faltando: [1_@_Arachnophobia] na página: 1449
+Faltando: [1_@_Scream 3] na página: 1451
+Faltando: [1_@_Blood for Dracula] na página: 1450
+Faltando: [1_@_Nightwatch] na página: 1453
+Faltando: [1_@_Halloween: H20] na página: 1452
+Faltando: [1_@_Iceman] na página: 1635
+Faltando: [1_@_The Black Hole] na página: 1638
+Faltando: [1_@_Beneath the Planet of the Apes] na página: 1639
+Faltando: [1_@_Bubblegum Crash 3: Meltdown] na página: 1637
+Faltando: [1_@_Fire in the Sky] na página: 1656
+Faltando: [1_@_Trancers] na página: 1651
+Faltando: [1_@_Memories] na página: 1648
+Faltando: [1_@_Loulou] na página: 1610
+Faltando: [1_@_Amélie] na página: 1615
+Faltando: [1_@_Une Chambre En Ville] na página: 1601
+Faltando: [1_@_Passion] na página: 1603
+Faltando: [1_@_La Vache et le Prisonnier] na página: 1604
+Faltando: [1_@_The Aviator's Wife] na página: 1605
+Faltando: [1_@_La Nuit De Varennes] na página: 1606
+Faltando: [1_@_The Year My Voice Broke] na página: 1624
+Faltando: [1_@_Zardoz] na página: 1628
+Faltando: [1_@_THX 1138] na página: 1631
+Faltando: [1_@_Love Letter] na página: 1619
+Faltando: [1_@_The Story of Adele H.] na página: 1582
+Faltando: [1_@_Stolen Kisses] na página: 1583
+Faltando: [1_@_La Vie Est Un Roman] na página: 1580
+Faltando: [1_@_Le Grand Chemin] na página: 1578
+Faltando: [1_@_A.K.] na página: 1579
+Faltando: [1_@_Ridicule] na página: 1576
+Faltando: [1_@_Les Jeux des Anges] na página: 1574
+Faltando: [1_@_Un Air de Famille] na página: 1575
+Faltando: [1_@_Going Places] na página: 1598
+Faltando: [1_@_Life and Nothing But] na página: 1597
+Faltando: [1_@_Small Change] na página: 1596
+Faltando: [1_@_A Tale of Springtime] na página: 1595
+Faltando: [1_@_À Nos Amours] na página: 1593
+Faltando: [1_@_Charles et Lucie] na página: 1592
+Faltando: [1_@_The Fantastic Planet] na página: 1590
+Faltando: [1_@_The Hairdresser's Husband] na página: 1589
+Faltando: [1_@_Mon Oncle d'Amérique] na página: 1587
+Faltando: [1_@_One Deadly Summer] na página: 1586
+Faltando: [1_@_Remparts d'Argile] na página: 1584
+Faltando: [1_@_Opera] na página: 1550
+Faltando: [1_@_The Bird with the Crystal Plumage] na página: 1541
+Faltando: [1_@_Cop] na página: 1539
+Faltando: [1_@_Things to Do in Denver When You're Dead] na página: 1565
+Faltando: [1_@_Dead Pigeon on Beethoven Street] na página: 1567
+Faltando: [1_@_Smilla's Sense of Snow] na página: 1563
+Faltando: [1_@_In Too Deep] na página: 1558
+Faltando: [1_@_The Cat O' Nine Tails] na página: 1555
+Faltando: [1_@_Little Voice] na página: 1762
+Faltando: [1_@_East Is East] na página: 1761
+Faltando: [1_@_My Life So Far] na página: 1760
+Faltando: [1_@_Twin Town] na página: 1766
+Faltando: [1_@_Stiff Upper Lips] na página: 1765
+Faltando: [1_@_Bitter Moon] na página: 1774
+Faltando: [1_@_Shirley Valentine] na página: 1776
+Faltando: [1_@_The Italian Job] na página: 1780
+Faltando: [1_@_Gothic] na página: 1781
+Faltando: [1_@_Brimstone and Treacle] na página: 1784
+Faltando: [1_@_Oh! What a Lovely War] na página: 1791
+Faltando: [1_@_A Dry White Season] na página: 1729
+Faltando: [1_@_Distant Voices, Still Lives] na página: 1731
+Faltando: [1_@_Cal] na página: 1733
+Faltando: [1_@_Bedazzled] na página: 1734
+Faltando: [1_@_Croupier] na página: 1736
+Faltando: [1_@_Wilde] na página: 1739
+Faltando: [1_@_Brassed Off] na página: 1741
+Faltando: [1_@_Priest] na página: 1748
+Faltando: [1_@_Sammy and Rosie Get Laid] na página: 1751
+Faltando: [1_@_Rosencrantz and Guildenstern Are Dead] na página: 1752
+Faltando: [1_@_Performance] na página: 1753
+Faltando: [1_@_London Kills Me] na página: 1754
+Faltando: [1_@_Getting It Right] na página: 1757
+Faltando: [1_@_Enchanted April] na página: 1758
+Faltando: [1_@_Jesus Christ Superstar] na página: 1702
+Faltando: [1_@_Phantom of the Paradise] na página: 1701
+Faltando: [1_@_Sarafina!] na página: 1700
+Faltando: [1_@_Bugsy Malone] na página: 1696
+Faltando: [1_@_Babes in Toyland] na página: 1711
+Faltando: [1_@_Blue Hawaii] na página: 1710
+Faltando: [1_@_Hello, Dolly!] na página: 1707
+Faltando: [1_@_Newsies] na página: 1706
+Faltando: [1_@_Thoroughly Modern Millie] na página: 1705
+Faltando: [1_@_The Boy Friend] na página: 1704
+Faltando: [1_@_The Prime of Miss Jean Brodie] na página: 1718
+Faltando: [1_@_The Rainbow] na página: 1717
+Faltando: [1_@_Kes] na página: 1714
+Faltando: [1_@_The Long Day Closes] na página: 1713
+Faltando: [1_@_In Celebration] na página: 1724
+Faltando: [1_@_A Handful of Dust] na página: 1725
+Faltando: [1_@_O Lucky Man!] na página: 1720
+Faltando: [1_@_Il Casanova di Fellini] na página: 1677
+Faltando: [1_@_La Grande Bouffe] na página: 1676
+Faltando: [1_@_Volere, Volare] na página: 1678
+Faltando: [1_@_Bye Bye Monkey] na página: 1673
+Faltando: [1_@_Caro Diario] na página: 1672
+Faltando: [1_@_Un Tranquillo Posto di Campagna] na página: 1675
+Faltando: [1_@_The Flight of the Innocent] na página: 1674
+Faltando: [1_@_La Famiglia] na página: 1684
+Faltando: [1_@_Le Désert des Tartares] na página: 1685
+Faltando: [1_@_The Decameron] na página: 1686
+Faltando: [1_@_Porte Aperte] na página: 1681
+Faltando: [1_@_Good Morning, Babylon] na página: 1682
+Faltando: [1_@_Shall We Dance?] na página: 1692
+Faltando: [1_@_Tokyo Decadence] na página: 1693
+Faltando: [1_@_La Tragedia di un Uomo Ridicolo] na página: 1689
+Faltando: [1_@_L'Avvertimento] na página: 1690
+Faltando: [1_@_The Night Porter] na página: 1691
+Faltando: [1_@_Barbarosa] na página: 1914
+Faltando: [1_@_China 9, Liberty 37] na página: 1917
+Faltando: [1_@_The Wrath of God] na página: 1916
+Faltando: [1_@_The Train Robbers] na página: 1919
+Faltando: [1_@_The McMasters] na página: 1918
+Faltando: [1_@_A Man Called Horse] na página: 1904
+Faltando: [1_@_The Left-Handed Gun] na página: 1907
+Faltando: [1_@_Joe Kidd] na página: 1908
+Faltando: [1_@_From Noon Till Three] na página: 1911
+Faltando: [1_@_Tell Them Willie Boy Is Here] na página: 1897
+Faltando: [1_@_Support Your Local Gunfighter] na página: 1898
+Faltando: [1_@_Rancho Deluxe] na página: 1899
+Faltando: [1_@_Pocket Money] na página: 1900
+Faltando: [1_@_The Missouri Breaks] na página: 1903
+Faltando: [1_@_Westward the Women] na página: 1889
+Faltando: [1_@_Sabata] na página: 1890
+Faltando: [1_@_The Culpepper Cattle Company] na página: 1891
+Faltando: [1_@_Two Mules for Sister Sara] na página: 1895
+Faltando: [1_@_Posse] na página: 1882
+Faltando: [1_@_Chino] na página: 1886
+Faltando: [1_@_Baby It's You] na página: 1874
+Faltando: [1_@_Blume in Love] na página: 1872
+Faltando: [1_@_Raba Lyubvi] na página: 1878
+Faltando: [1_@_City of Hope] na página: 1877
+Faltando: [1_@_Petulia] na página: 1876
+Faltando: [1_@_Thieves Like Us] na página: 1865
+Faltando: [1_@_Le Chat et la Souris] na página: 1863
+Faltando: [1_@_Marlowe] na página: 1853
+Faltando: [1_@_D.O.A.] na página: 1855
+Faltando: [1_@_The Drowning Pool] na página: 1854
+Faltando: [1_@_Murder by Decree] na página: 1841
+Faltando: [1_@_Murder by Death] na página: 1842
+Faltando: [1_@_Sleuth] na página: 1839
+Faltando: [1_@_The Late Show] na página: 1833
+Faltando: [1_@_The Last of Sheila] na página: 1834
+Faltando: [1_@_Bunny Lake Is Missing] na página: 1828
+Faltando: [1_@_Night Moves] na página: 1830
+Faltando: [1_@_Bad Timing] na página: 1827
+Faltando: [1_@_In a Lonely Place] na página: 1823
+Faltando: [1_@_Melvin and Howard] na página: 1822
+Faltando: [1_@_Crimes and Misdemeanors] na página: 1820
+Faltando: [1_@_Harlan County, USA] na página: 1818
+Faltando: [1_@_High Season] na página: 1806
+Faltando: [1_@_A Month in the Country] na página: 1802
+Faltando: [1_@_The Magic Christian] na página: 1803
+Faltando: [1_@_Hollow Reed] na página: 1798
+Faltando: [1_@_Carla's Song] na página: 1796
+Faltando: [1_@_Intimate Relations] na página: 1795
+Faltando: [1_@_A Walk on the Moon] na página: 1991
+Faltando: [1_@_crazy/beautiful] na página: 1989
+Faltando: [1_@_Bonjour Tristesse] na página: 1988
+Faltando: [1_@_Miami Rhapsody] na página: 1995
+Faltando: [1_@_The Marrying Man] na página: 1999
+Faltando: [1_@_Maria's Lovers] na página: 1968
+Faltando: [1_@_It Should Happen to You] na página: 1970
+Faltando: [1_@_Mourir d'aimer] na página: 1980
+Faltando: [1_@_The Incredibly True Adventure of Two Girls in Love] na página: 1957
+Faltando: [1_@_The Wedding Banquet] na página: 1959
+Faltando: [1_@_The Wedding Gift] na página: 1958
+Faltando: [1_@_Firelight] na página: 1953
+Faltando: [1_@_Thomasine and Bushrod] na página: 1942
+Faltando: [1_@_The Last Hard Men] na página: 1943
+Faltando: [1_@_Five Card Stud] na página: 1938
+Faltando: [1_@_Heaven's Gate] na página: 1937
+Faltando: [1_@_A Little Romance] na página: 1948
+Faltando: [1_@_Starting Over] na página: 1944
+Faltando: [1_@_Same Time, Next Year] na página: 1945
+Faltando: [1_@_The Cheyenne Social Club] na página: 1927
+Faltando: [1_@_Macho Callahan] na página: 1922
+Faltando: [1_@_Santee] na página: 1933
+Faltando: [1_@_Shalako] na página: 1932
+Faltando: [1_@_Tom Horn] na página: 1931
+Faltando: [1_@_Heaven with a Gun] na página: 1930
+Faltando: [1_@_The Master Gunfighter] na página: 1929
+Faltando: [1_@_Cahill: United States Marshal] na página: 1928
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

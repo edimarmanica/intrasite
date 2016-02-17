@@ -1,0 +1,49 @@
+
+
+*************2016-02-17 11:16 - manufacturer********************************
+dataset;SWDE;domain;camera;site;camera-beachaudio;attribute;manufacturer;relevantes;247;recuperados;247;relevantes recuperados; 247;recall;1.0;precision;1.0;date;2016-02-17 11:16
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 11:16 - model********************************
+dataset;SWDE;domain;camera;site;camera-beachaudio;attribute;model;relevantes;247;recuperados;247;relevantes recuperados; 247;recall;1.0;precision;1.0;date;2016-02-17 11:16
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 11:16 - price********************************
+dataset;SWDE;domain;camera;site;camera-beachaudio;attribute;price;relevantes;247;recuperados;222;relevantes recuperados; 222;recall;0.8987854251012146;precision;1.0;date;2016-02-17 11:16
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_$349.99] na página: 34
+Faltando: [1_@_$299.99] na página: 32
+Faltando: [1_@_$299.99] na página: 33
+Faltando: [1_@_$149.99] na página: 38
+Faltando: [1_@_$149.99] na página: 39
+Faltando: [1_@_$149.99] na página: 36
+Faltando: [1_@_$149.99] na página: 37
+Faltando: [1_@_$149.95] na página: 62
+Faltando: [1_@_$179.95] na página: 61
+Faltando: [1_@_$199.95] na página: 60
+Faltando: [1_@_$149.99] na página: 87
+Faltando: [1_@_$119.99] na página: 93
+Faltando: [1_@_$199.99] na página: 92
+Faltando: [1_@_$119.99] na página: 95
+Faltando: [1_@_$119.99] na página: 94
+Faltando: [1_@_$199.99] na página: 89
+Faltando: [1_@_$199.99] na página: 88
+Faltando: [1_@_$199.99] na página: 91
+Faltando: [1_@_$199.99] na página: 90
+Faltando: [1_@_$169.99] na página: 100
+Faltando: [1_@_$169.99] na página: 101
+Faltando: [1_@_$169.99] na página: 98
+Faltando: [1_@_$169.99] na página: 99
+Faltando: [1_@_$119.99] na página: 96
+Faltando: [1_@_$119.99] na página: 97
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

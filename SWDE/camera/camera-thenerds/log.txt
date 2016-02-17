@@ -1,0 +1,24 @@
+
+
+*************2016-02-17 11:54 - manufacturer********************************
+dataset;SWDE;domain;camera;site;camera-thenerds;attribute;manufacturer;relevantes;309;recuperados;309;relevantes recuperados; 309;recall;1.0;precision;1.0;date;2016-02-17 11:54
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 11:54 - model********************************
+dataset;SWDE;domain;camera;site;camera-thenerds;attribute;model;relevantes;309;recuperados;309;relevantes recuperados; 309;recall;1.0;precision;1.0;date;2016-02-17 11:54
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 11:54 - price********************************
+dataset;SWDE;domain;camera;site;camera-thenerds;attribute;price;relevantes;309;recuperados;309;relevantes recuperados; 309;recall;1.0;precision;1.0;date;2016-02-17 11:54
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

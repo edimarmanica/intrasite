@@ -1,0 +1,4 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,camera,camera-newegg,manufacturer,rule_38.csv,2_.,220,220,220,1.0,1.0,2016-02-17 11:51
+SWDE,camera,camera-newegg,model,rule_520.csv,"* Additional fees may apply to shipments to AK, HI and PR.",220,152,152,0.6909090909090909,1.0,2016-02-17 11:51
+SWDE,camera,camera-newegg,price,rule_353.csv,$2.99 Shipping*,220,81,81,0.36818181818181817,1.0,2016-02-17 11:51

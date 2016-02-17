@@ -1,0 +1,4 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,camera,camera-jr,manufacturer,rule_1219.csv,See similar Point and Shoot Digital Cameras where:,367,367,367,1.0,1.0,2016-02-17 11:35
+SWDE,camera,camera-jr,model,rule_1728.csv,Product Name,367,314,314,0.8555858310626703,1.0,2016-02-17 11:35
+SWDE,camera,camera-jr,price,rule_549.csv,Price,342,290,290,0.847953216374269,1.0,2016-02-17 11:35

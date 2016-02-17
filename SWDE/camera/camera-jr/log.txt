@@ -1,0 +1,129 @@
+
+
+*************2016-02-17 11:35 - manufacturer********************************
+dataset;SWDE;domain;camera;site;camera-jr;attribute;manufacturer;relevantes;367;recuperados;367;relevantes recuperados; 367;recall;1.0;precision;1.0;date;2016-02-17 11:35
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 11:35 - model********************************
+dataset;SWDE;domain;camera;site;camera-jr;attribute;model;relevantes;367;recuperados;314;relevantes recuperados; 314;recall;0.8555858310626703;precision;1.0;date;2016-02-17 11:35
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Leica X1 12 Megapixels Digital Camera - Steel Grey] na página: 10
+Faltando: [1_@_General Electric 12 Megapixel Waterproof , 2.7 Inch LCD - Grey] na página: 125
+Faltando: [1_@_General Electric 14 Megapixel 3 Inch Touch Panel LCD - Red] na página: 124
+Faltando: [1_@_General Electric 14 Megapixel 3 Inch Touch Panel LCD - Black] na página: 123
+Faltando: [1_@_VistaQuest 8 MP Digital Camera Black] na página: 121
+Faltando: [1_@_Polaroid 14.0 MP Dig Camera, 3x Opt-Red] na página: 137
+Faltando: [1_@_General Electric 14 Megapixel Digital Camera 2.7" LCD - Silver] na página: 136
+Faltando: [1_@_General Electric 14 Megapixel Digital Camera 3 inch LCD - Black] na página: 138
+Faltando: [1_@_General Electric 12 Megapixel Digital Camera 2.7" LCD - Black] na página: 140
+Faltando: [1_@_Kodak M590 14 Megapixel Digital Camera 5X Optical Zoom - Blue] na página: 143
+Faltando: [1_@_General Electric 12 Megapixel Digital Camera 2.7" LCD - Red] na página: 142
+Faltando: [1_@_General Electric 14 Megapixel Digital Camera 3 inch LCD - Silver] na página: 128
+Faltando: [1_@_General Electric 14 Megapixel 3 inch LCD - Black] na página: 131
+Faltando: [1_@_General Electric 14 Megapixel Digital Camera 3 inch LCD - Red] na página: 130
+Faltando: [1_@_Samsung 12MP Digital Camera Black] na página: 133
+Faltando: [1_@_General Electric 14 Megapixel Digital Camera 3 inch LCD - Red] na página: 135
+Faltando: [1_@_Samsung 12MP Digital Camera Red] na página: 134
+Faltando: [1_@_General Electric 10 Megapixel Digital Camera 2.4" LCD - Black] na página: 152
+Faltando: [1_@_General Electric 10 Megapixel Digital Camera 2.4 inch LCD - Silver] na página: 153
+Faltando: [1_@_General Electric 10 Megapixel Digital Camera 2.4 inch LCD - Red] na página: 154
+Faltando: [1_@_General Electric 12 Megapixel Digital Camera 2.7" LCD - Red] na página: 144
+Faltando: [1_@_General Electric 12 Megapixel Digital Camera 2.7" LCD - Silver] na página: 145
+Faltando: [1_@_VistaQuest VGA Digital Camera Blue] na página: 146
+Faltando: [1_@_General Electric 14 Megapixel Digital Camera 2.7" LCD - Silver] na página: 147
+Faltando: [1_@_General Electric 12 Megapixel Digital Camera 2.7" LCD - Silver] na página: 148
+Faltando: [1_@_VistaQuest 2 MP Digital Camera Blue] na página: 150
+Faltando: [1_@_Samsung 14.2 MP Digital Camera Orange] na página: 162
+Faltando: [1_@_Polaroid 12.0 MP Dig Cam 2.7 LCD-Red] na página: 160
+Faltando: [1_@_VistaQuest 5 MP w/ 1.8" LCD--Blue] na página: 167
+Faltando: [1_@_General Electric 12 Megapixel Digital Camera 2.7" LCD - Black] na página: 187
+Faltando: [1_@_Kodak M590 14 Megapixel Digital Camera - Purple] na página: 190
+Faltando: [1_@_Kodak C195 14 Megapixel Digital Camera 5x Optical - Silver] na página: 189
+Faltando: [1_@_VistaQuest 7 MP Digital Camera VQ-7228] na página: 197
+Faltando: [1_@_Kodak C143 12 Megapixel Digital Camera 3x Optical Zoom - Red] na página: 196
+Faltando: [1_@_General Electric 14 Megapixel Digital Camera 2.7" LCD - Red] na página: 192
+Faltando: [1_@_SAKAR Vivitar 14.1MP 2.4 Flip-Black] na página: 239
+Faltando: [1_@_VistaQuest 7 MP Digital Camera Blue] na página: 238
+Faltando: [1_@_SAKAR Vivitar 10.1MP, 2.7"LCD, 3X Op] na página: 237
+Faltando: [1_@_SAKAR Vivitar 10.1MP, 2.7"LCD, 3X Op] na página: 236
+Faltando: [1_@_SAKAR Vivitar 12.1MP, 3"LCD, 3x Opti] na página: 235
+Faltando: [1_@_VistaQuest 2.4-inch Portable Digital Microscope - DMS-130] na página: 234
+Faltando: [1_@_Kodak C143 12 Megapixel Digital Camera 3x Optical Zoom - Blue] na página: 232
+Faltando: [1_@_VistaQuest 8 MP Underwater Dig Cam-Blue] na página: 231
+Faltando: [1_@_VistaQuest 8 MP Underwater Dig Cam-Red] na página: 230
+Faltando: [1_@_VistaQuest 2.0 MP Digital Camera VQ-2005] na página: 229
+Faltando: [1_@_Kodak C143 12 Megapixel Digital Camera 3x Optical Zoom - Green] na página: 227
+Faltando: [1_@_SAKAR Vivitar 7.1MP 2.4 screen-Beau] na página: 244
+Faltando: [1_@_SAKAR Vivitar 7.1MP 1.8 Flip-Silver] na página: 245
+Faltando: [1_@_SAKAR Vivitar 12.1MP 2.4 view Graphi] na página: 242
+Faltando: [1_@_SAKAR Vivitar 7.1MP 1.8 Flip-Beau] na página: 243
+Faltando: [1_@_SAKAR Vivitar 8.1MP 2.7&rsquo; view-Straw] na página: 240
+Faltando: [1_@_General Electric 14 MP Dig Cam 5X 2.7" LCD-BLK] na página: 241
+Faltando: [1_@_Intova SS1000 1.3 Megapixel Snap Sights Sport Utility Digital Camera -Waterproof] na página: 305
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 11:35 - price********************************
+dataset;SWDE;domain;camera;site;camera-jr;attribute;price;relevantes;342;recuperados;290;relevantes recuperados; 290;recall;0.847953216374269;precision;1.0;date;2016-02-17 11:35
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_$399.95] na página: 2
+Faltando: [1_@_$119.95] na página: 5
+Faltando: [1_@_$119.95] na página: 8
+Faltando: [1_@_$1,995.00] na página: 10
+Faltando: [1_@_$199.95] na página: 13
+Faltando: [1_@_$299.95] na página: 14
+Faltando: [1_@_$199.95] na página: 16
+Faltando: [1_@_$199.95] na página: 24
+Faltando: [1_@_$179.36] na página: 28
+Faltando: [1_@_$179.36] na página: 31
+Faltando: [1_@_$149.95] na página: 33
+Faltando: [1_@_$199.95] na página: 118
+Faltando: [1_@_$129.99] na página: 136
+Faltando: [1_@_$129.99] na página: 138
+Faltando: [1_@_$89.99] na página: 140
+Faltando: [1_@_$139.99] na página: 143
+Faltando: [1_@_$89.99] na página: 142
+Faltando: [1_@_$109.00] na página: 133
+Faltando: [1_@_$129.99] na página: 135
+Faltando: [1_@_$109.00] na página: 134
+Faltando: [1_@_$79.99] na página: 152
+Faltando: [1_@_$79.99] na página: 153
+Faltando: [1_@_$79.99] na página: 154
+Faltando: [1_@_$89.99] na página: 144
+Faltando: [1_@_$89.99] na página: 145
+Faltando: [1_@_$99.99] na página: 147
+Faltando: [1_@_$89.99] na página: 148
+Faltando: [1_@_$199.00] na página: 162
+Faltando: [1_@_$68.99] na página: 160
+Faltando: [1_@_$89.99] na página: 187
+Faltando: [1_@_$139.99] na página: 190
+Faltando: [1_@_$89.99] na página: 189
+Faltando: [1_@_$69.99] na página: 196
+Faltando: [1_@_$99.99] na página: 192
+Faltando: [1_@_$119.95] na página: 213
+Faltando: [1_@_$149.95] na página: 214
+Faltando: [1_@_$149.95] na página: 208
+Faltando: [1_@_$149.95] na página: 210
+Faltando: [1_@_$69.99] na página: 232
+Faltando: [1_@_$49.99] na página: 231
+Faltando: [1_@_$49.99] na página: 230
+Faltando: [1_@_$25.91] na página: 229
+Faltando: [1_@_$69.99] na página: 227
+Faltando: [1_@_$179.95] na página: 254
+Faltando: [1_@_$349.00] na página: 251
+Faltando: [1_@_$179.95] na página: 249
+Faltando: [1_@_$99.99] na página: 241
+Faltando: [1_@_$149.95] na página: 273
+Faltando: [1_@_$119.95] na página: 283
+Faltando: [1_@_$299.00] na página: 263
+Faltando: [1_@_$34.00] na página: 305
+Faltando: [1_@_$176.80] na página: 306
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

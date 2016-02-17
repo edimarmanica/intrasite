@@ -1,0 +1,842 @@
+
+
+*************2016-02-17 13:00 - company********************************
+dataset;SWDE;domain;job;site;job-jobtarget;attribute;company;relevantes;2000;recuperados;1595;relevantes recuperados; 1595;recall;0.7975;precision;1.0;date;2016-02-17 13:00
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Smiths Medical] na página: 13
+Faltando: [1_@_St. Jude Children's Research Hospital] na página: 19
+Faltando: [1_@_MDA Information Systems, Inc.] na página: 18
+Faltando: [1_@_FoodPRO Corporation] na página: 34
+Faltando: [1_@_University of Nevada, Las Vegas - UNLV] na página: 37
+Faltando: [1_@_The Great Atlantic & Pacific Tea Company, Inc] na página: 47
+Faltando: [1_@_Minnesota Public Radio] na página: 50
+Faltando: [1_@_Regence] na página: 59
+Faltando: [1_@_IAC] na página: 58
+Faltando: [1_@_Regence] na página: 63
+Faltando: [1_@_Regence] na página: 62
+Faltando: [1_@_Regence] na página: 61
+Faltando: [1_@_Regence] na página: 60
+Faltando: [1_@_Regence] na página: 64
+Faltando: [1_@_Boston College] na página: 77
+Faltando: [1_@_Department of Corrections] na página: 72
+Faltando: [1_@_Smiths Medical] na página: 73
+Faltando: [1_@_MDA Federal Inc.] na página: 82
+Faltando: [1_@_University of California, Riverside] na página: 90
+Faltando: [1_@_Tufts University - Boston] na página: 100
+Faltando: [1_@_Mitsubishi Electric Automation, Inc.-] na página: 101
+Faltando: [1_@_New York University] na página: 115
+Faltando: [1_@_Regence] na página: 137
+Faltando: [1_@_Regence] na página: 136
+Faltando: [1_@_Regence] na página: 139
+Faltando: [1_@_Regence] na página: 138
+Faltando: [1_@_Regence] na página: 140
+Faltando: [1_@_New York University] na página: 142
+Faltando: [1_@_Regence] na página: 133
+Faltando: [1_@_Regence] na página: 132
+Faltando: [1_@_Regence] na página: 135
+Faltando: [1_@_Regence] na página: 134
+Faltando: [1_@_Bunker Hill Community College] na página: 147
+Faltando: [1_@_Jacobus Energy] na página: 165
+Faltando: [1_@_BISON GEAR & ENG. CORP] na página: 186
+Faltando: [1_@_University of California, Riverside] na página: 179
+Faltando: [1_@_Regence] na página: 205
+Faltando: [1_@_Regence] na página: 204
+Faltando: [1_@_Regence] na página: 207
+Faltando: [1_@_Regence] na página: 206
+Faltando: [1_@_Regence] na página: 203
+Faltando: [1_@_Regence] na página: 202
+Faltando: [1_@_Regence] na página: 193
+Faltando: [1_@_Regence] na página: 194
+Faltando: [1_@_Northeastern University] na página: 209
+Faltando: [1_@_Northeastern University] na página: 210
+Faltando: [1_@_Northeastern University] na página: 211
+Faltando: [1_@_Nash Finch Company] na página: 234
+Faltando: [1_@_Minnesota Public Radio] na página: 233
+Faltando: [1_@_Minnesota Public Radio] na página: 224
+Faltando: [1_@_All About Staffing] na página: 255
+Faltando: [1_@_NetScout Systems, Inc.] na página: 252
+Faltando: [1_@_Sysmex America] na página: 247
+Faltando: [1_@_Interactive Brokers] na página: 242
+Faltando: [1_@_Takeda] na página: 241
+Faltando: [1_@_All About Staffing] na página: 287
+Faltando: [1_@_Avery Dennison] na página: 284
+Faltando: [1_@_Regence] na página: 270
+Faltando: [1_@_Regence] na página: 271
+Faltando: [1_@_Regence] na página: 268
+Faltando: [1_@_Regence] na página: 269
+Faltando: [1_@_ERT] na página: 305
+Faltando: [1_@_Northwestern Memorial Hospital] na página: 315
+Faltando: [1_@_Central Michigan University] na página: 316
+Faltando: [1_@_Framingham State University] na página: 319
+Faltando: [1_@_Johns Hopkins University] na página: 318
+Faltando: [1_@_Tufts University - Medford] na página: 299
+Faltando: [1_@_Sysmex America] na página: 300
+Faltando: [1_@_Westwood College] na página: 337
+Faltando: [1_@_University of Richmond] na página: 346
+Faltando: [1_@_Yeshiva University] na página: 326
+Faltando: [1_@_STERIGENICS] na página: 325
+Faltando: [1_@_NetMotion Wireless] na página: 320
+Faltando: [1_@_Ringling College of Art and Design] na página: 330
+Faltando: [1_@_Idex Corporation] na página: 328
+Faltando: [1_@_Westwood College] na página: 373
+Faltando: [1_@_Whitney, Bradley & Brown, Inc.] na página: 369
+Faltando: [1_@_Mitsubishi Electric Automation, Inc] na página: 371
+Faltando: [1_@_ETS (Educational Testing Service)] na página: 370
+Faltando: [1_@_Westwood College] na página: 381
+Faltando: [1_@_Westwood College] na página: 380
+Faltando: [1_@_Harvard College Library] na página: 382
+Faltando: [1_@_Regence] na página: 377
+Faltando: [1_@_Regence] na página: 376
+Faltando: [1_@_Regence] na página: 379
+Faltando: [1_@_Regence] na página: 378
+Faltando: [1_@_Sabritec] na página: 352
+Faltando: [1_@_Whitney, Bradley & Brown, Inc.] na página: 367
+Faltando: [1_@_All About Staffing] na página: 409
+Faltando: [1_@_Regence] na página: 415
+Faltando: [1_@_Tufts University - Boston] na página: 402
+Faltando: [1_@_Tufts University - Boston] na página: 403
+Faltando: [1_@_Tufts University - Medford] na página: 400
+Faltando: [1_@_Tufts University - Boston] na página: 404
+Faltando: [1_@_University of Illinois] na página: 405
+Faltando: [1_@_Westwood College] na página: 394
+Faltando: [1_@_Westwood College] na página: 393
+Faltando: [1_@_Regence] na página: 396
+Faltando: [1_@_Regence] na página: 386
+Faltando: [1_@_Regence] na página: 384
+Faltando: [1_@_Tufts University - Medford] na página: 388
+Faltando: [1_@_Fitchburg State University] na página: 441
+Faltando: [1_@_Fitchburg State University] na página: 442
+Faltando: [1_@_Fitchburg State University] na página: 434
+Faltando: [1_@_Regence] na página: 437
+Faltando: [1_@_Fitchburg State University] na página: 438
+Faltando: [1_@_Fitchburg State University] na página: 439
+Faltando: [1_@_Underwriter's Laboratory] na página: 425
+Faltando: [1_@_Fitchburg State University] na página: 424
+Faltando: [1_@_AFNI] na página: 426
+Faltando: [1_@_Parker Hannifin] na página: 417
+Faltando: [1_@_Regence] na página: 416
+Faltando: [1_@_Fitchburg State University] na página: 419
+Faltando: [1_@_Fitchburg State University] na página: 418
+Faltando: [1_@_Fitchburg State University] na página: 420
+Faltando: [1_@_Fitchburg State University] na página: 422
+Faltando: [1_@_Yeshiva University] na página: 478
+Faltando: [1_@_Albert Einstein College of Medicine] na página: 466
+Faltando: [1_@_ERT] na página: 467
+Faltando: [1_@_Westwood College] na página: 507
+Faltando: [1_@_Regence] na página: 497
+Faltando: [1_@_Regence] na página: 498
+Faltando: [1_@_Regence] na página: 499
+Faltando: [1_@_Tufts University - Medford] na página: 495
+Faltando: [1_@_Fitchburg State University] na página: 488
+Faltando: [1_@_Regence] na página: 490
+Faltando: [1_@_Fitchburg State University] na página: 485
+Faltando: [1_@_Fitchburg State University] na página: 487
+Faltando: [1_@_Fitchburg State University] na página: 486
+Faltando: [1_@_Smiths Detection] na página: 571
+Faltando: [1_@_All About Staffing] na página: 568
+Faltando: [1_@_Albert Einstein College of Medicine] na página: 515
+Faltando: [1_@_Regence] na página: 526
+Faltando: [1_@_Clemson University] na página: 535
+Faltando: [1_@_All About Staffing] na página: 529
+Faltando: [1_@_Mott Community College] na página: 528
+Faltando: [1_@_Northeastern University] na página: 614
+Faltando: [1_@_Northeastern University] na página: 615
+Faltando: [1_@_Northeastern University] na página: 613
+Faltando: [1_@_Northeastern University] na página: 616
+Faltando: [1_@_AMERICAN DENTAL ASSOCIATION] na página: 633
+Faltando: [1_@_University of Florida - UFL] na página: 632
+Faltando: [1_@_Smiths Medical] na página: 637
+Faltando: [1_@_Virginia Tech -- Virginia Polytechnic Institute] na página: 590
+Faltando: [1_@_Mott Community College] na página: 605
+Faltando: [1_@_Tufts University - Boston] na página: 683
+Faltando: [1_@_Colgate University] na página: 682
+Faltando: [1_@_Tufts University - Boston] na página: 681
+Faltando: [1_@_Tufts University - Boston] na página: 680
+Faltando: [1_@_MPR Associates, Inc.] na página: 679
+Faltando: [1_@_Freedom Health] na página: 678
+Faltando: [1_@_Harvard College Library] na página: 677
+Faltando: [1_@_Tufts University - Boston] na página: 676
+Faltando: [1_@_Tufts University - Boston] na página: 675
+Faltando: [1_@_University of Massachusetts Amherst] na página: 700
+Faltando: [1_@_Harvard College Library] na página: 698
+Faltando: [1_@_FlU -- Florida International University] na página: 692
+Faltando: [1_@_Eastern Michigan University] na página: 691
+Faltando: [1_@_Regence] na página: 653
+Faltando: [1_@_Regence] na página: 652
+Faltando: [1_@_Bemidji State University] na página: 655
+Faltando: [1_@_Regence] na página: 654
+Faltando: [1_@_University of Florida - UFL] na página: 656
+Faltando: [1_@_Sysmex America] na página: 657
+Faltando: [1_@_Bentley University] na página: 745
+Faltando: [1_@_Cardwell Westinghouse] na página: 753
+Faltando: [1_@_The Haskell Company] na página: 713
+Faltando: [1_@_Student Conservation Association] na página: 712
+Faltando: [1_@_The Haskell Company] na página: 715
+Faltando: [1_@_The Haskell Company] na página: 709
+Faltando: [1_@_The Haskell Company] na página: 710
+Faltando: [1_@_St. Mary's College of Maryland] na página: 806
+Faltando: [1_@_Boston College] na página: 800
+Faltando: [1_@_Mott Community College] na página: 803
+Faltando: [1_@_Boston College] na página: 808
+Faltando: [1_@_Sysmex America] na página: 809
+Faltando: [1_@_Regence] na página: 791
+Faltando: [1_@_Regence] na página: 790
+Faltando: [1_@_Regence] na página: 798
+Faltando: [1_@_Regence] na página: 797
+Faltando: [1_@_Regence] na página: 796
+Faltando: [1_@_Regence] na página: 795
+Faltando: [1_@_Regence] na página: 792
+Faltando: [1_@_All About Staffing] na página: 772
+Faltando: [1_@_All About Staffing] na página: 773
+Faltando: [1_@_JobTarget] na página: 771
+Faltando: [1_@_Bentley University] na página: 880
+Faltando: [1_@_Regence] na página: 883
+Faltando: [1_@_Regence] na página: 885
+Faltando: [1_@_Regence] na página: 884
+Faltando: [1_@_Regence] na página: 887
+Faltando: [1_@_Regence] na página: 886
+Faltando: [1_@_Regence] na página: 888
+Faltando: [1_@_Regence] na página: 864
+Faltando: [1_@_Regence] na página: 866
+Faltando: [1_@_imageQUEST] na página: 868
+Faltando: [1_@_AFNI] na página: 870
+Faltando: [1_@_Forest City] na página: 872
+Faltando: [1_@_John C Lincoln Health Network] na página: 878
+Faltando: [1_@_Regence] na página: 851
+Faltando: [1_@_Regence] na página: 850
+Faltando: [1_@_Boston College] na página: 848
+Faltando: [1_@_imageQUEST Inc., a Xerox Company] na página: 855
+Faltando: [1_@_Regence] na página: 859
+Faltando: [1_@_Regence] na página: 858
+Faltando: [1_@_Regence] na página: 863
+Faltando: [1_@_Regence] na página: 862
+Faltando: [1_@_Regence] na página: 861
+Faltando: [1_@_Regence] na página: 860
+Faltando: [1_@_NetScout Systems, Inc.] na página: 844
+Faltando: [1_@_Westwood College] na página: 956
+Faltando: [1_@_Westwood College] na página: 957
+Faltando: [1_@_Westwood College] na página: 952
+Faltando: [1_@_Westwood College] na página: 953
+Faltando: [1_@_Westwood College] na página: 954
+Faltando: [1_@_Westwood College] na página: 955
+Faltando: [1_@_Westwood College] na página: 950
+Faltando: [1_@_Westwood College] na página: 951
+Faltando: [1_@_Freedom Health] na página: 944
+Faltando: [1_@_ERT] na página: 947
+Faltando: [1_@_Albert Einstein College of Medicine] na página: 937
+Faltando: [1_@_AFNI] na página: 938
+Faltando: [1_@_Westwood College] na página: 932
+Faltando: [1_@_Loyola University Maryland] na página: 926
+Faltando: [1_@_St. Louis College of Pharmacy] na página: 923
+Faltando: [1_@_DSA] na página: 912
+Faltando: [1_@_Freedom Health] na página: 908
+Faltando: [1_@_Goodman and Company] na página: 907
+Faltando: [1_@_Zoll Medical Corporation] na página: 1015
+Faltando: [1_@_COLE TAYLOR BANK] na página: 993
+Faltando: [1_@_MDA Information Systems, Inc.] na página: 998
+Faltando: [1_@_Regence] na página: 979
+Faltando: [1_@_Freedom Health] na página: 976
+Faltando: [1_@_Freedom Health] na página: 975
+Faltando: [1_@_Utica College] na página: 973
+Faltando: [1_@_Regence] na página: 963
+Faltando: [1_@_Regence] na página: 962
+Faltando: [1_@_Sysmex America] na página: 1117
+Faltando: [1_@_Westwood College] na página: 1133
+Faltando: [1_@_Sunrise Hospital] na página: 1136
+Faltando: [1_@_MDA Information Systems, Inc.] na página: 1054
+Faltando: [1_@_MDA Information Systems, Inc.] na página: 1066
+Faltando: [1_@_Northeastern University] na página: 1068
+Faltando: [1_@_MDA Information Systems, Inc.] na página: 1062
+Faltando: [1_@_Northeastern University] na página: 1087
+Faltando: [1_@_Mitsubishi Electric Automation] na página: 1075
+Faltando: [1_@_Mitsubishi Electric Automation] na página: 1074
+Faltando: [1_@_Mitsubishi Electric Automation] na página: 1073
+Faltando: [1_@_Automation Engineering] na página: 1077
+Faltando: [1_@_Freedom Health] na página: 1268
+Faltando: [1_@_Freedom Health] na página: 1269
+Faltando: [1_@_Saint Louis University] na página: 1274
+Faltando: [1_@_Bridgewater State University] na página: 1275
+Faltando: [1_@_Minnesota Public Radio] na página: 1153
+Faltando: [1_@_Tufts University - Grafton] na página: 1159
+Faltando: [1_@_Dahill] na página: 1158
+Faltando: [1_@_Tufts University - Boston] na página: 1160
+Faltando: [1_@_AFNI] na página: 1166
+Faltando: [1_@_CareFirst BlueCross BlueShield] na página: 1180
+Faltando: [1_@_NetScout Systems, Inc.] na página: 1181
+Faltando: [1_@_Bentley University] na página: 1185
+Faltando: [1_@_MIT Lincoln Laboratory] na página: 1190
+Faltando: [1_@_Bentley University] na página: 1193
+Faltando: [1_@_Mitsubishi Electric Automation] na página: 1214
+Faltando: [1_@_NREL] na página: 1366
+Faltando: [1_@_Ramapo College of New Jersey] na página: 1350
+Faltando: [1_@_Regence] na página: 1351
+Faltando: [1_@_Regence] na página: 1348
+Faltando: [1_@_Regence] na página: 1349
+Faltando: [1_@_Regence] na página: 1346
+Faltando: [1_@_Regence] na página: 1347
+Faltando: [1_@_Regence] na página: 1344
+Faltando: [1_@_Regence] na página: 1345
+Faltando: [1_@_University of Florida - UFL] na página: 1404
+Faltando: [1_@_Yeshiva University] na página: 1401
+Faltando: [1_@_Tufts University - Boston] na página: 1400
+Faltando: [1_@_Tufts University - Boston] na página: 1402
+Faltando: [1_@_Loyola University Maryland] na página: 1394
+Faltando: [1_@_NetScout Systems, Inc.] na página: 1380
+Faltando: [1_@_Regence] na página: 1381
+Faltando: [1_@_Regence] na página: 1382
+Faltando: [1_@_Regence] na página: 1377
+Faltando: [1_@_Regence] na página: 1378
+Faltando: [1_@_Regence] na página: 1307
+Faltando: [1_@_Regence] na página: 1306
+Faltando: [1_@_Regence] na página: 1305
+Faltando: [1_@_Regence] na página: 1304
+Faltando: [1_@_Regence] na página: 1308
+Faltando: [1_@_Regence] na página: 1303
+Faltando: [1_@_Regence] na página: 1302
+Faltando: [1_@_Regence] na página: 1301
+Faltando: [1_@_Regence] na página: 1300
+Faltando: [1_@_Interactive Brokers] na página: 1289
+Faltando: [1_@_Inter Track Partners] na página: 1286
+Faltando: [1_@_Boston College] na página: 1337
+Faltando: [1_@_Smiths Detection] na página: 1338
+Faltando: [1_@_Smiths Detection] na página: 1340
+Faltando: [1_@_Match.com] na página: 1335
+Faltando: [1_@_Regence] na página: 1320
+Faltando: [1_@_Regence] na página: 1321
+Faltando: [1_@_Westwood College] na página: 1322
+Faltando: [1_@_Westwood College] na página: 1323
+Faltando: [1_@_Interactive Brokers] na página: 1324
+Faltando: [1_@_VISTA HEALTH] na página: 1326
+Faltando: [1_@_Regence] na página: 1314
+Faltando: [1_@_Boston College] na página: 1315
+Faltando: [1_@_NetScout Systems, Inc.] na página: 1503
+Faltando: [1_@_Christian Homes] na página: 1484
+Faltando: [1_@_Smiths Detection] na página: 1525
+Faltando: [1_@_Smiths Detection] na página: 1526
+Faltando: [1_@_JFK Medical Center] na página: 1523
+Faltando: [1_@_Bentley University] na página: 1532
+Faltando: [1_@_Maquet Cardiovascular (Wayne, NJ)] na página: 1534
+Faltando: [1_@_Dahill -A Xerox Company] na página: 1507
+Faltando: [1_@_Cecil College] na página: 1506
+Faltando: [1_@_Raleigh-Durham Airport Authority] na página: 1516
+Faltando: [1_@_UNIVERSITY OF VIRGINIA] na página: 1519
+Faltando: [1_@_Whitney, Bradley & Brown, Inc.] na página: 1512
+Faltando: [1_@_All About Staffing] na página: 1426
+Faltando: [1_@_Wybron, Inc.] na página: 1437
+Faltando: [1_@_Northeastern University] na página: 1411
+Faltando: [1_@_Saint Joseph College] na página: 1412
+Faltando: [1_@_The Haskell Company] na página: 1416
+Faltando: [1_@_Yeshiva University] na página: 1423
+Faltando: [1_@_The American University in Cairo] na página: 1456
+Faltando: [1_@_Central Michigan University] na página: 1458
+Faltando: [1_@_Regence] na página: 1460
+Faltando: [1_@_Regence] na página: 1462
+Faltando: [1_@_Regence] na página: 1465
+Faltando: [1_@_Regence] na página: 1466
+Faltando: [1_@_Regence] na página: 1467
+Faltando: [1_@_Match.com] na página: 1469
+Faltando: [1_@_Harvard University] na página: 1470
+Faltando: [1_@_Baker-Taylor] na página: 1471
+Faltando: [1_@_Zoll Medical Corporation] na página: 1440
+Faltando: [1_@_The Great Atlantic & Pacific Tea Company, Inc] na página: 1443
+Faltando: [1_@_Laureate Education] na página: 1442
+Faltando: [1_@_The Great Atlantic & Pacific Tea Company, Inc] na página: 1445
+Faltando: [1_@_The Great Atlantic & Pacific Tea Company, Inc] na página: 1444
+Faltando: [1_@_The Great Atlantic & Pacific Tea Company, Inc] na página: 1446
+Faltando: [1_@_ERT] na página: 1449
+Faltando: [1_@_Sage Quest] na página: 1663
+Faltando: [1_@_Phillips Edison & Company] na página: 1661
+Faltando: [1_@_College of DuPage] na página: 1654
+Faltando: [1_@_Cardwell Westinghouse] na página: 1652
+Faltando: [1_@_Bentley University] na página: 1608
+Faltando: [1_@_Washtenaw Community College] na página: 1611
+Faltando: [1_@_Bentley University] na página: 1612
+Faltando: [1_@_Idex Corporation] na página: 1614
+Faltando: [1_@_Xe Services] na página: 1615
+Faltando: [1_@_Regence] na página: 1600
+Faltando: [1_@_Tufts University - Medford] na página: 1602
+Faltando: [1_@_John C Lincoln Health Network] na página: 1606
+Faltando: [1_@_National Association of County and City Health Officials] na página: 1617
+Faltando: [1_@_Middlesex Community College] na página: 1620
+Faltando: [1_@_Case Western Reserve University] na página: 1622
+Faltando: [1_@_Yeshiva University] na página: 1582
+Faltando: [1_@_Mount Sinai Hospital Medical Center] na página: 1581
+Faltando: [1_@_NetScout Systems, Inc.] na página: 1578
+Faltando: [1_@_Edifice Information Management] na página: 1592
+Faltando: [1_@_Zoll Medical Corporation] na página: 1584
+Faltando: [1_@_Idex Corporation] na página: 1540
+Faltando: [1_@_The Great Atlantic & Pacific Tea Company, Inc] na página: 1537
+Faltando: [1_@_Confidential] na página: 1538
+Faltando: [1_@_Boston College] na página: 1565
+Faltando: [1_@_Boston College] na página: 1564
+Faltando: [1_@_NetScout Systems, Inc.] na página: 1566
+Faltando: [1_@_Boston College] na página: 1563
+Faltando: [1_@_Bentley University] na página: 1562
+Faltando: [1_@_Regence] na página: 1769
+Faltando: [1_@_Pronto.com] na página: 1768
+Faltando: [1_@_PEAPOD] na página: 1737
+Faltando: [1_@_PEAPOD] na página: 1738
+Faltando: [1_@_SCC Soft Computer] na página: 1749
+Faltando: [1_@_Regence] na página: 1701
+Faltando: [1_@_Elgin Community College] na página: 1696
+Faltando: [1_@_Regence] na página: 1708
+Faltando: [1_@_MDA Information Systems, Inc.] na página: 1706
+Faltando: [1_@_Interactive Brokers] na página: 1705
+Faltando: [1_@_Regence] na página: 1719
+Faltando: [1_@_Regence] na página: 1722
+Faltando: [1_@_Regence] na página: 1720
+Faltando: [1_@_Regence] na página: 1721
+Faltando: [1_@_Albert Einstein College of Medicine] na página: 1669
+Faltando: [1_@_MIT - Media Laboratory] na página: 1668
+Faltando: [1_@_CVG, Inc.-Avtec Systems, Inc.] na página: 1679
+Faltando: [1_@_University at Buffalo] na página: 1683
+Faltando: [1_@_SHRINERS HOSPITALS FOR CHILDREN] na página: 1694
+Faltando: [1_@_Harvard University] na página: 1913
+Faltando: [1_@_University of California, Riverside] na página: 1912
+Faltando: [1_@_Tufts University - Medford] na página: 1914
+Faltando: [1_@_Zoll Medical] na página: 1908
+Faltando: [1_@_Northeastern University] na página: 1880
+Faltando: [1_@_Yale University] na página: 1885
+Faltando: [1_@_PEAPOD] na página: 1870
+Faltando: [1_@_Netmotion Wireless] na página: 1850
+Faltando: [1_@_Smiths Detection] na página: 1813
+Faltando: [1_@_MDA Information Systems, Inc.] na página: 1811
+Faltando: [1_@_North Central College] na página: 1965
+Faltando: [1_@_Arizona Supreme Court] na página: 1960
+Faltando: [1_@_University of Illinois] na página: 1938
+Faltando: [1_@_Tufts University - Medford] na página: 1936
+Faltando: [1_@_Tufts University - Medford] na página: 1950
+Faltando: [1_@_Bridgewater State University] na página: 1930
+Faltando: [1_@_University at Buffalo] na página: 1928
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 13:00 - date_posted********************************
+dataset;SWDE;domain;job;site;job-jobtarget;attribute;date_posted;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-17 13:00
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 13:00 - location********************************
+dataset;SWDE;domain;job;site;job-jobtarget;attribute;location;relevantes;2000;recuperados;1595;relevantes recuperados; 1595;recall;0.7975;precision;1.0;date;2016-02-17 13:00
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_St. Paul, Minnesota, United States] na página: 13
+Faltando: [1_@_Memphis, Tennessee, United States] na página: 19
+Faltando: [1_@_Rockville, Maryland, United States] na página: 18
+Faltando: [1_@_Frederick, Maryland, United States] na página: 34
+Faltando: [1_@_Las Vegas, Nevada, United States] na página: 37
+Faltando: [1_@_Montvale, New Jersey, United States] na página: 47
+Faltando: [1_@_St. Paul, Minnesota, United States] na página: 50
+Faltando: [1_@_Portland, Oregon, United States] na página: 59
+Faltando: [1_@_White Plains, New York, United States] na página: 58
+Faltando: [1_@_Lewiston, Idaho, United States] na página: 63
+Faltando: [1_@_Lewiston, Idaho, United States] na página: 62
+Faltando: [1_@_Lewiston, Idaho, United States] na página: 61
+Faltando: [1_@_Portland, Oregon, United States] na página: 60
+Faltando: [1_@_Seattle, Washington, United States] na página: 64
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 77
+Faltando: [1_@_St. Paul, Minnesota, United States] na página: 72
+Faltando: [1_@_St. Paul, Minnesota, United States] na página: 73
+Faltando: [1_@_Rockville, Maryland, United States] na página: 82
+Faltando: [1_@_Riverside, California, United States] na página: 90
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 100
+Faltando: [1_@_Vernon Hills, Illinois, United States] na página: 101
+Faltando: [1_@_New York, New York City - Manhattan, United States] na página: 115
+Faltando: [1_@_Portland, Oregon, United States] na página: 137
+Faltando: [1_@_Tacoma, Washington, United States] na página: 136
+Faltando: [1_@_Portland, Oregon, United States] na página: 139
+Faltando: [1_@_Portland, Oregon, United States] na página: 138
+Faltando: [1_@_Seattle, Washington, United States] na página: 140
+Faltando: [1_@_, New York, United States] na página: 142
+Faltando: [1_@_Seattle, Washington, United States] na página: 133
+Faltando: [1_@_Seattle, Washington, United States] na página: 132
+Faltando: [1_@_Tacoma, Washington, United States] na página: 135
+Faltando: [1_@_Tacoma, Washington, United States] na página: 134
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 147
+Faltando: [1_@_Milwaukee, Wisconsin, United States] na página: 165
+Faltando: [1_@_Saint Charles, Illinois, United States] na página: 186
+Faltando: [1_@_Riverside, California, United States] na página: 179
+Faltando: [1_@_Seattle, Washington, United States] na página: 205
+Faltando: [1_@_Portland, Oregon, United States] na página: 204
+Faltando: [1_@_Seattle, Washington, United States] na página: 207
+Faltando: [1_@_Seattle, Washington, United States] na página: 206
+Faltando: [1_@_Portland, Oregon, United States] na página: 203
+Faltando: [1_@_Portland, Oregon, United States] na página: 202
+Faltando: [1_@_Tacoma, Washington, United States] na página: 193
+Faltando: [1_@_Portland, Oregon, United States] na página: 194
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 209
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 210
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 211
+Faltando: [1_@_Aurora, Colorado, United States] na página: 234
+Faltando: [1_@_St. Paul, Minnesota, United States] na página: 233
+Faltando: [1_@_St. Paul, Minnesota, United States] na página: 224
+Faltando: [1_@_AUSTIN, Texas, United States] na página: 255
+Faltando: [1_@_San Jose, California, United States] na página: 252
+Faltando: [1_@_Mundelein, Illinois, United States] na página: 247
+Faltando: [1_@_Greenwich, Connecticut, United States] na página: 242
+Faltando: [1_@_Deerfield, Illinois, United States] na página: 241
+Faltando: [1_@_AUSTIN, Texas, United States] na página: 287
+Faltando: [1_@_Framingham, Massachusetts, United States] na página: 284
+Faltando: [1_@_Portland, Oregon, United States] na página: 270
+Faltando: [1_@_Portland, Oregon, United States] na página: 271
+Faltando: [1_@_Portland, Oregon, United States] na página: 268
+Faltando: [1_@_Portland, Oregon, United States] na página: 269
+Faltando: [1_@_Bridgewater, New Jersey, United States] na página: 305
+Faltando: [1_@_Chicago, Illinois, United States] na página: 315
+Faltando: [1_@_Mt. Pleasant, Michigan, United States] na página: 316
+Faltando: [1_@_Framingham, Massachusetts, United States] na página: 319
+Faltando: [1_@_Baltimore, Maryland, United States] na página: 318
+Faltando: [1_@_Medford, Massachusetts, United States] na página: 299
+Faltando: [1_@_Mundelein, Illinois, United States] na página: 300
+Faltando: [1_@_Dallas, Texas, United States] na página: 337
+Faltando: [1_@_University of Richmond, Virginia, United States] na página: 346
+Faltando: [1_@_New York, New York, United States] na página: 326
+Faltando: [1_@_Corona, California, United States] na página: 325
+Faltando: [1_@_Seattle, Washington, United States] na página: 320
+Faltando: [1_@_, Florida, United States] na página: 330
+Faltando: [1_@_Middleboro, Massachusetts, United States] na página: 328
+Faltando: [1_@_Chicago, Illinois, United States] na página: 373
+Faltando: [1_@_Dayton, Ohio, United States] na página: 369
+Faltando: [1_@_Orlando/Tampa/Daytona, Florida, United States] na página: 371
+Faltando: [1_@_Princeton, New Jersey, United States] na página: 370
+Faltando: [1_@_Atlanta, Georgia, United States] na página: 381
+Faltando: [1_@_Dallas, Texas, United States] na página: 380
+Faltando: [1_@_Cambridge, Massachusetts, United States] na página: 382
+Faltando: [1_@_Portland, Oregon, United States] na página: 377
+Faltando: [1_@_Salem, Oregon, United States] na página: 376
+Faltando: [1_@_Portland, Oregon, United States] na página: 379
+Faltando: [1_@_Portland, Oregon, United States] na página: 378
+Faltando: [1_@_Irvine, California, United States] na página: 352
+Faltando: [1_@_Reston, Virginia, United States] na página: 367
+Faltando: [1_@_MIAMI, Florida, United States] na página: 409
+Faltando: [1_@_Portland, Oregon, United States] na página: 415
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 402
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 403
+Faltando: [1_@_Medford, Massachusetts, United States] na página: 400
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 404
+Faltando: [1_@_Urbana, Illinois, United States] na página: 405
+Faltando: [1_@_Atlanta, Georgia, United States] na página: 394
+Faltando: [1_@_Annandale, Virginia, United States] na página: 393
+Faltando: [1_@_Portland, Oregon, United States] na página: 396
+Faltando: [1_@_Portland, Oregon, United States] na página: 386
+Faltando: [1_@_Seattle, Washington, United States] na página: 384
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 388
+Faltando: [1_@_Fitchburg, Massachusetts, United States] na página: 441
+Faltando: [1_@_Fitchburg, Massachusetts, United States] na página: 442
+Faltando: [1_@_Fitchburg, Massachusetts, United States] na página: 434
+Faltando: [1_@_Lewiston, Idaho, United States] na página: 437
+Faltando: [1_@_Fitchburg, Massachusetts, United States] na página: 438
+Faltando: [1_@_Fitchburg, Massachusetts, United States] na página: 439
+Faltando: [1_@_Chicago, Illinois, United States] na página: 425
+Faltando: [1_@_Fitchburg, Massachusetts, United States] na página: 424
+Faltando: [1_@_Tucson, Arizona, United States] na página: 426
+Faltando: [1_@_Lincolnshire, Illinois, United States] na página: 417
+Faltando: [1_@_Portland, Oregon, United States] na página: 416
+Faltando: [1_@_Fitchburg, Massachusetts, United States] na página: 419
+Faltando: [1_@_Fitchburg, Massachusetts, United States] na página: 418
+Faltando: [1_@_Fitchburg, Massachusetts, United States] na página: 420
+Faltando: [1_@_Fitchburg, Massachusetts, United States] na página: 422
+Faltando: [1_@_New York, New York, United States] na página: 478
+Faltando: [1_@_Bronx, New York, United States] na página: 466
+Faltando: [1_@_Philadelphia, Pennsylvania, United States] na página: 467
+Faltando: [1_@_Denver, Colorado, United States] na página: 507
+Faltando: [1_@_Portland, Oregon, United States] na página: 497
+Faltando: [1_@_Portland, Oregon, United States] na página: 498
+Faltando: [1_@_Seattle, Washington, United States] na página: 499
+Faltando: [1_@_Medford, Massachusetts, United States] na página: 495
+Faltando: [1_@_Fitchburg, Massachusetts, United States] na página: 488
+Faltando: [1_@_Salt Lake City, Utah, United States] na página: 490
+Faltando: [1_@_Fitchburg, Massachusetts, United States] na página: 485
+Faltando: [1_@_Fitchburg, Massachusetts, United States] na página: 487
+Faltando: [1_@_Fitchburg, Massachusetts, United States] na página: 486
+Faltando: [1_@_Edgewood, Maryland, United States] na página: 571
+Faltando: [1_@_SAN JOSE, California, United States] na página: 568
+Faltando: [1_@_Bronx, New York, United States] na página: 515
+Faltando: [1_@_Portland, Oregon, United States] na página: 526
+Faltando: [1_@_Clemson, South Carolina, United States] na página: 535
+Faltando: [1_@_SAN JOSE, California, United States] na página: 529
+Faltando: [1_@_Flint, Mid-Michigan, United States] na página: 528
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 614
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 615
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 613
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 616
+Faltando: [1_@_Chicago, Illinois, United States] na página: 633
+Faltando: [1_@_, Florida, United States] na página: 632
+Faltando: [1_@_Keene, New Hampshire, United States] na página: 637
+Faltando: [1_@_Blacksburg, Virginia, United States] na página: 590
+Faltando: [1_@_Flint, Mid-Michigan, United States] na página: 605
+Faltando: [1_@_Groton, Massachusetts, United States] na página: 683
+Faltando: [1_@_Hamilton, New York, United States] na página: 682
+Faltando: [1_@_Groton, Massachusetts, United States] na página: 681
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 680
+Faltando: [1_@_Berkeley, CA, Washington, DC, United States] na página: 679
+Faltando: [1_@_Tampa, Florida, United States] na página: 678
+Faltando: [1_@_Cambridge, Massachusetts, United States] na página: 677
+Faltando: [1_@_Groton, Massachusetts, United States] na página: 676
+Faltando: [1_@_Groton, Massachusetts, United States] na página: 675
+Faltando: [1_@_Amherst, Massachusetts, United States] na página: 700
+Faltando: [1_@_Cambridge, Massachusetts, United States] na página: 698
+Faltando: [1_@_, Florida, United States] na página: 692
+Faltando: [1_@_Ypsilanti, Southeast Michigan, United States] na página: 691
+Faltando: [1_@_Portland, Oregon, United States] na página: 653
+Faltando: [1_@_Portland, Oregon, United States] na página: 652
+Faltando: [1_@_Bemidji, Minnesota, United States] na página: 655
+Faltando: [1_@_Portland, Oregon, United States] na página: 654
+Faltando: [1_@_, Florida, United States] na página: 656
+Faltando: [1_@_MUNDELEIN, Illinois, United States] na página: 657
+Faltando: [1_@_Waltham, Massachusetts, United States] na página: 745
+Faltando: [1_@_Chicago, Illinois, United States] na página: 753
+Faltando: [1_@_Jacksonville, Florida, United States] na página: 713
+Faltando: [1_@_Pittsburgh, Pennsylvania, United States] na página: 712
+Faltando: [1_@_Jacksonville, Florida, United States] na página: 715
+Faltando: [1_@_Jacksonville, Florida, United States] na página: 709
+Faltando: [1_@_Jacksonville, Florida, United States] na página: 710
+Faltando: [1_@_St. Mary's City, Maryland - Southern, United States] na página: 806
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 800
+Faltando: [1_@_Flint, Mid-michigan, United States] na página: 803
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 808
+Faltando: [1_@_Mundelein, Illinois, United States] na página: 809
+Faltando: [1_@_Salt Lake City, Utah, United States] na página: 791
+Faltando: [1_@_Tacoma, Washington, United States] na página: 790
+Faltando: [1_@_Salem, Oregon, United States] na página: 798
+Faltando: [1_@_Salem, Oregon, United States] na página: 797
+Faltando: [1_@_Portland, Oregon, United States] na página: 796
+Faltando: [1_@_Portland, Oregon, United States] na página: 795
+Faltando: [1_@_Burlington, Washington, United States] na página: 792
+Faltando: [1_@_FALLS CHURCH, Virginia, United States] na página: 772
+Faltando: [1_@_OVERLAND PARK, Kansas, United States] na página: 773
+Faltando: [1_@_New London, Connecticut, United States] na página: 771
+Faltando: [1_@_Waltham, Massachusetts, United States] na página: 880
+Faltando: [1_@_Seattle, Washington, United States] na página: 883
+Faltando: [1_@_Seattle, Washington, United States] na página: 885
+Faltando: [1_@_Seattle, Washington, United States] na página: 884
+Faltando: [1_@_Salt Lake City, Utah, United States] na página: 887
+Faltando: [1_@_Salt Lake City, Utah, United States] na página: 886
+Faltando: [1_@_Salt Lake City, Utah, United States] na página: 888
+Faltando: [1_@_Tacoma, Washington, United States] na página: 864
+Faltando: [1_@_Portland, Oregon, United States] na página: 866
+Faltando: [1_@_Kansas City/ Lenexa, Kansas, United States] na página: 868
+Faltando: [1_@_Bloomington, Illinois, United States] na página: 870
+Faltando: [1_@_Kailua, Hawaii, United States] na página: 872
+Faltando: [1_@_Phoenix, Arizona, United States] na página: 878
+Faltando: [1_@_Tacoma, Washington, United States] na página: 851
+Faltando: [1_@_Salem, Oregon, United States] na página: 850
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 848
+Faltando: [1_@_Salina, Kansas, United States] na página: 855
+Faltando: [1_@_Salem, Oregon, United States] na página: 859
+Faltando: [1_@_Portland, Oregon, United States] na página: 858
+Faltando: [1_@_Lewiston, Idaho, United States] na página: 863
+Faltando: [1_@_Lewiston, Idaho, United States] na página: 862
+Faltando: [1_@_Salt Lake City, Utah, United States] na página: 861
+Faltando: [1_@_Salt Lake City, Utah, United States] na página: 860
+Faltando: [1_@_San Jose, California, United States] na página: 844
+Faltando: [1_@_Woodridge, Illinois, United States] na página: 956
+Faltando: [1_@_Woodridge, Illinois, United States] na página: 957
+Faltando: [1_@_Woodridge, Illinois, United States] na página: 952
+Faltando: [1_@_Woodridge, Illinois, United States] na página: 953
+Faltando: [1_@_Woodridge, Illinois, United States] na página: 954
+Faltando: [1_@_Dallas, Texas, United States] na página: 955
+Faltando: [1_@_Woodridge, Illinois, United States] na página: 950
+Faltando: [1_@_Denver, Colorado, United States] na página: 951
+Faltando: [1_@_Orlando, Florida, United States] na página: 944
+Faltando: [1_@_Philadelphia, Pennsylvania, United States] na página: 947
+Faltando: [1_@_Bronx, New York, United States] na página: 937
+Faltando: [1_@_Evans, Colorado, United States] na página: 938
+Faltando: [1_@_Broomfield, Colorado, United States] na página: 932
+Faltando: [1_@_Baltimore, Maryland, United States] na página: 926
+Faltando: [1_@_St. Louis, St. Louis Metro, United States] na página: 923
+Faltando: [1_@_Aberdeen, Maryland, United States] na página: 912
+Faltando: [1_@_Ocala, Florida, United States] na página: 908
+Faltando: [1_@_Rockville, Maryland, United States] na página: 907
+Faltando: [1_@_Chelmsford, Massachusetts, United States] na página: 1015
+Faltando: [1_@_Rosemont, Illinois, United States] na página: 993
+Faltando: [1_@_Rockville, Maryland, United States] na página: 998
+Faltando: [1_@_Salem, Oregon, United States] na página: 979
+Faltando: [1_@_Miami Lakes, Florida, United States] na página: 976
+Faltando: [1_@_Miami Lakes, Florida, United States] na página: 975
+Faltando: [1_@_Utica, New York, United States] na página: 973
+Faltando: [1_@_Salem, Oregon, United States] na página: 963
+Faltando: [1_@_Salem, Oregon, United States] na página: 962
+Faltando: [1_@_Mundelein, Illinois, United States] na página: 1117
+Faltando: [1_@_Denver, Colorado, United States] na página: 1133
+Faltando: [1_@_Las Vegas, Nevada, United States] na página: 1136
+Faltando: [1_@_Rockville, Maryland, United States] na página: 1054
+Faltando: [1_@_Rockville, Maryland, United States] na página: 1066
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 1068
+Faltando: [1_@_Rockville, Maryland, United States] na página: 1062
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 1087
+Faltando: [1_@_Vernon Hills, Illinois, United States] na página: 1075
+Faltando: [1_@_Vernon Hills, Illinois, United States] na página: 1074
+Faltando: [1_@_Vernon Hills, Illinois, United States] na página: 1073
+Faltando: [1_@_Hackett, Arkansas, United States] na página: 1077
+Faltando: [1_@_Bradenton, Florida, United States] na página: 1268
+Faltando: [1_@_Ocala, Florida, United States] na página: 1269
+Faltando: [1_@_St. Louis, Missouri, United States] na página: 1274
+Faltando: [1_@_Bridgewater, Massachusetts, United States] na página: 1275
+Faltando: [1_@_St. Paul, Minnesota, United States] na página: 1153
+Faltando: [1_@_Grafton, Massachusetts, United States] na página: 1159
+Faltando: [1_@_Corpus Christi, Texas, United States] na página: 1158
+Faltando: [1_@_Wrentham, Massachusetts, United States] na página: 1160
+Faltando: [1_@_Evans, Colorado, United States] na página: 1166
+Faltando: [1_@_Baltimore, Maryland, United States] na página: 1180
+Faltando: [1_@_Westford, Massachusetts, United States] na página: 1181
+Faltando: [1_@_Waltham, Massachusetts, United States] na página: 1185
+Faltando: [1_@_Lexington, Massachusetts, United States] na página: 1190
+Faltando: [1_@_Waltham, Massachusetts, United States] na página: 1193
+Faltando: [1_@_Phoenix, Arizona, United States] na página: 1214
+Faltando: [1_@_Golden, Colorado, United States] na página: 1366
+Faltando: [1_@_Mahwah, New Jersey, United States] na página: 1350
+Faltando: [1_@_Portland, Oregon, United States] na página: 1351
+Faltando: [1_@_Seattle, Washington, United States] na página: 1348
+Faltando: [1_@_Portland, Oregon, United States] na página: 1349
+Faltando: [1_@_Lewiston, Idaho, United States] na página: 1346
+Faltando: [1_@_Lewiston, Idaho, United States] na página: 1347
+Faltando: [1_@_Burlington, Washington, United States] na página: 1344
+Faltando: [1_@_Tacoma, Washington, United States] na página: 1345
+Faltando: [1_@_, Florida, United States] na página: 1404
+Faltando: [1_@_Bronx, New York, United States] na página: 1401
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 1400
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 1402
+Faltando: [1_@_Baltimore, Maryland - Capital Central, United States] na página: 1394
+Faltando: [1_@_Branchburg, New Jersey, United States] na página: 1380
+Faltando: [1_@_Salt Lake City, Utah, United States] na página: 1381
+Faltando: [1_@_Salt Lake City, Utah, United States] na página: 1382
+Faltando: [1_@_Salem, Oregon, United States] na página: 1377
+Faltando: [1_@_Salem, Oregon, United States] na página: 1378
+Faltando: [1_@_Salt Lake City, Utah, United States] na página: 1307
+Faltando: [1_@_Lewiston, Idaho, United States] na página: 1306
+Faltando: [1_@_Lewiston, Idaho, United States] na página: 1305
+Faltando: [1_@_Salem, Oregon, United States] na página: 1304
+Faltando: [1_@_Salt Lake City, Utah, United States] na página: 1308
+Faltando: [1_@_Salem, Oregon, United States] na página: 1303
+Faltando: [1_@_Portland, Oregon, United States] na página: 1302
+Faltando: [1_@_Portland, Oregon, United States] na página: 1301
+Faltando: [1_@_Seattle, Washington, United States] na página: 1300
+Faltando: [1_@_Greenwich, Connecticut, United States] na página: 1289
+Faltando: [1_@_Melrose Park, Illinois, United States] na página: 1286
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 1337
+Faltando: [1_@_Danbury, Connecticut, United States] na página: 1338
+Faltando: [1_@_Danbury, Connecticut, United States] na página: 1340
+Faltando: [1_@_Dallas, Texas, United States] na página: 1335
+Faltando: [1_@_Tacoma, Washington, United States] na página: 1320
+Faltando: [1_@_Tacoma, Washington, United States] na página: 1321
+Faltando: [1_@_Chicago, Illinois, United States] na página: 1322
+Faltando: [1_@_Chicago, Illinois, United States] na página: 1323
+Faltando: [1_@_Chicago, Illinois, United States] na página: 1324
+Faltando: [1_@_Waukegan, Illinois, United States] na página: 1326
+Faltando: [1_@_Seattle, Washington, United States] na página: 1314
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 1315
+Faltando: [1_@_San Diego, California, United States] na página: 1503
+Faltando: [1_@_Saint Louis, Missouri, United States] na página: 1484
+Faltando: [1_@_Morristown, New Jersey, United States] na página: 1525
+Faltando: [1_@_Morristown, New Jersey, United States] na página: 1526
+Faltando: [1_@_Atlantis, Florida, United States] na página: 1523
+Faltando: [1_@_Waltham, Massachusetts, United States] na página: 1532
+Faltando: [1_@_Wayne, New Jersey, United States] na página: 1534
+Faltando: [1_@_Corpus Christi, Texas, United States] na página: 1507
+Faltando: [1_@_North East, Maryland, United States] na página: 1506
+Faltando: [1_@_RDU Airport, North Carolina, United States] na página: 1516
+Faltando: [1_@_Charlottesville, Virginia, United States] na página: 1519
+Faltando: [1_@_Washington, Dist. Columbia, United States] na página: 1512
+Faltando: [1_@_SUNRISE, Florida, United States] na página: 1426
+Faltando: [1_@_Colorado Springs, Colorado, United States] na página: 1437
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 1411
+Faltando: [1_@_West Hartford, Connecticut, United States] na página: 1412
+Faltando: [1_@_Jacksonville, Florida, United States] na página: 1416
+Faltando: [1_@_New York, New York, United States] na página: 1423
+Faltando: [1_@_Cairo, EG28, Egypt] na página: 1456
+Faltando: [1_@_Mt. Pleasant, Michigan, United States] na página: 1458
+Faltando: [1_@_Boise, Idaho, United States] na página: 1460
+Faltando: [1_@_Boise, Idaho, United States] na página: 1462
+Faltando: [1_@_Portland, Oregon, United States] na página: 1465
+Faltando: [1_@_Portland, Oregon, United States] na página: 1466
+Faltando: [1_@_Portland, Oregon, United States] na página: 1467
+Faltando: [1_@_Dallas, Texas, United States] na página: 1469
+Faltando: [1_@_Cambridge, Massachusetts, United States] na página: 1470
+Faltando: [1_@_Contoocook, New Hampshire, United States] na página: 1471
+Faltando: [1_@_Chelmsford, Massachusetts, United States] na página: 1440
+Faltando: [1_@_Montvale, New Jersey, United States] na página: 1443
+Faltando: [1_@_Baltimore, Maryland, United States] na página: 1442
+Faltando: [1_@_Montvale, New Jersey, United States] na página: 1445
+Faltando: [1_@_Montvale, New Jersey, United States] na página: 1444
+Faltando: [1_@_Montvale, New Jersey, United States] na página: 1446
+Faltando: [1_@_Philadelphia, Pennsylvania, United States] na página: 1449
+Faltando: [1_@_Solon, Ohio, United States] na página: 1663
+Faltando: [1_@_Cincinnati, Ohio, United States] na página: 1661
+Faltando: [1_@_Glen Ellyn, Illinois, United States] na página: 1654
+Faltando: [1_@_Chicago, Illinois, United States] na página: 1652
+Faltando: [1_@_Waltham, Massachusetts, United States] na página: 1608
+Faltando: [1_@_Ann Arbor, Michigan, United States] na página: 1611
+Faltando: [1_@_Waltham, Massachusetts, United States] na página: 1612
+Faltando: [1_@_Lake Bluff, Illinois, United States] na página: 1614
+Faltando: [1_@_Camden, North Carolina, United States] na página: 1615
+Faltando: [1_@_Salt Lake City, Utah, United States] na página: 1600
+Faltando: [1_@_Medford, Massachusetts, United States] na página: 1602
+Faltando: [1_@_Phoenix, Arizona, United States] na página: 1606
+Faltando: [1_@_Washington, Dist. Columbia, United States] na página: 1617
+Faltando: [1_@_Bedford, Massachusetts, United States] na página: 1620
+Faltando: [1_@_Cleveland, Ohio, United States] na página: 1622
+Faltando: [1_@_Bronx, New York, United States] na página: 1582
+Faltando: [1_@_Chicago, Illinois, United States] na página: 1581
+Faltando: [1_@_Charlotte, North Carolina, United States] na página: 1578
+Faltando: [1_@_Parsippany, New Jersey, United States] na página: 1592
+Faltando: [1_@_Chelmsford, Massachusetts, United States] na página: 1584
+Faltando: [1_@_Middleboro, Massachusetts, United States] na página: 1540
+Faltando: [1_@_Montvale, New Jersey, United States] na página: 1537
+Faltando: [1_@_Elkhart, Indiana, United States] na página: 1538
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 1565
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 1564
+Faltando: [1_@_Charolotte, North Carolina, United States] na página: 1566
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 1563
+Faltando: [1_@_Waltham, Massachusetts, United States] na página: 1562
+Faltando: [1_@_Salt Lake City, Utah, United States] na página: 1769
+Faltando: [1_@_Boulder, Colorado, United States] na página: 1768
+Faltando: [1_@_Skokie, Illinois, United States] na página: 1737
+Faltando: [1_@_Skokie, Illinois, United States] na página: 1738
+Faltando: [1_@_Clearwater, Florida, United States] na página: 1749
+Faltando: [1_@_Portland, Oregon, United States] na página: 1701
+Faltando: [1_@_Elgin, Illinois, United States] na página: 1696
+Faltando: [1_@_Portland, Oregon, United States] na página: 1708
+Faltando: [1_@_Rockville, Maryland, United States] na página: 1706
+Faltando: [1_@_Greenwich, Connecticut, United States] na página: 1705
+Faltando: [1_@_Salt Lake City, Utah, United States] na página: 1719
+Faltando: [1_@_Portland, Oregon, United States] na página: 1722
+Faltando: [1_@_Portland, Oregon, United States] na página: 1720
+Faltando: [1_@_Portland, Oregon, United States] na página: 1721
+Faltando: [1_@_Bronx, New York, United States] na página: 1669
+Faltando: [1_@_Cambridge, Massachusetts, United States] na página: 1668
+Faltando: [1_@_Chantilly, Virginia, United States] na página: 1679
+Faltando: [1_@_Buffalo, New York, United States] na página: 1683
+Faltando: [1_@_Tampa, Florida, United States] na página: 1694
+Faltando: [1_@_Cambridge, Massachusetts, United States] na página: 1913
+Faltando: [1_@_Riverside, California, United States] na página: 1912
+Faltando: [1_@_Somerville, Massachusetts, United States] na página: 1914
+Faltando: [1_@_Chelmsford, Massachusetts, United States] na página: 1908
+Faltando: [1_@_Boston, Massachusetts, United States] na página: 1880
+Faltando: [1_@_New Haven, Southern Connecticut - New Haven, United States] na página: 1885
+Faltando: [1_@_Hanover, Maryland, United States] na página: 1870
+Faltando: [1_@_Seattle, Washington, United States] na página: 1850
+Faltando: [1_@_Rosslyn, Virginia, United States] na página: 1813
+Faltando: [1_@_Rockville, Maryland, United States] na página: 1811
+Faltando: [1_@_Naperville, Illinois, United States] na página: 1965
+Faltando: [1_@_Phoenix, Arizona, United States] na página: 1960
+Faltando: [1_@_Urbana, Illinois, United States] na página: 1938
+Faltando: [1_@_Medford, Massachusetts, United States] na página: 1936
+Faltando: [1_@_Somerville, Massachusetts, United States] na página: 1950
+Faltando: [1_@_Bridgewater, Massachusetts, United States] na página: 1930
+Faltando: [1_@_Buffalo, New York, United States] na página: 1928
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 13:01 - title********************************
+dataset;SWDE;domain;job;site;job-jobtarget;attribute;title;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-17 13:01
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

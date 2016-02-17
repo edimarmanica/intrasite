@@ -1,0 +1,231 @@
+
+
+*************2016-02-17 11:51 - manufacturer********************************
+dataset;SWDE;domain;camera;site;camera-newegg;attribute;manufacturer;relevantes;220;recuperados;220;relevantes recuperados; 220;recall;1.0;precision;1.0;date;2016-02-17 11:51
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 11:51 - model********************************
+dataset;SWDE;domain;camera;site;camera-newegg;attribute;model;relevantes;220;recuperados;152;relevantes recuperados; 152;recall;0.6909090909090909;precision;1.0;date;2016-02-17 11:51
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_CASIO EXILIM EX-FH25 Black 10 MP 3.0" LCD 20X Optical Zoom 26mm Wide Angle Digital Camera] na página: 15
+Faltando: [1_@_Kodak EasyShare M575 Blue 14 MP 3.0" LCD 5X Optical Zoom 28mm Wide Angle Digital Camera] na página: 24
+Faltando: [1_@_Nikon COOLPIX S6000 Black 14.2 MP 2.7" 231K Anti-reflection Coating LCD 7X Optical Zoom 28mm Wide Angle Digital Camera] na página: 26
+Faltando: [1_@_Panasonic LUMIX DMC-FH20 Blue 14 MP 2.7" 230K LCD 8X Optical Zoom 28mm Wide Angle Digital Camera] na página: 32
+Faltando: [1_@_Kodak EasyShare C142 Red 10 MP 2.5" LCD 3X Optical Zoom Digital Camera] na página: 36
+Faltando: [1_@_SAMSUNG AQ100 Red 12.2 MP 230 K LCD 5X Optical Zoom Waterproof Digital Camera] na página: 55
+Faltando: [1_@_Kodak EasyShare C142 Green 10 MP 2.5" LCD 3X Optical Zoom Digital Camera] na página: 62
+Faltando: [1_@_CASIO EXILIM EX-S8 Blue 12 MP 2.7" 110K LCD 4X Optical Zoom Digital Camera] na página: 70
+Faltando: [1_@_Panasonic LUMIX DMC-FH20 Red 14 MP 2.7" 230K LCD 8X Optical Zoom 28mm Wide Angle Digital Camera] na página: 66
+Faltando: [1_@_CASIO EXILIM EX-Z35 Silver 12.1 MP 2.5" 230K LCD 3X Optical Zoom Digital Camera] na página: 77
+Faltando: [1_@_Panasonic LUMIX DMC-FH1 Silver 12 MP 2.7" 230K LCD 5X Optical Zoom 28mm Wide Angle Digital Camera] na página: 74
+Faltando: [1_@_GE A1455 Black 14.1 MP 2.7" 234K LCD 5X Optical Zoom Digital Camera] na página: 87
+Faltando: [1_@_CASIO EXILIM EX-S8 Pink 12 MP 2.7" 110K LCD 4X Optical Zoom Digital Camera] na página: 86
+Faltando: [1_@_SAMSUNG TL105 Purple 3X Optical Zoom 27.5mm Wide Angle Digital Camera] na página: 81
+Faltando: [1_@_Kodak EasyShare M580 Blue 14 MP 3.0" LCD 8X Optical Zoom 28mm Wide Angle Digital Camera] na página: 94
+Faltando: [1_@_SAMSUNG AQ100 Blue 12.2 MP 230 K LCD 5X Optical Zoom Waterproof Digital Camera] na página: 101
+Faltando: [1_@_CASIO EXILIM EX-S8 Silver 12 MP 2.7" 110K LCD 4X Optical Zoom Digital Camera] na página: 99
+Faltando: [1_@_Nikon COOLPIX S8000 Bronze 14.2 MP 3.0" 921K Anti-reflection Coating LCD 10X Optical Zoom Digital Camera] na página: 96
+Faltando: [1_@_Panasonic LUMIX DMC-FH20 Violet 14 MP 2.7" 230K LCD 8X Optical Zoom 28mm Wide Angle Digital Camera] na página: 109
+Faltando: [1_@_CASIO EXILIM EX-Z35 Black 12 MP 2.5" 230K LCD 3X Optical Zoom Digital Camera] na página: 107
+Faltando: [1_@_Kodak EasyShare M575 Black 14 MP 3.0" LCD 5X Optical Zoom 28mm Wide Angle Digital Camera] na página: 105
+Faltando: [1_@_SAMSUNG SL600 Red 12.2 MP 2.7" LCD 5X Optical Zoom 27mm Wide Angle Digital Camera] na página: 119
+Faltando: [1_@_CASIO EXILIM EX-Z35 Purple 12 MP 2.5" 230K LCD 3X Optical Zoom Digital Camera] na página: 113
+Faltando: [1_@_CASIO EXILIM EX-Z35 Pink 12 MP 2.5" 230K LCD 3X Optical Zoom Digital Camera] na página: 126
+Faltando: [1_@_FUJIFILM Instax mini 7s White Instant Color Film Camera with Blue Trim and 5 Double Packs of Film] na página: 125
+Faltando: [1_@_CASIO EXILIM EX-Z35 Blue 12 MP 2.5" 230K LCD 3X Optical Zoom Digital Camera] na página: 124
+Faltando: [1_@_Kodak EasyShare M550 Purple 12 MP 2.7" LCD 5X Optical Zoom 28mm Wide Angle Digital Camera] na página: 122
+Faltando: [1_@_Kodak EasyShare M580 Pink 14 MP 3.0" LCD 8X Optical Zoom 28mm Wide Angle Digital Camera] na página: 121
+Faltando: [1_@_SAMSUNG SL605 Black Digital Camera] na página: 137
+Faltando: [1_@_Kodak EasyShare C142 Blue 10 MP 2.5" LCD 3X Optical Zoom Digital Camera] na página: 139
+Faltando: [1_@_Panasonic LUMIX DMC-FH20 Silver 14 MP 2.7" 230K LCD 8X Optical Zoom 28mm Wide Angle Digital Camera] na página: 140
+Faltando: [1_@_Panasonic LUMIX DMC-FP3 Black 14.1 MP 3.0" 230K Touch LCD 4X Optical Zoom Digital Camera] na página: 143
+Faltando: [1_@_Kodak EasyShare M550 Dark Gray 12 MP 2.7" LCD 5X Optical Zoom 28mm Wide Angle Digital Camera] na página: 128
+Faltando: [1_@_CASIO EXILIM EX-S8 Purple 12 MP 2.7" 110K LCD 4X Optical Zoom Digital Camera] na página: 135
+Faltando: [1_@_GE A1250 Silver 10.1 MP 2.5" 234K LCD 5X Optical Zoom Digital Camera] na página: 134
+Faltando: [1_@_SAMSUNG TL240 Gray 14 MP 3.5" Touch LCD 7X Optical Zoom Digital Camera] na página: 155
+Faltando: [1_@_Kodak EasyShare M550 Blue 12 MP 2.7" LCD 5X Optical Zoom 28mm Wide Angle Digital Camera] na página: 156
+Faltando: [1_@_CASIO EXILIM EX-S8 Black 12 MP 2.7" 110K LCD 4X Optical Zoom Digital Camera] na página: 158
+Faltando: [1_@_Recertified: HP Photosmart R727 Silver 6.2 MP 2.5" 230K LCD 3X Optical Zoom Digital Camera] na página: 170
+Faltando: [1_@_Recertified: Polaroid i835 Blue 8.0 MP 3.0" LCD 3X Optical Zoom Digital Camera] na página: 168
+Faltando: [1_@_Recertified: HP Photosmart Mz60 Black 8.0 MP 2.5" 153K LCD 6X Optical Zoom Digital Camera] na página: 174
+Faltando: [1_@_Recertified: HP Photosmart R725 Silver 6.2 MP 2.0" LCD 3X Optical Zoom Digital Camera] na página: 186
+Faltando: [1_@_Nikon CoolPix S70 Red & Red 12.1 MP 3.5" 288K Wide Viewing Angle TOUCH OLED 5X Optical Zoom 28mm Wide Angle Digital Camera] na página: 191
+Faltando: [1_@_Recertified: HP Photosmart M737 7.7 MP 2.5" 153K LCD 3X Optical Zoom Digital Camera] na página: 178
+Faltando: [1_@_Nikon COOLPIX S70 Black & Black 12.1 MP 3.5" 288K Wide Viewing Angle TOUCH OLED LCD 5X Optical Zoom 28mm Wide Angle Digital Camera] na página: 205
+Faltando: [1_@_SONY Cyber-shot DSC-H55 Black 14.1 MP 3" LCD(230K) 10X Optical Zoom 25-250mm Wide Angle Digital Camera] na página: 204
+Faltando: [1_@_SONY Cyber-shot DSC-W370 Green 14.1 MP 3.0" 230K LCD 7X Optical Zoom Digital Camera] na página: 207
+Faltando: [1_@_Nikon COOLPIX S640 Precious Pink 12.2 MP 2.7" 230K LCD 5X Optical Zoom 28mm Wide Angle Digital Camera] na página: 206
+Faltando: [1_@_SONY Cyber-shot DSC-W350 Black 14.1 MP 2.7" 230K LCD 4X Optical Zoom 26mm Wide Angle Digital Camera] na página: 201
+Faltando: [1_@_SONY Cyber-shot DSC-TX7 Blue 10.2 MP 3.5" 921K Touch LCD 4X Optical Zoom 25mm Wide Angle Digital Camera] na página: 200
+Faltando: [1_@_OLYMPUS Stylus 7030 Silver 14 MP 2.7" 230K HyperCrystal II LCD 7X Optical Zoom 28mm Wide Angle Digital Camera] na página: 203
+Faltando: [1_@_Nikon COOLPIX S230 Jet Black 10.0 MP 3.0" 230K Touch LCD 3X Optical Zoom Digital Camera] na página: 202
+Faltando: [1_@_FUJIFILM FINEPIX F80EXR Black 12.0 MP 3.0" 230K LCD 10X Optical Zoom 27mm Wide Angle Digital Camera] na página: 197
+Faltando: [1_@_FUJIFILM FINEPIX Z37 Green 10.0 MP 2.7" 230K LCD 3X Optical Zoom Digital Camera] na página: 196
+Faltando: [1_@_Panasonic LUMIX DMC-ZR1 Blue 12.1 MP 2.7" 230K LCD 8X Optical Zoom 25mm Wide Angle Digital Camera] na página: 199
+Faltando: [1_@_CASIO EXILIM EX-FS10 Gray 9.1 MP 2.5" 230K LCD 3X Optical Zoom Digital Camera - HIGH-SPEED] na página: 198
+Faltando: [1_@_Nikon COOLPIX S1000pj Black 12.1 MP 2.7" 230K LCD 5X Optical Zoom 28mm Wide Angle Digital Camera w/ built-in Projector Feature] na página: 193
+Faltando: [1_@_Panasonic LUMIX DMC-FH3 Blue 14 MP 2.7" 230K LCD 5X Optical Zoom 28mm Wide Angle Digital Camera] na página: 192
+Faltando: [1_@_Nikon COOLPIX S3000 Black 12.0 MP 2.7" 230K Anti-reflection Coating LCD 4X Optical Zoom 27mm Wide Angle Digital Camera] na página: 195
+Faltando: [1_@_SONY Cyber-shot DSC-W350 Silver 14.1 MP 2.7" 230K LCD 4X Optical Zoom 26mm Wide Angle Digital Camera] na página: 194
+Faltando: [1_@_Panasonic LUMIX DMC-FP1 Orange 12.1 MP 2.7" 230K LCD 4X Optical Zoom Digital Camera] na página: 216
+Faltando: [1_@_Nikon COOLPIX S4000 Red 12.0 MP 3.0" 460K Anti-reflection Coating Touch LCD 4X Optical Zoom 27mm Wide Angle Digital Camera] na página: 218
+Faltando: [1_@_CASIO EXILIM EX-Z550 Red 14 MP 2.7" 230K LCD 4X Optical Zoom 26mm Wide Angle Digital Camera] na página: 219
+Faltando: [1_@_Panasonic LUMIX DMC-FH20 Black 14 MP 2.7" 230K LCD 8X Optical Zoom 28mm Wide Angle Digital Camera] na página: 214
+Faltando: [1_@_SONY Cyber-shot DSC-W330 Red 14.1 MP 2.7" 230K LCD 4X Optical Zoom 26mm Wide Angle Digital Camera Kit with Red Case and 2GB Memory Stick] na página: 208
+Faltando: [1_@_CASIO EXILIM EX-S12 Pink 12.1 MP 2.7" 230K LCD 3X Optical Zoom Digital Camera] na página: 209
+Faltando: [1_@_CASIO EXILIM EX-S12 Green 12.1 MP 2.7" 230K LCD 3X Optical Zoom Digital Camera] na página: 210
+Faltando: [1_@_SAMSUNG DualView TL220 Black/Blue 12.2 MP 3.0" 230K Full Touch + 1.5" 61K LCD 4.6X Optical Zoom 27mm Wide Angle Digital Camera] na página: 211
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-17 11:51 - price********************************
+dataset;SWDE;domain;camera;site;camera-newegg;attribute;price;relevantes;220;recuperados;81;relevantes recuperados; 81;recall;0.36818181818181817;precision;1.0;date;2016-02-17 11:51
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_$349.00] na página: 0
+Faltando: [1_@_$268.00] na página: 1
+Faltando: [1_@_$449.00] na página: 2
+Faltando: [1_@_$149.99] na página: 3
+Faltando: [1_@_$329.00] na página: 4
+Faltando: [1_@_$199.00] na página: 5
+Faltando: [1_@_$429.00] na página: 6
+Faltando: [1_@_$399.99] na página: 7
+Faltando: [1_@_$239.00] na página: 8
+Faltando: [1_@_$229.00] na página: 10
+Faltando: [1_@_$199.00] na página: 11
+Faltando: [1_@_$399.99] na página: 12
+Faltando: [1_@_$179.00] na página: 13
+Faltando: [1_@_$299.99] na página: 14
+Faltando: [1_@_$329.99] na página: 15
+Faltando: [1_@_$349.99] na página: 17
+Faltando: [1_@_$349.99] na página: 16
+Faltando: [1_@_$179.99] na página: 19
+Faltando: [1_@_$159.95] na página: 18
+Faltando: [1_@_$149.99] na página: 21
+Faltando: [1_@_$149.99] na página: 20
+Faltando: [1_@_$299.99] na página: 23
+Faltando: [1_@_$199.95] na página: 25
+Faltando: [1_@_$99.00] na página: 27
+Faltando: [1_@_$209.99] na página: 26
+Faltando: [1_@_$159.95] na página: 29
+Faltando: [1_@_$115.95] na página: 28
+Faltando: [1_@_$229.00] na página: 31
+Faltando: [1_@_$179.00] na página: 30
+Faltando: [1_@_$199.99] na página: 34
+Faltando: [1_@_$229.00] na página: 33
+Faltando: [1_@_$369.00] na página: 38
+Faltando: [1_@_$178.95] na página: 39
+Faltando: [1_@_$59.99] na página: 36
+Faltando: [1_@_$189.99] na página: 37
+Faltando: [1_@_$89.95] na página: 47
+Faltando: [1_@_$172.95] na página: 45
+Faltando: [1_@_$299.00] na página: 51
+Faltando: [1_@_$189.99] na página: 50
+Faltando: [1_@_$199.00] na página: 55
+Faltando: [1_@_$149.00] na página: 53
+Faltando: [1_@_$179.99] na página: 59
+Faltando: [1_@_$229.99] na página: 58
+Faltando: [1_@_$89.95] na página: 57
+Faltando: [1_@_$329.00] na página: 61
+Faltando: [1_@_$84.95] na página: 68
+Faltando: [1_@_$329.00] na página: 65
+Faltando: [1_@_$129.99] na página: 67
+Faltando: [1_@_$84.99] na página: 76
+Faltando: [1_@_$89.90] na página: 77
+Faltando: [1_@_$127.95] na página: 79
+Faltando: [1_@_$179.99] na página: 72
+Faltando: [1_@_$179.99] na página: 73
+Faltando: [1_@_$139.99] na página: 74
+Faltando: [1_@_$72.99] na página: 75
+Faltando: [1_@_$229.99] na página: 84
+Faltando: [1_@_$89.99] na página: 87
+Faltando: [1_@_$149.99] na página: 82
+Faltando: [1_@_$219.95] na página: 93
+Faltando: [1_@_$54.99] na página: 92
+Faltando: [1_@_$178.99] na página: 94
+Faltando: [1_@_$179.00] na página: 89
+Faltando: [1_@_$179.00] na página: 88
+Faltando: [1_@_$229.00] na página: 91
+Faltando: [1_@_$129.99] na página: 102
+Faltando: [1_@_$149.00] na página: 103
+Faltando: [1_@_$199.00] na página: 101
+Faltando: [1_@_$149.99] na página: 98
+Faltando: [1_@_$119.99] na página: 99
+Faltando: [1_@_$259.99] na página: 96
+Faltando: [1_@_$299.00] na página: 97
+Faltando: [1_@_$103.95] na página: 110
+Faltando: [1_@_$16.95] na página: 111
+Faltando: [1_@_$89.99] na página: 107
+Faltando: [1_@_$104.95] na página: 104
+Faltando: [1_@_$149.99] na página: 105
+Faltando: [1_@_$199.99] na página: 118
+Faltando: [1_@_$99.00] na página: 117
+Faltando: [1_@_$349.99] na página: 114
+Faltando: [1_@_$89.99] na página: 113
+Faltando: [1_@_$349.99] na página: 127
+Faltando: [1_@_$89.99] na página: 126
+Faltando: [1_@_$89.99] na página: 124
+Faltando: [1_@_$135.99] na página: 122
+Faltando: [1_@_$178.99] na página: 121
+Faltando: [1_@_$179.00] na página: 120
+Faltando: [1_@_$99.00] na página: 137
+Faltando: [1_@_$59.90] na página: 139
+Faltando: [1_@_$299.99] na página: 141
+Faltando: [1_@_$179.99] na página: 143
+Faltando: [1_@_$149.00] na página: 142
+Faltando: [1_@_$159.95] na página: 133
+Faltando: [1_@_$129.99] na página: 132
+Faltando: [1_@_$119.99] na página: 135
+Faltando: [1_@_$149.99] na página: 153
+Faltando: [1_@_$399.99] na página: 154
+Faltando: [1_@_$299.99] na página: 157
+Faltando: [1_@_$119.99] na página: 158
+Faltando: [1_@_$79.99] na página: 159
+Faltando: [1_@_$299.99] na página: 144
+Faltando: [1_@_$69.99] na página: 146
+Faltando: [1_@_$222.95] na página: 147
+Faltando: [1_@_$199.99] na página: 149
+Faltando: [1_@_$69.99] na página: 171
+Faltando: [1_@_$54.99] na página: 170
+Faltando: [1_@_$217.95] na página: 161
+Faltando: [1_@_$139.99] na página: 166
+Faltando: [1_@_$149.00] na página: 165
+Faltando: [1_@_$119.99] na página: 164
+Faltando: [1_@_$54.99] na página: 186
+Faltando: [1_@_$69.99] na página: 190
+Faltando: [1_@_$269.99] na página: 191
+Faltando: [1_@_$69.99] na página: 183
+Faltando: [1_@_$149.99] na página: 181
+Faltando: [1_@_$269.99] na página: 205
+Faltando: [1_@_$182.99] na página: 204
+Faltando: [1_@_$168.99] na página: 207
+Faltando: [1_@_$174.99] na página: 206
+Faltando: [1_@_$153.99] na página: 201
+Faltando: [1_@_$284.99] na página: 200
+Faltando: [1_@_$136.00] na página: 203
+Faltando: [1_@_$138.99] na página: 202
+Faltando: [1_@_$205.00] na página: 197
+Faltando: [1_@_$103.00] na página: 196
+Faltando: [1_@_$190.99] na página: 199
+Faltando: [1_@_$194.99] na página: 198
+Faltando: [1_@_$217.99] na página: 193
+Faltando: [1_@_$118.99] na página: 192
+Faltando: [1_@_$101.99] na página: 195
+Faltando: [1_@_$146.99] na página: 194
+Faltando: [1_@_$119.95] na página: 216
+Faltando: [1_@_$124.99] na página: 219
+Faltando: [1_@_$299.99] na página: 212
+Faltando: [1_@_$149.00] na página: 213
+Faltando: [1_@_$199.00] na página: 215
+Faltando: [1_@_$126.99] na página: 208
+Faltando: [1_@_$163.99] na página: 209
+Faltando: [1_@_$171.99] na página: 210
+Faltando: [1_@_$190.00] na página: 211
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
