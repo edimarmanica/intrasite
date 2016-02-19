@@ -1,0 +1,56 @@
+
+
+*************2016-02-18 13:14 - value********************************
+dataset;WEIR;domain;finance;site;www.marketocracy.com;attribute;value;relevantes;528;recuperados;528;relevantes recuperados; 528;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - var_per********************************
+dataset;WEIR;domain;finance;site;www.marketocracy.com;attribute;var_per;relevantes;528;recuperados;528;relevantes recuperados; 528;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - high********************************
+dataset;WEIR;domain;finance;site;www.marketocracy.com;attribute;high;relevantes;469;recuperados;469;relevantes recuperados; 469;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - low********************************
+dataset;WEIR;domain;finance;site;www.marketocracy.com;attribute;low;relevantes;469;recuperados;469;relevantes recuperados; 469;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - volume********************************
+dataset;WEIR;domain;finance;site;www.marketocracy.com;attribute;volume;relevantes;469;recuperados;469;relevantes recuperados; 469;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - 52wk_low********************************
+dataset;WEIR;domain;finance;site;www.marketocracy.com;attribute;52wk_low;relevantes;528;recuperados;528;relevantes recuperados; 528;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - 52wk_high********************************
+dataset;WEIR;domain;finance;site;www.marketocracy.com;attribute;52wk_high;relevantes;528;recuperados;528;relevantes recuperados; 528;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

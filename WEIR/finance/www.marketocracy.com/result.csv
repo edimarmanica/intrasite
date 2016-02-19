@@ -1,0 +1,8 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,finance,www.marketocracy.com,value,rule_40.csv,Price:,528,528,528,1.0,1.0,2016-02-18 13:14
+WEIR,finance,www.marketocracy.com,var_per,rule_35.csv,Today:,528,528,528,1.0,1.0,2016-02-18 13:14
+WEIR,finance,www.marketocracy.com,high,rule_153.csv,High:,469,469,469,1.0,1.0,2016-02-18 13:14
+WEIR,finance,www.marketocracy.com,low,rule_89.csv,Low:,469,469,469,1.0,1.0,2016-02-18 13:14
+WEIR,finance,www.marketocracy.com,volume,rule_127.csv,Volume:,469,469,469,1.0,1.0,2016-02-18 13:14
+WEIR,finance,www.marketocracy.com,52wk_low,rule_129.csv,Year Low:,528,528,528,1.0,1.0,2016-02-18 13:14
+WEIR,finance,www.marketocracy.com,52wk_high,rule_28.csv,Year High:,528,528,528,1.0,1.0,2016-02-18 13:14

@@ -1,0 +1,7 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,soccer,sports.sportsillustrated.cnn.com,position,rule_103.csv,Position:,1324,807,807,0.6095166163141994,1.0,2016-02-18 13:19
+WEIR,soccer,sports.sportsillustrated.cnn.com,height,rule_636.csv,Height:,1322,805,805,0.6089258698940998,1.0,2016-02-18 13:19
+WEIR,soccer,sports.sportsillustrated.cnn.com,weight,rule_518.csv,Weight:,1322,805,805,0.6089258698940998,1.0,2016-02-18 13:19
+WEIR,soccer,sports.sportsillustrated.cnn.com,birthdate,rule_1057.csv,Birthdate:,1324,807,807,0.6095166163141994,1.0,2016-02-18 13:19
+WEIR,soccer,sports.sportsillustrated.cnn.com,club,rule_536.csv,0,1324,1135,1112,0.8398791540785498,0.9797356828193833,2016-02-18 13:19
+WEIR,soccer,sports.sportsillustrated.cnn.com,birthplace,rule_301.csv,Birthplace:,1295,778,778,0.6007722007722007,1.0,2016-02-18 13:19

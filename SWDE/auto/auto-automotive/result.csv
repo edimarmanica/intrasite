@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,auto,auto-automotive,model,rule_41.csv,Find a Car,1999,1999,1999,1.0,1.0,2016-02-18 12:30
+SWDE,auto,auto-automotive,price,rule_89.csv,More Details,1999,1999,1999,1.0,1.0,2016-02-18 12:30
+SWDE,auto,auto-automotive,engine,rule_52.csv,Engine:,1999,1999,1999,1.0,1.0,2016-02-18 12:30
+SWDE,auto,auto-automotive,fuel_economy,rule_111.csv,Fuel Economy:,1999,1999,1999,1.0,1.0,2016-02-18 12:30

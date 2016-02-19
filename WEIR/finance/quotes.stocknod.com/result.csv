@@ -1,0 +1,8 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,finance,quotes.stocknod.com,value,rule_2732.csv,Last Price,482,482,482,1.0,1.0,2016-02-18 13:14
+WEIR,finance,quotes.stocknod.com,open,rule_2425.csv,Open,446,446,446,1.0,1.0,2016-02-18 13:14
+WEIR,finance,quotes.stocknod.com,high,rule_8191.csv,Day High,482,482,482,1.0,1.0,2016-02-18 13:14
+WEIR,finance,quotes.stocknod.com,low,rule_7710.csv,Day Low,482,482,482,1.0,1.0,2016-02-18 13:14
+WEIR,finance,quotes.stocknod.com,volume,rule_5682.csv,Volume,446,446,446,1.0,1.0,2016-02-18 13:14
+WEIR,finance,quotes.stocknod.com,52wk_low,rule_3882.csv,Year Low,482,482,482,1.0,1.0,2016-02-18 13:14
+WEIR,finance,quotes.stocknod.com,52wk_high,rule_2778.csv,Year High,482,482,482,1.0,1.0,2016-02-18 13:14

@@ -1,0 +1,7 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,book,www.amazon.com,author,rule_462.csv,(Author),91,50,48,0.5274725274725275,0.96,2016-02-18 16:15
+WEIR,book,www.amazon.com,title,rule_524.csv,<!-- .nav-searchfield-width { padding: 0 2px 0 61px; } #nav-search-in { width: 61px; } -->,106,106,106,1.0,1.0,2016-02-18 16:15
+WEIR,book,www.amazon.com,publisher,rule_115.csv,Publisher:,102,102,102,1.0,1.0,2016-02-18 16:15
+WEIR,book,www.amazon.com,isbn13,rule_458.csv,ISBN-13:,106,106,106,1.0,1.0,2016-02-18 16:15
+WEIR,book,www.amazon.com,binding,rule_313.csv,", or",106,105,105,0.9905660377358491,1.0,2016-02-18 16:15
+WEIR,book,www.amazon.com,date,rule_597.csv,Publication Date:,77,77,77,1.0,1.0,2016-02-18 16:15

@@ -1,0 +1,75 @@
+
+
+*************2016-02-18 13:21 - publisher********************************
+dataset;WEIR;domain;videogame;site;ps2.gamespy.com;attribute;publisher;relevantes;401;recuperados;400;relevantes recuperados; 379;recall;0.9451371571072319;precision;0.9475;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Empire Interactive / Gotham Games] na página: videogame/ps2.gamespy.com/starsky-hutch.html
+Faltando: [SEGA / Global Star] na página: videogame/ps2.gamespy.com/espn-nba-2005.html
+Faltando: [Eidos Interactive / Volatile Games] na página: videogame/ps2.gamespy.com/reservoir-dogs.html
+Faltando: [Rockstar Games / Take-Two Interactive] na página: videogame/ps2.gamespy.com/max-payne-2-the-fall-of-max-payne.html
+Faltando: [N/A] na página: videogame/ps2.gamespy.com/crazy-frog-racer.html
+Faltando: [Giant Interactive Entertainment / LucasArts] na página: videogame/ps2.gamespy.com/lego-star-wars.html
+Faltando: [NIS / Banpresto] na página: videogame/ps2.gamespy.com/ar-tonelico.html
+Faltando: [Vivendi Games / Empire Interactive] na página: videogame/ps2.gamespy.com/flatout-2.html
+Faltando: [Midway Games / Aruze] na página: videogame/ps2.gamespy.com/shadow-hearts-ii.html
+Faltando: [ARUSH Entertainment / Groove Games] na página: videogame/ps2.gamespy.com/playboy-the-mansion.html
+Faltando: [Universal Interactive / Konami] na página: videogame/ps2.gamespy.com/crash-bandicoot-the-wrath-of-cortex.html
+Faltando: [Gathering / Take-Two Interactive] na página: videogame/ps2.gamespy.com/mafia.html
+Faltando: [2K Games / Sony Computer Entertainment] na página: videogame/ps2.gamespy.com/24.html
+Faltando: [Empire Interactive / Eidos Interactive] na página: videogame/ps2.gamespy.com/ford-street-racing.html
+Faltando: [Ignition Entertainment / Playlogic] na página: videogame/ps2.gamespy.com/obscure-ii.html
+Faltando: [SEGA / ESPN Videogames] na página: videogame/ps2.gamespy.com/espn-nba-basketball.html
+Faltando: [Sony Computer Entertainment / SCEA] na página: videogame/ps2.gamespy.com/atv-offroad-fury-4.html
+Faltando: [RedOctane / Activision] na página: videogame/ps2.gamespy.com/guitar-hero-2.html
+Faltando: [Empire Interactive / 2K Games] na página: videogame/ps2.gamespy.com/ford-racing-3.html
+Faltando: [LucasArts / TT Games] na página: videogame/ps2.gamespy.com/lego-star-wars-the-original-trilogy.html
+Faltando: [Atari / Namco Bandai] na página: videogame/ps2.gamespy.com/dragon-ball-z-tenkaichi-neo.html
+Faltando: [Atlus / 505 Games] na página: videogame/ps2.gamespy.com/magna-carta-crimson-stigmata.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+Faltando: [Giant Interactive Entertainment] na página: videogame/ps2.gamespy.com/lego-star-wars.html
+Faltando: [Atlus] na página: videogame/ps2.gamespy.com/magna-carta-crimson-stigmata.html
+Faltando: [RedOctane] na página: videogame/ps2.gamespy.com/guitar-hero-2.html
+Faltando: [Empire Interactive] na página: videogame/ps2.gamespy.com/starsky-hutch.html
+Faltando: [Sony Computer Entertainment] na página: videogame/ps2.gamespy.com/atv-offroad-fury-4.html
+Faltando: [SEGA] na página: videogame/ps2.gamespy.com/espn-nba-basketball.html
+Faltando: [Gathering] na página: videogame/ps2.gamespy.com/mafia.html
+Faltando: [Universal Interactive] na página: videogame/ps2.gamespy.com/crash-bandicoot-the-wrath-of-cortex.html
+Faltando: [Rockstar Games] na página: videogame/ps2.gamespy.com/max-payne-2-the-fall-of-max-payne.html
+Faltando: [SEGA] na página: videogame/ps2.gamespy.com/espn-nba-2005.html
+Faltando: [Eidos Interactive] na página: videogame/ps2.gamespy.com/reservoir-dogs.html
+Faltando: [Vivendi Games] na página: videogame/ps2.gamespy.com/flatout-2.html
+Faltando: [Ignition Entertainment] na página: videogame/ps2.gamespy.com/obscure-ii.html
+Faltando: [Empire Interactive] na página: videogame/ps2.gamespy.com/ford-street-racing.html
+Faltando: [2K Games] na página: videogame/ps2.gamespy.com/24.html
+Faltando: [NIS] na página: videogame/ps2.gamespy.com/ar-tonelico.html
+Faltando: [Atari] na página: videogame/ps2.gamespy.com/dragon-ball-z-tenkaichi-neo.html
+Faltando: [Empire Interactive] na página: videogame/ps2.gamespy.com/ford-racing-3.html
+Faltando: [Midway Games] na página: videogame/ps2.gamespy.com/shadow-hearts-ii.html
+Faltando: [LucasArts] na página: videogame/ps2.gamespy.com/lego-star-wars-the-original-trilogy.html
+Faltando: [ARUSH Entertainment] na página: videogame/ps2.gamespy.com/playboy-the-mansion.html
+
+
+*************2016-02-18 13:21 - genre********************************
+dataset;WEIR;domain;videogame;site;ps2.gamespy.com;attribute;genre;relevantes;401;recuperados;401;relevantes recuperados; 401;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:21 - developer********************************
+dataset;WEIR;domain;videogame;site;ps2.gamespy.com;attribute;developer;relevantes;394;recuperados;394;relevantes recuperados; 394;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:21 - esrb********************************
+dataset;WEIR;domain;videogame;site;ps2.gamespy.com;attribute;esrb;relevantes;401;recuperados;401;relevantes recuperados; 401;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

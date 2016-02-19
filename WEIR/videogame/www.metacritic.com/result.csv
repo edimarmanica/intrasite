@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,videogame,www.metacritic.com,publisher,rule_132.csv,PUBLISHER:,785,785,785,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,www.metacritic.com,genre,rule_1430.csv,GENRE(S):,785,785,785,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,www.metacritic.com,developer,rule_1752.csv,DEVELOPER:,785,785,785,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,www.metacritic.com,esrb,rule_4233.csv,ESRB RATING:,780,780,780,1.0,1.0,2016-02-18 13:21

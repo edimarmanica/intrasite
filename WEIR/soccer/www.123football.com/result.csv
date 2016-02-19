@@ -1,0 +1,8 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,soccer,www.123football.com,position,rule_75.csv,Position:,522,499,499,0.9559386973180076,1.0,2016-02-18 13:19
+WEIR,soccer,www.123football.com,height,rule_23.csv,Height:,489,489,489,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,www.123football.com,weight,rule_166.csv,Weight:,486,486,486,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,www.123football.com,birthdate,rule_220.csv,Date of Birth:,523,523,523,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,www.123football.com,national_team,rule_206.csv,National Team:,443,443,443,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,www.123football.com,birthplace,rule_109.csv,Place of Birth:,510,510,510,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,www.123football.com,nationality,rule_16.csv,Nationality:,505,505,504,0.998019801980198,0.998019801980198,2016-02-18 13:19

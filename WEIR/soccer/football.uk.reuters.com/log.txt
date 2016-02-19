@@ -1,0 +1,24 @@
+
+
+*************2016-02-18 13:19 - position********************************
+dataset;WEIR;domain;soccer;site;football.uk.reuters.com;attribute;position;relevantes;233;recuperados;233;relevantes recuperados; 233;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - birthdate********************************
+dataset;WEIR;domain;soccer;site;football.uk.reuters.com;attribute;birthdate;relevantes;233;recuperados;233;relevantes recuperados; 233;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - club********************************
+dataset;WEIR;domain;soccer;site;football.uk.reuters.com;attribute;club;relevantes;233;recuperados;233;relevantes recuperados; 233;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

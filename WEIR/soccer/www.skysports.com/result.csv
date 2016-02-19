@@ -1,0 +1,6 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,soccer,www.skysports.com,position,rule_362.csv,Position,388,388,388,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,www.skysports.com,height,rule_224.csv,Height,360,360,360,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,www.skysports.com,birthdate,rule_323.csv,DOB,367,367,367,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,www.skysports.com,national_team,rule_11.csv,Goalkeeper:,381,379,379,0.994750656167979,1.0,2016-02-18 13:19
+WEIR,soccer,www.skysports.com,birthplace,rule_463.csv,Birthplace,366,366,366,1.0,1.0,2016-02-18 13:19

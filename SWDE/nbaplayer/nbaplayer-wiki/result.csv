@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,nbaplayer,nbaplayer-wiki,height,rule_63608.csv,Listed height,420,420,420,1.0,1.0,2016-02-18 11:48
+SWDE,nbaplayer,nbaplayer-wiki,name,rule_90801.csv,at,420,406,406,0.9666666666666667,1.0,2016-02-18 11:48
+SWDE,nbaplayer,nbaplayer-wiki,team,rule_52192.csv,current roster,420,407,407,0.969047619047619,1.0,2016-02-18 11:49
+SWDE,nbaplayer,nbaplayer-wiki,weight,rule_48718.csv,Listed weight,420,420,420,1.0,1.0,2016-02-18 11:49

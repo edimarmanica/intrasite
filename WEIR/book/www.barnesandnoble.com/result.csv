@@ -1,0 +1,7 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,book,www.barnesandnoble.com,author,rule_242.csv,by,101,101,101,1.0,1.0,2016-02-19 11:37
+WEIR,book,www.barnesandnoble.com,title,rule_199.csv,by,101,101,101,1.0,1.0,2016-02-19 11:37
+WEIR,book,www.barnesandnoble.com,publisher,rule_741.csv,Publisher:,101,101,101,1.0,1.0,2016-02-19 11:37
+WEIR,book,www.barnesandnoble.com,isbn13,rule_125.csv,ISBN-13:,101,101,101,1.0,1.0,2016-02-19 11:37
+WEIR,book,www.barnesandnoble.com,date,rule_878.csv,Publication date:,101,101,101,1.0,1.0,2016-02-19 11:37
+WEIR,book,www.barnesandnoble.com,edition,rule_760.csv,Publisher:,29,47,23,0.7931034482758621,0.48936170212765956,2016-02-19 11:37

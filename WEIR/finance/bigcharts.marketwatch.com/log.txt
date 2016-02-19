@@ -1,0 +1,48 @@
+
+
+*************2016-02-18 13:14 - value********************************
+dataset;WEIR;domain;finance;site;bigcharts.marketwatch.com;attribute;value;relevantes;459;recuperados;459;relevantes recuperados; 459;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - open********************************
+dataset;WEIR;domain;finance;site;bigcharts.marketwatch.com;attribute;open;relevantes;459;recuperados;459;relevantes recuperados; 459;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - high********************************
+dataset;WEIR;domain;finance;site;bigcharts.marketwatch.com;attribute;high;relevantes;459;recuperados;459;relevantes recuperados; 459;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - volume********************************
+dataset;WEIR;domain;finance;site;bigcharts.marketwatch.com;attribute;volume;relevantes;459;recuperados;459;relevantes recuperados; 459;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - 52wk_low********************************
+dataset;WEIR;domain;finance;site;bigcharts.marketwatch.com;attribute;52wk_low;relevantes;459;recuperados;459;relevantes recuperados; 459;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - 52wk_high********************************
+dataset;WEIR;domain;finance;site;bigcharts.marketwatch.com;attribute;52wk_high;relevantes;459;recuperados;459;relevantes recuperados; 459;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

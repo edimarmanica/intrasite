@@ -1,0 +1,24 @@
+
+
+*************2016-02-18 13:21 - publisher********************************
+dataset;WEIR;domain;videogame;site;www.nintendo.com;attribute;publisher;relevantes;721;recuperados;721;relevantes recuperados; 721;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:21 - genre********************************
+dataset;WEIR;domain;videogame;site;www.nintendo.com;attribute;genre;relevantes;727;recuperados;727;relevantes recuperados; 727;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:21 - esrb********************************
+dataset;WEIR;domain;videogame;site;www.nintendo.com;attribute;esrb;relevantes;727;recuperados;727;relevantes recuperados; 727;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,soccer,www.worldfootballers.com,position,rule_79.csv,Position:,60,60,60,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,www.worldfootballers.com,national_team,rule_25.csv,» Countries »,60,60,60,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,www.worldfootballers.com,birthplace,rule_92.csv,Place of Birth:,59,59,59,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,www.worldfootballers.com,nationality,rule_49.csv,Nationality:,60,60,60,1.0,1.0,2016-02-18 13:19

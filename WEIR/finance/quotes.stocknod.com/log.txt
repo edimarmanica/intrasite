@@ -1,0 +1,56 @@
+
+
+*************2016-02-18 13:14 - value********************************
+dataset;WEIR;domain;finance;site;quotes.stocknod.com;attribute;value;relevantes;482;recuperados;482;relevantes recuperados; 482;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - open********************************
+dataset;WEIR;domain;finance;site;quotes.stocknod.com;attribute;open;relevantes;446;recuperados;446;relevantes recuperados; 446;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - high********************************
+dataset;WEIR;domain;finance;site;quotes.stocknod.com;attribute;high;relevantes;482;recuperados;482;relevantes recuperados; 482;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - low********************************
+dataset;WEIR;domain;finance;site;quotes.stocknod.com;attribute;low;relevantes;482;recuperados;482;relevantes recuperados; 482;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - volume********************************
+dataset;WEIR;domain;finance;site;quotes.stocknod.com;attribute;volume;relevantes;446;recuperados;446;relevantes recuperados; 446;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - 52wk_low********************************
+dataset;WEIR;domain;finance;site;quotes.stocknod.com;attribute;52wk_low;relevantes;482;recuperados;482;relevantes recuperados; 482;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - 52wk_high********************************
+dataset;WEIR;domain;finance;site;quotes.stocknod.com;attribute;52wk_high;relevantes;482;recuperados;482;relevantes recuperados; 482;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

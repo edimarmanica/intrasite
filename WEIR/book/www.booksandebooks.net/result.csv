@@ -1,0 +1,8 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,book,www.booksandebooks.net,author,rule_11.csv,Author:,44,44,44,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.booksandebooks.net,title,rule_23.csv,Powered by,55,55,55,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.booksandebooks.net,publisher,rule_54.csv,Publisher:,54,54,54,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.booksandebooks.net,isbn13,rule_35.csv,EAN:,55,55,55,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.booksandebooks.net,binding,rule_48.csv,Media:,55,55,55,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.booksandebooks.net,date,rule_55.csv,Publication Date:,54,54,54,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.booksandebooks.net,edition,rule_45.csv,Edition:,26,26,26,1.0,1.0,2016-02-18 13:13

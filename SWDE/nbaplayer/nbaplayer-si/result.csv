@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,nbaplayer,nbaplayer-si,height,rule_1139.csv,Height:,515,515,515,1.0,1.0,2016-02-18 11:40
+SWDE,nbaplayer,nbaplayer-si,name,rule_2630.csv,Suns,515,515,515,1.0,1.0,2016-02-18 11:40
+SWDE,nbaplayer,nbaplayer-si,team,rule_1171.csv,NBA,515,515,515,1.0,1.0,2016-02-18 11:40
+SWDE,nbaplayer,nbaplayer-si,weight,rule_1757.csv,Weight:,515,515,515,1.0,1.0,2016-02-18 11:40

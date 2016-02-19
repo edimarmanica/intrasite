@@ -1,0 +1,4 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,soccer,football.uk.reuters.com,position,rule_168.csv,Profile,233,233,233,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,football.uk.reuters.com,birthdate,rule_128.csv,Profile,233,233,233,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,football.uk.reuters.com,club,rule_90.csv,Profile,233,233,233,1.0,1.0,2016-02-18 13:19

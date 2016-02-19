@@ -1,0 +1,81 @@
+
+
+*************2016-02-18 13:19 - position********************************
+dataset;WEIR;domain;soccer;site;www.123football.com;attribute;position;relevantes;522;recuperados;499;relevantes recuperados; 499;recall;0.9559386973180076;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Defender, Midfielder] na página: soccer/www.123football.com/jorg-heinrich.html
+Faltando: [???] na página: soccer/www.123football.com/sven-eriksson.html
+Faltando: [Striker] na página: soccer/www.123football.com/carlos-hermosillo.html
+Faltando: [Forward, Striker] na página: soccer/www.123football.com/eduardo-hurtado.html
+Faltando: [Goalkeeper] na página: soccer/www.123football.com/juan-carlos-henao.html
+Faltando: [Left Back] na página: soccer/www.123football.com/ian-harte.html
+Faltando: [Right Midfielder] na página: soccer/www.123football.com/john-harkes.html
+Faltando: [Central Midfielder, Left Midfielder] na página: soccer/www.123football.com/andreas-herzog.html
+Faltando: [Striker] na página: soccer/www.123football.com/dario-hubner.html
+Faltando: [Striker] na página: soccer/www.123football.com/thierry-henry.html
+Faltando: [Forward] na página: soccer/www.123football.com/dario-husain.html
+Faltando: [Left Midfielder, Striker] na página: soccer/www.123football.com/emile-heskey.html
+Faltando: [Attacking Midfielder] na página: soccer/www.123football.com/giovanni-hernandez.html
+Faltando: [Goalkeeper] na página: soccer/www.123football.com/ruud-hesp.html
+Faltando: [Defender] na página: soccer/www.123football.com/ivan-hurtado.html
+Faltando: [Left Midfielder, Attacking Midfielder] na página: soccer/www.123football.com/gheorghe-hagi.html
+Faltando: [Defensive Midfielder] na página: soccer/www.123football.com/claudio-husain.html
+Faltando: [Midfielder] na página: soccer/www.123football.com/mustapha-hadji.html
+Faltando: [Attacking Midfielder] na página: soccer/www.123football.com/thomas-hassler.html
+Faltando: [Goalkeeper] na página: soccer/www.123football.com/rene-higuita.html
+Faltando: [Striker] na página: soccer/www.123football.com/mark-hughes.html
+Faltando: [Central Defender] na página: soccer/www.123football.com/sami-hyypia.html
+Faltando: [Left Back, Central Defender] na página: soccer/www.123football.com/gabriel-heinze.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - height********************************
+dataset;WEIR;domain;soccer;site;www.123football.com;attribute;height;relevantes;489;recuperados;489;relevantes recuperados; 489;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - weight********************************
+dataset;WEIR;domain;soccer;site;www.123football.com;attribute;weight;relevantes;486;recuperados;486;relevantes recuperados; 486;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - birthdate********************************
+dataset;WEIR;domain;soccer;site;www.123football.com;attribute;birthdate;relevantes;523;recuperados;523;relevantes recuperados; 523;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - national_team********************************
+dataset;WEIR;domain;soccer;site;www.123football.com;attribute;national_team;relevantes;443;recuperados;443;relevantes recuperados; 443;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - birthplace********************************
+dataset;WEIR;domain;soccer;site;www.123football.com;attribute;birthplace;relevantes;510;recuperados;510;relevantes recuperados; 510;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - nationality********************************
+dataset;WEIR;domain;soccer;site;www.123football.com;attribute;nationality;relevantes;505;recuperados;505;relevantes recuperados; 504;recall;0.998019801980198;precision;0.998019801980198;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Lucho] na página: soccer/www.123football.com/luis-gonzalez.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+Faltando: [Argentinian] na página: soccer/www.123football.com/luis-gonzalez.html

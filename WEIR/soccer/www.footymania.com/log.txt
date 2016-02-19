@@ -1,0 +1,220 @@
+
+
+*************2016-02-18 13:19 - position********************************
+dataset;WEIR;domain;soccer;site;www.footymania.com;attribute;position;relevantes;936;recuperados;976;relevantes recuperados; 936;recall;1.0;precision;0.9590163934426229;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5837.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5704.html
+Faltando: [10/8/1973] na página: soccer/www.footymania.com/2162.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5988.html
+Faltando: [2/11/1972] na página: soccer/www.footymania.com/1241.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/3630.html
+Faltando: [12/10/1988] na página: soccer/www.footymania.com/4183.html
+Faltando: [9/11/1973] na página: soccer/www.footymania.com/278.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5816.html
+Faltando: [2/2/1969] na página: soccer/www.footymania.com/836.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5850.html
+Faltando: [18/9/1979] na página: soccer/www.footymania.com/291.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5869.html
+Faltando: [0/0/2000] na página: soccer/www.footymania.com/550.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5942.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5626.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5812.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/6047.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5582.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5950.html
+Faltando: [1/3/1973] na página: soccer/www.footymania.com/336.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5702.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5581.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5681.html
+Faltando: [7/8/1971] na página: soccer/www.footymania.com/339.html
+Faltando: [18/6/1982] na página: soccer/www.footymania.com/528.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5864.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5817.html
+Faltando: [21/6/1979] na página: soccer/www.footymania.com/282.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5656.html
+Faltando: [19/6/1972] na página: soccer/www.footymania.com/1198.html
+Faltando: [26/4/1978] na página: soccer/www.footymania.com/1772.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5663.html
+Faltando: [2/6/1976] na página: soccer/www.footymania.com/337.html
+Faltando: [31/10/1974] na página: soccer/www.footymania.com/568.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5655.html
+Faltando: [0/0/2000] na página: soccer/www.footymania.com/756.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5846.html
+Faltando: [8/10/1980] na página: soccer/www.footymania.com/340.html
+Faltando: [4/1/1986] na página: soccer/www.footymania.com/475.html
+
+
+*************2016-02-18 13:19 - birthdate********************************
+dataset;WEIR;domain;soccer;site;www.footymania.com;attribute;birthdate;relevantes;976;recuperados;971;relevantes recuperados; 936;recall;0.9590163934426229;precision;0.9639546858908342;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5837.html
+Faltando: [10/8/1973] na página: soccer/www.footymania.com/2162.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5704.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5988.html
+Faltando: [2/11/1972] na página: soccer/www.footymania.com/1241.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/3630.html
+Faltando: [12/10/1988] na página: soccer/www.footymania.com/4183.html
+Faltando: [9/11/1973] na página: soccer/www.footymania.com/278.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5816.html
+Faltando: [2/2/1969] na página: soccer/www.footymania.com/836.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5850.html
+Faltando: [18/9/1979] na página: soccer/www.footymania.com/291.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5869.html
+Faltando: [0/0/2000] na página: soccer/www.footymania.com/550.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5942.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5626.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5812.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/6047.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5582.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5950.html
+Faltando: [1/3/1973] na página: soccer/www.footymania.com/336.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5702.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5581.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5681.html
+Faltando: [7/8/1971] na página: soccer/www.footymania.com/339.html
+Faltando: [18/6/1982] na página: soccer/www.footymania.com/528.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5864.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5817.html
+Faltando: [21/6/1979] na página: soccer/www.footymania.com/282.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5656.html
+Faltando: [19/6/1972] na página: soccer/www.footymania.com/1198.html
+Faltando: [26/4/1978] na página: soccer/www.footymania.com/1772.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5663.html
+Faltando: [2/6/1976] na página: soccer/www.footymania.com/337.html
+Faltando: [31/10/1974] na página: soccer/www.footymania.com/568.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5655.html
+Faltando: [0/0/2000] na página: soccer/www.footymania.com/756.html
+Faltando: [0/0/0000] na página: soccer/www.footymania.com/5846.html
+Faltando: [8/10/1980] na página: soccer/www.footymania.com/340.html
+Faltando: [4/1/1986] na página: soccer/www.footymania.com/475.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+Faltando: [Wolverhampton Wanderers] na página: soccer/www.footymania.com/5816.html
+Faltando: [Roda JC Kerkrade] na página: soccer/www.footymania.com/5702.html
+Faltando: [Euro 2004] na página: soccer/www.footymania.com/278.html
+Faltando: [AS Roma] na página: soccer/www.footymania.com/5864.html
+Faltando: [Blackburn Rovers] na página: soccer/www.footymania.com/4183.html
+Faltando: [West Bromwich Albion] na página: soccer/www.footymania.com/5704.html
+Faltando: [Borussia M'gladbach] na página: soccer/www.footymania.com/340.html
+Faltando: [Birmingham City] na página: soccer/www.footymania.com/568.html
+Faltando: [Inter Milan] na página: soccer/www.footymania.com/2162.html
+Faltando: [AC Milan] na página: soccer/www.footymania.com/5663.html
+Faltando: [Northampton Town] na página: soccer/www.footymania.com/3630.html
+Faltando: [Barnet] na página: soccer/www.footymania.com/5869.html
+Faltando: [West Bromwich Albion] na página: soccer/www.footymania.com/5817.html
+Faltando: [Heerenveen] na página: soccer/www.footymania.com/5837.html
+Faltando: [Son of the legendary Argentine, Diego Maradona, Maradona Jr. started out in his father's old club, Napoli.] na página: soccer/www.footymania.com/550.html
+Faltando: [Villarreal] na página: soccer/www.footymania.com/5655.html
+Faltando: [Coventry City] na página: soccer/www.footymania.com/836.html
+Faltando: [Bristol City] na página: soccer/www.footymania.com/5656.html
+Faltando: [Manchester City] na página: soccer/www.footymania.com/5581.html
+Faltando: [Reggina] na página: soccer/www.footymania.com/528.html
+Faltando: [Manchester City] na página: soccer/www.footymania.com/1241.html
+Faltando: [Bradford City] na página: soccer/www.footymania.com/5950.html
+Faltando: [Sporting] na página: soccer/www.footymania.com/5681.html
+Faltando: [AEK Athens FC] na página: soccer/www.footymania.com/282.html
+Faltando: [Hertha Berlin] na página: soccer/www.footymania.com/5846.html
+Faltando: [AZ Alkmaar] na página: soccer/www.footymania.com/5988.html
+Faltando: [Hearts] na página: soccer/www.footymania.com/5812.html
+Faltando: [Wrexham] na página: soccer/www.footymania.com/6047.html
+Faltando: [Athletic Bilbao] na página: soccer/www.footymania.com/291.html
+Faltando: [FC Porto] na página: soccer/www.footymania.com/5626.html
+Faltando: [Hearts] na página: soccer/www.footymania.com/1772.html
+Faltando: [Newcastle United] na página: soccer/www.footymania.com/475.html
+Faltando: [Macclesfield Town] na página: soccer/www.footymania.com/5582.html
+Faltando: [Huddersfield] na página: soccer/www.footymania.com/5942.html
+Faltando: [Fulham FC] na página: soccer/www.footymania.com/1198.html
+
+
+*************2016-02-18 13:19 - national_team********************************
+dataset;WEIR;domain;soccer;site;www.footymania.com;attribute;national_team;relevantes;976;recuperados;976;relevantes recuperados; 976;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - club********************************
+dataset;WEIR;domain;soccer;site;www.footymania.com;attribute;club;relevantes;816;recuperados;815;relevantes recuperados; 783;recall;0.9595588235294118;precision;0.9607361963190184;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Wolverhampton Wanderers] na página: soccer/www.footymania.com/5816.html
+Faltando: [Roda JC Kerkrade] na página: soccer/www.footymania.com/5702.html
+Faltando: [AS Roma] na página: soccer/www.footymania.com/5864.html
+Faltando: [Blackburn Rovers] na página: soccer/www.footymania.com/4183.html
+Faltando: [West Bromwich Albion] na página: soccer/www.footymania.com/5704.html
+Faltando: [Borussia M'gladbach] na página: soccer/www.footymania.com/340.html
+Faltando: [Birmingham City] na página: soccer/www.footymania.com/568.html
+Faltando: [Inter Milan] na página: soccer/www.footymania.com/2162.html
+Faltando: [AC Milan] na página: soccer/www.footymania.com/5663.html
+Faltando: [Northampton Town] na página: soccer/www.footymania.com/3630.html
+Faltando: [Barnet] na página: soccer/www.footymania.com/5869.html
+Faltando: [West Bromwich Albion] na página: soccer/www.footymania.com/5817.html
+Faltando: [Heerenveen] na página: soccer/www.footymania.com/5837.html
+Faltando: [Villarreal] na página: soccer/www.footymania.com/5655.html
+Faltando: [Coventry City] na página: soccer/www.footymania.com/836.html
+Faltando: [Bristol City] na página: soccer/www.footymania.com/5656.html
+Faltando: [Manchester City] na página: soccer/www.footymania.com/5581.html
+Faltando: [Reggina] na página: soccer/www.footymania.com/528.html
+Faltando: [Manchester City] na página: soccer/www.footymania.com/1241.html
+Faltando: [Bradford City] na página: soccer/www.footymania.com/5950.html
+Faltando: [Sporting] na página: soccer/www.footymania.com/5681.html
+Faltando: [AEK Athens FC] na página: soccer/www.footymania.com/282.html
+Faltando: [Hertha Berlin] na página: soccer/www.footymania.com/5846.html
+Faltando: [AZ Alkmaar] na página: soccer/www.footymania.com/5988.html
+Faltando: [Hearts] na página: soccer/www.footymania.com/5812.html
+Faltando: [Wrexham] na página: soccer/www.footymania.com/6047.html
+Faltando: [Athletic Bilbao] na página: soccer/www.footymania.com/291.html
+Faltando: [FC Porto] na página: soccer/www.footymania.com/5626.html
+Faltando: [Hearts] na página: soccer/www.footymania.com/1772.html
+Faltando: [Newcastle United] na página: soccer/www.footymania.com/475.html
+Faltando: [Macclesfield Town] na página: soccer/www.footymania.com/5582.html
+Faltando: [Huddersfield] na página: soccer/www.footymania.com/5942.html
+Faltando: [Fulham FC] na página: soccer/www.footymania.com/1198.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+Faltando: [Quick paced and all rounded midfielder made it to the Premiership but didn't last with the Southampton squad leaving eventually.] na página: soccer/www.footymania.com/260.html
+Faltando: [At the end of the 2004-05 season, Hierro announced his retirement from football.] na página: soccer/www.footymania.com/786.html
+Faltando: [Third choice goalkeeper for Latvia for the Euro 2004. He made his debut for his country in 2001 vs. Leichestein as a substitute.] na página: soccer/www.footymania.com/254.html
+Faltando: [Metropolitano Championship Top Scorer, with Argentinos Juniors. 22 goals scored.] na página: soccer/www.footymania.com/4.html
+Faltando: [Marco van Basten was possibly the best striker of his generation if not of all time. He played for Ajax Amsterdam and A.C. Milan in the 1980s.] na página: soccer/www.footymania.com/845.html
+Faltando: [Instead of joining Dunfermline, he joins Genoa, a Serie B club.] na página: soccer/www.footymania.com/550.html
+Faltando: [Portuguese Primera Liga] na página: soccer/www.footymania.com/466.html
+Faltando: [In a Paris tournament, he had a hat-trick Santos. This Santos team had the legendary Pele at the time.] na página: soccer/www.footymania.com/285.html
+Faltando: [Agile and experienced goalkeeper. Has not represented his country many times though.] na página: soccer/www.footymania.com/267.html
+Faltando: [Previously a midfielder, but now plays a solid defender role on any of the sides and center.] na página: soccer/www.footymania.com/256.html
+Faltando: [Known for his tremendous force, Jerrel (Jimmy) Floyd Hasselbaink has a knack for scoring goals by whim.] na página: soccer/www.footymania.com/23.html
+Faltando: [FIFA World Cup] na página: soccer/www.footymania.com/459.html
+Faltando: [After returning to his homeland, Baric then went on to win back-to-back titles with NK Dinamo Zagreb.] na página: soccer/www.footymania.com/461.html
+Faltando: [Injury put de Boer out for the first season at Glasgow, but the second season he was one of their prized assets to help the club win more trophies.] na página: soccer/www.footymania.com/145.html
+Faltando: [English FA Cup] na página: soccer/www.footymania.com/1241.html
+Faltando: [French Young Player of the Year] na página: soccer/www.footymania.com/30.html
+Faltando: [European Under-21 Championship for France] na página: soccer/www.footymania.com/1046.html
+Faltando: [He has since moved on from Arsenal, to Barcelona, but has not found the rhythm he had with Arsene Wenger's team.] na página: soccer/www.footymania.com/132.html
+Faltando: [He played for Italy in the 1934 and 1938 World Cups, both of which Italy won.] na página: soccer/www.footymania.com/953.html
+Faltando: [Chris Corcoran was drafted to the Metrostars in 2005.] na página: soccer/www.footymania.com/1951.html
+Faltando: [Euro 2004] na página: soccer/www.footymania.com/282.html
+Faltando: [After 3 years at Ajax, Rosales joins Argentine club, River Plate for £1.2 million] na página: soccer/www.footymania.com/984.html
+Faltando: [At Euro 96 Bergkamp disappointed along with the entire Dutch team.] na página: soccer/www.footymania.com/6.html
+Faltando: [Bad knees and injuries led to Beri not pursuing his career.] na página: soccer/www.footymania.com/1268.html
+Faltando: [English Premier League] na página: soccer/www.footymania.com/305.html
+Faltando: [He joined Bolton Wanderers to help them stay out of relegation, which he effectively did.] na página: soccer/www.footymania.com/1331.html
+Faltando: [In August 2004, Luis Enrique has called it quits from international and club football.] na página: soccer/www.footymania.com/46.html
+Faltando: [He came back however, and became a regular starter, but opted to move from Barcelona to Galatasaray in Turkey for a two year contract.] na página: soccer/www.footymania.com/127.html
+Faltando: [Serie A] na página: soccer/www.footymania.com/767.html
+Faltando: [Sven, like so many managers didnt have a very distinguished playing career, playing only for KB Karlskoga in his native Sweden up until 1975.] na página: soccer/www.footymania.com/298.html
+Faltando: [Serie A] na página: soccer/www.footymania.com/409.html
+Faltando: [Young and raw talent for the Latvian squad before being named for the Euro 2004 squad. He still has time to prove himself.] na página: soccer/www.footymania.com/266.html
+
+
+*************2016-02-18 13:19 - birthplace********************************
+dataset;WEIR;domain;soccer;site;www.footymania.com;attribute;birthplace;relevantes;976;recuperados;976;relevantes recuperados; 976;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

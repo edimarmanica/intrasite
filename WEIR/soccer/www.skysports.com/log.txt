@@ -1,0 +1,42 @@
+
+
+*************2016-02-18 13:19 - position********************************
+dataset;WEIR;domain;soccer;site;www.skysports.com;attribute;position;relevantes;388;recuperados;388;relevantes recuperados; 388;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - height********************************
+dataset;WEIR;domain;soccer;site;www.skysports.com;attribute;height;relevantes;360;recuperados;360;relevantes recuperados; 360;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - birthdate********************************
+dataset;WEIR;domain;soccer;site;www.skysports.com;attribute;birthdate;relevantes;367;recuperados;367;relevantes recuperados; 367;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - national_team********************************
+dataset;WEIR;domain;soccer;site;www.skysports.com;attribute;national_team;relevantes;381;recuperados;379;relevantes recuperados; 379;recall;0.994750656167979;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Wales] na página: soccer/www.skysports.com/144695.html
+Faltando: [Scotland] na página: soccer/www.skysports.com/6757.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - birthplace********************************
+dataset;WEIR;domain;soccer;site;www.skysports.com;attribute;birthplace;relevantes;366;recuperados;366;relevantes recuperados; 366;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

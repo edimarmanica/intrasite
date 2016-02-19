@@ -1,0 +1,7 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,book,bookshop.blackwell.co.uk,author,rule_175.csv,Write a review,166,166,166,1.0,1.0,2016-02-18 13:13
+WEIR,book,bookshop.blackwell.co.uk,title,rule_120.csv,Write a review,184,166,166,0.9021739130434783,1.0,2016-02-18 13:13
+WEIR,book,bookshop.blackwell.co.uk,isbn13,rule_152.csv,What's this?,184,184,184,1.0,1.0,2016-02-18 13:13
+WEIR,book,bookshop.blackwell.co.uk,binding,rule_76.csv,Format,182,181,181,0.9945054945054945,1.0,2016-02-18 13:13
+WEIR,book,bookshop.blackwell.co.uk,date,rule_55.csv,Publication date,184,184,184,1.0,1.0,2016-02-18 13:13
+WEIR,book,bookshop.blackwell.co.uk,edition,rule_84.csv,Edition:,132,131,131,0.9924242424242424,1.0,2016-02-18 13:13

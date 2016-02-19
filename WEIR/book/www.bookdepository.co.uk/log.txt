@@ -1,0 +1,54 @@
+
+
+*************2016-02-18 13:13 - author********************************
+dataset;WEIR;domain;book;site;www.bookdepository.co.uk;attribute;author;relevantes;169;recuperados;163;relevantes recuperados; 163;recall;0.9644970414201184;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [John O'Byrne] na página: book/www.bookdepository.co.uk/0002201285.html
+Faltando: [Jane Churchill] na página: book/www.bookdepository.co.uk/0004140490.html
+Faltando: [Daphne Metland] na página: book/www.bookdepository.co.uk/0004140537.html
+Faltando: [Peter Gill] na página: book/www.bookdepository.co.uk/0002201056.html
+Faltando: [Richard Whitaker] na página: book/www.bookdepository.co.uk/0002200646.html
+Faltando: [Dwight Holing] na página: book/www.bookdepository.co.uk/0002201087.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - title********************************
+dataset;WEIR;domain;book;site;www.bookdepository.co.uk;attribute;title;relevantes;187;recuperados;187;relevantes recuperados; 187;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - publisher********************************
+dataset;WEIR;domain;book;site;www.bookdepository.co.uk;attribute;publisher;relevantes;187;recuperados;187;relevantes recuperados; 187;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - isbn13********************************
+dataset;WEIR;domain;book;site;www.bookdepository.co.uk;attribute;isbn13;relevantes;187;recuperados;187;relevantes recuperados; 187;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - binding********************************
+dataset;WEIR;domain;book;site;www.bookdepository.co.uk;attribute;binding;relevantes;187;recuperados;187;relevantes recuperados; 187;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - date********************************
+dataset;WEIR;domain;book;site;www.bookdepository.co.uk;attribute;date;relevantes;187;recuperados;187;relevantes recuperados; 187;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

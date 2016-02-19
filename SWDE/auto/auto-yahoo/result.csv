@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,auto,auto-yahoo,model,rule_199.csv,New Cars,2000,2000,2000,1.0,1.0,2016-02-18 12:48
+SWDE,auto,auto-yahoo,price,rule_70.csv,MSRP,2000,2000,2000,1.0,1.0,2016-02-18 12:48
+SWDE,auto,auto-yahoo,engine,rule_129.csv,Green Rating,2000,2000,2000,1.0,1.0,2016-02-18 12:48
+SWDE,auto,auto-yahoo,fuel_economy,rule_228.csv,Green Rating,2000,2000,2000,1.0,1.0,2016-02-18 12:48

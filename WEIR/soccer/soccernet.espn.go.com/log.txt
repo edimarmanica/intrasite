@@ -1,0 +1,575 @@
+
+
+*************2016-02-18 13:19 - shirt********************************
+dataset;WEIR;domain;soccer;site;soccernet.espn.go.com;attribute;shirt;relevantes;438;recuperados;438;relevantes recuperados; 438;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - position********************************
+dataset;WEIR;domain;soccer;site;soccernet.espn.go.com;attribute;position;relevantes;527;recuperados;527;relevantes recuperados; 527;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - height********************************
+dataset;WEIR;domain;soccer;site;soccernet.espn.go.com;attribute;height;relevantes;430;recuperados;430;relevantes recuperados; 430;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - weight********************************
+dataset;WEIR;domain;soccer;site;soccernet.espn.go.com;attribute;weight;relevantes;426;recuperados;426;relevantes recuperados; 426;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - birthdate********************************
+dataset;WEIR;domain;soccer;site;soccernet.espn.go.com;attribute;birthdate;relevantes;445;recuperados;445;relevantes recuperados; 445;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - national_team********************************
+dataset;WEIR;domain;soccer;site;soccernet.espn.go.com;attribute;national_team;relevantes;527;recuperados;0;relevantes recuperados; 0;recall;0.0;precision;0.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [England] na página: soccer/soccernet.espn.go.com/5159.html
+Faltando: [Croatia] na página: soccer/soccernet.espn.go.com/27021.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/100755.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/11808.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/101495.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21725.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/11880.html
+Faltando: [Tunisia] na página: soccer/soccernet.espn.go.com/19162.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/100539.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/82080.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/73625.html
+Faltando: [Sweden] na página: soccer/soccernet.espn.go.com/8063.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/2679.html
+Faltando: [Sweden] na página: soccer/soccernet.espn.go.com/10848.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/115650.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/88360.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/11829.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/10732.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/3070.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/101590.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/3742.html
+Faltando: [Denmark] na página: soccer/soccernet.espn.go.com/9368.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/11949.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/20131.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/90992.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/24238.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/21534.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/102639.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/81776.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/102641.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/90718.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/8054.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/67193.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/21654.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/82066.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/10481.html
+Faltando: [Poland] na página: soccer/soccernet.espn.go.com/22764.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/102608.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21173.html
+Faltando: [Denmark] na página: soccer/soccernet.espn.go.com/8067.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/3669.html
+Faltando: [Sweden] na página: soccer/soccernet.espn.go.com/20765.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/8039.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/11839.html
+Faltando: [Ireland] na página: soccer/soccernet.espn.go.com/20263.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/21542.html
+Faltando: [Ireland] na página: soccer/soccernet.espn.go.com/20284.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/20318.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/21305.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/2629.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/77142.html
+Faltando: [Poland] na página: soccer/soccernet.espn.go.com/19225.html
+Faltando: [Slovenia] na página: soccer/soccernet.espn.go.com/7628.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/21931.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/79791.html
+Faltando: [Poland] na página: soccer/soccernet.espn.go.com/93195.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21158.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/11816.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/12339.html
+Faltando: [Nigeria] na página: soccer/soccernet.espn.go.com/81964.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/102646.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/81855.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/81949.html
+Faltando: [Uruguay] na página: soccer/soccernet.espn.go.com/20629.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/91451.html
+Faltando: [Croatia] na página: soccer/soccernet.espn.go.com/21018.html
+Faltando: [Russia] na página: soccer/soccernet.espn.go.com/23719.html
+Faltando: [Sweden] na página: soccer/soccernet.espn.go.com/42772.html
+Faltando: [Uruguay] na página: soccer/soccernet.espn.go.com/2969.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/20683.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/21148.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/2918.html
+Faltando: [Cameroon] na página: soccer/soccernet.espn.go.com/20156.html
+Faltando: [Senegal] na página: soccer/soccernet.espn.go.com/20791.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/101559.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/21046.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/76840.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/21835.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21163.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/12236.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/46858.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/81990.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/82016.html
+Faltando: [South Africa] na página: soccer/soccernet.espn.go.com/20659.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/38880.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/26686.html
+Faltando: [Tunisia] na página: soccer/soccernet.espn.go.com/26007.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/10575.html
+Faltando: [Uruguay] na página: soccer/soccernet.espn.go.com/20633.html
+Faltando: [Tunisia] na página: soccer/soccernet.espn.go.com/10533.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/20244.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/2635.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/85695.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/3044.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/39745.html
+Faltando: [Poland] na página: soccer/soccernet.espn.go.com/86354.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/21363.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/20127.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/76928.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/20286.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/71154.html
+Faltando: [Ireland] na página: soccer/soccernet.espn.go.com/20272.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/79628.html
+Faltando: [Denmark] na página: soccer/soccernet.espn.go.com/20225.html
+Faltando: [Ireland] na página: soccer/soccernet.espn.go.com/81826.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/2912.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/5112.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/27015.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/14586.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/100774.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/73431.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/7956.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/82453.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/20285.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/12907.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/21516.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/43013.html
+Faltando: [Belgium] na página: soccer/soccernet.espn.go.com/81818.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/115900.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21170.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/76883.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/101608.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/82051.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/20968.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/82049.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/21128.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/30953.html
+Faltando: [Sweden] na página: soccer/soccernet.espn.go.com/22965.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/40914.html
+Faltando: [Croatia] na página: soccer/soccernet.espn.go.com/8999.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/73640.html
+Faltando: [Denmark] na página: soccer/soccernet.espn.go.com/9546.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/28609.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/46569.html
+Faltando: [Sweden] na página: soccer/soccernet.espn.go.com/9506.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/50959.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/68659.html
+Faltando: [Uruguay] na página: soccer/soccernet.espn.go.com/2942.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/12338.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/20243.html
+Faltando: [Sweden] na página: soccer/soccernet.espn.go.com/37563.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/100781.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/101496.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/21157.html
+Faltando: [Ireland] na página: soccer/soccernet.espn.go.com/81827.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/30124.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/68809.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/82044.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/3269.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/101009.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/81588.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/22774.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/66245.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/7777.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/34224.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/96167.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/12630.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/79481.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/21544.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/8876.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/100543.html
+Faltando: [Uruguay] na página: soccer/soccernet.espn.go.com/2959.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/20712.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/102614.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/38643.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/46568.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/81933.html
+Faltando: [Ireland] na página: soccer/soccernet.espn.go.com/82022.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/3036.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/101492.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/82050.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/76924.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/10038.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/28600.html
+Faltando: [South Africa] na página: soccer/soccernet.espn.go.com/20643.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/101504.html
+Faltando: [Poland] na página: soccer/soccernet.espn.go.com/84094.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/16393.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/2638.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/45843.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/10351.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/10027.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/46576.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/3337.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/21307.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/77433.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/12043.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/8046.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/101621.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/2663.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/101017.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/81919.html
+Faltando: [Sweden] na página: soccer/soccernet.espn.go.com/9512.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/81988.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/82068.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/100779.html
+Faltando: [Croatia] na página: soccer/soccernet.espn.go.com/34011.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/11011.html
+Faltando: [Tunisia] na página: soccer/soccernet.espn.go.com/113936.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/68035.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/100542.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/65629.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/19125.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/102617.html
+Faltando: [Russia] na página: soccer/soccernet.espn.go.com/20748.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/81468.html
+Faltando: [Belgium] na página: soccer/soccernet.espn.go.com/11124.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/43955.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/32688.html
+Faltando: [Poland] na página: soccer/soccernet.espn.go.com/87372.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/2850.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/101585.html
+Faltando: [Turkey] na página: soccer/soccernet.espn.go.com/20367.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/79600.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/21364.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/10624.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/3729.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/2658.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/65465.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/79438.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/3071.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/66247.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/66875.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/100790.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/20189.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/81942.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/20334.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/82070.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/100777.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/10955.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/9828.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/78705.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/72501.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/12693.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/101610.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/11883.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/34209.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/3048.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/5388.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/2884.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/8941.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/101591.html
+Faltando: [Poland] na página: soccer/soccernet.espn.go.com/20314.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21177.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/91206.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/91297.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/3061.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21308.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/100782.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/19286.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/16389.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/20136.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/2726.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/2765.html
+Faltando: [Ireland] na página: soccer/soccernet.espn.go.com/81993.html
+Faltando: [Poland] na página: soccer/soccernet.espn.go.com/45110.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/92557.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/45946.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/21301.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/22438.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/19082.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/101644.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/102612.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/81936.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/15868.html
+Faltando: [Nigeria] na página: soccer/soccernet.espn.go.com/81965.html
+Faltando: [Nigeria] na página: soccer/soccernet.espn.go.com/81967.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/20719.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/21129.html
+Faltando: [Ireland] na página: soccer/soccernet.espn.go.com/82023.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/20686.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/19112.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/96521.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/21702.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/101558.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/21154.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/20324.html
+Faltando: [South Africa] na página: soccer/soccernet.espn.go.com/20645.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/14104.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/100933.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/20628.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/2660.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/66240.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/20123.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/18581.html
+Faltando: [Croatia] na página: soccer/soccernet.espn.go.com/12652.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/2881.html
+Faltando: [Sweden] na página: soccer/soccernet.espn.go.com/25603.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/33582.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/11649.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21159.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/96984.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/43092.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/15132.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/73418.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/10293.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/66695.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/115522.html
+Faltando: [Poland] na página: soccer/soccernet.espn.go.com/100957.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21161.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/20122.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/10362.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/11066.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/39744.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/44424.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/79829.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21176.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/43022.html
+Faltando: [Poland] na página: soccer/soccernet.espn.go.com/67640.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/20142.html
+Faltando: [Ireland] na página: soccer/soccernet.espn.go.com/81994.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/82048.html
+Faltando: [Belgium] na página: soccer/soccernet.espn.go.com/82064.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/76749.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/43007.html
+Faltando: [Sweden] na página: soccer/soccernet.espn.go.com/4266.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/3054.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/76891.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21171.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/19909.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/20718.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/20128.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/19297.html
+Faltando: [Belgium] na página: soccer/soccernet.espn.go.com/81790.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/10869.html
+Faltando: [Uruguay] na página: soccer/soccernet.espn.go.com/2975.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/82047.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/12643.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/20252.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/2673.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/43001.html
+Faltando: [Senegal] na página: soccer/soccernet.espn.go.com/20780.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/5030.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21175.html
+Faltando: [Sweden] na página: soccer/soccernet.espn.go.com/19241.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/20720.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/2867.html
+Faltando: [Belgium] na página: soccer/soccernet.espn.go.com/19207.html
+Faltando: [Slovenia] na página: soccer/soccernet.espn.go.com/8127.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/8956.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/21656.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/68658.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/101613.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/2674.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/36438.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/43531.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/21374.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/9282.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/3069.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/8185.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/101616.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/35912.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/12641.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/115888.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/21131.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/111265.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/3114.html
+Faltando: [Croatia] na página: soccer/soccernet.espn.go.com/76762.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/40887.html
+Faltando: [Croatia] na página: soccer/soccernet.espn.go.com/38178.html
+Faltando: [Sweden] na página: soccer/soccernet.espn.go.com/95400.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/19282.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/12107.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/81698.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/112875.html
+Faltando: [Poland] na página: soccer/soccernet.espn.go.com/14781.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/66244.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/20115.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/20296.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/11913.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/14267.html
+Faltando: [Tunisia] na página: soccer/soccernet.espn.go.com/10500.html
+Faltando: [Croatia] na página: soccer/soccernet.espn.go.com/69562.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/24424.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/20747.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/16560.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/29027.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/12947.html
+Faltando: [Belgium] na página: soccer/soccernet.espn.go.com/81793.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/20740.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/72490.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/101612.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/35997.html
+Faltando: [Senegal] na página: soccer/soccernet.espn.go.com/20790.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/81800.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/42607.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/74669.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/8866.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/115903.html
+Faltando: [Sweden] na página: soccer/soccernet.espn.go.com/8198.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/19137.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/49866.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/72585.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/3110.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/11898.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/19667.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/21518.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/2626.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/20937.html
+Faltando: [Ireland] na página: soccer/soccernet.espn.go.com/20283.html
+Faltando: [Croatia] na página: soccer/soccernet.espn.go.com/83303.html
+Faltando: [Sweden] na página: soccer/soccernet.espn.go.com/20353.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/7935.html
+Faltando: [Poland] na página: soccer/soccernet.espn.go.com/19063.html
+Faltando: [Turkey] na página: soccer/soccernet.espn.go.com/20380.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/83060.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/21145.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/76925.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/2734.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/79583.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/97157.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/2678.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/16558.html
+Faltando: [South Africa] na página: soccer/soccernet.espn.go.com/20662.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/101578.html
+Faltando: [Slovenia] na página: soccer/soccernet.espn.go.com/20804.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/101583.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/2639.html
+Faltando: [Denmark] na página: soccer/soccernet.espn.go.com/9540.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/23602.html
+Faltando: [Belgium] na página: soccer/soccernet.espn.go.com/19210.html
+Faltando: [Ireland] na página: soccer/soccernet.espn.go.com/20264.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/79535.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/19135.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/100784.html
+Faltando: [Poland] na página: soccer/soccernet.espn.go.com/15222.html
+Faltando: [Tunisia] na página: soccer/soccernet.espn.go.com/79837.html
+Faltando: [Cameroon] na página: soccer/soccernet.espn.go.com/20162.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/3045.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/67716.html
+Faltando: [Cameroon] na página: soccer/soccernet.espn.go.com/19146.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/8056.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/20715.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/7610.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/90636.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/115518.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/42999.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/7858.html
+Faltando: [Denmark] na página: soccer/soccernet.espn.go.com/11070.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/81921.html
+Faltando: [Senegal] na página: soccer/soccernet.espn.go.com/20788.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/100786.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21165.html
+Faltando: [Ireland] na página: soccer/soccernet.espn.go.com/81995.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/81920.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/90674.html
+Faltando: [Senegal] na página: soccer/soccernet.espn.go.com/20778.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/3037.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/65539.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/82046.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/12638.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/50961.html
+Faltando: [Portugal] na página: soccer/soccernet.espn.go.com/14694.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/11004.html
+Faltando: [Poland] na página: soccer/soccernet.espn.go.com/97890.html
+Faltando: [Poland] na página: soccer/soccernet.espn.go.com/84097.html
+Faltando: [Argentina] na página: soccer/soccernet.espn.go.com/19084.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/6780.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/21633.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/18687.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/82069.html
+Faltando: [Mexico] na página: soccer/soccernet.espn.go.com/111870.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/41579.html
+Faltando: [Ireland] na página: soccer/soccernet.espn.go.com/81996.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/8851.html
+Faltando: [Sweden] na página: soccer/soccernet.espn.go.com/19239.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/19115.html
+Faltando: [Nigeria] na página: soccer/soccernet.espn.go.com/20176.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/82045.html
+Faltando: [Ireland] na página: soccer/soccernet.espn.go.com/20268.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/16368.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/7814.html
+Faltando: [Japan] na página: soccer/soccernet.espn.go.com/102525.html
+Faltando: [Russia] na página: soccer/soccernet.espn.go.com/12410.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/7976.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/15299.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/21540.html
+Faltando: [England] na página: soccer/soccernet.espn.go.com/19290.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/72477.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/82076.html
+Faltando: [Uruguay] na página: soccer/soccernet.espn.go.com/3139.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/32697.html
+Faltando: [Belgium] na página: soccer/soccernet.espn.go.com/82030.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/101577.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/32689.html
+Faltando: [Tunisia] na página: soccer/soccernet.espn.go.com/41390.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/13752.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/14282.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/14363.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/79445.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/11828.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/21635.html
+Faltando: [Croatia] na página: soccer/soccernet.espn.go.com/12701.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/21694.html
+Faltando: [Belgium] na página: soccer/soccernet.espn.go.com/9711.html
+Faltando: [Nigeria] na página: soccer/soccernet.espn.go.com/21640.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21166.html
+Faltando: [United States] na página: soccer/soccernet.espn.go.com/101646.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/100544.html
+Faltando: [France] na página: soccer/soccernet.espn.go.com/12719.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/76838.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/76852.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/3063.html
+Faltando: [Paraguay] na página: soccer/soccernet.espn.go.com/92338.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/82065.html
+Faltando: [Costa Rica] na página: soccer/soccernet.espn.go.com/72402.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21178.html
+Faltando: [Spain] na página: soccer/soccernet.espn.go.com/19295.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/81939.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/82017.html
+Faltando: [South Africa] na página: soccer/soccernet.espn.go.com/21535.html
+Faltando: [South Korea] na página: soccer/soccernet.espn.go.com/81941.html
+Faltando: [Italy] na página: soccer/soccernet.espn.go.com/24228.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/96179.html
+Faltando: [Turkey] na página: soccer/soccernet.espn.go.com/20366.html
+Faltando: [Saudi Arabia] na página: soccer/soccernet.espn.go.com/79626.html
+Faltando: [Brazil] na página: soccer/soccernet.espn.go.com/47265.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/81943.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/65633.html
+Faltando: [Ecuador] na página: soccer/soccernet.espn.go.com/2864.html
+Faltando: [Turkey] na página: soccer/soccernet.espn.go.com/20373.html
+Faltando: [Russia] na página: soccer/soccernet.espn.go.com/10260.html
+Faltando: [Tunisia] na página: soccer/soccernet.espn.go.com/41387.html
+Faltando: [China] na página: soccer/soccernet.espn.go.com/21164.html
+Faltando: [Belgium] na página: soccer/soccernet.espn.go.com/82063.html
+Faltando: [Ireland] na página: soccer/soccernet.espn.go.com/81992.html
+Faltando: [Germany] na página: soccer/soccernet.espn.go.com/81778.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

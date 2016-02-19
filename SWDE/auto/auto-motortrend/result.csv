@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,auto,auto-motortrend,model,rule_43.csv,Price:,1267,1267,1267,1.0,1.0,2016-02-18 12:44
+SWDE,auto,auto-motortrend,price,rule_17.csv,Price:,1267,1267,1267,1.0,1.0,2016-02-18 12:44
+SWDE,auto,auto-motortrend,engine,rule_12.csv,Multi-point fuel injection,1267,532,532,0.4198895027624309,1.0,2016-02-18 12:44
+SWDE,auto,auto-motortrend,fuel_economy,rule_16.csv,MPG:,1267,1267,1267,1.0,1.0,2016-02-18 12:44

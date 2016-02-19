@@ -1,0 +1,43 @@
+
+
+*************2016-02-18 13:14 - value********************************
+dataset;WEIR;domain;finance;site;quotes.nasdaq.com;attribute;value;relevantes;451;recuperados;451;relevantes recuperados; 451;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - open********************************
+dataset;WEIR;domain;finance;site;quotes.nasdaq.com;attribute;open;relevantes;114;recuperados;111;relevantes recuperados; 111;recall;0.9736842105263158;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [$ 13.69] na página: finance/quotes.nasdaq.com/cmcsk.html
+Faltando: [$ 84.87] na página: finance/quotes.nasdaq.com/rimm.html
+Faltando: [$ 15.29] na página: finance/quotes.nasdaq.com/vrts.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - high********************************
+dataset;WEIR;domain;finance;site;quotes.nasdaq.com;attribute;high;relevantes;451;recuperados;451;relevantes recuperados; 451;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - low********************************
+dataset;WEIR;domain;finance;site;quotes.nasdaq.com;attribute;low;relevantes;451;recuperados;451;relevantes recuperados; 451;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - volume********************************
+dataset;WEIR;domain;finance;site;quotes.nasdaq.com;attribute;volume;relevantes;451;recuperados;451;relevantes recuperados; 451;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

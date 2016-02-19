@@ -1,0 +1,4 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,videogame,videogames.yahoo.com,publisher,rule_40.csv,Publisher:,774,774,774,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,videogames.yahoo.com,developer,rule_67.csv,Developer:,869,869,869,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,videogames.yahoo.com,esrb,rule_41.csv,ESRB rating:,842,842,842,1.0,1.0,2016-02-18 13:21

@@ -1,0 +1,7 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,soccer,uk.eurosport.yahoo.com,position,rule_340.csv,Height:,550,537,461,0.8381818181818181,0.8584729981378026,2016-02-18 13:19
+WEIR,soccer,uk.eurosport.yahoo.com,height,rule_364.csv,Nationality:,537,537,537,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,uk.eurosport.yahoo.com,weight,rule_105.csv,Height:,537,537,537,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,uk.eurosport.yahoo.com,birthdate,rule_255.csv,Weight:,550,420,416,0.7563636363636363,0.9904761904761905,2016-02-18 13:19
+WEIR,soccer,uk.eurosport.yahoo.com,national_team,rule_41.csv,Height:,425,537,416,0.9788235294117648,0.7746741154562383,2016-02-18 13:19
+WEIR,soccer,uk.eurosport.yahoo.com,club,rule_168.csv,Weight:,320,314,314,0.98125,1.0,2016-02-18 13:19

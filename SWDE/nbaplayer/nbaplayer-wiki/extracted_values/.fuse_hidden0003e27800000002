@@ -1,0 +1,4 @@
+for i in grep 'Anthony Randolph' * -l
+do
+    wc -l $i
+done

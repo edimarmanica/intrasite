@@ -1,0 +1,10 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,finance,quote.barchart.com,value,rule_220.csv,06/12/09,451,447,447,0.991130820399113,1.0,2016-02-18 13:14
+WEIR,finance,quote.barchart.com,var_per,rule_8.csv,06/12/09,451,447,447,0.991130820399113,1.0,2016-02-18 13:14
+WEIR,finance,quote.barchart.com,var_value,rule_132.csv,06/12/09,451,447,447,0.991130820399113,1.0,2016-02-18 13:14
+WEIR,finance,quote.barchart.com,open,rule_70.csv,06/12/09,451,447,447,0.991130820399113,1.0,2016-02-18 13:14
+WEIR,finance,quote.barchart.com,high,rule_3.csv,06/12/09,451,447,447,0.991130820399113,1.0,2016-02-18 13:14
+WEIR,finance,quote.barchart.com,low,rule_64.csv,06/12/09,451,447,447,0.991130820399113,1.0,2016-02-18 13:14
+WEIR,finance,quote.barchart.com,volume,rule_145.csv,06/12/09,451,447,447,0.991130820399113,1.0,2016-02-18 13:14
+WEIR,finance,quote.barchart.com,52wk_low,rule_28.csv,since 01/02/09,451,449,449,0.9955654101995566,1.0,2016-02-18 13:14
+WEIR,finance,quote.barchart.com,52wk_high,rule_33.csv,since 01/02/09,439,437,437,0.9954441913439636,1.0,2016-02-18 13:14

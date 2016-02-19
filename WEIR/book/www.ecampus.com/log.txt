@@ -1,0 +1,56 @@
+
+
+*************2016-02-18 13:13 - author********************************
+dataset;WEIR;domain;book;site;www.ecampus.com;attribute;author;relevantes;66;recuperados;66;relevantes recuperados; 66;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - title********************************
+dataset;WEIR;domain;book;site;www.ecampus.com;attribute;title;relevantes;84;recuperados;84;relevantes recuperados; 84;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - publisher********************************
+dataset;WEIR;domain;book;site;www.ecampus.com;attribute;publisher;relevantes;84;recuperados;84;relevantes recuperados; 84;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - isbn13********************************
+dataset;WEIR;domain;book;site;www.ecampus.com;attribute;isbn13;relevantes;84;recuperados;84;relevantes recuperados; 84;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - binding********************************
+dataset;WEIR;domain;book;site;www.ecampus.com;attribute;binding;relevantes;84;recuperados;84;relevantes recuperados; 84;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - date********************************
+dataset;WEIR;domain;book;site;www.ecampus.com;attribute;date;relevantes;84;recuperados;84;relevantes recuperados; 84;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - edition********************************
+dataset;WEIR;domain;book;site;www.ecampus.com;attribute;edition;relevantes;27;recuperados;27;relevantes recuperados; 27;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

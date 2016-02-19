@@ -1,0 +1,24 @@
+
+
+*************2016-02-18 13:13 - author********************************
+dataset;WEIR;domain;book;site;www.goodreads.com;attribute;author;relevantes;140;recuperados;140;relevantes recuperados; 140;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - title********************************
+dataset;WEIR;domain;book;site;www.goodreads.com;attribute;title;relevantes;140;recuperados;140;relevantes recuperados; 140;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - isbn13********************************
+dataset;WEIR;domain;book;site;www.goodreads.com;attribute;isbn13;relevantes;140;recuperados;140;relevantes recuperados; 140;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

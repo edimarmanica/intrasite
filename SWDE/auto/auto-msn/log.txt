@@ -1,0 +1,91 @@
+
+
+*************2016-02-18 12:47 - model********************************
+dataset;SWDE;domain;auto;site;auto-msn;attribute;model;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-18 12:47
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 12:48 - price********************************
+dataset;SWDE;domain;auto;site;auto-msn;attribute;price;relevantes;2000;recuperados;1941;relevantes recuperados; 1941;recall;0.9705;precision;1.0;date;2016-02-18 12:48
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_35665] na página: 1320
+Faltando: [1_@_32485] na página: 1313
+Faltando: [1_@_37865] na página: 1314
+Faltando: [1_@_24540] na página: 1315
+Faltando: [1_@_24690] na página: 1316
+Faltando: [1_@_26065] na página: 1317
+Faltando: [1_@_26215] na página: 1318
+Faltando: [1_@_29725] na página: 1319
+Faltando: [1_@_28850] na página: 1643
+Faltando: [1_@_32530] na página: 1646
+Faltando: [1_@_34710] na página: 1647
+Faltando: [1_@_31170] na página: 1644
+Faltando: [1_@_31875] na página: 1645
+Faltando: [1_@_35190] na página: 1659
+Faltando: [1_@_32940] na página: 1658
+Faltando: [1_@_29450] na página: 1657
+Faltando: [1_@_28845] na página: 1656
+Faltando: [1_@_33450] na página: 1663
+Faltando: [1_@_32940] na página: 1662
+Faltando: [1_@_32215] na página: 1661
+Faltando: [1_@_39155] na página: 1660
+Faltando: [1_@_41940] na página: 1651
+Faltando: [1_@_39390] na página: 1650
+Faltando: [1_@_37165] na página: 1649
+Faltando: [1_@_36965] na página: 1648
+Faltando: [1_@_25875] na página: 1655
+Faltando: [1_@_42855] na página: 1654
+Faltando: [1_@_42655] na página: 1653
+Faltando: [1_@_42135] na página: 1652
+Faltando: [1_@_46725] na página: 1574
+Faltando: [1_@_51725] na página: 1575
+Faltando: [1_@_31395] na página: 1570
+Faltando: [1_@_24395] na página: 1568
+Faltando: [1_@_28395] na página: 1569
+Faltando: [1_@_21395] na página: 1567
+Faltando: [1_@_36395] na página: 1566
+Faltando: [1_@_41290] na página: 1669
+Faltando: [1_@_40605] na página: 1668
+Faltando: [1_@_42785] na página: 1671
+Faltando: [1_@_42590] na página: 1670
+Faltando: [1_@_36115] na página: 1665
+Faltando: [1_@_35605] na página: 1664
+Faltando: [1_@_40415] na página: 1667
+Faltando: [1_@_38185] na página: 1666
+Faltando: [1_@_31535] na página: 1677
+Faltando: [1_@_31210] na página: 1676
+Faltando: [1_@_34325] na página: 1679
+Faltando: [1_@_32035] na página: 1678
+Faltando: [1_@_29900] na página: 1673
+Faltando: [1_@_43725] na página: 1672
+Faltando: [1_@_30490] na página: 1675
+Faltando: [1_@_30300] na página: 1674
+Faltando: [1_@_46375] na página: 1684
+Faltando: [1_@_44720] na página: 1685
+Faltando: [1_@_49525] na página: 1686
+Faltando: [1_@_36455] na página: 1680
+Faltando: [1_@_37640] na página: 1681
+Faltando: [1_@_39855] na página: 1682
+Faltando: [1_@_40045] na página: 1683
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 12:48 - engine********************************
+dataset;SWDE;domain;auto;site;auto-msn;attribute;engine;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-18 12:48
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 12:48 - fuel_economy********************************
+dataset;SWDE;domain;auto;site;auto-msn;attribute;fuel_economy;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-18 12:48
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

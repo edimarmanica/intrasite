@@ -1,0 +1,56 @@
+
+
+*************2016-02-18 13:13 - author********************************
+dataset;WEIR;domain;book;site;www.booksandebooks.net;attribute;author;relevantes;44;recuperados;44;relevantes recuperados; 44;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - title********************************
+dataset;WEIR;domain;book;site;www.booksandebooks.net;attribute;title;relevantes;55;recuperados;55;relevantes recuperados; 55;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - publisher********************************
+dataset;WEIR;domain;book;site;www.booksandebooks.net;attribute;publisher;relevantes;54;recuperados;54;relevantes recuperados; 54;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - isbn13********************************
+dataset;WEIR;domain;book;site;www.booksandebooks.net;attribute;isbn13;relevantes;55;recuperados;55;relevantes recuperados; 55;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - binding********************************
+dataset;WEIR;domain;book;site;www.booksandebooks.net;attribute;binding;relevantes;55;recuperados;55;relevantes recuperados; 55;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - date********************************
+dataset;WEIR;domain;book;site;www.booksandebooks.net;attribute;date;relevantes;54;recuperados;54;relevantes recuperados; 54;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - edition********************************
+dataset;WEIR;domain;book;site;www.booksandebooks.net;attribute;edition;relevantes;26;recuperados;26;relevantes recuperados; 26;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

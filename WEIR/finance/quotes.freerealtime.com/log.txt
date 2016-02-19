@@ -1,0 +1,61 @@
+
+
+*************2016-02-18 13:14 - value********************************
+dataset;WEIR;domain;finance;site;quotes.freerealtime.com;attribute;value;relevantes;452;recuperados;452;relevantes recuperados; 452;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - open********************************
+dataset;WEIR;domain;finance;site;quotes.freerealtime.com;attribute;open;relevantes;452;recuperados;447;relevantes recuperados; 447;recall;0.9889380530973452;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [21.0301] na página: finance/quotes.freerealtime.com/ASO.html
+Faltando: [8.92] na página: finance/quotes.freerealtime.com/BSC.html
+Faltando: [7.98] na página: finance/quotes.freerealtime.com/DCX.html
+Faltando: [0] na página: finance/quotes.freerealtime.com/AL.html
+Faltando: [0.57] na página: finance/quotes.freerealtime.com/PSFT.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - high********************************
+dataset;WEIR;domain;finance;site;quotes.freerealtime.com;attribute;high;relevantes;452;recuperados;452;relevantes recuperados; 452;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - low********************************
+dataset;WEIR;domain;finance;site;quotes.freerealtime.com;attribute;low;relevantes;452;recuperados;452;relevantes recuperados; 452;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - volume********************************
+dataset;WEIR;domain;finance;site;quotes.freerealtime.com;attribute;volume;relevantes;452;recuperados;452;relevantes recuperados; 452;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - 52wk_low********************************
+dataset;WEIR;domain;finance;site;quotes.freerealtime.com;attribute;52wk_low;relevantes;452;recuperados;452;relevantes recuperados; 452;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - 52wk_high********************************
+dataset;WEIR;domain;finance;site;quotes.freerealtime.com;attribute;52wk_high;relevantes;452;recuperados;452;relevantes recuperados; 452;recall;1.0;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

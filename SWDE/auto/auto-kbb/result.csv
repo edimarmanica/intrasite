@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,auto,auto-kbb,model,rule_43.csv,Change Trim,2000,2000,2000,1.0,1.0,2016-02-18 12:43
+SWDE,auto,auto-kbb,price,rule_48.csv,MSRP,2000,2000,2000,1.0,1.0,2016-02-18 12:43
+SWDE,auto,auto-kbb,engine,rule_17.csv,Gas Mileage:,2000,2000,2000,1.0,1.0,2016-02-18 12:43
+SWDE,auto,auto-kbb,fuel_economy,rule_27.csv,Engine:,1587,1587,1587,1.0,1.0,2016-02-18 12:43

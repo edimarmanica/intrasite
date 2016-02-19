@@ -1,0 +1,78 @@
+
+
+*************2016-02-19 11:37 - author********************************
+dataset;WEIR;domain;book;site;www.barnesandnoble.com;attribute;author;relevantes;101;recuperados;101;relevantes recuperados; 101;recall;1.0;precision;1.0;date;2016-02-19 11:37
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-19 11:37 - title********************************
+dataset;WEIR;domain;book;site;www.barnesandnoble.com;attribute;title;relevantes;101;recuperados;101;relevantes recuperados; 101;recall;1.0;precision;1.0;date;2016-02-19 11:37
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-19 11:37 - publisher********************************
+dataset;WEIR;domain;book;site;www.barnesandnoble.com;attribute;publisher;relevantes;101;recuperados;101;relevantes recuperados; 101;recall;1.0;precision;1.0;date;2016-02-19 11:37
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-19 11:37 - isbn13********************************
+dataset;WEIR;domain;book;site;www.barnesandnoble.com;attribute;isbn13;relevantes;101;recuperados;101;relevantes recuperados; 101;recall;1.0;precision;1.0;date;2016-02-19 11:37
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-19 11:37 - date********************************
+dataset;WEIR;domain;book;site;www.barnesandnoble.com;attribute;date;relevantes;101;recuperados;101;relevantes recuperados; 101;recall;1.0;precision;1.0;date;2016-02-19 11:37
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-19 11:37 - edition********************************
+dataset;WEIR;domain;book;site;www.barnesandnoble.com;attribute;edition;relevantes;29;recuperados;47;relevantes recuperados; 23;recall;0.7931034482758621;precision;0.48936170212765956;date;2016-02-19 11:37
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [ILLUSTRATE] na página: book/www.barnesandnoble.com/0002200805.html
+Faltando: [New edition] na página: book/www.barnesandnoble.com/0002201615.html
+Faltando: [REV] na página: book/www.barnesandnoble.com/0002201100.html
+Faltando: [Illustrated] na página: book/www.barnesandnoble.com/0002200147.html
+Faltando: [Book & 2 CDs] na página: book/www.barnesandnoble.com/0002200376.html
+Faltando: [REVISED] na página: book/www.barnesandnoble.com/0004140494.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+Faltando: [, #1] na página: book/www.barnesandnoble.com/0001050931.html
+Faltando: [5.04 (w) x 7.57 (h) x 0.83 (d)] na página: book/www.barnesandnoble.com/0002200775.html
+Faltando: [384] na página: book/www.barnesandnoble.com/0002201615.html
+Faltando: [336] na página: book/www.barnesandnoble.com/0002200805.html
+Faltando: [159] na página: book/www.barnesandnoble.com/0002201232.html
+Faltando: [5.72 (w) x 7.85 (h) x 0.49 (d)] na página: book/www.barnesandnoble.com/0002201224.html
+Faltando: [7.98 (w) x 11.57 (h) x 0.82 (d)] na página: book/www.barnesandnoble.com/0002201062.html
+Faltando: [96] na página: book/www.barnesandnoble.com/0002201100.html
+Faltando: [128] na página: book/www.barnesandnoble.com/0002200376.html
+Faltando: [512] na página: book/www.barnesandnoble.com/0002200147.html
+Faltando: [640] na página: book/www.barnesandnoble.com/0002200635.html
+Faltando: [904] na página: book/www.barnesandnoble.com/0002200120.html
+Faltando: [4.56 (w) x 7.50 (h) x 0.46 (d)] na página: book/www.barnesandnoble.com/0002200341.html
+Faltando: [255] na página: book/www.barnesandnoble.com/0002201275.html
+Faltando: [9.02 (w) x 11.28 (h) x 0.79 (d)] na página: book/www.barnesandnoble.com/0002201577.html
+Faltando: [363] na página: book/www.barnesandnoble.com/0002200171.html
+Faltando: [6.00 (w) x 8.00 (h) x 1.34 (d)] na página: book/www.barnesandnoble.com/0002201194.html
+Faltando: [384] na página: book/www.barnesandnoble.com/0002200627.html
+Faltando: [4.55 (w) x 7.49 (h) x 0.45 (d)] na página: book/www.barnesandnoble.com/0002200368.html
+Faltando: [9.29 (w) x 10.31 (h) x 0.75 (d)] na página: book/www.barnesandnoble.com/0004140338.html
+Faltando: [8.48 (w) x 10.17 (h) x 0.61 (d)] na página: book/www.barnesandnoble.com/0004140524.html
+Faltando: [5.47 (w) x 8.87 (h) x 0.72 (d)] na página: book/www.barnesandnoble.com/0002200694.html
+Faltando: [208] na página: book/www.barnesandnoble.com/0004140494.html
+Faltando: [4.08 (w) x 6.85 (h) x 0.72 (d)] na página: book/www.barnesandnoble.com/0002201771.html

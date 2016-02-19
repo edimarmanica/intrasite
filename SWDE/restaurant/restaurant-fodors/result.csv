@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,restaurant,restaurant-fodors,address,rule_311.csv,Address:,2000,2000,2000,1.0,1.0,2016-02-18 12:09
+SWDE,restaurant,restaurant-fodors,cuisine,rule_57.csv,Cuisine:,2000,2000,2000,1.0,1.0,2016-02-18 12:09
+SWDE,restaurant,restaurant-fodors,name,rule_67.csv,Restaurants,2000,2000,2000,1.0,1.0,2016-02-18 12:09
+SWDE,restaurant,restaurant-fodors,phone,rule_671.csv,Phone:,2000,2000,2000,1.0,1.0,2016-02-18 12:09

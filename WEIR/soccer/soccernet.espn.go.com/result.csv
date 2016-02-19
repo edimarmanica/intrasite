@@ -1,0 +1,7 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,soccer,soccernet.espn.go.com,shirt,rule_101.csv,SQUAD NUMBER:,438,438,438,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,soccernet.espn.go.com,position,rule_87.csv,POSITION:,527,527,527,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,soccernet.espn.go.com,height,rule_72.csv,HEIGHT:,430,430,430,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,soccernet.espn.go.com,weight,rule_2.csv,WEIGHT:,426,426,426,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,soccernet.espn.go.com,birthdate,rule_80.csv,BIRTHDATE:,445,445,445,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,soccernet.espn.go.com,national_team,Attribute not found,,527,0,0,0.0,0.0,2016-02-18 13:19

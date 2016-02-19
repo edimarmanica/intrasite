@@ -1,0 +1,487 @@
+
+
+*************2016-02-18 13:19 - position********************************
+dataset;WEIR;domain;soccer;site;uk.eurosport.yahoo.com;attribute;position;relevantes;550;recuperados;537;relevantes recuperados; 461;recall;0.8381818181818181;precision;0.8584729981378026;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/christian-wilhelmsson.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/sidney-govou.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/claude-makelele.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/carlos-bocanegra.html
+Faltando: [Goalkeeper] na página: soccer/uk.eurosport.yahoo.com/santiago-canizares.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/francesco-bolzoni.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/roy-keane.html
+Faltando: [Goalkeeper] na página: soccer/uk.eurosport.yahoo.com/stephen-bywater.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/lorik-cana.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/gabriel-milito.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/olano-xabialonso.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/adriano.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/mamadou-samassa.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/kim-kallstrom.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/stephen-appiah.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/alan-stubbs.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/sami-hyypia.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/michael-johnson.html
+Faltando: [Goalkeeper] na página: soccer/uk.eurosport.yahoo.com/demirel-volkan.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/kader-keita.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/marouane-chamakh.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/jean-makoun.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/ian-harte.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/mark-randall.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/gabriel-obertan.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/miralem-pjanic.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/taye-taiwo.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/ian-pearce.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/vincent-candela.html
+Faltando: [Goalkeeper] na página: soccer/uk.eurosport.yahoo.com/kasey-keller.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/modeste-mbami.html
+Faltando: [Goalkeeper] na página: soccer/uk.eurosport.yahoo.com/brad-guzan.html
+Faltando: [Goalkeeper] na página: soccer/uk.eurosport.yahoo.com/steve-mandanda.html
+Faltando: [Goalkeeper] na página: soccer/uk.eurosport.yahoo.com/rudy-riou.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/pierre-ducasse.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/lee-carsley.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/florian-marange.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/souleymane-diawara.html
+Faltando: [Goalkeeper] na página: soccer/uk.eurosport.yahoo.com/vladimir-stojkovic.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/daniel-gygax.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/david-cotterill.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/marc-planus.html
+Faltando: [Goalkeeper] na página: soccer/uk.eurosport.yahoo.com/wayne-hennessey.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/andr-ayew.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/mathieu-valbuena.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/eduardo-rubio.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/elliot-grandin.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/petter-hansson.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/ronald-zubar.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/dario-srna.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/nder-turaci.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/fernando.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/dirk-marcellis.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/claudio-cacapa.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/franck-ribery.html
+Faltando: [Goalkeeper] na página: soccer/uk.eurosport.yahoo.com/hugo-lloris.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/niclas-alexandersson.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/paul-scharner.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/mark-viduka.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/sanli-tuncay.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/andreas-granqvist.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/fraizer-campbell.html
+Faltando: [Goalkeeper] na página: soccer/uk.eurosport.yahoo.com/ulrich-rame.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/wilson-palacios.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/mamadou-niang.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/daniel-braaten.html
+Faltando: [Goalkeeper] na página: soccer/uk.eurosport.yahoo.com/roy-carroll.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/bafetimbi-gomis.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/john-mensah.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/yoann-gourcuff.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/andy-todd.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/franck-jurietti.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/tyrone-mears.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/juninho.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/sebastian-larsson.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/raymond-domenech.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/brian-mcbride.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/barry-ferguson.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/carloslopez-marchena.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/anthony-mounier.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/bruno-berner.html
+Faltando: [Goalkeeper] na página: soccer/uk.eurosport.yahoo.com/steve-harper.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/jose-fernandotorres.html
+Faltando: [Defender] na página: soccer/uk.eurosport.yahoo.com/fabio-grosso.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/hatem-benarfa.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/milan-baros.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/karim-benzema.html
+Faltando: [Midfielders] na página: soccer/uk.eurosport.yahoo.com/jrmy-toulalan.html
+Faltando: [Striker] na página: soccer/uk.eurosport.yahoo.com/gabriel-agbonlahor.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+Faltando: [5 |] na página: soccer/uk.eurosport.yahoo.com/fernando.html
+Faltando: [3 |] na página: soccer/uk.eurosport.yahoo.com/carlos-bocanegra.html
+Faltando: [23 |] na página: soccer/uk.eurosport.yahoo.com/florian-marange.html
+Faltando: [20 |] na página: soccer/uk.eurosport.yahoo.com/brian-mcbride.html
+Faltando: [18 |] na página: soccer/uk.eurosport.yahoo.com/sebastian-larsson.html
+Faltando: [13 |] na página: soccer/uk.eurosport.yahoo.com/roy-carroll.html
+Faltando: [19 |] na página: soccer/uk.eurosport.yahoo.com/lorik-cana.html
+Faltando: [4 |] na página: soccer/uk.eurosport.yahoo.com/carloslopez-marchena.html
+Faltando: [23 |] na página: soccer/uk.eurosport.yahoo.com/demirel-volkan.html
+Faltando: [3 |] na página: soccer/uk.eurosport.yahoo.com/ian-harte.html
+Faltando: [16 |] na página: soccer/uk.eurosport.yahoo.com/roy-keane.html
+Faltando: [17 |] na página: soccer/uk.eurosport.yahoo.com/sanli-tuncay.html
+Faltando: [19 |] na página: soccer/uk.eurosport.yahoo.com/andy-todd.html
+Faltando: [32 |] na página: soccer/uk.eurosport.yahoo.com/vincent-candela.html
+Faltando: [1 |] na página: soccer/uk.eurosport.yahoo.com/rudy-riou.html
+Faltando: [8 |] na página: soccer/uk.eurosport.yahoo.com/tyrone-mears.html
+Faltando: [23 |] na página: soccer/uk.eurosport.yahoo.com/kader-keita.html
+Faltando: [11 |] na página: soccer/uk.eurosport.yahoo.com/dario-srna.html
+Faltando: [16 |] na página: soccer/uk.eurosport.yahoo.com/ulrich-rame.html
+Faltando: [10 |] na página: soccer/uk.eurosport.yahoo.com/stephen-appiah.html
+Faltando: [15 |] na página: soccer/uk.eurosport.yahoo.com/ronald-zubar.html
+Faltando: [8 |] na página: soccer/uk.eurosport.yahoo.com/andr-ayew.html
+Faltando: [3 |] na página: soccer/uk.eurosport.yahoo.com/bruno-berner.html
+Faltando: [21 |] na página: soccer/uk.eurosport.yahoo.com/milan-baros.html
+Faltando: [8 |] na página: soccer/uk.eurosport.yahoo.com/yoann-gourcuff.html
+Faltando: [26 |] na página: soccer/uk.eurosport.yahoo.com/gabriel-obertan.html
+Faltando: [22 |] na página: soccer/uk.eurosport.yahoo.com/lee-carsley.html
+Faltando: [20 |] na página: soccer/uk.eurosport.yahoo.com/hatem-benarfa.html
+Faltando: [3 |] na página: soccer/uk.eurosport.yahoo.com/taye-taiwo.html
+Faltando: [15 |] na página: soccer/uk.eurosport.yahoo.com/andreas-granqvist.html
+Faltando: [18 |] na página: soccer/uk.eurosport.yahoo.com/bafetimbi-gomis.html
+Faltando: [29 |] na página: soccer/uk.eurosport.yahoo.com/marouane-chamakh.html
+Faltando: [25 |] na página: soccer/uk.eurosport.yahoo.com/daniel-braaten.html
+Faltando: [19 |] na página: soccer/uk.eurosport.yahoo.com/nder-turaci.html
+Faltando: [19 |] na página: soccer/uk.eurosport.yahoo.com/ian-pearce.html
+Faltando: [30 |] na página: soccer/uk.eurosport.yahoo.com/steve-mandanda.html
+Faltando: [1 |] na página: soccer/uk.eurosport.yahoo.com/santiago-canizares.html
+Faltando: [23 |] na página: soccer/uk.eurosport.yahoo.com/modeste-mbami.html
+Faltando: [10 |] na página: soccer/uk.eurosport.yahoo.com/karim-benzema.html
+Faltando: [27 |] na página: soccer/uk.eurosport.yahoo.com/anthony-mounier.html
+Faltando: [17 |] na página: soccer/uk.eurosport.yahoo.com/mamadou-samassa.html
+Faltando: [4 |] na página: soccer/uk.eurosport.yahoo.com/alan-stubbs.html
+Faltando: [14 |] na página: soccer/uk.eurosport.yahoo.com/sidney-govou.html
+Faltando: [17 |] na página: soccer/uk.eurosport.yahoo.com/jean-makoun.html
+Faltando: [11 |] na página: soccer/uk.eurosport.yahoo.com/fabio-grosso.html
+Faltando: [12 |] na página: soccer/uk.eurosport.yahoo.com/john-mensah.html
+Faltando: [1 |] na página: soccer/uk.eurosport.yahoo.com/hugo-lloris.html
+Faltando: [32 |] na página: soccer/uk.eurosport.yahoo.com/stephen-bywater.html
+Faltando: [11 |] na página: soccer/uk.eurosport.yahoo.com/mamadou-niang.html
+Faltando: [14 |] na página: soccer/uk.eurosport.yahoo.com/daniel-gygax.html
+Faltando: [13 |] na página: soccer/uk.eurosport.yahoo.com/steve-harper.html
+Faltando: [6 |] na página: soccer/uk.eurosport.yahoo.com/kim-kallstrom.html
+Faltando: [5 |] na página: soccer/uk.eurosport.yahoo.com/claudio-cacapa.html
+Faltando: [21 |] na página: soccer/uk.eurosport.yahoo.com/christian-wilhelmsson.html
+Faltando: [8 |] na página: soccer/uk.eurosport.yahoo.com/juninho.html
+Faltando: [18 |] na página: soccer/uk.eurosport.yahoo.com/elliot-grandin.html
+Faltando: [22 |] na página: soccer/uk.eurosport.yahoo.com/franck-ribery.html
+Faltando: [7 |] na página: soccer/uk.eurosport.yahoo.com/niclas-alexandersson.html
+Faltando: [13 |] na página: soccer/uk.eurosport.yahoo.com/petter-hansson.html
+Faltando: [12 |] na página: soccer/uk.eurosport.yahoo.com/adriano.html
+Faltando: [28 |] na página: soccer/uk.eurosport.yahoo.com/jrmy-toulalan.html
+Faltando: [6 |] na página: soccer/uk.eurosport.yahoo.com/franck-jurietti.html
+Faltando: [15 |] na página: soccer/uk.eurosport.yahoo.com/gabriel-milito.html
+Faltando: [28 |] na página: soccer/uk.eurosport.yahoo.com/mathieu-valbuena.html
+Faltando: [18 |] na página: soccer/uk.eurosport.yahoo.com/miralem-pjanic.html
+Faltando: [4 |] na página: soccer/uk.eurosport.yahoo.com/claude-makelele.html
+Faltando: [9 |] na página: soccer/uk.eurosport.yahoo.com/jose-fernandotorres.html
+Faltando: [9 |] na página: soccer/uk.eurosport.yahoo.com/mark-viduka.html
+Faltando: [4 |] na página: soccer/uk.eurosport.yahoo.com/sami-hyypia.html
+Faltando: [14 |] na página: soccer/uk.eurosport.yahoo.com/olano-xabialonso.html
+Faltando: [27 |] na página: soccer/uk.eurosport.yahoo.com/marc-planus.html
+Faltando: [14 |] na página: soccer/uk.eurosport.yahoo.com/souleymane-diawara.html
+Faltando: [18 |] na página: soccer/uk.eurosport.yahoo.com/kasey-keller.html
+Faltando: [19 |] na página: soccer/uk.eurosport.yahoo.com/pierre-ducasse.html
+Faltando: [6 |] na página: soccer/uk.eurosport.yahoo.com/barry-ferguson.html
+Faltando: [23 |] na página: soccer/uk.eurosport.yahoo.com/vladimir-stojkovic.html
+
+
+*************2016-02-18 13:19 - height********************************
+dataset;WEIR;domain;soccer;site;uk.eurosport.yahoo.com;attribute;height;relevantes;537;recuperados;537;relevantes recuperados; 537;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - weight********************************
+dataset;WEIR;domain;soccer;site;uk.eurosport.yahoo.com;attribute;weight;relevantes;537;recuperados;537;relevantes recuperados; 537;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - birthdate********************************
+dataset;WEIR;domain;soccer;site;uk.eurosport.yahoo.com;attribute;birthdate;relevantes;550;recuperados;420;relevantes recuperados; 416;recall;0.7563636363636363;precision;0.9904761904761905;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [20/11/1984 in Waltham Forest] na página: soccer/uk.eurosport.yahoo.com/justin-hoyte.html
+Faltando: [05/08/1988 in Barking] na página: soccer/uk.eurosport.yahoo.com/giles-barnes.html
+Faltando: [19/04/1987 in Shrewsbury] na página: soccer/uk.eurosport.yahoo.com/joe-hart.html
+Faltando: [23/12/1979 in Edimbourg] na página: soccer/uk.eurosport.yahoo.com/kenny-miller.html
+Faltando: [14/10/1975 in Enfield] na página: soccer/uk.eurosport.yahoo.com/michael-duberry.html
+Faltando: [09/11/1980 in Chelmsford] na página: soccer/uk.eurosport.yahoo.com/james-harper.html
+Faltando: [13/10/1980 in Lambeth] na página: soccer/uk.eurosport.yahoo.com/scott-parker.html
+Faltando: [28/01/1978 in Bootle] na página: soccer/uk.eurosport.yahoo.com/jamie-carragher.html
+Faltando: [02/10/1979 in] na página: soccer/uk.eurosport.yahoo.com/michael-ball.html
+Faltando: [14/04/1983 in Glasgow] na página: soccer/uk.eurosport.yahoo.com/james-mcfadden.html
+Faltando: [16/04/1987 in Leeds] na página: soccer/uk.eurosport.yahoo.com/aaron-lennon.html
+Faltando: [22/07/1984 in Moddlesbrough] na página: soccer/uk.eurosport.yahoo.com/stewart-downing.html
+Faltando: [18/04/1987 in Shrewsbury] na página: soccer/uk.eurosport.yahoo.com/danny-guthrie.html
+Faltando: [03/04/1983 in Leamington Spa] na página: soccer/uk.eurosport.yahoo.com/ben-foster.html
+Faltando: [21/07/1984 in Bexley] na página: soccer/uk.eurosport.yahoo.com/liam-ridgewell.html
+Faltando: [03/09/1983 in Westhoughton] na página: soccer/uk.eurosport.yahoo.com/nicky-hunt.html
+Faltando: [20/01/1981 in Calgary ( Canada )] na página: soccer/uk.eurosport.yahoo.com/owen-hargreaves.html
+Faltando: [25/03/1989 in] na página: soccer/uk.eurosport.yahoo.com/scott-sinclair.html
+Faltando: [27/08/1984 in] na página: soccer/uk.eurosport.yahoo.com/david-bentley.html
+Faltando: [02/09/1982 in Huyton] na página: soccer/uk.eurosport.yahoo.com/joey-barton.html
+Faltando: [21/10/1984 in Greenwich] na página: soccer/uk.eurosport.yahoo.com/kieran-richardson.html
+Faltando: [19/10/1976 in Glasgow] na página: soccer/uk.eurosport.yahoo.com/paul-hartley.html
+Faltando: [19/07/1982 in Durham] na página: soccer/uk.eurosport.yahoo.com/stuart-parnaby.html
+Faltando: [18/11/1983 in Northallerton] na página: soccer/uk.eurosport.yahoo.com/michael-dawson.html
+Faltando: [15/10/1971 in Nottingham] na página: soccer/uk.eurosport.yahoo.com/andy-cole.html
+Faltando: [12/10/1980 in London] na página: soccer/uk.eurosport.yahoo.com/ledley-king.html
+Faltando: [16/08/1982 in Birmingham] na página: soccer/uk.eurosport.yahoo.com/jolean-lescott.html
+Faltando: [24/02/1988 in] na página: soccer/uk.eurosport.yahoo.com/michael-johnson.html
+Faltando: [28/09/1989 in] na página: soccer/uk.eurosport.yahoo.com/mark-randall.html
+Faltando: [28/12/1986 in Nottingham] na página: soccer/uk.eurosport.yahoo.com/tom-huddlestone.html
+Faltando: [23/08/1984 in London] na página: soccer/uk.eurosport.yahoo.com/glen-johnson.html
+Faltando: [13/10/1979 in Manchester] na página: soccer/uk.eurosport.yahoo.com/wesley-brown.html
+Faltando: [02/05/1985 in] na página: soccer/uk.eurosport.yahoo.com/david-nugent.html
+Faltando: [03/01/1977 in London] na página: soccer/uk.eurosport.yahoo.com/lee-bowyer.html
+Faltando: [06/07/1988 in] na página: soccer/uk.eurosport.yahoo.com/fabrice-muamba.html
+Faltando: [24/06/1982 in] na página: soccer/uk.eurosport.yahoo.com/kevin-nolan.html
+Faltando: [17/05/1981 in Wigan] na página: soccer/uk.eurosport.yahoo.com/leon-osman.html
+Faltando: [16/03/1989 in Middlesex] na página: soccer/uk.eurosport.yahoo.com/theo-walcott.html
+Faltando: [10/02/1981 in Bedford] na página: soccer/uk.eurosport.yahoo.com/andrew-johnson.html
+Faltando: [31/12/1982 in Edimbourgh] na página: soccer/uk.eurosport.yahoo.com/craig-gordon.html
+Faltando: [19/12/1985 in Sheffield] na página: soccer/uk.eurosport.yahoo.com/gary-cahill.html
+Faltando: [30/01/1981 in Macclesfield] na página: soccer/uk.eurosport.yahoo.com/peter-crouch.html
+Faltando: [15/01/1983 in Nottingham] na página: soccer/uk.eurosport.yahoo.com/jermaine-pennant.html
+Faltando: [04/01/1986 in Leeds] na página: soccer/uk.eurosport.yahoo.com/james-milner.html
+Faltando: [02/05/1975 in Leytonstone] na página: soccer/uk.eurosport.yahoo.com/david-beckham.html
+Faltando: [18/02/1983 in] na página: soccer/uk.eurosport.yahoo.com/tyrone-mears.html
+Faltando: [07/11/1978 in] na página: soccer/uk.eurosport.yahoo.com/barry-robson.html
+Faltando: [13/10/1986 in Birmingham] na página: soccer/uk.eurosport.yahoo.com/gabriel-agbonlahor.html
+Faltando: [09/07/1985 in Stevenage] na página: soccer/uk.eurosport.yahoo.com/ashley-young.html
+Faltando: [29/12/1978 in Manchester] na página: soccer/uk.eurosport.yahoo.com/danny-higginbotham.html
+Faltando: [25/01/1977 in Hartlepool] na página: soccer/uk.eurosport.yahoo.com/michael-brown.html
+Faltando: [10/06/1984 in Croydon] na página: soccer/uk.eurosport.yahoo.com/dean-leacock.html
+Faltando: [18/09/1974 in Newham] na página: soccer/uk.eurosport.yahoo.com/sol-campbell.html
+Faltando: [18/02/1985 in Peckham] na página: soccer/uk.eurosport.yahoo.com/anton-ferdinand.html
+Faltando: [14/05/1984 in Southwark] na página: soccer/uk.eurosport.yahoo.com/nigel-reocoker.html
+Faltando: [28/10/1980 in Rothwell] na página: soccer/uk.eurosport.yahoo.com/alan-smith.html
+Faltando: [24/01/1987 in Anglesey] na página: soccer/uk.eurosport.yahoo.com/wayne-hennessey.html
+Faltando: [22/01/1980 in] na página: soccer/uk.eurosport.yahoo.com/jonathan-woodgate.html
+Faltando: [13/09/1987 in Huddersfield] na página: soccer/uk.eurosport.yahoo.com/fraizer-campbell.html
+Faltando: [13/04/1988 in] na página: soccer/uk.eurosport.yahoo.com/dirk-marcellis.html
+Faltando: [07/11/1983 in] na página: soccer/uk.eurosport.yahoo.com/eduardo-rubio.html
+Faltando: [20/12/1980 in Stepney] na página: soccer/uk.eurosport.yahoo.com/ashley-cole.html
+Faltando: [14/02/1987 in] na página: soccer/uk.eurosport.yahoo.com/david-wheater.html
+Faltando: [25/08/1979 in Hampstead] na página: soccer/uk.eurosport.yahoo.com/marlon-harewood.html
+Faltando: [20/01/1952 in à Lyon.] na página: soccer/uk.eurosport.yahoo.com/raymond-domenech.html
+Faltando: [01/02/1984 in Edimbourg] na página: soccer/uk.eurosport.yahoo.com/darren-fletcher.html
+Faltando: [18/04/1979 in Eye] na página: soccer/uk.eurosport.yahoo.com/matthew-upson.html
+Faltando: [20/06/1978 in Romford] na página: soccer/uk.eurosport.yahoo.com/frank-lampard.html
+Faltando: [24/10/1985 in] na página: soccer/uk.eurosport.yahoo.com/wayne-rooney.html
+Faltando: [14/03/1975 in Easington] na página: soccer/uk.eurosport.yahoo.com/steve-harper.html
+Faltando: [01/08/1970 in Welwyn] na página: soccer/uk.eurosport.yahoo.com/david-james.html
+Faltando: [21/01/1975 in Manchester] na página: soccer/uk.eurosport.yahoo.com/nicky-butt.html
+Faltando: [13/06/1980 in Birmingham] na página: soccer/uk.eurosport.yahoo.com/darius-vassell.html
+Faltando: [15/05/1981 in Barking] na página: soccer/uk.eurosport.yahoo.com/paul-konchesky.html
+Faltando: [23/05/1985 in] na página: soccer/uk.eurosport.yahoo.com/ross-wallace.html
+Faltando: [25/01/1981 in] na página: soccer/uk.eurosport.yahoo.com/francis-jeffers.html
+Faltando: [09/04/1975 in Toxteth] na página: soccer/uk.eurosport.yahoo.com/robbie-fowler.html
+Faltando: [08/11/1981 in Islington] na página: soccer/uk.eurosport.yahoo.com/joe-cole.html
+Faltando: [11/03/1980 in] na página: soccer/uk.eurosport.yahoo.com/paul-scharner.html
+Faltando: [23/02/1981 in Hastings] na página: soccer/uk.eurosport.yahoo.com/gareth-barry.html
+Faltando: [28/06/1985 in Salford] na página: soccer/uk.eurosport.yahoo.com/phillip-bardsley.html
+Faltando: [30/05/1980 in Whiston] na página: soccer/uk.eurosport.yahoo.com/steven-gerrard.html
+Faltando: [14/12/1982 in] na página: soccer/uk.eurosport.yahoo.com/steve-sidwell.html
+Faltando: [12/04/1982 in Stirling] na página: soccer/uk.eurosport.yahoo.com/gary-caldwell.html
+Faltando: [07/05/1974 in] na página: soccer/uk.eurosport.yahoo.com/ian-pearce.html
+Faltando: [21/09/1974 in Derby] na página: soccer/uk.eurosport.yahoo.com/andy-todd.html
+Faltando: [21/03/1988 in Stockton] na página: soccer/uk.eurosport.yahoo.com/lee-cattermole.html
+Faltando: [11/01/1978 in Leicester] na página: soccer/uk.eurosport.yahoo.com/emile-heskey.html
+Faltando: [27/03/1979 in] na página: soccer/uk.eurosport.yahoo.com/hayden-mullins.html
+Faltando: [07/12/1980 in Barking] na página: soccer/uk.eurosport.yahoo.com/john-terry.html
+Faltando: [08/12/1984 in Chelmsford] na página: soccer/uk.eurosport.yahoo.com/greg-halford.html
+Faltando: [09/02/1978 in Glasgow] na página: soccer/uk.eurosport.yahoo.com/barry-ferguson.html
+Faltando: [16/11/1974 in Salford] na página: soccer/uk.eurosport.yahoo.com/paul-scholes.html
+Faltando: [09/09/1984 in] na página: soccer/uk.eurosport.yahoo.com/brad-guzan.html
+Faltando: [05/08/1980 in] na página: soccer/uk.eurosport.yahoo.com/wayne-bridge.html
+Faltando: [11/10/1980 in Brixton] na página: soccer/uk.eurosport.yahoo.com/nyron-nosworthy.html
+Faltando: [28/12/1984 in] na página: soccer/uk.eurosport.yahoo.com/leroy-lita.html
+Faltando: [07/05/1989 in Lodi] na página: soccer/uk.eurosport.yahoo.com/francesco-bolzoni.html
+Faltando: [06/10/1971 in Kirkby] na página: soccer/uk.eurosport.yahoo.com/alan-stubbs.html
+Faltando: [17/03/1979 in Wigan] na página: soccer/uk.eurosport.yahoo.com/andy-griffin.html
+Faltando: [07/06/1981 in Manchester] na página: soccer/uk.eurosport.yahoo.com/stephen-bywater.html
+Faltando: [30/11/1984 in Glasgow] na página: soccer/uk.eurosport.yahoo.com/alan-hutton.html
+Faltando: [02/10/1982 in Lanark] na página: soccer/uk.eurosport.yahoo.com/stephen-pearson.html
+Faltando: [20/09/1979 in Clapham] na página: soccer/uk.eurosport.yahoo.com/sean-davis.html
+Faltando: [28/07/1981 in Wallsend] na página: soccer/uk.eurosport.yahoo.com/michael-carrick.html
+Faltando: [18/02/1975 in] na página: soccer/uk.eurosport.yahoo.com/gary-neville.html
+Faltando: [03/09/1970 in] na página: soccer/uk.eurosport.yahoo.com/gareth-southgate.html
+Faltando: [23/01/1986 in Greenwich] na página: soccer/uk.eurosport.yahoo.com/steven-taylor.html
+Faltando: [25/10/1981 in London] na página: soccer/uk.eurosport.yahoo.com/shaun-wrightphillips.html
+Faltando: [12/10/1981 in Zaria ( Nigeria )] na página: soccer/uk.eurosport.yahoo.com/shola-ameobi.html
+Faltando: [12/12/1981 in Ormskirk] na página: soccer/uk.eurosport.yahoo.com/stephen-warnock.html
+Faltando: [03/09/1985 in Whitehaven] na página: soccer/uk.eurosport.yahoo.com/scott-carson.html
+Faltando: [16/01/1981 in London] na página: soccer/uk.eurosport.yahoo.com/bobby-zamora.html
+Faltando: [19/07/1979 in Harlow] na página: soccer/uk.eurosport.yahoo.com/luke-young.html
+Faltando: [24/01/1983 in] na página: soccer/uk.eurosport.yahoo.com/shaun-maloney.html
+Faltando: [02/05/1981 in Leicester] na página: soccer/uk.eurosport.yahoo.com/christopher-kirkland.html
+Faltando: [11/12/1982 in Birmingham] na página: soccer/uk.eurosport.yahoo.com/craig-fagan.html
+Faltando: [14/12/1979 in Chester] na página: soccer/uk.eurosport.yahoo.com/michael-owen.html
+Faltando: [04/12/1987 in] na página: soccer/uk.eurosport.yahoo.com/david-cotterill.html
+Faltando: [29/07/1984 in La Ceiba] na página: soccer/uk.eurosport.yahoo.com/wilson-palacios.html
+Faltando: [21/07/1981 in Ipswich] na página: soccer/uk.eurosport.yahoo.com/titus-bramble.html
+Faltando: [11/12/1984 in] na página: soccer/uk.eurosport.yahoo.com/leighton-baines.html
+Faltando: [06/02/1984 in Tooting] na página: soccer/uk.eurosport.yahoo.com/darren-bent.html
+Faltando: [07/10/1982 in Reckton] na página: soccer/uk.eurosport.yahoo.com/jermain-defoe.html
+Faltando: [14/12/1978 in] na página: soccer/uk.eurosport.yahoo.com/paul-robinson.html
+Faltando: [18/01/1980 in Chertsey] na página: soccer/uk.eurosport.yahoo.com/robert-green.html
+Faltando: [26/03/1977 in Sheffield] na página: soccer/uk.eurosport.yahoo.com/kevin-davies.html
+Faltando: [12/11/1983 in Surrey] na página: soccer/uk.eurosport.yahoo.com/carlton-cole.html
+Faltando: [19/02/1981 in Romford] na página: soccer/uk.eurosport.yahoo.com/nicky-shorey.html
+Faltando: [18/02/1983 in Nottingham] na página: soccer/uk.eurosport.yahoo.com/jermaine-jenas.html
+Faltando: [08/11/1978 in Peckham] na página: soccer/uk.eurosport.yahoo.com/rio-ferdinand.html
+Faltando: [24/06/1988 in Birmingham] na página: soccer/uk.eurosport.yahoo.com/micah-richards.html
+Faltando: [25/10/1979 in] na página: soccer/uk.eurosport.yahoo.com/rob-hulse.html
+Faltando: [13/11/1974 in Slatburn] na página: soccer/uk.eurosport.yahoo.com/graeme-murty.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+Faltando: [Newcastle -] na página: soccer/uk.eurosport.yahoo.com/david-james.html
+Faltando: [St Edmunds] na página: soccer/uk.eurosport.yahoo.com/ian-pearce.html
+Faltando: [: on 23/08/1998] na página: soccer/uk.eurosport.yahoo.com/darius-vassell.html
+Faltando: [FC] na página: soccer/uk.eurosport.yahoo.com/hayden-mullins.html
+
+
+*************2016-02-18 13:19 - national_team********************************
+dataset;WEIR;domain;soccer;site;uk.eurosport.yahoo.com;attribute;national_team;relevantes;425;recuperados;537;relevantes recuperados; 416;recall;0.9788235294117648;precision;0.7746741154562383;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Wales] na página: soccer/uk.eurosport.yahoo.com/wayne-hennessey.html
+Faltando: [Italy] na página: soccer/uk.eurosport.yahoo.com/francesco-bolzoni.html
+Faltando: [France] na página: soccer/uk.eurosport.yahoo.com/raymond-domenech.html
+Faltando: [Netherlands] na página: soccer/uk.eurosport.yahoo.com/dirk-marcellis.html
+Faltando: [Chili] na página: soccer/uk.eurosport.yahoo.com/eduardo-rubio.html
+Faltando: [Austria] na página: soccer/uk.eurosport.yahoo.com/paul-scharner.html
+Faltando: [USA] na página: soccer/uk.eurosport.yahoo.com/brad-guzan.html
+Faltando: [Honduras] na página: soccer/uk.eurosport.yahoo.com/wilson-palacios.html
+Faltando: [Wales] na página: soccer/uk.eurosport.yahoo.com/david-cotterill.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+Faltando: [20/11/1984 in Waltham Forest] na página: soccer/uk.eurosport.yahoo.com/justin-hoyte.html
+Faltando: [05/08/1988 in Barking] na página: soccer/uk.eurosport.yahoo.com/giles-barnes.html
+Faltando: [19/04/1987 in Shrewsbury] na página: soccer/uk.eurosport.yahoo.com/joe-hart.html
+Faltando: [23/12/1979 in Edimbourg] na página: soccer/uk.eurosport.yahoo.com/kenny-miller.html
+Faltando: [14/10/1975 in Enfield] na página: soccer/uk.eurosport.yahoo.com/michael-duberry.html
+Faltando: [09/11/1980 in Chelmsford] na página: soccer/uk.eurosport.yahoo.com/james-harper.html
+Faltando: [13/10/1980 in Lambeth] na página: soccer/uk.eurosport.yahoo.com/scott-parker.html
+Faltando: [28/01/1978 in Bootle] na página: soccer/uk.eurosport.yahoo.com/jamie-carragher.html
+Faltando: [02/10/1979 in] na página: soccer/uk.eurosport.yahoo.com/michael-ball.html
+Faltando: [14/04/1983 in Glasgow] na página: soccer/uk.eurosport.yahoo.com/james-mcfadden.html
+Faltando: [16/04/1987 in Leeds] na página: soccer/uk.eurosport.yahoo.com/aaron-lennon.html
+Faltando: [22/07/1984 in Moddlesbrough] na página: soccer/uk.eurosport.yahoo.com/stewart-downing.html
+Faltando: [18/04/1987 in Shrewsbury] na página: soccer/uk.eurosport.yahoo.com/danny-guthrie.html
+Faltando: [03/04/1983 in Leamington Spa] na página: soccer/uk.eurosport.yahoo.com/ben-foster.html
+Faltando: [21/07/1984 in Bexley] na página: soccer/uk.eurosport.yahoo.com/liam-ridgewell.html
+Faltando: [03/09/1983 in Westhoughton] na página: soccer/uk.eurosport.yahoo.com/nicky-hunt.html
+Faltando: [20/01/1981 in Calgary ( Canada )] na página: soccer/uk.eurosport.yahoo.com/owen-hargreaves.html
+Faltando: [25/03/1989 in] na página: soccer/uk.eurosport.yahoo.com/scott-sinclair.html
+Faltando: [27/08/1984 in] na página: soccer/uk.eurosport.yahoo.com/david-bentley.html
+Faltando: [02/09/1982 in Huyton] na página: soccer/uk.eurosport.yahoo.com/joey-barton.html
+Faltando: [21/10/1984 in Greenwich] na página: soccer/uk.eurosport.yahoo.com/kieran-richardson.html
+Faltando: [19/10/1976 in Glasgow] na página: soccer/uk.eurosport.yahoo.com/paul-hartley.html
+Faltando: [19/07/1982 in Durham] na página: soccer/uk.eurosport.yahoo.com/stuart-parnaby.html
+Faltando: [18/11/1983 in Northallerton] na página: soccer/uk.eurosport.yahoo.com/michael-dawson.html
+Faltando: [15/10/1971 in Nottingham] na página: soccer/uk.eurosport.yahoo.com/andy-cole.html
+Faltando: [12/10/1980 in London] na página: soccer/uk.eurosport.yahoo.com/ledley-king.html
+Faltando: [16/08/1982 in Birmingham] na página: soccer/uk.eurosport.yahoo.com/jolean-lescott.html
+Faltando: [28/12/1986 in Nottingham] na página: soccer/uk.eurosport.yahoo.com/tom-huddlestone.html
+Faltando: [23/08/1984 in London] na página: soccer/uk.eurosport.yahoo.com/glen-johnson.html
+Faltando: [13/10/1979 in Manchester] na página: soccer/uk.eurosport.yahoo.com/wesley-brown.html
+Faltando: [02/05/1985 in] na página: soccer/uk.eurosport.yahoo.com/david-nugent.html
+Faltando: [03/01/1977 in London] na página: soccer/uk.eurosport.yahoo.com/lee-bowyer.html
+Faltando: [06/07/1988 in] na página: soccer/uk.eurosport.yahoo.com/fabrice-muamba.html
+Faltando: [24/06/1982 in] na página: soccer/uk.eurosport.yahoo.com/kevin-nolan.html
+Faltando: [17/05/1981 in Wigan] na página: soccer/uk.eurosport.yahoo.com/leon-osman.html
+Faltando: [16/03/1989 in Middlesex] na página: soccer/uk.eurosport.yahoo.com/theo-walcott.html
+Faltando: [10/02/1981 in Bedford] na página: soccer/uk.eurosport.yahoo.com/andrew-johnson.html
+Faltando: [31/12/1982 in Edimbourgh] na página: soccer/uk.eurosport.yahoo.com/craig-gordon.html
+Faltando: [19/12/1985 in Sheffield] na página: soccer/uk.eurosport.yahoo.com/gary-cahill.html
+Faltando: [30/01/1981 in Macclesfield] na página: soccer/uk.eurosport.yahoo.com/peter-crouch.html
+Faltando: [15/01/1983 in Nottingham] na página: soccer/uk.eurosport.yahoo.com/jermaine-pennant.html
+Faltando: [04/01/1986 in Leeds] na página: soccer/uk.eurosport.yahoo.com/james-milner.html
+Faltando: [02/05/1975 in Leytonstone] na página: soccer/uk.eurosport.yahoo.com/david-beckham.html
+Faltando: [18/02/1983 in] na página: soccer/uk.eurosport.yahoo.com/tyrone-mears.html
+Faltando: [07/11/1978 in] na página: soccer/uk.eurosport.yahoo.com/barry-robson.html
+Faltando: [09/07/1985 in Stevenage] na página: soccer/uk.eurosport.yahoo.com/ashley-young.html
+Faltando: [29/12/1978 in Manchester] na página: soccer/uk.eurosport.yahoo.com/danny-higginbotham.html
+Faltando: [25/01/1977 in Hartlepool] na página: soccer/uk.eurosport.yahoo.com/michael-brown.html
+Faltando: [10/06/1984 in Croydon] na página: soccer/uk.eurosport.yahoo.com/dean-leacock.html
+Faltando: [18/09/1974 in Newham] na página: soccer/uk.eurosport.yahoo.com/sol-campbell.html
+Faltando: [18/02/1985 in Peckham] na página: soccer/uk.eurosport.yahoo.com/anton-ferdinand.html
+Faltando: [14/05/1984 in Southwark] na página: soccer/uk.eurosport.yahoo.com/nigel-reocoker.html
+Faltando: [28/10/1980 in Rothwell] na página: soccer/uk.eurosport.yahoo.com/alan-smith.html
+Faltando: [22/01/1980 in] na página: soccer/uk.eurosport.yahoo.com/jonathan-woodgate.html
+Faltando: [20/12/1980 in Stepney] na página: soccer/uk.eurosport.yahoo.com/ashley-cole.html
+Faltando: [14/02/1987 in] na página: soccer/uk.eurosport.yahoo.com/david-wheater.html
+Faltando: [25/08/1979 in Hampstead] na página: soccer/uk.eurosport.yahoo.com/marlon-harewood.html
+Faltando: [01/02/1984 in Edimbourg] na página: soccer/uk.eurosport.yahoo.com/darren-fletcher.html
+Faltando: [18/04/1979 in Eye] na página: soccer/uk.eurosport.yahoo.com/matthew-upson.html
+Faltando: [20/06/1978 in Romford] na página: soccer/uk.eurosport.yahoo.com/frank-lampard.html
+Faltando: [24/10/1985 in] na página: soccer/uk.eurosport.yahoo.com/wayne-rooney.html
+Faltando: [14/03/1975 in Easington] na página: soccer/uk.eurosport.yahoo.com/steve-harper.html
+Faltando: [01/08/1970 in Welwyn] na página: soccer/uk.eurosport.yahoo.com/david-james.html
+Faltando: [21/01/1975 in Manchester] na página: soccer/uk.eurosport.yahoo.com/nicky-butt.html
+Faltando: [13/06/1980 in Birmingham] na página: soccer/uk.eurosport.yahoo.com/darius-vassell.html
+Faltando: [15/05/1981 in Barking] na página: soccer/uk.eurosport.yahoo.com/paul-konchesky.html
+Faltando: [23/05/1985 in] na página: soccer/uk.eurosport.yahoo.com/ross-wallace.html
+Faltando: [25/01/1981 in] na página: soccer/uk.eurosport.yahoo.com/francis-jeffers.html
+Faltando: [09/04/1975 in Toxteth] na página: soccer/uk.eurosport.yahoo.com/robbie-fowler.html
+Faltando: [08/11/1981 in Islington] na página: soccer/uk.eurosport.yahoo.com/joe-cole.html
+Faltando: [23/02/1981 in Hastings] na página: soccer/uk.eurosport.yahoo.com/gareth-barry.html
+Faltando: [28/06/1985 in Salford] na página: soccer/uk.eurosport.yahoo.com/phillip-bardsley.html
+Faltando: [30/05/1980 in Whiston] na página: soccer/uk.eurosport.yahoo.com/steven-gerrard.html
+Faltando: [14/12/1982 in] na página: soccer/uk.eurosport.yahoo.com/steve-sidwell.html
+Faltando: [07/05/1974 in] na página: soccer/uk.eurosport.yahoo.com/ian-pearce.html
+Faltando: [12/04/1982 in Stirling] na página: soccer/uk.eurosport.yahoo.com/gary-caldwell.html
+Faltando: [21/09/1974 in Derby] na página: soccer/uk.eurosport.yahoo.com/andy-todd.html
+Faltando: [21/03/1988 in Stockton] na página: soccer/uk.eurosport.yahoo.com/lee-cattermole.html
+Faltando: [11/01/1978 in Leicester] na página: soccer/uk.eurosport.yahoo.com/emile-heskey.html
+Faltando: [27/03/1979 in] na página: soccer/uk.eurosport.yahoo.com/hayden-mullins.html
+Faltando: [07/12/1980 in Barking] na página: soccer/uk.eurosport.yahoo.com/john-terry.html
+Faltando: [08/12/1984 in Chelmsford] na página: soccer/uk.eurosport.yahoo.com/greg-halford.html
+Faltando: [09/02/1978 in Glasgow] na página: soccer/uk.eurosport.yahoo.com/barry-ferguson.html
+Faltando: [16/11/1974 in Salford] na página: soccer/uk.eurosport.yahoo.com/paul-scholes.html
+Faltando: [05/08/1980 in] na página: soccer/uk.eurosport.yahoo.com/wayne-bridge.html
+Faltando: [11/10/1980 in Brixton] na página: soccer/uk.eurosport.yahoo.com/nyron-nosworthy.html
+Faltando: [28/12/1984 in] na página: soccer/uk.eurosport.yahoo.com/leroy-lita.html
+Faltando: [06/10/1971 in Kirkby] na página: soccer/uk.eurosport.yahoo.com/alan-stubbs.html
+Faltando: [17/03/1979 in Wigan] na página: soccer/uk.eurosport.yahoo.com/andy-griffin.html
+Faltando: [07/06/1981 in Manchester] na página: soccer/uk.eurosport.yahoo.com/stephen-bywater.html
+Faltando: [30/11/1984 in Glasgow] na página: soccer/uk.eurosport.yahoo.com/alan-hutton.html
+Faltando: [02/10/1982 in Lanark] na página: soccer/uk.eurosport.yahoo.com/stephen-pearson.html
+Faltando: [20/09/1979 in Clapham] na página: soccer/uk.eurosport.yahoo.com/sean-davis.html
+Faltando: [28/07/1981 in Wallsend] na página: soccer/uk.eurosport.yahoo.com/michael-carrick.html
+Faltando: [18/02/1975 in] na página: soccer/uk.eurosport.yahoo.com/gary-neville.html
+Faltando: [03/09/1970 in] na página: soccer/uk.eurosport.yahoo.com/gareth-southgate.html
+Faltando: [23/01/1986 in Greenwich] na página: soccer/uk.eurosport.yahoo.com/steven-taylor.html
+Faltando: [25/10/1981 in London] na página: soccer/uk.eurosport.yahoo.com/shaun-wrightphillips.html
+Faltando: [12/10/1981 in Zaria ( Nigeria )] na página: soccer/uk.eurosport.yahoo.com/shola-ameobi.html
+Faltando: [12/12/1981 in Ormskirk] na página: soccer/uk.eurosport.yahoo.com/stephen-warnock.html
+Faltando: [03/09/1985 in Whitehaven] na página: soccer/uk.eurosport.yahoo.com/scott-carson.html
+Faltando: [16/01/1981 in London] na página: soccer/uk.eurosport.yahoo.com/bobby-zamora.html
+Faltando: [19/07/1979 in Harlow] na página: soccer/uk.eurosport.yahoo.com/luke-young.html
+Faltando: [24/01/1983 in] na página: soccer/uk.eurosport.yahoo.com/shaun-maloney.html
+Faltando: [02/05/1981 in Leicester] na página: soccer/uk.eurosport.yahoo.com/christopher-kirkland.html
+Faltando: [11/12/1982 in Birmingham] na página: soccer/uk.eurosport.yahoo.com/craig-fagan.html
+Faltando: [14/12/1979 in Chester] na página: soccer/uk.eurosport.yahoo.com/michael-owen.html
+Faltando: [21/07/1981 in Ipswich] na página: soccer/uk.eurosport.yahoo.com/titus-bramble.html
+Faltando: [11/12/1984 in] na página: soccer/uk.eurosport.yahoo.com/leighton-baines.html
+Faltando: [06/02/1984 in Tooting] na página: soccer/uk.eurosport.yahoo.com/darren-bent.html
+Faltando: [07/10/1982 in Reckton] na página: soccer/uk.eurosport.yahoo.com/jermain-defoe.html
+Faltando: [14/12/1978 in] na página: soccer/uk.eurosport.yahoo.com/paul-robinson.html
+Faltando: [18/01/1980 in Chertsey] na página: soccer/uk.eurosport.yahoo.com/robert-green.html
+Faltando: [26/03/1977 in Sheffield] na página: soccer/uk.eurosport.yahoo.com/kevin-davies.html
+Faltando: [12/11/1983 in Surrey] na página: soccer/uk.eurosport.yahoo.com/carlton-cole.html
+Faltando: [19/02/1981 in Romford] na página: soccer/uk.eurosport.yahoo.com/nicky-shorey.html
+Faltando: [18/02/1983 in Nottingham] na página: soccer/uk.eurosport.yahoo.com/jermaine-jenas.html
+Faltando: [08/11/1978 in Peckham] na página: soccer/uk.eurosport.yahoo.com/rio-ferdinand.html
+Faltando: [24/06/1988 in Birmingham] na página: soccer/uk.eurosport.yahoo.com/micah-richards.html
+Faltando: [25/10/1979 in] na página: soccer/uk.eurosport.yahoo.com/rob-hulse.html
+Faltando: [13/11/1974 in Slatburn] na página: soccer/uk.eurosport.yahoo.com/graeme-murty.html
+
+
+*************2016-02-18 13:19 - club********************************
+dataset;WEIR;domain;soccer;site;uk.eurosport.yahoo.com;attribute;club;relevantes;320;recuperados;314;relevantes recuperados; 314;recall;0.98125;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Sheffield Utd] na página: soccer/uk.eurosport.yahoo.com/david-cotterill.html
+Faltando: [PSV Eindhoven] na página: soccer/uk.eurosport.yahoo.com/dirk-marcellis.html
+Faltando: [Inter Milan] na página: soccer/uk.eurosport.yahoo.com/francesco-bolzoni.html
+Faltando: [Tottenham] na página: soccer/uk.eurosport.yahoo.com/fraizer-campbell.html
+Faltando: [FC Bâle] na página: soccer/uk.eurosport.yahoo.com/eduardo-rubio.html
+Faltando: [Wolverhampton] na página: soccer/uk.eurosport.yahoo.com/wayne-hennessey.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

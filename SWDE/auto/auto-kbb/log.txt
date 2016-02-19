@@ -1,0 +1,32 @@
+
+
+*************2016-02-18 12:43 - model********************************
+dataset;SWDE;domain;auto;site;auto-kbb;attribute;model;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-18 12:43
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 12:43 - price********************************
+dataset;SWDE;domain;auto;site;auto-kbb;attribute;price;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-18 12:43
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 12:43 - engine********************************
+dataset;SWDE;domain;auto;site;auto-kbb;attribute;engine;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-18 12:43
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 12:43 - fuel_economy********************************
+dataset;SWDE;domain;auto;site;auto-kbb;attribute;fuel_economy;relevantes;1587;recuperados;1587;relevantes recuperados; 1587;recall;1.0;precision;1.0;date;2016-02-18 12:43
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

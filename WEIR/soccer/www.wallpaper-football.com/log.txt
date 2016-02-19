@@ -1,0 +1,32 @@
+
+
+*************2016-02-18 13:19 - position********************************
+dataset;WEIR;domain;soccer;site;www.wallpaper-football.com;attribute;position;relevantes;154;recuperados;154;relevantes recuperados; 154;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - height********************************
+dataset;WEIR;domain;soccer;site;www.wallpaper-football.com;attribute;height;relevantes;154;recuperados;154;relevantes recuperados; 154;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - birthdate********************************
+dataset;WEIR;domain;soccer;site;www.wallpaper-football.com;attribute;birthdate;relevantes;154;recuperados;154;relevantes recuperados; 154;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - birthplace********************************
+dataset;WEIR;domain;soccer;site;www.wallpaper-football.com;attribute;birthplace;relevantes;154;recuperados;154;relevantes recuperados; 154;recall;1.0;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

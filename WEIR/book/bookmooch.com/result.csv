@@ -1,0 +1,7 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,book,bookmooch.com,author,rule_442.csv,Author:,155,155,155,1.0,1.0,2016-02-18 13:13
+WEIR,book,bookmooch.com,title,rule_401.csv,Title:,174,174,174,1.0,1.0,2016-02-18 13:13
+WEIR,book,bookmooch.com,publisher,rule_445.csv,Publisher:,169,169,169,1.0,1.0,2016-02-18 13:13
+WEIR,book,bookmooch.com,binding,rule_306.csv,Binding:,174,174,174,1.0,1.0,2016-02-18 13:13
+WEIR,book,bookmooch.com,date,rule_100.csv,Date:,168,168,168,1.0,1.0,2016-02-18 13:13
+WEIR,book,bookmooch.com,edition,rule_285.csv,Edition:,83,83,83,1.0,1.0,2016-02-18 13:13

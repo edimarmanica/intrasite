@@ -1,0 +1,256 @@
+
+
+*************2016-02-18 13:21 - publisher********************************
+dataset;WEIR;domain;videogame;site;www.games.net;attribute;publisher;relevantes;2486;recuperados;2430;relevantes recuperados; 2430;recall;0.9774738535800482;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [: Nintendo] na página: videogame/www.games.net/gamecube_110144_battalion-wars.html
+Faltando: [: N/A] na página: videogame/www.games.net/ps2_107408_monster-rancher-4.html
+Faltando: [: Warner Bros. Interactive Entertainment] na página: videogame/www.games.net/wii_140362_lego-batman-the-videogame.html
+Faltando: [: N/A] na página: videogame/www.games.net/ps2_107250_v-rally-3.html
+Faltando: [: N/A] na página: videogame/www.games.net/gamecube_107646_ghost-recon-2.html
+Faltando: [: Infogrames] na página: videogame/www.games.net/ps2_107315_wacky-races.html
+Faltando: [: iROCK Interactive] na página: videogame/www.games.net/ps2_105610_savage-skies.html
+Faltando: [: Codemasters] na página: videogame/www.games.net/ds_137201_race-driver-create-race.html
+Faltando: [: N/A] na página: videogame/www.games.net/ps2_106568_gallop-racer-2001.html
+Faltando: [: Myelin Media Inc.] na página: videogame/www.games.net/psp_111094_stacked-with-daniel-negreanu.html
+Faltando: [: 2K Sports] na página: videogame/www.games.net/psp_124567_tiger-woods-pga-tour-07.html
+Faltando: [: THQ] na página: videogame/www.games.net/ps2_110821_barnyard.html
+Faltando: [: N/A] na página: videogame/www.games.net/ps2_106643_virtual-on-marz.html
+Faltando: [: Agetec] na página: videogame/www.games.net/ps2_132041_raw-danger.html
+Faltando: [: Ubisoft] na página: videogame/www.games.net/ps2_115022_open-season.html
+Faltando: [: N/A] na página: videogame/www.games.net/ps2_106629_ico-2.html
+Faltando: [: SCEJ] na página: videogame/www.games.net/ps2_104946_dark-cloud.html
+Faltando: [: Capcom] na página: videogame/www.games.net/gamecube_106180_resident-evil-2.html
+Faltando: [: Got Game Entertainment] na página: videogame/www.games.net/psp_132521_puzzle-scape.html
+Faltando: [: Konami] na página: videogame/www.games.net/ds_127941_winning-eleven-pro-evolution-soccer-2007.html
+Faltando: [: EA] na página: videogame/www.games.net/ds_133603_tiger-woods-pga-tour-08.html
+Faltando: [: Spark Unlimited] na página: videogame/www.games.net/gamecube_108190_call-of-duty-finest-hour.html
+Faltando: [: Nintendo of America] na página: videogame/www.games.net/ds_117721_magnetica.html
+Faltando: [: MTV Games] na página: videogame/www.games.net/wii_142341_rock-band-2.html
+Faltando: [: Bandai] na página: videogame/www.games.net/gamecube_106329_ultimate-muscle-legends-vs-new-generation.html
+Faltando: [: Monolith Soft] na página: videogame/www.games.net/gamecube_107244_baten-kaitos.html
+Faltando: [: Konami Digital Entertainment] na página: videogame/www.games.net/wii_142416_karaoke-revolution-presents-american-idol-encore-2.html
+Faltando: [: EA Sports] na página: videogame/www.games.net/ps2_111921_mvp-06-ncaa-baseball.html
+Faltando: [: Capcom] na página: videogame/www.games.net/gamecube_105667_resident-evil.html
+Faltando: [: SCEA] na página: videogame/www.games.net/psp_111681_kingdom-of-paradise.html
+Faltando: [: Fox Interactive] na página: videogame/www.games.net/ps2_105485_the-simpsons-road-rage.html
+Faltando: [: Dreamcatcher] na página: videogame/www.games.net/ps2_110889_obscure.html
+Faltando: [: 2K Games] na página: videogame/www.games.net/ps2_111421_nhl-2k6.html
+Faltando: [: Namco Bandai Games] na página: videogame/www.games.net/wii_125063_sd-gundam-g-breaker.html
+Faltando: [: Taito] na página: videogame/www.games.net/psp_113681_exit.html
+Faltando: [: EA] na página: videogame/www.games.net/wii_130153_mysims.html
+Faltando: [: Nippon-ichi Software] na página: videogame/www.games.net/psp_130201_disgaea.html
+Faltando: [: Interact] na página: videogame/www.games.net/gamecube_105706_interact-gc-screen.html
+Faltando: [: THQ] na página: videogame/www.games.net/ps2_122741_monster-house.html
+Faltando: [: Ubi Soft] na página: videogame/www.games.net/gamecube_105464_disneys-tarzan-untamed.html
+Faltando: [: THQ] na página: videogame/www.games.net/psp_135663_juiced-2-hot-import-nights.html
+Faltando: [: Sega] na página: videogame/www.games.net/psp_128661_full-auto-2-battlelines.html
+Faltando: [: Edge of Reality] na página: videogame/www.games.net/ps2_107818_pitfall-the-lost-expedition.html
+Faltando: [: Activision] na página: videogame/www.games.net/wii_142215_spider-man-web-of-shadows.html
+Faltando: [: Namco Bandai Games] na página: videogame/www.games.net/psp_141965_naruto-ultimate-ninja-heroes-2-the-phantom-fortress.html
+Faltando: [: N/A] na página: videogame/www.games.net/gamecube_108085_jeremy-mcgraths-supercross-world.html
+Faltando: [: ACTIVISION] na página: videogame/www.games.net/ds_133883_tony-hawks-proving-ground.html
+Faltando: [: EA Games] na página: videogame/www.games.net/ps2_110047_batman-begins.html
+Faltando: [: Nintendo] na página: videogame/www.games.net/gamecube_105757_animal-crossing.html
+Faltando: [: Ubi Soft] na página: videogame/www.games.net/ps2_107004_beyond-good-and-evil.html
+Faltando: [: Konami] na página: videogame/www.games.net/gamecube_106046_disney-sports-skateboarding.html
+Faltando: [: Ignition Ent.] na página: videogame/www.games.net/ds_142292_metal-slug-7.html
+Faltando: [: N/A] na página: videogame/www.games.net/gamecube_106781_preview-disc.html
+Faltando: [: Cross] na página: videogame/www.games.net/ps2_104922_sky-odyssey.html
+Faltando: [: Capcom] na página: videogame/www.games.net/gamecube_107139_gotcha-force.html
+Faltando: [: Activision] na página: videogame/www.games.net/psp_126921_tony-hawks-project-8.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:21 - genre********************************
+dataset;WEIR;domain;videogame;site;www.games.net;attribute;genre;relevantes;2486;recuperados;2430;relevantes recuperados; 2430;recall;0.9774738535800482;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [: Action] na página: videogame/www.games.net/ps2_107818_pitfall-the-lost-expedition.html
+Faltando: [: Driving] na página: videogame/www.games.net/psp_128661_full-auto-2-battlelines.html
+Faltando: [: Puzzle] na página: videogame/www.games.net/ds_117721_magnetica.html
+Faltando: [: Action] na página: videogame/www.games.net/gamecube_108085_jeremy-mcgraths-supercross-world.html
+Faltando: [: Driving] na página: videogame/www.games.net/ds_137201_race-driver-create-race.html
+Faltando: [: Driving] na página: videogame/www.games.net/ps2_105485_the-simpsons-road-rage.html
+Faltando: [: Action] na página: videogame/www.games.net/gamecube_110144_battalion-wars.html
+Faltando: [: Action] na página: videogame/www.games.net/ps2_107004_beyond-good-and-evil.html
+Faltando: [: Sports] na página: videogame/www.games.net/ds_127941_winning-eleven-pro-evolution-soccer-2007.html
+Faltando: [: Action] na página: videogame/www.games.net/ps2_132041_raw-danger.html
+Faltando: [: Action] na página: videogame/www.games.net/ps2_122741_monster-house.html
+Faltando: [: Action] na página: videogame/www.games.net/gamecube_105667_resident-evil.html
+Faltando: [: Driving] na página: videogame/www.games.net/ps2_107250_v-rally-3.html
+Faltando: [: Adventure] na página: videogame/www.games.net/ps2_110821_barnyard.html
+Faltando: [: Fighting] na página: videogame/www.games.net/psp_141965_naruto-ultimate-ninja-heroes-2-the-phantom-fortress.html
+Faltando: [: Fly] na página: videogame/www.games.net/ps2_104922_sky-odyssey.html
+Faltando: [: Strategy] na página: videogame/www.games.net/ps2_107408_monster-rancher-4.html
+Faltando: [: Puzzle] na página: videogame/www.games.net/psp_111094_stacked-with-daniel-negreanu.html
+Faltando: [: Action] na página: videogame/www.games.net/wii_142215_spider-man-web-of-shadows.html
+Faltando: [: Action] na página: videogame/www.games.net/wii_125063_sd-gundam-g-breaker.html
+Faltando: [: Action] na página: videogame/www.games.net/ps2_105610_savage-skies.html
+Faltando: [: Action] na página: videogame/www.games.net/gamecube_107139_gotcha-force.html
+Faltando: [: Action] na página: videogame/www.games.net/ps2_110047_batman-begins.html
+Faltando: [: Driving] na página: videogame/www.games.net/ps2_107315_wacky-races.html
+Faltando: [: Sports] na página: videogame/www.games.net/ds_133883_tony-hawks-proving-ground.html
+Faltando: [: Sports] na página: videogame/www.games.net/ds_133603_tiger-woods-pga-tour-08.html
+Faltando: [: Action] na página: videogame/www.games.net/ps2_110889_obscure.html
+Faltando: [: RPG] na página: videogame/www.games.net/psp_111681_kingdom-of-paradise.html
+Faltando: [: Action] na página: videogame/www.games.net/gamecube_106781_preview-disc.html
+Faltando: [: Sports] na página: videogame/www.games.net/ps2_106568_gallop-racer-2001.html
+Faltando: [: RPG] na página: videogame/www.games.net/psp_130201_disgaea.html
+Faltando: [: Sports] na página: videogame/www.games.net/psp_126921_tony-hawks-project-8.html
+Faltando: [: Driving] na página: videogame/www.games.net/psp_135663_juiced-2-hot-import-nights.html
+Faltando: [: Simulation] na página: videogame/www.games.net/wii_142416_karaoke-revolution-presents-american-idol-encore-2.html
+Faltando: [: Puzzle] na página: videogame/www.games.net/psp_132521_puzzle-scape.html
+Faltando: [: Action] na página: videogame/www.games.net/gamecube_106329_ultimate-muscle-legends-vs-new-generation.html
+Faltando: [: Simulation] na página: videogame/www.games.net/wii_130153_mysims.html
+Faltando: [: Simulation] na página: videogame/www.games.net/wii_142341_rock-band-2.html
+Faltando: [: Sports] na página: videogame/www.games.net/ps2_111921_mvp-06-ncaa-baseball.html
+Faltando: [: Simulation] na página: videogame/www.games.net/ps2_106643_virtual-on-marz.html
+Faltando: [: Adventure] na página: videogame/www.games.net/gamecube_106180_resident-evil-2.html
+Faltando: [: Action] na página: videogame/www.games.net/gamecube_108190_call-of-duty-finest-hour.html
+Faltando: [: Sports] na página: videogame/www.games.net/gamecube_106046_disney-sports-skateboarding.html
+Faltando: [: RPG] na página: videogame/www.games.net/ps2_104946_dark-cloud.html
+Faltando: [: Action] na página: videogame/www.games.net/gamecube_105464_disneys-tarzan-untamed.html
+Faltando: [: Sports] na página: videogame/www.games.net/psp_124567_tiger-woods-pga-tour-07.html
+Faltando: [: Action] na página: videogame/www.games.net/ps2_115022_open-season.html
+Faltando: [: Action] na página: videogame/www.games.net/gamecube_107646_ghost-recon-2.html
+Faltando: [: Adventure] na página: videogame/www.games.net/gamecube_105757_animal-crossing.html
+Faltando: [: Puzzle] na página: videogame/www.games.net/psp_113681_exit.html
+Faltando: [: Adventure] na página: videogame/www.games.net/wii_140362_lego-batman-the-videogame.html
+Faltando: [: Sports] na página: videogame/www.games.net/ps2_111421_nhl-2k6.html
+Faltando: [: Action] na página: videogame/www.games.net/gamecube_105706_interact-gc-screen.html
+Faltando: [: RPG] na página: videogame/www.games.net/gamecube_107244_baten-kaitos.html
+Faltando: [: Action] na página: videogame/www.games.net/ds_142292_metal-slug-7.html
+Faltando: [: Action] na página: videogame/www.games.net/ps2_106629_ico-2.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:21 - developer********************************
+dataset;WEIR;domain;videogame;site;www.games.net;attribute;developer;relevantes;2486;recuperados;2430;relevantes recuperados; 2430;recall;0.9774738535800482;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [: bam! Entertainment] na página: videogame/www.games.net/ps2_105610_savage-skies.html
+Faltando: [: TBA] na página: videogame/www.games.net/ps2_110821_barnyard.html
+Faltando: [: EA] na página: videogame/www.games.net/gamecube_105757_animal-crossing.html
+Faltando: [: Hydravision] na página: videogame/www.games.net/ps2_110889_obscure.html
+Faltando: [: N/A] na página: videogame/www.games.net/gamecube_107646_ghost-recon-2.html
+Faltando: [: Namco] na página: videogame/www.games.net/gamecube_107244_baten-kaitos.html
+Faltando: [: Infogrames] na página: videogame/www.games.net/ps2_107315_wacky-races.html
+Faltando: [: Activision] na página: videogame/www.games.net/gamecube_108190_call-of-duty-finest-hour.html
+Faltando: [: Kuju Entertainment] na página: videogame/www.games.net/gamecube_110144_battalion-wars.html
+Faltando: [: Eurocom] na página: videogame/www.games.net/ps2_110047_batman-begins.html
+Faltando: [: Neversoft] na página: videogame/www.games.net/ds_133883_tony-hawks-proving-ground.html
+Faltando: [: Namco/Bandai Games] na página: videogame/www.games.net/wii_125063_sd-gundam-g-breaker.html
+Faltando: [: 2K Sports] na página: videogame/www.games.net/psp_124567_tiger-woods-pga-tour-07.html
+Faltando: [: Ubisoft] na página: videogame/www.games.net/ps2_115022_open-season.html
+Faltando: [: N/A] na página: videogame/www.games.net/ps2_106629_ico-2.html
+Faltando: [: A2M] na página: videogame/www.games.net/ps2_122741_monster-house.html
+Faltando: [: Konami Digital Entertainment] na página: videogame/www.games.net/ds_127941_winning-eleven-pro-evolution-soccer-2007.html
+Faltando: [: Nippon Ichi Software] na página: videogame/www.games.net/psp_130201_disgaea.html
+Faltando: [: Tecmo] na página: videogame/www.games.net/ps2_106568_gallop-racer-2001.html
+Faltando: [: Farmind Ltd] na página: videogame/www.games.net/psp_132521_puzzle-scape.html
+Faltando: [: Firebrand Games] na página: videogame/www.games.net/ds_137201_race-driver-create-race.html
+Faltando: [: Capcom] na página: videogame/www.games.net/gamecube_106180_resident-evil-2.html
+Faltando: [: EA] na página: videogame/www.games.net/ds_133603_tiger-woods-pga-tour-08.html
+Faltando: [: 2K Sports] na página: videogame/www.games.net/ps2_111421_nhl-2k6.html
+Faltando: [: Bandai] na página: videogame/www.games.net/gamecube_106329_ultimate-muscle-legends-vs-new-generation.html
+Faltando: [: Nintendo] na página: videogame/www.games.net/gamecube_106781_preview-disc.html
+Faltando: [: Page 44 Studios] na página: videogame/www.games.net/psp_126921_tony-hawks-project-8.html
+Faltando: [: Capcom] na página: videogame/www.games.net/gamecube_105667_resident-evil.html
+Faltando: [: Tecmo] na página: videogame/www.games.net/ps2_107408_monster-rancher-4.html
+Faltando: [: Irem] na página: videogame/www.games.net/ps2_132041_raw-danger.html
+Faltando: [: Activision] na página: videogame/www.games.net/ps2_107818_pitfall-the-lost-expedition.html
+Faltando: [: Activision] na página: videogame/www.games.net/ps2_104922_sky-odyssey.html
+Faltando: [: Climax] na página: videogame/www.games.net/psp_111681_kingdom-of-paradise.html
+Faltando: [: N/A] na página: videogame/www.games.net/gamecube_105706_interact-gc-screen.html
+Faltando: [: Harmonix Music Systems] na página: videogame/www.games.net/wii_142341_rock-band-2.html
+Faltando: [: Taito] na página: videogame/www.games.net/psp_113681_exit.html
+Faltando: [: EA] na página: videogame/www.games.net/wii_130153_mysims.html
+Faltando: [: Deep Fried Ent.] na página: videogame/www.games.net/psp_128661_full-auto-2-battlelines.html
+Faltando: [: Electronic Arts] na página: videogame/www.games.net/ps2_105485_the-simpsons-road-rage.html
+Faltando: [: SNK Playmore] na página: videogame/www.games.net/ds_142292_metal-slug-7.html
+Faltando: [: Ubi Soft] na página: videogame/www.games.net/gamecube_105464_disneys-tarzan-untamed.html
+Faltando: [: THQ] na página: videogame/www.games.net/psp_135663_juiced-2-hot-import-nights.html
+Faltando: [: Atari] na página: videogame/www.games.net/ps2_107250_v-rally-3.html
+Faltando: [: Shaba Games] na página: videogame/www.games.net/wii_142215_spider-man-web-of-shadows.html
+Faltando: [: Mitchell] na página: videogame/www.games.net/ds_117721_magnetica.html
+Faltando: [: Traveller's Tales] na página: videogame/www.games.net/wii_140362_lego-batman-the-videogame.html
+Faltando: [: Blitz Games] na página: videogame/www.games.net/wii_142416_karaoke-revolution-presents-american-idol-encore-2.html
+Faltando: [: N/A] na página: videogame/www.games.net/gamecube_108085_jeremy-mcgraths-supercross-world.html
+Faltando: [: 5000Ft. Inc.] na página: videogame/www.games.net/psp_111094_stacked-with-daniel-negreanu.html
+Faltando: [: CyberConnect2] na página: videogame/www.games.net/psp_141965_naruto-ultimate-ninja-heroes-2-the-phantom-fortress.html
+Faltando: [: Ubi Soft] na página: videogame/www.games.net/ps2_107004_beyond-good-and-evil.html
+Faltando: [: Konami] na página: videogame/www.games.net/gamecube_106046_disney-sports-skateboarding.html
+Faltando: [: EA] na página: videogame/www.games.net/ps2_111921_mvp-06-ncaa-baseball.html
+Faltando: [: Sony Computer Entertainment] na página: videogame/www.games.net/ps2_104946_dark-cloud.html
+Faltando: [: Sega] na página: videogame/www.games.net/ps2_106643_virtual-on-marz.html
+Faltando: [: Capcom] na página: videogame/www.games.net/gamecube_107139_gotcha-force.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:21 - esrb********************************
+dataset;WEIR;domain;videogame;site;www.games.net;attribute;esrb;relevantes;2486;recuperados;2430;relevantes recuperados; 2430;recall;0.9774738535800482;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [: R/P] na página: videogame/www.games.net/gamecube_106781_preview-disc.html
+Faltando: [: Everyone] na página: videogame/www.games.net/gamecube_106046_disney-sports-skateboarding.html
+Faltando: [: R/P] na página: videogame/www.games.net/wii_125063_sd-gundam-g-breaker.html
+Faltando: [: R/P] na página: videogame/www.games.net/gamecube_107646_ghost-recon-2.html
+Faltando: [: Mature] na página: videogame/www.games.net/gamecube_105667_resident-evil.html
+Faltando: [: Everyone] na página: videogame/www.games.net/gamecube_105757_animal-crossing.html
+Faltando: [: R/P] na página: videogame/www.games.net/ds_137201_race-driver-create-race.html
+Faltando: [: Teen] na página: videogame/www.games.net/gamecube_110144_battalion-wars.html
+Faltando: [: Everyone] na página: videogame/www.games.net/psp_132521_puzzle-scape.html
+Faltando: [: Mature] na página: videogame/www.games.net/gamecube_106180_resident-evil-2.html
+Faltando: [: Teen] na página: videogame/www.games.net/ps2_132041_raw-danger.html
+Faltando: [: Everyone] na página: videogame/www.games.net/ds_133603_tiger-woods-pga-tour-08.html
+Faltando: [: R/P] na página: videogame/www.games.net/ps2_106629_ico-2.html
+Faltando: [: R/P] na página: videogame/www.games.net/psp_128661_full-auto-2-battlelines.html
+Faltando: [: Everyone] na página: videogame/www.games.net/ps2_106568_gallop-racer-2001.html
+Faltando: [: Teen] na página: videogame/www.games.net/ps2_104946_dark-cloud.html
+Faltando: [: R/P] na página: videogame/www.games.net/ps2_107315_wacky-races.html
+Faltando: [: Everyone] na página: videogame/www.games.net/ps2_110821_barnyard.html
+Faltando: [: Everyone] na página: videogame/www.games.net/ds_127941_winning-eleven-pro-evolution-soccer-2007.html
+Faltando: [: R/P] na página: videogame/www.games.net/psp_111681_kingdom-of-paradise.html
+Faltando: [: Everyone] na página: videogame/www.games.net/ps2_104922_sky-odyssey.html
+Faltando: [: Teen] na página: videogame/www.games.net/psp_135663_juiced-2-hot-import-nights.html
+Faltando: [: R/P] na página: videogame/www.games.net/wii_140362_lego-batman-the-videogame.html
+Faltando: [: Everyone] na página: videogame/www.games.net/ps2_107250_v-rally-3.html
+Faltando: [: Teen] na página: videogame/www.games.net/gamecube_107244_baten-kaitos.html
+Faltando: [: Everyone] na página: videogame/www.games.net/psp_113681_exit.html
+Faltando: [: R/P] na página: videogame/www.games.net/psp_130201_disgaea.html
+Faltando: [: Everyone] na página: videogame/www.games.net/ps2_111921_mvp-06-ncaa-baseball.html
+Faltando: [: R/P] na página: videogame/www.games.net/psp_111094_stacked-with-daniel-negreanu.html
+Faltando: [: Teen] na página: videogame/www.games.net/ps2_107004_beyond-good-and-evil.html
+Faltando: [: Teen] na página: videogame/www.games.net/ps2_106643_virtual-on-marz.html
+Faltando: [: Everyone 10 and Older] na página: videogame/www.games.net/ps2_111421_nhl-2k6.html
+Faltando: [: Teen] na página: videogame/www.games.net/psp_126921_tony-hawks-project-8.html
+Faltando: [: Teen] na página: videogame/www.games.net/ds_142292_metal-slug-7.html
+Faltando: [: Teen] na página: videogame/www.games.net/ps2_110047_batman-begins.html
+Faltando: [: Everyone] na página: videogame/www.games.net/ds_117721_magnetica.html
+Faltando: [: Everyone] na página: videogame/www.games.net/ps2_107818_pitfall-the-lost-expedition.html
+Faltando: [: Teen] na página: videogame/www.games.net/psp_141965_naruto-ultimate-ninja-heroes-2-the-phantom-fortress.html
+Faltando: [: Everyone] na página: videogame/www.games.net/wii_130153_mysims.html
+Faltando: [: Teen] na página: videogame/www.games.net/wii_142215_spider-man-web-of-shadows.html
+Faltando: [: R/P] na página: videogame/www.games.net/wii_142341_rock-band-2.html
+Faltando: [: Teen] na página: videogame/www.games.net/ds_133883_tony-hawks-proving-ground.html
+Faltando: [: Everyone] na página: videogame/www.games.net/psp_124567_tiger-woods-pga-tour-07.html
+Faltando: [: R/P] na página: videogame/www.games.net/gamecube_105706_interact-gc-screen.html
+Faltando: [: Teen] na página: videogame/www.games.net/gamecube_108190_call-of-duty-finest-hour.html
+Faltando: [: Everyone] na página: videogame/www.games.net/gamecube_105464_disneys-tarzan-untamed.html
+Faltando: [: R/P] na página: videogame/www.games.net/wii_142416_karaoke-revolution-presents-american-idol-encore-2.html
+Faltando: [: Mature] na página: videogame/www.games.net/ps2_110889_obscure.html
+Faltando: [: Everyone] na página: videogame/www.games.net/ps2_107408_monster-rancher-4.html
+Faltando: [: Teen] na página: videogame/www.games.net/ps2_105485_the-simpsons-road-rage.html
+Faltando: [: Mature] na página: videogame/www.games.net/ps2_105610_savage-skies.html
+Faltando: [: R/P] na página: videogame/www.games.net/gamecube_107139_gotcha-force.html
+Faltando: [: Everyone 10 and Older] na página: videogame/www.games.net/ps2_122741_monster-house.html
+Faltando: [: R/P] na página: videogame/www.games.net/ps2_115022_open-season.html
+Faltando: [: Teen] na página: videogame/www.games.net/gamecube_106329_ultimate-muscle-legends-vs-new-generation.html
+Faltando: [: R/P] na página: videogame/www.games.net/gamecube_108085_jeremy-mcgraths-supercross-world.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

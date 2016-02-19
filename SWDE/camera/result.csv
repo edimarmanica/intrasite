@@ -1,0 +1,31 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,camera,camera-amazon,manufacturer,rule_1100.csv,by,1767,1484,1484,0.8398415393322015,1.0,2016-02-12 14:07
+SWDE,camera,camera-amazon,model,rule_1954.csv,by,1767,1391,1391,0.787209960384833,1.0,2016-02-12 14:07
+SWDE,camera,camera-amazon,price,rule_1051.csv,Price:,1767,1390,1390,0.7866440294284097,1.0,2016-02-12 14:07
+SWDE,camera,camera-beachaudio,manufacturer,rule_3056.csv,Manufacturer,247,247,247,1.0,1.0,2016-02-17 11:16
+SWDE,camera,camera-beachaudio,model,rule_3154.csv,Product Name,247,247,247,1.0,1.0,2016-02-17 11:16
+SWDE,camera,camera-beachaudio,price,rule_2113.csv,Price:,247,222,222,0.8987854251012146,1.0,2016-02-17 11:16
+SWDE,camera,camera-buy,manufacturer,rule_13455.csv,Manufacturer:,500,500,500,1.0,1.0,2016-02-17 11:22
+SWDE,camera,camera-buy,model,rule_2605.csv,Share this Product,500,469,469,0.938,1.0,2016-02-17 11:22
+SWDE,camera,camera-buy,price,rule_11122.csv,Price,500,447,447,0.894,1.0,2016-02-17 11:22
+SWDE,camera,camera-compsource,manufacturer,rule_7991.csv,You've Selected :,430,430,430,1.0,1.0,2016-02-17 11:24
+SWDE,camera,camera-compsource,model,rule_2429.csv,Product Name,430,412,412,0.958139534883721,1.0,2016-02-17 11:24
+SWDE,camera,camera-compsource,price,rule_8074.csv,In Stock:,430,223,223,0.5186046511627908,1.0,2016-02-17 11:24
+SWDE,camera,camera-ecost,manufacturer,rule_3736.csv,Manufacturer:,917,917,917,1.0,1.0,2016-02-17 11:26
+SWDE,camera,camera-ecost,model,rule_2622.csv,.socialNetworking td { padding: 5px; },923,923,921,0.9978331527627302,0.9978331527627302,2016-02-17 11:26
+SWDE,camera,camera-ecost,price,rule_3968.csv,Price:,911,911,911,1.0,1.0,2016-02-17 11:26
+SWDE,camera,camera-jr,manufacturer,rule_1219.csv,See similar Point and Shoot Digital Cameras where:,367,367,367,1.0,1.0,2016-02-17 11:35
+SWDE,camera,camera-jr,model,rule_1728.csv,Product Name,367,314,314,0.8555858310626703,1.0,2016-02-17 11:35
+SWDE,camera,camera-jr,price,rule_549.csv,Price,342,290,290,0.847953216374269,1.0,2016-02-17 11:35
+SWDE,camera,camera-newegg,manufacturer,rule_38.csv,2_.,220,220,220,1.0,1.0,2016-02-17 11:51
+SWDE,camera,camera-newegg,model,rule_520.csv,"* Additional fees may apply to shipments to AK, HI and PR.",220,152,152,0.6909090909090909,1.0,2016-02-17 11:51
+SWDE,camera,camera-newegg,price,rule_353.csv,$2.99 Shipping*,220,81,81,0.36818181818181817,1.0,2016-02-17 11:51
+SWDE,camera,camera-onsale,manufacturer,rule_3462.csv,Home,261,261,261,1.0,1.0,2016-02-17 11:37
+SWDE,camera,camera-onsale,model,rule_1963.csv,Learn more about the product,261,240,240,0.9195402298850575,1.0,2016-02-17 11:37
+SWDE,camera,camera-onsale,price,rule_1189.csv,Price:,261,261,261,1.0,1.0,2016-02-17 11:37
+SWDE,camera,camera-pcnation,manufacturer,rule_614.csv,Brand Name:,234,234,234,1.0,1.0,2016-02-17 11:53
+SWDE,camera,camera-pcnation,model,rule_226.csv,Product Name:,234,234,234,1.0,1.0,2016-02-17 11:53
+SWDE,camera,camera-pcnation,price,rule_1256.csv,Our Price:,234,234,234,1.0,1.0,2016-02-17 11:53
+SWDE,camera,camera-thenerds,manufacturer,rule_917.csv,Brand Name:,309,309,309,1.0,1.0,2016-02-17 11:54
+SWDE,camera,camera-thenerds,model,rule_1540.csv,Digital Cameras,309,309,309,1.0,1.0,2016-02-17 11:54
+SWDE,camera,camera-thenerds,price,rule_1025.csv,Price:,309,309,309,1.0,1.0,2016-02-17 11:54

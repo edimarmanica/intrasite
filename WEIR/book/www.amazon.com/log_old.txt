@@ -1,0 +1,94 @@
+
+
+*************2016-02-18 13:13 - author********************************
+dataset;WEIR;domain;book;site;www.amazon.com;attribute;author;relevantes;91;recuperados;50;relevantes recuperados; 48;recall;0.5274725274725275;precision;0.96;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Liz ed Bourne] na página: book/www.amazon.com/0002201003.html
+Faltando: [Christopher Grey-Wilson] na página: book/www.amazon.com/0002201070.html
+Faltando: [William Wordsworth] na página: book/www.amazon.com/0001049321.html
+Faltando: [Jack Griggs] na página: book/www.amazon.com/0002201097.html
+Faltando: [Jeffrey Archer] na página: book/www.amazon.com/0001050214.html
+Faltando: [William Shakespeare] na página: book/www.amazon.com/0001050508.html
+Faltando: [Dalai Lama XIV] na página: book/www.amazon.com/0002200430.html
+Faltando: [John O'Byrne] na página: book/www.amazon.com/0002201283.html
+Faltando: [Barbara Bradford] na página: book/www.amazon.com/0001052101.html
+Faltando: [Dennis Skinner] na página: book/www.amazon.com/0002201143.html
+Faltando: [K Anderson] na página: book/www.amazon.com/0001050869.html
+Faltando: [Christopher Grey-Wilson] na página: book/www.amazon.com/0002200171.html
+Faltando: [Oliver Gilbert] na página: book/www.amazon.com/0002200821.html
+Faltando: [M. Chinery] na página: book/www.amazon.com/0002200597.html
+Faltando: [Geoff Sample] na página: book/www.amazon.com/0002201224.html
+Faltando: [HarperCollins UK] na página: book/www.amazon.com/0002201194.html
+Faltando: [H Hofmann] na página: book/www.amazon.com/0002200295.html
+Faltando: [Roger MacBride Allen] na página: book/www.amazon.com/0001050877.html
+Faltando: [Regis Courtecuisse] na página: book/www.amazon.com/0002200120.html
+Faltando: [Richard Fitter] na página: book/www.amazon.com/0002200627.html
+Faltando: [Michael Parkinson] na página: book/www.amazon.com/0001052195.html
+Faltando: [Regis Courtecuisse] na página: book/www.amazon.com/0002200252.html
+Faltando: [Jeffrey Archer] na página: book/www.amazon.com/0001052152.html
+Faltando: [Paul Merton] na página: book/www.amazon.com/0001052144.html
+Faltando: [Dwight Holing] na página: book/www.amazon.com/0002201089.html
+Faltando: [JOHN A. BURTON] na página: book/www.amazon.com/0002200082.html
+Faltando: [Elizabeth Smart] na página: book/www.amazon.com/0001050451.html
+Faltando: [William Shakespeare] na página: book/www.amazon.com/0001050249.html
+Faltando: [Oliver Gilbert] na página: book/www.amazon.com/0002200813.html
+Faltando: [Peter Markham Scott] na página: book/www.amazon.com/0002201100.html
+Faltando: [Michael Dobbs~Tim Pigott-Smith] na página: book/www.amazon.com/0001052160.html
+Faltando: [Charles Grant] na página: book/www.amazon.com/0001049895.html
+Faltando: [Michael Dibdin] na página: book/www.amazon.com/0001052039.html
+Faltando: [HarperCollins UK] na página: book/www.amazon.com/0002201712.html
+Faltando: [Leighton. Taylor] na página: book/www.amazon.com/0002201046.html
+Faltando: [Jeffrey Archer] na página: book/www.amazon.com/0001050206.html
+Faltando: [Colin Harrison] na página: book/www.amazon.com/0002201259.html
+Faltando: [Ruth Rendell~George Baker] na página: book/www.amazon.com/0001050052.html
+Faltando: [Graham Pizzey] na página: book/www.amazon.com/0002201321.html
+Faltando: [Barbara Hambly] na página: book/www.amazon.com/0001050923.html
+Faltando: [Ber Van Perlo] na página: book/www.amazon.com/0002201178.html
+Faltando: [Keith M. Harris] na página: book/www.amazon.com/0002200635.html
+Faltando: [Martin R. De LA Pena] na página: book/www.amazon.com/0002200775.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+Faltando: [Alastair Fitter] na página: book/www.amazon.com/0002200627.html
+Faltando: [Stefan T. Buczacki] na página: book/www.amazon.com/0002200635.html
+
+
+*************2016-02-18 13:13 - title********************************
+dataset;WEIR;domain;book;site;www.amazon.com;attribute;title;relevantes;106;recuperados;106;relevantes recuperados; 106;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - publisher********************************
+dataset;WEIR;domain;book;site;www.amazon.com;attribute;publisher;relevantes;102;recuperados;102;relevantes recuperados; 102;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - isbn13********************************
+dataset;WEIR;domain;book;site;www.amazon.com;attribute;isbn13;relevantes;106;recuperados;106;relevantes recuperados; 106;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - binding********************************
+dataset;WEIR;domain;book;site;www.amazon.com;attribute;binding;relevantes;106;recuperados;105;relevantes recuperados; 105;recall;0.9905660377358491;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Audio Cassette] na página: book/www.amazon.com/0001049313.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - date********************************
+dataset;WEIR;domain;book;site;www.amazon.com;attribute;date;relevantes;77;recuperados;77;relevantes recuperados; 77;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

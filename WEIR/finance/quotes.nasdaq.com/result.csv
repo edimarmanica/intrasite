@@ -1,0 +1,6 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,finance,quotes.nasdaq.com,value,rule_86.csv,Update Quotes:,451,451,451,1.0,1.0,2016-02-18 13:14
+WEIR,finance,quotes.nasdaq.com,open,rule_17.csv,Beta,114,111,111,0.9736842105263158,1.0,2016-02-18 13:14
+WEIR,finance,quotes.nasdaq.com,high,rule_91.csv,Today's High / Low,451,451,451,1.0,1.0,2016-02-18 13:14
+WEIR,finance,quotes.nasdaq.com,low,rule_88.csv,Today's High / Low,451,451,451,1.0,1.0,2016-02-18 13:14
+WEIR,finance,quotes.nasdaq.com,volume,rule_69.csv,Share Volume,451,451,451,1.0,1.0,2016-02-18 13:14

@@ -1,0 +1,68 @@
+
+
+*************2016-02-18 13:13 - author********************************
+dataset;WEIR;domain;book;site;bookshop.blackwell.co.uk;attribute;author;relevantes;166;recuperados;166;relevantes recuperados; 166;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - title********************************
+dataset;WEIR;domain;book;site;bookshop.blackwell.co.uk;attribute;title;relevantes;184;recuperados;166;relevantes recuperados; 166;recall;0.9021739130434783;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Bible] na página: book/bookshop.blackwell.co.uk/0002201127.html
+Faltando: [Bible] na página: book/bookshop.blackwell.co.uk/0002201208.html
+Faltando: [Good News Bible] na página: book/bookshop.blackwell.co.uk/0002201119.html
+Faltando: [Bible] na página: book/bookshop.blackwell.co.uk/0002201658.html
+Faltando: [The Bible] na página: book/bookshop.blackwell.co.uk/0002201976.html
+Faltando: [Birds of North America] na página: book/bookshop.blackwell.co.uk/0002201097.html
+Faltando: [Bible] na página: book/bookshop.blackwell.co.uk/0002201585.html
+Faltando: [Bible] na página: book/bookshop.blackwell.co.uk/0002201909.html
+Faltando: [Bible] na página: book/bookshop.blackwell.co.uk/0002201895.html
+Faltando: [The Millennium Experience] na página: book/bookshop.blackwell.co.uk/0002201690.html
+Faltando: [Bible] na página: book/bookshop.blackwell.co.uk/0002201607.html
+Faltando: [Bible] na página: book/bookshop.blackwell.co.uk/0002201925.html
+Faltando: [Bible] na página: book/bookshop.blackwell.co.uk/0002201933.html
+Faltando: [Bible] na página: book/bookshop.blackwell.co.uk/0002200783.html
+Faltando: [The Bible] na página: book/bookshop.blackwell.co.uk/0002201887.html
+Faltando: [Bible] na página: book/bookshop.blackwell.co.uk/0002201941.html
+Faltando: [Sharks and Rays] na página: book/bookshop.blackwell.co.uk/0002201046.html
+Faltando: [Rocks and Fossils] na página: book/bookshop.blackwell.co.uk/0002200708.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - isbn13********************************
+dataset;WEIR;domain;book;site;bookshop.blackwell.co.uk;attribute;isbn13;relevantes;184;recuperados;184;relevantes recuperados; 184;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - binding********************************
+dataset;WEIR;domain;book;site;bookshop.blackwell.co.uk;attribute;binding;relevantes;182;recuperados;181;relevantes recuperados; 181;recall;0.9945054945054945;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [illustrated edition] na página: book/bookshop.blackwell.co.uk/0002200341.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - date********************************
+dataset;WEIR;domain;book;site;bookshop.blackwell.co.uk;attribute;date;relevantes;184;recuperados;184;relevantes recuperados; 184;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - edition********************************
+dataset;WEIR;domain;book;site;bookshop.blackwell.co.uk;attribute;edition;relevantes;132;recuperados;131;relevantes recuperados; 131;recall;0.9924242424242424;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [illustrated edition] na página: book/bookshop.blackwell.co.uk/0002200341.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

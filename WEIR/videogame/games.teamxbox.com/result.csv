@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,videogame,games.teamxbox.com,publisher,rule_258.csv,Developer:,1761,1761,1761,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,games.teamxbox.com,genre,rule_305.csv,Developer:,1763,1763,1763,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,games.teamxbox.com,developer,rule_504.csv,Developer:,1763,1763,1763,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,games.teamxbox.com,esrb,rule_923.csv,Developer:,1763,1763,1763,1.0,1.0,2016-02-18 13:21

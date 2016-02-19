@@ -1,0 +1,10 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,finance,www.quote.com,value,rule_298.csv,Last:,466,466,466,1.0,1.0,2016-02-18 13:15
+WEIR,finance,www.quote.com,var_per,rule_85.csv,Change %,466,466,466,1.0,1.0,2016-02-18 13:15
+WEIR,finance,www.quote.com,var_value,rule_103.csv,Change,466,466,466,1.0,1.0,2016-02-18 13:15
+WEIR,finance,www.quote.com,open,rule_492.csv,Div. Per Share,466,466,466,1.0,1.0,2016-02-18 13:15
+WEIR,finance,www.quote.com,high,rule_201.csv,52 Week High,466,466,466,1.0,1.0,2016-02-18 13:15
+WEIR,finance,www.quote.com,low,rule_262.csv,52 Week Low,466,466,466,1.0,1.0,2016-02-18 13:15
+WEIR,finance,www.quote.com,volume,rule_368.csv,Last Trade,463,463,463,1.0,1.0,2016-02-18 13:15
+WEIR,finance,www.quote.com,52wk_low,rule_548.csv,52 Week Low,447,447,447,1.0,1.0,2016-02-18 13:15
+WEIR,finance,www.quote.com,52wk_high,rule_412.csv,52 Week High,447,447,447,1.0,1.0,2016-02-18 13:15

@@ -1,0 +1,32 @@
+
+
+*************2016-02-18 12:09 - address********************************
+dataset;SWDE;domain;restaurant;site;restaurant-fodors;attribute;address;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-18 12:09
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 12:09 - cuisine********************************
+dataset;SWDE;domain;restaurant;site;restaurant-fodors;attribute;cuisine;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-18 12:09
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 12:09 - name********************************
+dataset;SWDE;domain;restaurant;site;restaurant-fodors;attribute;name;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-18 12:09
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 12:09 - phone********************************
+dataset;SWDE;domain;restaurant;site;restaurant-fodors;attribute;phone;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-18 12:09
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

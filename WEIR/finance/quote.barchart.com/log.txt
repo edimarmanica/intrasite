@@ -1,0 +1,104 @@
+
+
+*************2016-02-18 13:14 - value********************************
+dataset;WEIR;domain;finance;site;quote.barchart.com;attribute;value;relevantes;451;recuperados;447;relevantes recuperados; 447;recall;0.991130820399113;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [21.27] na página: finance/quote.barchart.com/aso.html
+Faltando: [8.74] na página: finance/quote.barchart.com/bsc.html
+Faltando: [7.88] na página: finance/quote.barchart.com/dcx.html
+Faltando: [0.5800] na página: finance/quote.barchart.com/psft.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - var_per********************************
+dataset;WEIR;domain;finance;site;quote.barchart.com;attribute;var_per;relevantes;451;recuperados;447;relevantes recuperados; 447;recall;0.991130820399113;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [+1.75 %] na página: finance/quote.barchart.com/bsc.html
+Faltando: [+0.90 %] na página: finance/quote.barchart.com/aso.html
+Faltando: [+1.68 %] na página: finance/quote.barchart.com/dcx.html
+Faltando: [+1.75 %] na página: finance/quote.barchart.com/psft.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - var_value********************************
+dataset;WEIR;domain;finance;site;quote.barchart.com;attribute;var_value;relevantes;451;recuperados;447;relevantes recuperados; 447;recall;0.991130820399113;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [+0.13] na página: finance/quote.barchart.com/dcx.html
+Faltando: [+0.0100] na página: finance/quote.barchart.com/psft.html
+Faltando: [+0.15] na página: finance/quote.barchart.com/bsc.html
+Faltando: [+0.19] na página: finance/quote.barchart.com/aso.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - open********************************
+dataset;WEIR;domain;finance;site;quote.barchart.com;attribute;open;relevantes;451;recuperados;447;relevantes recuperados; 447;recall;0.991130820399113;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [0.5700] na página: finance/quote.barchart.com/psft.html
+Faltando: [21.03] na página: finance/quote.barchart.com/aso.html
+Faltando: [8.92] na página: finance/quote.barchart.com/bsc.html
+Faltando: [7.98] na página: finance/quote.barchart.com/dcx.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - high********************************
+dataset;WEIR;domain;finance;site;quote.barchart.com;attribute;high;relevantes;451;recuperados;447;relevantes recuperados; 447;recall;0.991130820399113;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [9.44] na página: finance/quote.barchart.com/bsc.html
+Faltando: [21.27] na página: finance/quote.barchart.com/aso.html
+Faltando: [7.98] na página: finance/quote.barchart.com/dcx.html
+Faltando: [0.5800] na página: finance/quote.barchart.com/psft.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - low********************************
+dataset;WEIR;domain;finance;site;quote.barchart.com;attribute;low;relevantes;451;recuperados;447;relevantes recuperados; 447;recall;0.991130820399113;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [0.5700] na página: finance/quote.barchart.com/psft.html
+Faltando: [21.03] na página: finance/quote.barchart.com/aso.html
+Faltando: [8.34] na página: finance/quote.barchart.com/bsc.html
+Faltando: [7.88] na página: finance/quote.barchart.com/dcx.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - volume********************************
+dataset;WEIR;domain;finance;site;quote.barchart.com;attribute;volume;relevantes;451;recuperados;447;relevantes recuperados; 447;recall;0.991130820399113;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [400] na página: finance/quote.barchart.com/aso.html
+Faltando: [9300] na página: finance/quote.barchart.com/dcx.html
+Faltando: [28000] na página: finance/quote.barchart.com/psft.html
+Faltando: [1300] na página: finance/quote.barchart.com/bsc.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - 52wk_low********************************
+dataset;WEIR;domain;finance;site;quote.barchart.com;attribute;52wk_low;relevantes;451;recuperados;449;relevantes recuperados; 449;recall;0.9955654101995566;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [0.3500] na página: finance/quote.barchart.com/psft.html
+Faltando: [3.39] na página: finance/quote.barchart.com/bsc.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:14 - 52wk_high********************************
+dataset;WEIR;domain;finance;site;quote.barchart.com;attribute;52wk_high;relevantes;439;recuperados;437;relevantes recuperados; 437;recall;0.9954441913439636;precision;1.0;date;2016-02-18 13:14
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [0.6800] na página: finance/quote.barchart.com/psft.html
+Faltando: [12.83] na página: finance/quote.barchart.com/bsc.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

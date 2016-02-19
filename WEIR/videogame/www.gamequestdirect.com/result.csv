@@ -1,0 +1,4 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,videogame,www.gamequestdirect.com,publisher,rule_20.csv,Publisher:,620,620,620,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,www.gamequestdirect.com,genre,rule_59.csv,Category:,620,620,620,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,www.gamequestdirect.com,esrb,Attribute not found,,354,0,0,0.0,0.0,2016-02-18 13:21

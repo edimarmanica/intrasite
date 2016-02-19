@@ -1,0 +1,8 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,book,www.ecampus.com,author,rule_43.csv,by,66,66,66,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.ecampus.com,title,rule_61.csv,by,84,84,84,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.ecampus.com,publisher,rule_63.csv,Publisher(s):,84,84,84,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.ecampus.com,isbn13,rule_114.csv,ISBN13:,84,84,84,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.ecampus.com,binding,rule_209.csv,Format:,84,84,84,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.ecampus.com,date,rule_248.csv,Pub. Date:,84,84,84,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.ecampus.com,edition,rule_244.csv,by,27,27,27,1.0,1.0,2016-02-18 13:13

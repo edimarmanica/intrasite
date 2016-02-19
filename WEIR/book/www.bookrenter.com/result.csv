@@ -1,0 +1,6 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,book,www.bookrenter.com,author,rule_1.csv,Author(s):,83,83,83,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.bookrenter.com,title,rule_5.csv,"(access codes, DVDs, workbooks).",92,92,92,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.bookrenter.com,publisher,rule_2.csv,Publisher:,92,92,92,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.bookrenter.com,isbn13,rule_14.csv,ISBN:,92,92,92,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.bookrenter.com,binding,rule_13.csv,Binding:,92,92,92,1.0,1.0,2016-02-18 13:13

@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,restaurant,restaurant-gayot,address,rule_346.csv,Send to Phone,2000,2000,2000,1.0,1.0,2016-02-18 12:14
+SWDE,restaurant,restaurant-gayot,cuisine,rule_617.csv,for rating key,2000,1670,1670,0.835,1.0,2016-02-18 12:14
+SWDE,restaurant,restaurant-gayot,name,rule_480.csv,Restaurant Review,2000,2000,2000,1.0,1.0,2016-02-18 12:14
+SWDE,restaurant,restaurant-gayot,phone,rule_354.csv,| Make Restaurant Reservations,2000,1531,1531,0.7655,1.0,2016-02-18 12:14

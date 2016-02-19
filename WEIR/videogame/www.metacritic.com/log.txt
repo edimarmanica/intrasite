@@ -1,0 +1,32 @@
+
+
+*************2016-02-18 13:21 - publisher********************************
+dataset;WEIR;domain;videogame;site;www.metacritic.com;attribute;publisher;relevantes;785;recuperados;785;relevantes recuperados; 785;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:21 - genre********************************
+dataset;WEIR;domain;videogame;site;www.metacritic.com;attribute;genre;relevantes;785;recuperados;785;relevantes recuperados; 785;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:21 - developer********************************
+dataset;WEIR;domain;videogame;site;www.metacritic.com;attribute;developer;relevantes;785;recuperados;785;relevantes recuperados; 785;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:21 - esrb********************************
+dataset;WEIR;domain;videogame;site;www.metacritic.com;attribute;esrb;relevantes;780;recuperados;780;relevantes recuperados; 780;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

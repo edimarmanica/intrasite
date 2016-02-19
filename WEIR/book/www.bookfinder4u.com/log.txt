@@ -1,0 +1,238 @@
+
+
+*************2016-02-18 13:13 - author********************************
+dataset;WEIR;domain;book;site;www.bookfinder4u.com;attribute;author;relevantes;173;recuperados;151;relevantes recuperados; 151;recall;0.8728323699421965;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Linda Davies] na página: book/www.bookfinder4u.com/0001049461.html
+Faltando: [Jim Parton] na página: book/www.bookfinder4u.com/0002201690.html
+Faltando: [Emily Dickinson] na página: book/www.bookfinder4u.com/0001049348.html
+Faltando: [Kevin J Anderson] na página: book/www.bookfinder4u.com/0001050907.html
+Faltando: [Clive Cussler] na página: book/www.bookfinder4u.com/0001050591.html
+Faltando: [Timothy Zahn] na página: book/www.bookfinder4u.com/0001050796.html
+Faltando: [Timothy Zahn] na página: book/www.bookfinder4u.com/0001052004.html
+Faltando: [William Shakespeare] na página: book/www.bookfinder4u.com/0001050222.html
+Faltando: [Tom Sharpe] na página: book/www.bookfinder4u.com/0001050761.html
+Faltando: [Elmore Leonard] na página: book/www.bookfinder4u.com/0001049860.html
+Faltando: [Linda Davies] na página: book/www.bookfinder4u.com/0001049453.html
+Faltando: [Kathy Tyers] na página: book/www.bookfinder4u.com/0001050915.html
+Faltando: [Dave Wolverton] na página: book/www.bookfinder4u.com/0001050834.html
+Faltando: [Joanna Trollope] na página: book/www.bookfinder4u.com/0001052128.html
+Faltando: [Ellis Peters] na página: book/www.bookfinder4u.com/0001052098.html
+Faltando: [Roger MacBride Allen] na página: book/www.bookfinder4u.com/0001050885.html
+Faltando: [Kevin J Anderson] na página: book/www.bookfinder4u.com/0001052187.html
+Faltando: [Philippa Gregory] na página: book/www.bookfinder4u.com/0001052225.html
+Faltando: [Elizabeth Buchan] na página: book/www.bookfinder4u.com/0001049402.html
+Faltando: [Michael A Stackpole] na página: book/www.bookfinder4u.com/0001050931.html
+Faltando: [Timothy Zahn] na página: book/www.bookfinder4u.com/0001050788.html
+Faltando: [Ruth Rendell] na página: book/www.bookfinder4u.com/0001052209.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - title********************************
+dataset;WEIR;domain;book;site;www.bookfinder4u.com;attribute;title;relevantes;192;recuperados;192;relevantes recuperados; 192;recall;1.0;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:13 - publisher********************************
+dataset;WEIR;domain;book;site;www.bookfinder4u.com;attribute;publisher;relevantes;187;recuperados;100;relevantes recuperados; 98;recall;0.5240641711229946;precision;0.98;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Publisher: HarperCollins Publishers Canad - 1997] na página: book/www.bookfinder4u.com/0002200430.html
+Faltando: [Publisher: HarperCollins UK - 1996-07-01] na página: book/www.bookfinder4u.com/0001052136.html
+Faltando: [Publisher: Collins - 1998-07-06] na página: book/www.bookfinder4u.com/0002200635.html
+Faltando: [Publisher: Harpercollins Audio - 1995-11-27] na página: book/www.bookfinder4u.com/0001050540.html
+Faltando: [Publisher: HarperCollins Publishers Ltd - 1998-03-16] na página: book/www.bookfinder4u.com/0002201240.html
+Faltando: [Publisher: Harper Collins Audio - 1995-07-24] na página: book/www.bookfinder4u.com/0001049410.html
+Faltando: [Publisher: Harpercollins - 1998-04-06] na página: book/www.bookfinder4u.com/0004140273.html
+Faltando: [Publisher: HarperCollins (UK) - 1998-06] na página: book/www.bookfinder4u.com/0002200147.html
+Faltando: [Publisher: Harpercollins Audio - 1995-10-09] na página: book/www.bookfinder4u.com/0001050737.html
+Faltando: [Publisher: HarperCollins AudioBooks - 1996] na página: book/www.bookfinder4u.com/0001050109.html
+Faltando: [Publisher: HarperCollins - 1996] na página: book/www.bookfinder4u.com/0001050427.html
+Faltando: [Publisher: Harper Collins Audio - 1996-02-19] na página: book/www.bookfinder4u.com/0001050850.html
+Faltando: [Publisher: Collins - 1997-09-01] na página: book/www.bookfinder4u.com/0002201046.html
+Faltando: [Publisher: Harpercollins Pub Ltd - 1999-02] na página: book/www.bookfinder4u.com/0002200724.html
+Faltando: [Publisher: Harpercollins Audio - 1996-01-22] na página: book/www.bookfinder4u.com/0001050745.html
+Faltando: [Publisher: HarperCollins UK - 1994-05-01] na página: book/www.bookfinder4u.com/0002199963.html
+Faltando: [Publisher: Harper Audio - 1996] na página: book/www.bookfinder4u.com/0001052101.html
+Faltando: [Publisher: Harpercollins - 1995-12-07] na página: book/www.bookfinder4u.com/0002200287.html
+Faltando: [Publisher: Harpercollins Audio - 1995-11] na página: book/www.bookfinder4u.com/0001050818.html
+Faltando: [Publisher: Harpercollins Audio - 1996-04-22] na página: book/www.bookfinder4u.com/0001049682.html
+Faltando: [Publisher: Harpercollins Publisher - 1999-10-04] na página: book/www.bookfinder4u.com/0004140532.html
+Faltando: [Publisher: Harpercollins Audio - 1995-12] na página: book/www.bookfinder4u.com/0001049895.html
+Faltando: [Publisher: HarperCollins UK - 1997-04-01] na página: book/www.bookfinder4u.com/0002200716.html
+Faltando: [Publisher: Harper Collins Audio - 1996-04-22] na página: book/www.bookfinder4u.com/0001050478.html
+Faltando: [Publisher: Harper Collins Audio - 1996-06-17] na página: book/www.bookfinder4u.com/0001052039.html
+Faltando: [Publisher: Harpercollins Pub Ltd - 2000-03] na página: book/www.bookfinder4u.com/0002200813.html
+Faltando: [Publisher: Harper Collins Audio - 1995-11-27] na página: book/www.bookfinder4u.com/0001050559.html
+Faltando: [Publisher: HarperCollins UK - 1996-04-01] na página: book/www.bookfinder4u.com/0002200627.html
+Faltando: [Publisher: Harpercollins Audio - 1996-01] na página: book/www.bookfinder4u.com/0001050451.html
+Faltando: [Publisher: Harper Collins Audio - 1996-02-19] na página: book/www.bookfinder4u.com/0001052047.html
+Faltando: [Publisher: HarperCollins UK - 1996-03-01] na página: book/www.bookfinder4u.com/0002200562.html
+Faltando: [Publisher: Harpercollins Audio - 1996-01] na página: book/www.bookfinder4u.com/0001050990.html
+Faltando: [Publisher: Harpercollins Audio - 1995-12-04] na página: book/www.bookfinder4u.com/0001050060.html
+Faltando: [Publisher: Collins - 1998-03-02] na página: book/www.bookfinder4u.com/0004140427.html
+Faltando: [Publisher: Harpercollins Audio - 1996-03-18] na página: book/www.bookfinder4u.com/0001052071.html
+Faltando: [Publisher: Harpercollins Pub Ltd - 2000-03] na página: book/www.bookfinder4u.com/0002200821.html
+Faltando: [Publisher: Trafalgar Square Computer & Audio - 2000-01] na página: book/www.bookfinder4u.com/0001050192.html
+Faltando: [Publisher: Harpercollins Audio - 1996-01-22] na página: book/www.bookfinder4u.com/0001050087.html
+Faltando: [Publisher: Harper Collins Audio - 1995-11-27] na página: book/www.bookfinder4u.com/0001050532.html
+Faltando: [Publisher: COLLINS - 1998] na página: book/www.bookfinder4u.com/0002200082.html
+Faltando: [Publisher: Collins - 2000-02-07] na página: book/www.bookfinder4u.com/0002201615.html
+Faltando: [Publisher: HarperCollins (UK) - 1999-10] na página: book/www.bookfinder4u.com/0002201577.html
+Faltando: [Publisher: Harpercollins Audio - 1996-09-16] na página: book/www.bookfinder4u.com/0001052195.html
+Faltando: [Publisher: Harpercollins Audio - 1995-12-04] na página: book/www.bookfinder4u.com/0001050079.html
+Faltando: [Publisher: HarperCollins AudioBooks - 1996] na página: book/www.bookfinder4u.com/0001050117.html
+Faltando: [Publisher: Harpercollins Audio - 1996-04-22] na página: book/www.bookfinder4u.com/0001050095.html
+Faltando: [Publisher: Harpercollins Audio - 1996-03] na página: book/www.bookfinder4u.com/0001050257.html
+Faltando: [Publisher: Trafalgar Square Publishing - 1999-09] na página: book/www.bookfinder4u.com/0001052020.html
+Faltando: [Publisher: Harper Collins Audio - 1996-02] na página: book/www.bookfinder4u.com/0001050230.html
+Faltando: [Publisher: Harpercollins Pub Ltd - 2000-05-18] na página: book/www.bookfinder4u.com/0002200805.html
+Faltando: [Publisher: HarperCollins Publishers - 2000-10] na página: book/www.bookfinder4u.com/0002201771.html
+Faltando: [Publisher: Trafalgar Square Computer & Audio - 2000-01] na página: book/www.bookfinder4u.com/0001050184.html
+Faltando: [Publisher: Harpercollins Audio - 1996-05-20] na página: book/www.bookfinder4u.com/0001050877.html
+Faltando: [Publisher: Harpercollins Pub Ltd - 1999-09] na página: book/www.bookfinder4u.com/0001050494.html
+Faltando: [Publisher: Harpercollins Audio - 1996-01] na página: book/www.bookfinder4u.com/0001050028.html
+Faltando: [Publisher: HarperCollins UK - 2000-04-01] na página: book/www.bookfinder4u.com/0002201682.html
+Faltando: [Publisher: HarperCollins Publishers - 1998-01] na página: book/www.bookfinder4u.com/0002200929.html
+Faltando: [Publisher: Harpercollins Pub Ltd - 1999-02] na página: book/www.bookfinder4u.com/0002201062.html
+Faltando: [Publisher: HarperCollins UK - 1996-05-01] na página: book/www.bookfinder4u.com/0001052012.html
+Faltando: [Publisher: HarperCollins Publishers Ltd - 1997] na página: book/www.bookfinder4u.com/0001052160.html
+Faltando: [Publisher: Harpercollins Pub Ltd - 1999-02] na página: book/www.bookfinder4u.com/0002200775.html
+Faltando: [Publisher: Harpercollins Audio - 1995-11] na página: book/www.bookfinder4u.com/0001050524.html
+Faltando: [Publisher: Harpercollins - 1996-05-09] na página: book/www.bookfinder4u.com/0002200643.html
+Faltando: [Publisher: HarperCollins UK - 1996-04-01] na página: book/www.bookfinder4u.com/0002200376.html
+Faltando: [Publisher: Harpercollins Audio - 1995-12] na página: book/www.bookfinder4u.com/0001050826.html
+Faltando: [Publisher: HarperCollins Publishers - 1997-01] na página: book/www.bookfinder4u.com/0002200694.html
+Faltando: [Publisher: Harpercollins Pub Ltd - 1999-06] na página: book/www.bookfinder4u.com/0002201275.html
+Faltando: [Publisher: HARPERCOLLINS ILLUSTRATED - 1999] na página: book/www.bookfinder4u.com/0002201704.html
+Faltando: [Publisher: Harper Collins Audio - 1996-02-19] na página: book/www.bookfinder4u.com/0001052063.html
+Faltando: [Publisher: Harpercollins Audio - 1995-10-23] na página: book/www.bookfinder4u.com/0001049305.html
+Faltando: [Publisher: Harpercollins Pub Ltd - 1999-02] na página: book/www.bookfinder4u.com/0002200171.html
+Faltando: [Publisher: Harpercollins Pub Ltd - 2000-01] na página: book/www.bookfinder4u.com/0001049356.html
+Faltando: [Publisher: Thorsons - 2001-04-01] na página: book/www.bookfinder4u.com/0002200651.html
+Faltando: [Publisher: HarperCollins Illustrated - 1999-09-06] na página: book/www.bookfinder4u.com/0004140540.html
+Faltando: [Publisher: Trafalgar Square Publishing - 2000-02] na página: book/www.bookfinder4u.com/0002201178.html
+Faltando: [Publisher: HarperCollins UK - 2000-07-01] na página: book/www.bookfinder4u.com/0002201135.html
+Faltando: [Publisher: Harpercollins - 1999-10-04] na página: book/www.bookfinder4u.com/0002200740.html
+Faltando: [Publisher: Harpercollins - 1997-07-07] na página: book/www.bookfinder4u.com/0004140265.html
+Faltando: [Publisher: Harpercollins Audio - 1996-07] na página: book/www.bookfinder4u.com/0001050893.html
+Faltando: [Publisher: Harpercollins Pub Ltd - 2000-05] na página: book/www.bookfinder4u.com/0002201666.html
+Faltando: [Publisher: Harper Collins - 1999-10-04] na página: book/www.bookfinder4u.com/0002200759.html
+Faltando: [Publisher: Harpercollins Audio - 1995-12] na página: book/www.bookfinder4u.com/0001050044.html
+Faltando: [Publisher: HarperCollins - 1999] na página: book/www.bookfinder4u.com/0002200791.html
+Faltando: [Publisher: Harper Collins Audio - 1996-02-19] na página: book/www.bookfinder4u.com/0001050753.html
+Faltando: [Publisher: Harper Collins Audio - 1996-01] na página: book/www.bookfinder4u.com/0001050842.html
+Faltando: [Publisher: Harper Collins Audio - 1996-05-20] na página: book/www.bookfinder4u.com/0001052144.html
+Faltando: [Publisher: HarperCollins UK - 1995-09-01] na página: book/www.bookfinder4u.com/0001049690.html
+Faltando: [Publisher: Collins - 1998-07-06] na página: book/www.bookfinder4u.com/0002200112.html
+Faltando: [Publisher: Harpercollins Audio - 1995-10] na página: book/www.bookfinder4u.com/0001049429.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001052217.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050486.html
+
+
+*************2016-02-18 13:13 - binding********************************
+dataset;WEIR;domain;book;site;www.bookfinder4u.com;attribute;binding;relevantes;191;recuperados;98;relevantes recuperados; 98;recall;0.5130890052356021;precision;1.0;date;2016-02-18 13:13
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050079.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001049305.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001049852.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050478.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0004140532.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0002201062.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050494.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050125.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0001050990.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001049410.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0002200651.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001052020.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050095.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0004140540.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002201615.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050117.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002201771.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002200082.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002200724.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001052144.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050044.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050060.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001049682.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001049690.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002200759.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001052039.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0001050826.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0004140273.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050737.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002200171.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050028.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050842.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0002201046.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050192.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002200627.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001052217.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002200716.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002200562.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0002200643.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002200805.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002200775.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050184.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0001050818.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050540.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050133.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0001050524.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0002200287.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001052101.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0002200635.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0004140427.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050877.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001052047.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0002201682.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001052012.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050559.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001052071.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002200430.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002200112.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0004140265.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0001050257.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0002200813.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001052136.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0002200740.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050486.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002200147.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002201275.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002199963.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0001049895.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0002200791.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001049356.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050109.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050230.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0001049429.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0001050850.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050427.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0002201704.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002200694.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002201178.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0001050893.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001052195.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050745.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050753.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0001050087.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0002201577.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002201135.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002201240.html
+Faltando: [Format: Hardcover] na página: book/www.bookfinder4u.com/0002200376.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002201666.html
+Faltando: [Format: Spiral-bound] na página: book/www.bookfinder4u.com/0002200929.html
+Faltando: [Format: Paperback] na página: book/www.bookfinder4u.com/0002200821.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001052160.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001052063.html
+Faltando: [Format: Audio Cassette] na página: book/www.bookfinder4u.com/0001050532.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

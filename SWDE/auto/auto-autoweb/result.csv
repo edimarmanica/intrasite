@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,auto,auto-autoweb,model,rule_34.csv,More Images,2000,2000,2000,1.0,1.0,2016-02-18 12:30
+SWDE,auto,auto-autoweb,price,rule_12.csv,Starting MSRP:,2000,2000,2000,1.0,1.0,2016-02-18 12:30
+SWDE,auto,auto-autoweb,engine,rule_41.csv,Engine,1998,1998,1998,1.0,1.0,2016-02-18 12:30
+SWDE,auto,auto-autoweb,fuel_economy,rule_32.csv,More Images,2000,2000,2000,1.0,1.0,2016-02-18 12:30

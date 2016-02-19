@@ -1,0 +1,24 @@
+
+
+*************2016-02-18 13:21 - publisher********************************
+dataset;WEIR;domain;videogame;site;www.askmen.com;attribute;publisher;relevantes;983;recuperados;983;relevantes recuperados; 983;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:21 - genre********************************
+dataset;WEIR;domain;videogame;site;www.askmen.com;attribute;genre;relevantes;979;recuperados;979;relevantes recuperados; 979;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:21 - developer********************************
+dataset;WEIR;domain;videogame;site;www.askmen.com;attribute;developer;relevantes;983;recuperados;983;relevantes recuperados; 983;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

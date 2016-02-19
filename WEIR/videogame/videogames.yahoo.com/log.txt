@@ -1,0 +1,24 @@
+
+
+*************2016-02-18 13:21 - publisher********************************
+dataset;WEIR;domain;videogame;site;videogames.yahoo.com;attribute;publisher;relevantes;774;recuperados;774;relevantes recuperados; 774;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:21 - developer********************************
+dataset;WEIR;domain;videogame;site;videogames.yahoo.com;attribute;developer;relevantes;869;recuperados;869;relevantes recuperados; 869;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:21 - esrb********************************
+dataset;WEIR;domain;videogame;site;videogames.yahoo.com;attribute;esrb;relevantes;842;recuperados;842;relevantes recuperados; 842;recall;1.0;precision;1.0;date;2016-02-18 13:21
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

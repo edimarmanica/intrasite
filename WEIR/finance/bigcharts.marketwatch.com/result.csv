@@ -1,0 +1,7 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,finance,bigcharts.marketwatch.com,value,rule_1033.csv,Last:,459,459,459,1.0,1.0,2016-02-18 13:14
+WEIR,finance,bigcharts.marketwatch.com,open,rule_921.csv,Open:,459,459,459,1.0,1.0,2016-02-18 13:14
+WEIR,finance,bigcharts.marketwatch.com,high,rule_1937.csv,High:,459,459,459,1.0,1.0,2016-02-18 13:14
+WEIR,finance,bigcharts.marketwatch.com,volume,rule_2453.csv,Volume:,459,459,459,1.0,1.0,2016-02-18 13:14
+WEIR,finance,bigcharts.marketwatch.com,52wk_low,rule_231.csv,to,459,459,459,1.0,1.0,2016-02-18 13:14
+WEIR,finance,bigcharts.marketwatch.com,52wk_high,rule_2104.csv,to,459,459,459,1.0,1.0,2016-02-18 13:14

@@ -1,0 +1,1065 @@
+
+
+*************2016-02-18 13:19 - shirt********************************
+dataset;WEIR;domain;soccer;site;www.teamtalk.com;attribute;shirt;relevantes;975;recuperados;715;relevantes recuperados; 715;recall;0.7333333333333333;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [16] na página: soccer/www.teamtalk.com/2483_8865.html
+Faltando: [20] na página: soccer/www.teamtalk.com/1779_9096.html
+Faltando: [15] na página: soccer/www.teamtalk.com/1820_9118.html
+Faltando: [40] na página: soccer/www.teamtalk.com/1804_139190.html
+Faltando: [2] na página: soccer/www.teamtalk.com/2483_90043.html
+Faltando: [5] na página: soccer/www.teamtalk.com/1784_83047.html
+Faltando: [26] na página: soccer/www.teamtalk.com/2483_140808.html
+Faltando: [16] na página: soccer/www.teamtalk.com/982_130663.html
+Faltando: [20] na página: soccer/www.teamtalk.com/2483_99310.html
+Faltando: [15] na página: soccer/www.teamtalk.com/1855_88375.html
+Faltando: [25] na página: soccer/www.teamtalk.com/1775_9035.html
+Faltando: [7] na página: soccer/www.teamtalk.com/1805_7846.html
+Faltando: [1] na página: soccer/www.teamtalk.com/1825_8501.html
+Faltando: [18] na página: soccer/www.teamtalk.com/1872_72448.html
+Faltando: [25] na página: soccer/www.teamtalk.com/1817_87481.html
+Faltando: [13] na página: soccer/www.teamtalk.com/1873_75507.html
+Faltando: [11] na página: soccer/www.teamtalk.com/1816_105253.html
+Faltando: [1] na página: soccer/www.teamtalk.com/1839_20314.html
+Faltando: [37] na página: soccer/www.teamtalk.com/2483_128666.html
+Faltando: [18] na página: soccer/www.teamtalk.com/2483_75512.html
+Faltando: [44] na página: soccer/www.teamtalk.com/2483_140810.html
+Faltando: [4] na página: soccer/www.teamtalk.com/1779_7205.html
+Faltando: [26] na página: soccer/www.teamtalk.com/5649_143262.html
+Faltando: [9] na página: soccer/www.teamtalk.com/1766_100246.html
+Faltando: [10] na página: soccer/www.teamtalk.com/1768_127942.html
+Faltando: [3] na página: soccer/www.teamtalk.com/1825_87211.html
+Faltando: [13] na página: soccer/www.teamtalk.com/1773_92088.html
+Faltando: [4] na página: soccer/www.teamtalk.com/1789_3878.html
+Faltando: [3] na página: soccer/www.teamtalk.com/1836_8008.html
+Faltando: [23] na página: soccer/www.teamtalk.com/2483_11671.html
+Faltando: [5] na página: soccer/www.teamtalk.com/1783_9256.html
+Faltando: [15] na página: soccer/www.teamtalk.com/1821_8375.html
+Faltando: [22] na página: soccer/www.teamtalk.com/982_8625.html
+Faltando: [3] na página: soccer/www.teamtalk.com/1869_165330.html
+Faltando: [17] na página: soccer/www.teamtalk.com/1843_79161.html
+Faltando: [21] na página: soccer/www.teamtalk.com/1873_72264.html
+Faltando: [9] na página: soccer/www.teamtalk.com/1788_9083.html
+Faltando: [14] na página: soccer/www.teamtalk.com/1844_8451.html
+Faltando: [15] na página: soccer/www.teamtalk.com/1858_31582.html
+Faltando: [38] na página: soccer/www.teamtalk.com/1867_133369.html
+Faltando: [26] na página: soccer/www.teamtalk.com/2483_7109.html
+Faltando: [12] na página: soccer/www.teamtalk.com/1842_61389.html
+Faltando: [4] na página: soccer/www.teamtalk.com/1842_6835.html
+Faltando: [2] na página: soccer/www.teamtalk.com/1813_7494.html
+Faltando: [8] na página: soccer/www.teamtalk.com/1839_147531.html
+Faltando: [1] na página: soccer/www.teamtalk.com/2483_73798.html
+Faltando: [10] na página: soccer/www.teamtalk.com/1767_98991.html
+Faltando: [29] na página: soccer/www.teamtalk.com/1916_46663.html
+Faltando: [4] na página: soccer/www.teamtalk.com/1916_65965.html
+Faltando: [27] na página: soccer/www.teamtalk.com/1783_123702.html
+Faltando: [2] na página: soccer/www.teamtalk.com/1808_8593.html
+Faltando: [0] na página: soccer/www.teamtalk.com/1860_78327.html
+Faltando: [52] na página: soccer/www.teamtalk.com/1873_152011.html
+Faltando: [34] na página: soccer/www.teamtalk.com/1873_152585.html
+Faltando: [16] na página: soccer/www.teamtalk.com/8534_6762.html
+Faltando: [19] na página: soccer/www.teamtalk.com/1808_21562.html
+Faltando: [11] na página: soccer/www.teamtalk.com/1844_8327.html
+Faltando: [13] na página: soccer/www.teamtalk.com/1775_9131.html
+Faltando: [17] na página: soccer/www.teamtalk.com/1775_7023.html
+Faltando: [17] na página: soccer/www.teamtalk.com/2483_150724.html
+Faltando: [28] na página: soccer/www.teamtalk.com/1873_72325.html
+Faltando: [33] na página: soccer/www.teamtalk.com/1802_132913.html
+Faltando: [8] na página: soccer/www.teamtalk.com/1908_26970.html
+Faltando: [12] na página: soccer/www.teamtalk.com/1815_8233.html
+Faltando: [3] na página: soccer/www.teamtalk.com/2483_103446.html
+Faltando: [8] na página: soccer/www.teamtalk.com/1785_9113.html
+Faltando: [18] na página: soccer/www.teamtalk.com/1826_165656.html
+Faltando: [20] na página: soccer/www.teamtalk.com/2483_9096.html
+Faltando: [2] na página: soccer/www.teamtalk.com/1822_88376.html
+Faltando: [2] na página: soccer/www.teamtalk.com/1869_3627.html
+Faltando: [1] na página: soccer/www.teamtalk.com/1857_8671.html
+Faltando: [25] na página: soccer/www.teamtalk.com/1808_94204.html
+Faltando: [18] na página: soccer/www.teamtalk.com/2483_94967.html
+Faltando: [34] na página: soccer/www.teamtalk.com/1806_168763.html
+Faltando: [20] na página: soccer/www.teamtalk.com/2483_75322.html
+Faltando: [14] na página: soccer/www.teamtalk.com/1824_7383.html
+Faltando: [1] na página: soccer/www.teamtalk.com/1862_3890.html
+Faltando: [19] na página: soccer/www.teamtalk.com/1814_165676.html
+Faltando: [35] na página: soccer/www.teamtalk.com/1873_126121.html
+Faltando: [14] na página: soccer/www.teamtalk.com/1822_8940.html
+Faltando: [29] na página: soccer/www.teamtalk.com/1814_171844.html
+Faltando: [1] na página: soccer/www.teamtalk.com/1908_6602.html
+Faltando: [1] na página: soccer/www.teamtalk.com/1789_6588.html
+Faltando: [7] na página: soccer/www.teamtalk.com/1842_9169.html
+Faltando: [17] na página: soccer/www.teamtalk.com/2483_66725.html
+Faltando: [4] na página: soccer/www.teamtalk.com/1843_8478.html
+Faltando: [7] na página: soccer/www.teamtalk.com/2483_92259.html
+Faltando: [3] na página: soccer/www.teamtalk.com/1803_56081.html
+Faltando: [20] na página: soccer/www.teamtalk.com/2483_114424.html
+Faltando: [19] na página: soccer/www.teamtalk.com/1914_8082.html
+Faltando: [8] na página: soccer/www.teamtalk.com/2483_126422.html
+Faltando: [15] na página: soccer/www.teamtalk.com/1824_151346.html
+Faltando: [11] na página: soccer/www.teamtalk.com/1839_7100.html
+Faltando: [19] na página: soccer/www.teamtalk.com/1810_8082.html
+Faltando: [13] na página: soccer/www.teamtalk.com/1860_147785.html
+Faltando: [5] na página: soccer/www.teamtalk.com/1798_85705.html
+Faltando: [17] na página: soccer/www.teamtalk.com/8547_3535.html
+Faltando: [19] na página: soccer/www.teamtalk.com/1826_149560.html
+Faltando: [11] na página: soccer/www.teamtalk.com/1843_73718.html
+Faltando: [10] na página: soccer/www.teamtalk.com/5649_3678.html
+Faltando: [23] na página: soccer/www.teamtalk.com/1843_7697.html
+Faltando: [25] na página: soccer/www.teamtalk.com/1823_92761.html
+Faltando: [20] na página: soccer/www.teamtalk.com/2483_94259.html
+Faltando: [8] na página: soccer/www.teamtalk.com/1841_8093.html
+Faltando: [16] na página: soccer/www.teamtalk.com/1773_99321.html
+Faltando: [18] na página: soccer/www.teamtalk.com/1826_143576.html
+Faltando: [24] na página: soccer/www.teamtalk.com/1820_9705.html
+Faltando: [9] na página: soccer/www.teamtalk.com/982_144325.html
+Faltando: [3] na página: soccer/www.teamtalk.com/1841_6689.html
+Faltando: [27] na página: soccer/www.teamtalk.com/1854_168272.html
+Faltando: [26] na página: soccer/www.teamtalk.com/1873_106261.html
+Faltando: [12] na página: soccer/www.teamtalk.com/982_7120.html
+Faltando: [22] na página: soccer/www.teamtalk.com/1778_17943.html
+Faltando: [26] na página: soccer/www.teamtalk.com/1773_7109.html
+Faltando: [10] na página: soccer/www.teamtalk.com/1806_78787.html
+Faltando: [21] na página: soccer/www.teamtalk.com/1796_139188.html
+Faltando: [11] na página: soccer/www.teamtalk.com/1803_139522.html
+Faltando: [34] na página: soccer/www.teamtalk.com/1838_146742.html
+Faltando: [15] na página: soccer/www.teamtalk.com/1808_6551.html
+Faltando: [8] na página: soccer/www.teamtalk.com/1788_84221.html
+Faltando: [40] na página: soccer/www.teamtalk.com/1798_151310.html
+Faltando: [18] na página: soccer/www.teamtalk.com/1794_139391.html
+Faltando: [12] na página: soccer/www.teamtalk.com/1792_93421.html
+Faltando: [12] na página: soccer/www.teamtalk.com/1814_72938.html
+Faltando: [20] na página: soccer/www.teamtalk.com/1784_66442.html
+Faltando: [41] na página: soccer/www.teamtalk.com/1857_171318.html
+Faltando: [8] na página: soccer/www.teamtalk.com/2483_152357.html
+Faltando: [3] na página: soccer/www.teamtalk.com/1767_95728.html
+Faltando: [5] na página: soccer/www.teamtalk.com/1805_8618.html
+Faltando: [26] na página: soccer/www.teamtalk.com/2483_9032.html
+Faltando: [5] na página: soccer/www.teamtalk.com/1806_7157.html
+Faltando: [16] na página: soccer/www.teamtalk.com/1768_131104.html
+Faltando: [19] na página: soccer/www.teamtalk.com/12248_29702.html
+Faltando: [8] na página: soccer/www.teamtalk.com/8547_87866.html
+Faltando: [8] na página: soccer/www.teamtalk.com/1784_16762.html
+Faltando: [20] na página: soccer/www.teamtalk.com/1818_155502.html
+Faltando: [23] na página: soccer/www.teamtalk.com/1822_6874.html
+Faltando: [35] na página: soccer/www.teamtalk.com/1825_7064.html
+Faltando: [31] na página: soccer/www.teamtalk.com/1869_3585.html
+Faltando: [7] na página: soccer/www.teamtalk.com/2483_147712.html
+Faltando: [30] na página: soccer/www.teamtalk.com/1806_130682.html
+Faltando: [10] na página: soccer/www.teamtalk.com/2483_9128.html
+Faltando: [21] na página: soccer/www.teamtalk.com/2483_21339.html
+Faltando: [23] na página: soccer/www.teamtalk.com/2483_17946.html
+Faltando: [33] na página: soccer/www.teamtalk.com/2483_114125.html
+Faltando: [18] na página: soccer/www.teamtalk.com/2483_8833.html
+Faltando: [23] na página: soccer/www.teamtalk.com/1773_7028.html
+Faltando: [17] na página: soccer/www.teamtalk.com/1873_136547.html
+Faltando: [12] na página: soccer/www.teamtalk.com/1771_15326.html
+Faltando: [7] na página: soccer/www.teamtalk.com/2483_98621.html
+Faltando: [30] na página: soccer/www.teamtalk.com/1792_8827.html
+Faltando: [10] na página: soccer/www.teamtalk.com/1808_9543.html
+Faltando: [1] na página: soccer/www.teamtalk.com/2483_97952.html
+Faltando: [31] na página: soccer/www.teamtalk.com/1802_164901.html
+Faltando: [1] na página: soccer/www.teamtalk.com/1829_12347.html
+Faltando: [12] na página: soccer/www.teamtalk.com/2483_100756.html
+Faltando: [30] na página: soccer/www.teamtalk.com/1868_89262.html
+Faltando: [9] na página: soccer/www.teamtalk.com/1820_7880.html
+Faltando: [4] na página: soccer/www.teamtalk.com/2483_126541.html
+Faltando: [44] na página: soccer/www.teamtalk.com/1792_9067.html
+Faltando: [22] na página: soccer/www.teamtalk.com/1780_8845.html
+Faltando: [10] na página: soccer/www.teamtalk.com/1844_7319.html
+Faltando: [27] na página: soccer/www.teamtalk.com/1824_18485.html
+Faltando: [16] na página: soccer/www.teamtalk.com/1790_84069.html
+Faltando: [21] na página: soccer/www.teamtalk.com/1822_8909.html
+Faltando: [8] na página: soccer/www.teamtalk.com/1846_6682.html
+Faltando: [9] na página: soccer/www.teamtalk.com/1812_58605.html
+Faltando: [19] na página: soccer/www.teamtalk.com/2483_103113.html
+Faltando: [21] na página: soccer/www.teamtalk.com/5636_165687.html
+Faltando: [30] na página: soccer/www.teamtalk.com/1873_99312.html
+Faltando: [10] na página: soccer/www.teamtalk.com/1779_56494.html
+Faltando: [13] na página: soccer/www.teamtalk.com/1865_133272.html
+Faltando: [8] na página: soccer/www.teamtalk.com/1870_3649.html
+Faltando: [13] na página: soccer/www.teamtalk.com/1870_60281.html
+Faltando: [16] na página: soccer/www.teamtalk.com/2483_100292.html
+Faltando: [32] na página: soccer/www.teamtalk.com/1783_161378.html
+Faltando: [14] na página: soccer/www.teamtalk.com/1865_8967.html
+Faltando: [5] na página: soccer/www.teamtalk.com/1912_131103.html
+Faltando: [6] na página: soccer/www.teamtalk.com/1790_125067.html
+Faltando: [12] na página: soccer/www.teamtalk.com/1847_137036.html
+Faltando: [21] na página: soccer/www.teamtalk.com/1766_144941.html
+Faltando: [9] na página: soccer/www.teamtalk.com/1798_8469.html
+Faltando: [8] na página: soccer/www.teamtalk.com/1775_6554.html
+Faltando: [1] na página: soccer/www.teamtalk.com/1780_9210.html
+Faltando: [21] na página: soccer/www.teamtalk.com/1789_9201.html
+Faltando: [19] na página: soccer/www.teamtalk.com/1831_103136.html
+Faltando: [48] na página: soccer/www.teamtalk.com/1863_136382.html
+Faltando: [25] na página: soccer/www.teamtalk.com/1807_7292.html
+Faltando: [22] na página: soccer/www.teamtalk.com/1812_152606.html
+Faltando: [3] na página: soccer/www.teamtalk.com/1784_115523.html
+Faltando: [12] na página: soccer/www.teamtalk.com/14731_73726.html
+Faltando: [1] na página: soccer/www.teamtalk.com/1908_7313.html
+Faltando: [2] na página: soccer/www.teamtalk.com/1784_82383.html
+Faltando: [3] na página: soccer/www.teamtalk.com/1846_9203.html
+Faltando: [2] na página: soccer/www.teamtalk.com/1834_6568.html
+Faltando: [23] na página: soccer/www.teamtalk.com/1830_147514.html
+Faltando: [20] na página: soccer/www.teamtalk.com/2483_152213.html
+Faltando: [2] na página: soccer/www.teamtalk.com/2483_8593.html
+Faltando: [20] na página: soccer/www.teamtalk.com/1814_7374.html
+Faltando: [7] na página: soccer/www.teamtalk.com/2483_7712.html
+Faltando: [5] na página: soccer/www.teamtalk.com/1785_127674.html
+Faltando: [3] na página: soccer/www.teamtalk.com/1824_7940.html
+Faltando: [3] na página: soccer/www.teamtalk.com/1856_109021.html
+Faltando: [2] na página: soccer/www.teamtalk.com/1821_25811.html
+Faltando: [4] na página: soccer/www.teamtalk.com/982_10065.html
+Faltando: [5] na página: soccer/www.teamtalk.com/1813_6573.html
+Faltando: [23] na página: soccer/www.teamtalk.com/2483_145176.html
+Faltando: [9] na página: soccer/www.teamtalk.com/1810_128906.html
+Faltando: [33] na página: soccer/www.teamtalk.com/1800_81963.html
+Faltando: [20] na página: soccer/www.teamtalk.com/1794_6971.html
+Faltando: [22] na página: soccer/www.teamtalk.com/2483_8925.html
+Faltando: [15] na página: soccer/www.teamtalk.com/1869_47400.html
+Faltando: [6] na página: soccer/www.teamtalk.com/1767_6570.html
+Faltando: [10] na página: soccer/www.teamtalk.com/1800_4847.html
+Faltando: [18] na página: soccer/www.teamtalk.com/1819_124281.html
+Faltando: [12] na página: soccer/www.teamtalk.com/1805_34245.html
+Faltando: [7] na página: soccer/www.teamtalk.com/1816_8870.html
+Faltando: [9] na página: soccer/www.teamtalk.com/2483_9080.html
+Faltando: [18] na página: soccer/www.teamtalk.com/12247_7469.html
+Faltando: [32] na página: soccer/www.teamtalk.com/1824_7394.html
+Faltando: [14] na página: soccer/www.teamtalk.com/2483_136583.html
+Faltando: [33] na página: soccer/www.teamtalk.com/1842_157213.html
+Faltando: [4] na página: soccer/www.teamtalk.com/8547_9183.html
+Faltando: [36] na página: soccer/www.teamtalk.com/2483_8923.html
+Faltando: [8] na página: soccer/www.teamtalk.com/1808_6976.html
+Faltando: [1] na página: soccer/www.teamtalk.com/1855_6799.html
+Faltando: [21] na página: soccer/www.teamtalk.com/2483_142434.html
+Faltando: [2] na página: soccer/www.teamtalk.com/2483_8831.html
+Faltando: [14] na página: soccer/www.teamtalk.com/2483_9263.html
+Faltando: [28] na página: soccer/www.teamtalk.com/1783_142993.html
+Faltando: [3] na página: soccer/www.teamtalk.com/1814_80327.html
+Faltando: [28] na página: soccer/www.teamtalk.com/8535_94588.html
+Faltando: [3] na página: soccer/www.teamtalk.com/1800_80335.html
+Faltando: [10] na página: soccer/www.teamtalk.com/1843_14950.html
+Faltando: [6] na página: soccer/www.teamtalk.com/1817_7667.html
+Faltando: [20] na página: soccer/www.teamtalk.com/1797_8540.html
+Faltando: [5] na página: soccer/www.teamtalk.com/1873_101080.html
+Faltando: [9] na página: soccer/www.teamtalk.com/2483_124411.html
+Faltando: [1] na página: soccer/www.teamtalk.com/1778_73798.html
+Faltando: [4] na página: soccer/www.teamtalk.com/2483_123906.html
+Faltando: [26] na página: soccer/www.teamtalk.com/1806_82321.html
+Faltando: [24] na página: soccer/www.teamtalk.com/1819_78791.html
+Faltando: [19] na página: soccer/www.teamtalk.com/2483_73981.html
+Faltando: [5] na página: soccer/www.teamtalk.com/1779_8897.html
+Faltando: [3] na página: soccer/www.teamtalk.com/1834_7343.html
+Faltando: [27] na página: soccer/www.teamtalk.com/2483_149461.html
+Faltando: [17] na página: soccer/www.teamtalk.com/2483_6596.html
+Faltando: [26] na página: soccer/www.teamtalk.com/1771_80010.html
+Faltando: [9] na página: soccer/www.teamtalk.com/1865_72884.html
+Faltando: [12] na página: soccer/www.teamtalk.com/1813_42001.html
+Faltando: [30] na página: soccer/www.teamtalk.com/1843_23328.html
+Faltando: [30] na página: soccer/www.teamtalk.com/1855_51010.html
+Faltando: [9] na página: soccer/www.teamtalk.com/1822_8932.html
+Faltando: [15] na página: soccer/www.teamtalk.com/1856_7054.html
+Faltando: [4] na página: soccer/www.teamtalk.com/1833_74388.html
+Faltando: [11] na página: soccer/www.teamtalk.com/1812_149300.html
+Faltando: [29] na página: soccer/www.teamtalk.com/8547_7782.html
+Faltando: [44] na página: soccer/www.teamtalk.com/1872_163440.html
+Faltando: [42] na página: soccer/www.teamtalk.com/1867_141547.html
+Faltando: [23] na página: soccer/www.teamtalk.com/2483_9141.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - position********************************
+dataset;WEIR;domain;soccer;site;www.teamtalk.com;attribute;position;relevantes;1001;recuperados;735;relevantes recuperados; 735;recall;0.7342657342657343;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Striker] na página: soccer/www.teamtalk.com/12247_7469.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1834_6568.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/2483_7109.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1858_31582.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_94259.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1766_144941.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1800_4847.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1767_95728.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/982_10065.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/982_144325.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/2483_140808.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1873_101080.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1843_8478.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1843_73718.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/2483_100756.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1773_7028.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1806_130682.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1807_7292.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_7712.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1768_127942.html
+Faltando: [Utility] na página: soccer/www.teamtalk.com/5636_161379.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1822_8940.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/2483_152213.html
+Faltando: [Utility] na página: soccer/www.teamtalk.com/1826_143576.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1806_82321.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_21339.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1816_8870.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1784_82383.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1780_9210.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1802_132913.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1916_65965.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1844_8327.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1916_46663.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/2483_99310.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1830_147514.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/2483_8831.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1870_60281.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1873_152011.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1822_6874.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1869_3627.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/2483_124411.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1808_6551.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1808_8593.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1783_9256.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/5636_165687.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1873_152585.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1814_171844.html
+Faltando: [Attacking Midfielder] na página: soccer/www.teamtalk.com/2483_98621.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/2483_114125.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1842_61389.html
+Faltando: [Attacking Midfielder] na página: soccer/www.teamtalk.com/1816_105253.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1814_7374.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1870_3649.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/8547_87866.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1867_133369.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1796_139188.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1829_12347.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1785_9113.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_149461.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_123906.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1843_7697.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1798_8469.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1789_9201.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_75512.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1817_7667.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_150724.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1779_9096.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1856_109021.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1784_16762.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/2483_126541.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1778_73798.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/2483_9141.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/982_8625.html
+Faltando: [Attacking Midfielder] na página: soccer/www.teamtalk.com/2483_92259.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1819_8954.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1841_8093.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1825_87211.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1869_165330.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1824_7383.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/2483_90043.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1820_9118.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1780_8845.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1817_87481.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1800_80335.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_100292.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1767_6570.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1812_152606.html
+Faltando: [Utility] na página: soccer/www.teamtalk.com/1860_78327.html
+Faltando: [Utility] na página: soccer/www.teamtalk.com/2483_152357.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1779_56494.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/2483_17946.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1867_141547.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_75322.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1792_8827.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1831_103136.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1863_136382.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1855_6799.html
+Faltando: [Attacking Midfielder] na página: soccer/www.teamtalk.com/1818_155502.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1834_159255.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1784_115523.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_147712.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1798_85705.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1865_133272.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1805_34245.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1855_51010.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1841_6689.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1783_142993.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/2483_73798.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/2483_9128.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1805_7846.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1794_6971.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1822_8909.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1873_106261.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1839_7100.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1821_8375.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/8547_3535.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1779_7205.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1790_84069.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1806_7157.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1808_9543.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1843_23328.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_6596.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1788_9083.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/2483_8833.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1825_7064.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1824_7940.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1797_8540.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1869_3585.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1785_127674.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1824_7394.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1783_161378.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1856_7054.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/8534_6762.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1803_56081.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1771_80010.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1873_136547.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1789_3878.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1842_6835.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/5649_143262.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1814_72938.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/2483_94967.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1824_151346.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1857_171318.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1821_25811.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/982_7120.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1810_8082.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1820_7880.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1806_168763.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/8547_9183.html
+Faltando: [Utility] na página: soccer/www.teamtalk.com/12248_29702.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1842_9169.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1813_42001.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1778_17943.html
+Faltando: [Utility] na página: soccer/www.teamtalk.com/1803_139522.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/8535_94588.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1838_146742.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/2483_9263.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1813_7494.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1823_92761.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/2483_136583.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1854_168272.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1819_124281.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1775_6554.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1808_21562.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1842_157213.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/8547_7782.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1865_72884.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1808_94204.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_114424.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/2483_145176.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1855_88375.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1810_128906.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/2483_11671.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1872_163440.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1844_7319.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1773_99321.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1836_8008.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1813_6573.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_73981.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1912_131103.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1802_164901.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/5649_3678.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1873_72264.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_66725.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1790_125067.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1792_9067.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1873_72325.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1800_81963.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1812_58605.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1773_92088.html
+Faltando: [Utility] na página: soccer/www.teamtalk.com/14731_73726.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1775_7023.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1825_8501.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1800_79266.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1826_165656.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1806_78787.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_9096.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1873_75507.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1805_8618.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1843_79161.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1789_6588.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1822_88376.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1868_89262.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1839_147531.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/2483_97952.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1839_20314.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1822_8932.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1779_8897.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1812_149300.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1820_9705.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1819_78791.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1862_3890.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1792_93421.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1872_72448.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1773_7109.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1860_165265.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1804_139190.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1771_15326.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1784_83047.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1846_9203.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1860_147785.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_8865.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1843_14950.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1908_7313.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1815_8233.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1766_100246.html
+Faltando: [Attacking Midfielder] na página: soccer/www.teamtalk.com/1847_137036.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/982_130663.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1908_26970.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/2483_103446.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1783_123702.html
+Faltando: [Attacking Midfielder] na página: soccer/www.teamtalk.com/2483_126422.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1784_66442.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1808_6976.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/2483_142434.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1833_74388.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1846_6682.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1908_6602.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/2483_9032.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1767_98991.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/2483_140810.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1865_8967.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1857_8671.html
+Faltando: [Utility] na página: soccer/www.teamtalk.com/1826_149560.html
+Faltando: [Utility] na página: soccer/www.teamtalk.com/1869_47400.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1794_139391.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/2483_128666.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1914_8082.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1814_80327.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1788_84221.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1775_9131.html
+Faltando: [Goalkeeper] na página: soccer/www.teamtalk.com/1798_151310.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/2483_8593.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1844_8451.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/1834_7343.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1824_18485.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1873_126121.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1775_9035.html
+Faltando: [Defender] na página: soccer/www.teamtalk.com/2483_8925.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1873_99312.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/2483_9080.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/1814_165676.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1792_162875.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/2483_8923.html
+Faltando: [Striker] na página: soccer/www.teamtalk.com/1768_131104.html
+Faltando: [Midfielder] na página: soccer/www.teamtalk.com/2483_103113.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - club********************************
+dataset;WEIR;domain;soccer;site;www.teamtalk.com;attribute;club;relevantes;1001;recuperados;735;relevantes recuperados; 735;recall;0.7342657342657343;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Southend United] na página: soccer/www.teamtalk.com/1857_8671.html
+Faltando: [Newcastle United] na página: soccer/www.teamtalk.com/2483_90043.html
+Faltando: [Swansea City] na página: soccer/www.teamtalk.com/1858_31582.html
+Faltando: [Birmingham City] na página: soccer/www.teamtalk.com/2483_9080.html
+Faltando: [Derby County] na página: soccer/www.teamtalk.com/1792_93421.html
+Faltando: [Tottenham Hotspur] na página: soccer/www.teamtalk.com/2483_123906.html
+Faltando: [Leeds United] na página: soccer/www.teamtalk.com/982_10065.html
+Faltando: [Darlington] na página: soccer/www.teamtalk.com/1843_23328.html
+Faltando: [Chester City] na página: soccer/www.teamtalk.com/1842_61389.html
+Faltando: [Bury] na página: soccer/www.teamtalk.com/1839_147531.html
+Faltando: [Nottingham Forest] na página: soccer/www.teamtalk.com/1798_8469.html
+Faltando: [Sheffield Wednesday] na página: soccer/www.teamtalk.com/1829_12347.html
+Faltando: [Everton] na página: soccer/www.teamtalk.com/2483_21339.html
+Faltando: [Colchester United] na página: soccer/www.teamtalk.com/1819_78791.html
+Faltando: [Swindon Town] na página: soccer/www.teamtalk.com/1831_103136.html
+Faltando: [Barnsley] na página: soccer/www.teamtalk.com/1812_58605.html
+Faltando: [Motherwell] na página: soccer/www.teamtalk.com/1872_72448.html
+Faltando: [Colchester United] na página: soccer/www.teamtalk.com/1819_124281.html
+Faltando: [Barnsley] na página: soccer/www.teamtalk.com/1812_149300.html
+Faltando: [Preston North End] na página: soccer/www.teamtalk.com/1800_4847.html
+Faltando: [Arsenal] na página: soccer/www.teamtalk.com/1766_100246.html
+Faltando: [Peterborough United] na página: soccer/www.teamtalk.com/1916_65965.html
+Faltando: [Barnet FC] na página: soccer/www.teamtalk.com/5636_165687.html
+Faltando: [Chelsea] na página: soccer/www.teamtalk.com/1773_92088.html
+Faltando: [Chester City] na página: soccer/www.teamtalk.com/1842_157213.html
+Faltando: [Middlesbrough] na página: soccer/www.teamtalk.com/1779_7205.html
+Faltando: [Manchester United] na página: soccer/www.teamtalk.com/2483_73798.html
+Faltando: [Portsmouth] na página: soccer/www.teamtalk.com/2483_103113.html
+Faltando: [Fulham] na página: soccer/www.teamtalk.com/1775_6554.html
+Faltando: [Inverness Caledonian Thistle] na página: soccer/www.teamtalk.com/1869_165330.html
+Faltando: [Rangers] na página: soccer/www.teamtalk.com/1873_75507.html
+Faltando: [Rangers] na página: soccer/www.teamtalk.com/1873_99312.html
+Faltando: [Arsenal] na página: soccer/www.teamtalk.com/2483_140808.html
+Faltando: [Yeovil Town] na página: soccer/www.teamtalk.com/1860_147785.html
+Faltando: [Burnley] na página: soccer/www.teamtalk.com/1788_9083.html
+Faltando: [Wolverhampton Wanderers] na página: soccer/www.teamtalk.com/1914_8082.html
+Faltando: [Luton Town] na página: soccer/www.teamtalk.com/1824_7383.html
+Faltando: [Luton Town] na página: soccer/www.teamtalk.com/1824_7394.html
+Faltando: [Inverness Caledonian Thistle] na página: soccer/www.teamtalk.com/1869_3627.html
+Faltando: [Southend United] na página: soccer/www.teamtalk.com/1857_171318.html
+Faltando: [Ipswich Town] na página: soccer/www.teamtalk.com/1794_139391.html
+Faltando: [Scunthorpe United] na página: soccer/www.teamtalk.com/1855_6799.html
+Faltando: [Scunthorpe United] na página: soccer/www.teamtalk.com/1855_88375.html
+Faltando: [Tottenham Hotspur] na página: soccer/www.teamtalk.com/1784_83047.html
+Faltando: [Dundee United] na página: soccer/www.teamtalk.com/1865_8967.html
+Faltando: [Milton Keynes Dons] na página: soccer/www.teamtalk.com/1825_8501.html
+Faltando: [Wolverhampton Wanderers] na página: soccer/www.teamtalk.com/1810_128906.html
+Faltando: [Leeds United] na página: soccer/www.teamtalk.com/982_130663.html
+Faltando: [Fulham] na página: soccer/www.teamtalk.com/1775_7023.html
+Faltando: [Blackpool] na página: soccer/www.teamtalk.com/1813_42001.html
+Faltando: [Cardiff City] na página: soccer/www.teamtalk.com/1789_6588.html
+Faltando: [Newcastle United] na página: soccer/www.teamtalk.com/2483_9128.html
+Faltando: [St Mirren] na página: soccer/www.teamtalk.com/8547_87866.html
+Faltando: [Leyton Orient] na página: soccer/www.teamtalk.com/1846_6682.html
+Faltando: [Tottenham Hotspur] na página: soccer/www.teamtalk.com/1908_26970.html
+Faltando: [Milton Keynes Dons] na página: soccer/www.teamtalk.com/1825_87211.html
+Faltando: [Portsmouth] na página: soccer/www.teamtalk.com/2483_142434.html
+Faltando: [Ipswich Town] na página: soccer/www.teamtalk.com/1794_6971.html
+Faltando: [Huddersfield Town] na página: soccer/www.teamtalk.com/1822_88376.html
+Faltando: [West Ham United] na página: soccer/www.teamtalk.com/1808_21562.html
+Faltando: [Arsenal] na página: soccer/www.teamtalk.com/2483_126422.html
+Faltando: [Sunderland] na página: soccer/www.teamtalk.com/1806_130682.html
+Faltando: [Luton Town] na página: soccer/www.teamtalk.com/1824_18485.html
+Faltando: [West Ham United] na página: soccer/www.teamtalk.com/1808_6976.html
+Faltando: [Bury] na página: soccer/www.teamtalk.com/1839_20314.html
+Faltando: [Yeovil Town] na página: soccer/www.teamtalk.com/1860_78327.html
+Faltando: [Grimsby Town] na página: soccer/www.teamtalk.com/1844_8451.html
+Faltando: [Atletico Madrid] na página: soccer/www.teamtalk.com/2483_94259.html
+Faltando: [Coventry City] na página: soccer/www.teamtalk.com/1790_125067.html
+Faltando: [Crystal Palace] na página: soccer/www.teamtalk.com/1771_80010.html
+Faltando: [Ajax] na página: soccer/www.teamtalk.com/2483_124411.html
+Faltando: [Leyton Orient] na página: soccer/www.teamtalk.com/1846_9203.html
+Faltando: [Arsenal] na página: soccer/www.teamtalk.com/2483_92259.html
+Faltando: [Arsenal] na página: soccer/www.teamtalk.com/2483_8833.html
+Faltando: [Bournemouth] na página: soccer/www.teamtalk.com/1814_72938.html
+Faltando: [Unassigned Players] na página: soccer/www.teamtalk.com/1819_8954.html
+Faltando: [Bristol City] na página: soccer/www.teamtalk.com/1817_87481.html
+Faltando: [Oldham Athletic] na página: soccer/www.teamtalk.com/1826_143576.html
+Faltando: [Aldershot Town] na página: soccer/www.teamtalk.com/14731_73726.html
+Faltando: [Aston Villa] na página: soccer/www.teamtalk.com/1767_98991.html
+Faltando: [Rangers] na página: soccer/www.teamtalk.com/1873_106261.html
+Faltando: [Ipswich Town] na página: soccer/www.teamtalk.com/1912_131103.html
+Faltando: [Walsall] na página: soccer/www.teamtalk.com/1834_7343.html
+Faltando: [Lincoln City] na página: soccer/www.teamtalk.com/1847_137036.html
+Faltando: [Chelsea] na página: soccer/www.teamtalk.com/1773_99321.html
+Faltando: [Millwall] na página: soccer/www.teamtalk.com/1797_8540.html
+Faltando: [Derby County] na página: soccer/www.teamtalk.com/1792_162875.html
+Faltando: [Arsenal] na página: soccer/www.teamtalk.com/2483_97952.html
+Faltando: [Hartlepool United] na página: soccer/www.teamtalk.com/2483_147712.html
+Faltando: [Aston Villa] na página: soccer/www.teamtalk.com/1767_6570.html
+Faltando: [Newcastle United] na página: soccer/www.teamtalk.com/2483_8923.html
+Faltando: [Cheltenham Town] na página: soccer/www.teamtalk.com/1841_6689.html
+Faltando: [Hull City] na página: soccer/www.teamtalk.com/1823_92761.html
+Faltando: [Chelsea] na página: soccer/www.teamtalk.com/1773_7109.html
+Faltando: [Fulham] na página: soccer/www.teamtalk.com/1775_9131.html
+Faltando: [Unassigned Players] na página: soccer/www.teamtalk.com/1814_7374.html
+Faltando: [Grimsby Town] na página: soccer/www.teamtalk.com/1844_7319.html
+Faltando: [Oldham Athletic] na página: soccer/www.teamtalk.com/1826_165656.html
+Faltando: [Dundee United] na página: soccer/www.teamtalk.com/1865_133272.html
+Faltando: [Doncaster Rovers] na página: soccer/www.teamtalk.com/1820_9705.html
+Faltando: [Chesterfield] na página: soccer/www.teamtalk.com/1818_155502.html
+Faltando: [Motherwell] na página: soccer/www.teamtalk.com/1872_163440.html
+Faltando: [Darlington] na página: soccer/www.teamtalk.com/1843_8478.html
+Faltando: [Leeds United] na página: soccer/www.teamtalk.com/982_8625.html
+Faltando: [Rangers] na página: soccer/www.teamtalk.com/1873_126121.html
+Faltando: [Chelsea] na página: soccer/www.teamtalk.com/2483_99310.html
+Faltando: [Darlington] na página: soccer/www.teamtalk.com/1843_73718.html
+Faltando: [Milton Keynes Dons] na página: soccer/www.teamtalk.com/1825_7064.html
+Faltando: [Sunderland] na página: soccer/www.teamtalk.com/2483_7712.html
+Faltando: [Middlesbrough] na página: soccer/www.teamtalk.com/1779_9096.html
+Faltando: [Bury] na página: soccer/www.teamtalk.com/1839_7100.html
+Faltando: [Nottingham Forest] na página: soccer/www.teamtalk.com/1798_85705.html
+Faltando: [Huddersfield Town] na página: soccer/www.teamtalk.com/1822_8940.html
+Faltando: [Leeds United] na página: soccer/www.teamtalk.com/982_144325.html
+Faltando: [Celtic] na página: soccer/www.teamtalk.com/1863_136382.html
+Faltando: [Burnley] na página: soccer/www.teamtalk.com/1788_84221.html
+Faltando: [Doncaster Rovers] na página: soccer/www.teamtalk.com/1820_9118.html
+Faltando: [West Bromwich Albion] na página: soccer/www.teamtalk.com/1785_127674.html
+Faltando: [Darlington] na página: soccer/www.teamtalk.com/1843_14950.html
+Faltando: [Panathinaikos FC] na página: soccer/www.teamtalk.com/2483_73981.html
+Faltando: [Southampton] na página: soccer/www.teamtalk.com/1783_142993.html
+Faltando: [Cardiff City] na página: soccer/www.teamtalk.com/1789_9201.html
+Faltando: [Walsall] na página: soccer/www.teamtalk.com/1834_159255.html
+Faltando: [Sunderland] na página: soccer/www.teamtalk.com/1784_16762.html
+Faltando: [Tottenham Hotspur] na página: soccer/www.teamtalk.com/1784_66442.html
+Faltando: [Middlesbrough] na página: soccer/www.teamtalk.com/1779_8897.html
+Faltando: [Southampton] na página: soccer/www.teamtalk.com/1783_161378.html
+Faltando: [Kilmarnock] na página: soccer/www.teamtalk.com/1870_3649.html
+Faltando: [Hearts] na página: soccer/www.teamtalk.com/1867_133369.html
+Faltando: [Blackpool] na página: soccer/www.teamtalk.com/1813_6573.html
+Faltando: [Kilmarnock] na página: soccer/www.teamtalk.com/1870_60281.html
+Faltando: [West Ham United] na página: soccer/www.teamtalk.com/1808_6551.html
+Faltando: [Falkirk] na página: soccer/www.teamtalk.com/5649_3678.html
+Faltando: [Huddersfield Town] na página: soccer/www.teamtalk.com/1822_8909.html
+Faltando: [Newcastle United] na página: soccer/www.teamtalk.com/1780_8845.html
+Faltando: [Sunderland] na página: soccer/www.teamtalk.com/1806_78787.html
+Faltando: [Rangers] na página: soccer/www.teamtalk.com/1873_152011.html
+Faltando: [West Ham United] na página: soccer/www.teamtalk.com/2483_8593.html
+Faltando: [Celtic] na página: soccer/www.teamtalk.com/2483_150724.html
+Faltando: [Tranmere Rovers] na página: soccer/www.teamtalk.com/1833_74388.html
+Faltando: [Preston North End] na página: soccer/www.teamtalk.com/1800_79266.html
+Faltando: [Manchester United] na página: soccer/www.teamtalk.com/2483_8831.html
+Faltando: [Newcastle United] na página: soccer/www.teamtalk.com/2483_11671.html
+Faltando: [St Mirren] na página: soccer/www.teamtalk.com/8547_9183.html
+Faltando: [Barnsley] na página: soccer/www.teamtalk.com/1812_152606.html
+Faltando: [Bournemouth] na página: soccer/www.teamtalk.com/1814_165676.html
+Faltando: [Leeds United] na página: soccer/www.teamtalk.com/982_7120.html
+Faltando: [Huddersfield Town] na página: soccer/www.teamtalk.com/1822_6874.html
+Faltando: [Hull City] na página: soccer/www.teamtalk.com/2483_100292.html
+Faltando: [Morecambe] na página: soccer/www.teamtalk.com/12248_29702.html
+Faltando: [Brentford] na página: soccer/www.teamtalk.com/1816_8870.html
+Faltando: [Stuttgart] na página: soccer/www.teamtalk.com/2483_114125.html
+Faltando: [Barnet FC] na página: soccer/www.teamtalk.com/5636_161379.html
+Faltando: [Newcastle United] na página: soccer/www.teamtalk.com/1780_9210.html
+Faltando: [Yeovil Town] na página: soccer/www.teamtalk.com/1860_165265.html
+Faltando: [Hibernian] na página: soccer/www.teamtalk.com/1868_89262.html
+Faltando: [Cheltenham Town] na página: soccer/www.teamtalk.com/1841_8093.html
+Faltando: [Hartlepool United] na página: soccer/www.teamtalk.com/1821_8375.html
+Faltando: [Sunderland] na página: soccer/www.teamtalk.com/1806_82321.html
+Faltando: [Rochdale] na página: soccer/www.teamtalk.com/1854_168272.html
+Faltando: [Rotherham United] na página: soccer/www.teamtalk.com/1803_56081.html
+Faltando: [Reading] na página: soccer/www.teamtalk.com/1802_164901.html
+Faltando: [Inverness Caledonian Thistle] na página: soccer/www.teamtalk.com/1869_3585.html
+Faltando: [Bournemouth] na página: soccer/www.teamtalk.com/1814_171844.html
+Faltando: [Shrewsbury Town] na página: soccer/www.teamtalk.com/1856_7054.html
+Faltando: [Stoke City] na página: soccer/www.teamtalk.com/2483_75512.html
+Faltando: [Start] na página: soccer/www.teamtalk.com/2483_152357.html
+Faltando: [Preston North End] na página: soccer/www.teamtalk.com/1800_81963.html
+Faltando: [Aberdeen] na página: soccer/www.teamtalk.com/1862_3890.html
+Faltando: [Cardiff City] na página: soccer/www.teamtalk.com/2483_66725.html
+Faltando: [Stoke City] na página: soccer/www.teamtalk.com/1805_7846.html
+Faltando: [Rangers] na página: soccer/www.teamtalk.com/1873_136547.html
+Faltando: [Sunderland] na página: soccer/www.teamtalk.com/1806_7157.html
+Faltando: [St Mirren] na página: soccer/www.teamtalk.com/8547_7782.html
+Faltando: [Liverpool] na página: soccer/www.teamtalk.com/2483_94967.html
+Faltando: [Racing Santander] na página: soccer/www.teamtalk.com/2483_100756.html
+Faltando: [West Ham United] na página: soccer/www.teamtalk.com/1908_7313.html
+Faltando: [Bristol City] na página: soccer/www.teamtalk.com/1817_7667.html
+Faltando: [Aston Villa] na página: soccer/www.teamtalk.com/1767_95728.html
+Faltando: [West Ham United] na página: soccer/www.teamtalk.com/1808_9543.html
+Faltando: [Wolverhampton Wanderers] na página: soccer/www.teamtalk.com/1810_8082.html
+Faltando: [Tottenham Hotspur] na página: soccer/www.teamtalk.com/2483_9032.html
+Faltando: [Oldham Athletic] na página: soccer/www.teamtalk.com/1802_132913.html
+Faltando: [Shrewsbury Town] na página: soccer/www.teamtalk.com/1856_109021.html
+Faltando: [Arsenal] na página: soccer/www.teamtalk.com/2483_136583.html
+Faltando: [West Ham United] na página: soccer/www.teamtalk.com/1808_94204.html
+Faltando: [Sheffield United] na página: soccer/www.teamtalk.com/2483_140810.html
+Faltando: [Aston Villa] na página: soccer/www.teamtalk.com/2483_75322.html
+Faltando: [Coventry City] na página: soccer/www.teamtalk.com/1790_84069.html
+Faltando: [Oxford United] na página: soccer/www.teamtalk.com/1916_46663.html
+Faltando: [Hearts] na página: soccer/www.teamtalk.com/1867_141547.html
+Faltando: [Falkirk] na página: soccer/www.teamtalk.com/2483_114424.html
+Faltando: [Sunderland] na página: soccer/www.teamtalk.com/1806_168763.html
+Faltando: [Falkirk] na página: soccer/www.teamtalk.com/5649_143262.html
+Faltando: [Chester City] na página: soccer/www.teamtalk.com/1842_6835.html
+Faltando: [Chelsea] na página: soccer/www.teamtalk.com/1773_7028.html
+Faltando: [Darlington] na página: soccer/www.teamtalk.com/1843_7697.html
+Faltando: [Hereford] na página: soccer/www.teamtalk.com/8535_94588.html
+Faltando: [Rangers] na página: soccer/www.teamtalk.com/1873_72264.html
+Faltando: [Bolton Wanderers] na página: soccer/www.teamtalk.com/2483_9263.html
+Faltando: [Luton Town] na página: soccer/www.teamtalk.com/1824_7940.html
+Faltando: [Rotherham United] na página: soccer/www.teamtalk.com/1803_139522.html
+Faltando: [Dagenham & Redbridge] na página: soccer/www.teamtalk.com/12247_7469.html
+Faltando: [Liverpool] na página: soccer/www.teamtalk.com/2483_128666.html
+Faltando: [Rangers] na página: soccer/www.teamtalk.com/1873_152585.html
+Faltando: [Crystal Palace] na página: soccer/www.teamtalk.com/1771_15326.html
+Faltando: [Watford] na página: soccer/www.teamtalk.com/1807_7292.html
+Faltando: [Manchester United] na página: soccer/www.teamtalk.com/2483_145176.html
+Faltando: [Birmingham City] na página: soccer/www.teamtalk.com/1768_131104.html
+Faltando: [Fulham] na página: soccer/www.teamtalk.com/1775_9035.html
+Faltando: [Inverness Caledonian Thistle] na página: soccer/www.teamtalk.com/1869_47400.html
+Faltando: [Middlesbrough] na página: soccer/www.teamtalk.com/2483_9096.html
+Faltando: [Blackpool] na página: soccer/www.teamtalk.com/1813_7494.html
+Faltando: [Unassigned Players] na página: soccer/www.teamtalk.com/1783_123702.html
+Faltando: [Manchester United] na página: soccer/www.teamtalk.com/1778_73798.html
+Faltando: [Stockport County] na página: soccer/www.teamtalk.com/1830_147514.html
+Faltando: [Sheffield United] na página: soccer/www.teamtalk.com/1804_139190.html
+Faltando: [Oldham Athletic] na página: soccer/www.teamtalk.com/1826_149560.html
+Faltando: [Dundee United] na página: soccer/www.teamtalk.com/1865_72884.html
+Faltando: [Nottingham Forest] na página: soccer/www.teamtalk.com/1798_151310.html
+Faltando: [Cardiff City] na página: soccer/www.teamtalk.com/1789_3878.html
+Faltando: [Oldham Athletic] na página: soccer/www.teamtalk.com/1820_7880.html
+Faltando: [Rangers] na página: soccer/www.teamtalk.com/1873_101080.html
+Faltando: [Chelsea] na página: soccer/www.teamtalk.com/2483_7109.html
+Faltando: [Real Mallorca] na página: soccer/www.teamtalk.com/2483_152213.html
+Faltando: [Fulham] na página: soccer/www.teamtalk.com/2483_126541.html
+Faltando: [Birmingham City] na página: soccer/www.teamtalk.com/1768_127942.html
+Faltando: [Charlton Athletic] na página: soccer/www.teamtalk.com/1800_80335.html
+Faltando: [Arsenal] na página: soccer/www.teamtalk.com/1766_144941.html
+Faltando: [Brentford] na página: soccer/www.teamtalk.com/1816_105253.html
+Faltando: [Sunderland] na página: soccer/www.teamtalk.com/2483_17946.html
+Faltando: [Middlesbrough] na página: soccer/www.teamtalk.com/1779_56494.html
+Faltando: [Huddersfield Town] na página: soccer/www.teamtalk.com/1822_8932.html
+Faltando: [Walsall] na página: soccer/www.teamtalk.com/1834_6568.html
+Faltando: [Bournemouth] na página: soccer/www.teamtalk.com/1814_80327.html
+Faltando: [Accrington Stanley] na página: soccer/www.teamtalk.com/8534_6762.html
+Faltando: [Hartlepool United] na página: soccer/www.teamtalk.com/1821_25811.html
+Faltando: [West Bromwich Albion] na página: soccer/www.teamtalk.com/1785_9113.html
+Faltando: [Manchester United] na página: soccer/www.teamtalk.com/2483_8865.html
+Faltando: [Manchester United] na página: soccer/www.teamtalk.com/1778_17943.html
+Faltando: [Grimsby Town] na página: soccer/www.teamtalk.com/1844_8327.html
+Faltando: [Tottenham Hotspur] na página: soccer/www.teamtalk.com/1784_82383.html
+Faltando: [Aston Villa] na página: soccer/www.teamtalk.com/2483_149461.html
+Faltando: [Bristol Rovers] na página: soccer/www.teamtalk.com/1838_146742.html
+Faltando: [Aston Villa] na página: soccer/www.teamtalk.com/2483_98621.html
+Faltando: [Manchester City] na página: soccer/www.teamtalk.com/2483_8925.html
+Faltando: [Darlington] na página: soccer/www.teamtalk.com/1843_79161.html
+Faltando: [Liverpool] na página: soccer/www.teamtalk.com/2483_9141.html
+Faltando: [Stoke City] na página: soccer/www.teamtalk.com/1805_8618.html
+Faltando: [Bradford City] na página: soccer/www.teamtalk.com/1815_8233.html
+Faltando: [Arsenal] na página: soccer/www.teamtalk.com/2483_103446.html
+Faltando: [Chester City] na página: soccer/www.teamtalk.com/1842_9169.html
+Faltando: [Rangers] na página: soccer/www.teamtalk.com/1873_72325.html
+Faltando: [Luton Town] na página: soccer/www.teamtalk.com/1824_151346.html
+Faltando: [Portsmouth] na página: soccer/www.teamtalk.com/1908_6602.html
+Faltando: [Derby County] na página: soccer/www.teamtalk.com/1792_9067.html
+Faltando: [Morecambe] na página: soccer/www.teamtalk.com/1836_8008.html
+Faltando: [Stoke City] na página: soccer/www.teamtalk.com/1805_34245.html
+Faltando: [West Ham United] na página: soccer/www.teamtalk.com/1808_8593.html
+Faltando: [Derby County] na página: soccer/www.teamtalk.com/1792_8827.html
+Faltando: [Leicester City] na página: soccer/www.teamtalk.com/1796_139188.html
+Faltando: [Unassigned Players] na página: soccer/www.teamtalk.com/1783_9256.html
+Faltando: [Blackburn Rovers] na página: soccer/www.teamtalk.com/2483_6596.html
+Faltando: [Scunthorpe United] na página: soccer/www.teamtalk.com/1855_51010.html
+Faltando: [St Mirren] na página: soccer/www.teamtalk.com/8547_3535.html
+Faltando: [Portsmouth] na página: soccer/www.teamtalk.com/1784_115523.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 13:19 - birthplace********************************
+dataset;WEIR;domain;soccer;site;www.teamtalk.com;attribute;birthplace;relevantes;895;recuperados;654;relevantes recuperados; 654;recall;0.7307262569832402;precision;1.0;date;2016-02-18 13:19
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [Chiswick, England] na página: soccer/www.teamtalk.com/1824_7394.html
+Faltando: [Liverpool, England] na página: soccer/www.teamtalk.com/1813_7494.html
+Faltando: [Kedougou, Senegal] na página: soccer/www.teamtalk.com/2483_75512.html
+Faltando: [Banga, DR Congo] na página: soccer/www.teamtalk.com/1797_8540.html
+Faltando: [Stockport, England] na página: soccer/www.teamtalk.com/1843_23328.html
+Faltando: [Trinidad] na página: soccer/www.teamtalk.com/1858_31582.html
+Faltando: [Dublin, Ireland] na página: soccer/www.teamtalk.com/1842_9169.html
+Faltando: [Zaria, Nigeria] na página: soccer/www.teamtalk.com/2483_11671.html
+Faltando: [London,England] na página: soccer/www.teamtalk.com/1806_78787.html
+Faltando: [Rotherham, England] na página: soccer/www.teamtalk.com/1803_139522.html
+Faltando: [Lambeth-London,England] na página: soccer/www.teamtalk.com/1808_6976.html
+Faltando: [Irvine, Scotland] na página: soccer/www.teamtalk.com/1873_72264.html
+Faltando: [Newport,Wales] na página: soccer/www.teamtalk.com/1808_21562.html
+Faltando: [Melbourne,Australia] na página: soccer/www.teamtalk.com/2483_8923.html
+Faltando: [Nottingham,England] na página: soccer/www.teamtalk.com/1908_26970.html
+Faltando: [Edmonton, England] na página: soccer/www.teamtalk.com/1824_18485.html
+Faltando: [Wakefield,England] na página: soccer/www.teamtalk.com/1841_8093.html
+Faltando: [Lorenskog,Norway] na página: soccer/www.teamtalk.com/1767_98991.html
+Faltando: [Liverpool, England] na página: soccer/www.teamtalk.com/1856_109021.html
+Faltando: [Burton-on-Trent, England] na página: soccer/www.teamtalk.com/14731_73726.html
+Faltando: [Scottish] na página: soccer/www.teamtalk.com/1817_7667.html
+Faltando: [Voor-Drempt,Netherlands] na página: soccer/www.teamtalk.com/2483_124411.html
+Faltando: [Chorley, England] na página: soccer/www.teamtalk.com/1822_8909.html
+Faltando: [Dublin, Rep of Ireland] na página: soccer/www.teamtalk.com/1789_9201.html
+Faltando: [Hitchin, England] na página: soccer/www.teamtalk.com/2483_9080.html
+Faltando: [Sens,France] na página: soccer/www.teamtalk.com/2483_103446.html
+Faltando: [Rambouillet,France] na página: soccer/www.teamtalk.com/1779_56494.html
+Faltando: [Welwyn Garden City,Englnd] na página: soccer/www.teamtalk.com/1908_6602.html
+Faltando: [Lagoa de Prata,Brazil] na página: soccer/www.teamtalk.com/2483_73981.html
+Faltando: [Preston, England] na página: soccer/www.teamtalk.com/982_7120.html
+Faltando: [Oldham, England] na página: soccer/www.teamtalk.com/1826_143576.html
+Faltando: [Bellshill, Scotland] na página: soccer/www.teamtalk.com/1873_106261.html
+Faltando: [South Africa] na página: soccer/www.teamtalk.com/1870_60281.html
+Faltando: [Kostrzyn nad Odra,Poland] na página: soccer/www.teamtalk.com/1766_144941.html
+Faltando: [London, England] na página: soccer/www.teamtalk.com/1794_139391.html
+Faltando: [Zagreb, Croatia] na página: soccer/www.teamtalk.com/2483_103113.html
+Faltando: [Liverpool, England] na página: soccer/www.teamtalk.com/1800_80335.html
+Faltando: [London,England] na página: soccer/www.teamtalk.com/2483_75322.html
+Faltando: [Belfast,Northern Ireland] na página: soccer/www.teamtalk.com/1865_8967.html
+Faltando: [Bury,England] na página: soccer/www.teamtalk.com/2483_8831.html
+Faltando: [Dublin, Ireland] na página: soccer/www.teamtalk.com/1824_7383.html
+Faltando: [Aberdeen] na página: soccer/www.teamtalk.com/8547_3535.html
+Faltando: [Cardiff,Wales] na página: soccer/www.teamtalk.com/1808_9543.html
+Faltando: [Enfield, England] na página: soccer/www.teamtalk.com/1814_72938.html
+Faltando: [Santiago del Estero,Argentina] na página: soccer/www.teamtalk.com/2483_152213.html
+Faltando: [Backa Topola,Yugoslavia] na página: soccer/www.teamtalk.com/2483_100756.html
+Faltando: [Diego Martin,Trinidad & T] na página: soccer/www.teamtalk.com/2483_7712.html
+Faltando: [London, England] na página: soccer/www.teamtalk.com/982_130663.html
+Faltando: [Birmingham, England] na página: soccer/www.teamtalk.com/1820_7880.html
+Faltando: [Kinshasa,DR Congo (represents Portugal)] na página: soccer/www.teamtalk.com/1773_99321.html
+Faltando: [Middlesbrough, England] na página: soccer/www.teamtalk.com/2483_147712.html
+Faltando: [Darlington, England] na página: soccer/www.teamtalk.com/1843_8478.html
+Faltando: [Reading] na página: soccer/www.teamtalk.com/1798_8469.html
+Faltando: [Huddersfield, England] na página: soccer/www.teamtalk.com/1822_6874.html
+Faltando: [Glasgow] na página: soccer/www.teamtalk.com/1820_9705.html
+Faltando: [Aberdeen] na página: soccer/www.teamtalk.com/1869_3627.html
+Faltando: [Pontefract, England] na página: soccer/www.teamtalk.com/1822_88376.html
+Faltando: [Buenos Aires,Argentina] na página: soccer/www.teamtalk.com/1779_9096.html
+Faltando: [Peterborough, England] na página: soccer/www.teamtalk.com/1784_83047.html
+Faltando: [Swindon, England] na página: soccer/www.teamtalk.com/1857_8671.html
+Faltando: [Abidjan,Ivory Coast] na página: soccer/www.teamtalk.com/2483_123906.html
+Faltando: [Chester-Cheshire,England] na página: soccer/www.teamtalk.com/1775_9131.html
+Faltando: [Glasgow, Scotland] na página: soccer/www.teamtalk.com/1784_82383.html
+Faltando: [Glasgow, Scotland] na página: soccer/www.teamtalk.com/2483_66725.html
+Faltando: [Hornchurch, England] na página: soccer/www.teamtalk.com/1814_80327.html
+Faltando: [Bellshill, Scotland] na página: soccer/www.teamtalk.com/1873_75507.html
+Faltando: [Downpatrick, N.Ireland] na página: soccer/www.teamtalk.com/2483_17946.html
+Faltando: [Gorlitz,Germany] na página: soccer/www.teamtalk.com/1773_92088.html
+Faltando: [Huddersfield, England] na página: soccer/www.teamtalk.com/1768_127942.html
+Faltando: [Dublin, Ireland] na página: soccer/www.teamtalk.com/1855_6799.html
+Faltando: [Grimsby, Canada] na página: soccer/www.teamtalk.com/1860_147785.html
+Faltando: [Lifford,Ireland] na página: soccer/www.teamtalk.com/1780_9210.html
+Faltando: [Peckham, London, England] na página: soccer/www.teamtalk.com/1806_82321.html
+Faltando: [Manchester,England] na página: soccer/www.teamtalk.com/1819_78791.html
+Faltando: [Hastings, England] na página: soccer/www.teamtalk.com/1767_6570.html
+Faltando: [Sydney,Australia] na página: soccer/www.teamtalk.com/1808_8593.html
+Faltando: [Trinidad & Tobago] na página: soccer/www.teamtalk.com/5649_3678.html
+Faltando: [Birmingham, England] na página: soccer/www.teamtalk.com/1813_6573.html
+Faltando: [Birmingham,England] na página: soccer/www.teamtalk.com/2483_149461.html
+Faltando: [Ivry-sur-Seine, France] na página: soccer/www.teamtalk.com/1847_137036.html
+Faltando: [Scunthorpe] na página: soccer/www.teamtalk.com/1820_9118.html
+Faltando: [Falkirk] na página: soccer/www.teamtalk.com/8547_7782.html
+Faltando: [Sydney] na página: soccer/www.teamtalk.com/1802_164901.html
+Faltando: [Hackney,England] na página: soccer/www.teamtalk.com/1788_9083.html
+Faltando: [Girona,Spain] na página: soccer/www.teamtalk.com/2483_150724.html
+Faltando: [Lincolnshire, England] na página: soccer/www.teamtalk.com/1771_80010.html
+Faltando: [Stockport, England] na página: soccer/www.teamtalk.com/982_8625.html
+Faltando: [Barnsley, England] na página: soccer/www.teamtalk.com/1812_152606.html
+Faltando: [Ascot, England] na página: soccer/www.teamtalk.com/1816_8870.html
+Faltando: [Cordoba, Argentina] na página: soccer/www.teamtalk.com/2483_90043.html
+Faltando: [London,England] na página: soccer/www.teamtalk.com/1806_7157.html
+Faltando: [Edinburgh,Scotland] na página: soccer/www.teamtalk.com/8547_9183.html
+Faltando: [Islington, England] na página: soccer/www.teamtalk.com/1825_8501.html
+Faltando: [Bristol, England] na página: soccer/www.teamtalk.com/1802_132913.html
+Faltando: [San Sebastián,Spain] na página: soccer/www.teamtalk.com/1783_123702.html
+Faltando: [Katwijk,Netherlands] na página: soccer/www.teamtalk.com/2483_94967.html
+Faltando: [Prague,Czech Republic] na página: soccer/www.teamtalk.com/2483_92259.html
+Faltando: [Aberdeen,Scotland] na página: soccer/www.teamtalk.com/1789_3878.html
+Faltando: [Sheffield,England] na página: soccer/www.teamtalk.com/2483_9263.html
+Faltando: [Sheffield,England] na página: soccer/www.teamtalk.com/1800_81963.html
+Faltando: [Bergen,Norway] na página: soccer/www.teamtalk.com/1783_9256.html
+Faltando: [Guimaraes,Portugal] na página: soccer/www.teamtalk.com/1873_99312.html
+Faltando: [Spain] na página: soccer/www.teamtalk.com/1808_94204.html
+Faltando: [Southampton,England] na página: soccer/www.teamtalk.com/1771_15326.html
+Faltando: [Gravesend, England] na página: soccer/www.teamtalk.com/1855_51010.html
+Faltando: [Milan,Italy] na página: soccer/www.teamtalk.com/1773_7028.html
+Faltando: [Southwark,England] na página: soccer/www.teamtalk.com/1805_8618.html
+Faltando: [Islington, England] na página: soccer/www.teamtalk.com/1846_9203.html
+Faltando: [Ashton under Lyne,England] na página: soccer/www.teamtalk.com/1841_6689.html
+Faltando: [Turku, Finland] na página: soccer/www.teamtalk.com/1789_6588.html
+Faltando: [Paisley] na página: soccer/www.teamtalk.com/1872_72448.html
+Faltando: [Paisley,Scotland] na página: soccer/www.teamtalk.com/1862_3890.html
+Faltando: [Copenhagen,Denmark] na página: soccer/www.teamtalk.com/2483_140808.html
+Faltando: [Manchester,England] na página: soccer/www.teamtalk.com/1780_8845.html
+Faltando: [Edgware, England] na página: soccer/www.teamtalk.com/12247_7469.html
+Faltando: [Southwark, England] na página: soccer/www.teamtalk.com/8535_94588.html
+Faltando: [Scotland] na página: soccer/www.teamtalk.com/5649_143262.html
+Faltando: [Dublin, Ireland] na página: soccer/www.teamtalk.com/2483_6596.html
+Faltando: [Sydney,Australia] na página: soccer/www.teamtalk.com/2483_8593.html
+Faltando: [London,England] na página: soccer/www.teamtalk.com/2483_9032.html
+Faltando: [Dublin,Ireland] na página: soccer/www.teamtalk.com/1863_136382.html
+Faltando: [Helmond,Netherlands] na página: soccer/www.teamtalk.com/1767_95728.html
+Faltando: [Stockton-on-Tees, England] na página: soccer/www.teamtalk.com/1821_8375.html
+Faltando: [Barking-London,England] na página: soccer/www.teamtalk.com/1773_7109.html
+Faltando: [Oswestry, England] na página: soccer/www.teamtalk.com/1916_46663.html
+Faltando: [Pamplona,Spain] na página: soccer/www.teamtalk.com/2483_97952.html
+Faltando: [Dumfries,Scotland] na página: soccer/www.teamtalk.com/1800_4847.html
+Faltando: [Bury, England] na página: soccer/www.teamtalk.com/8534_6762.html
+Faltando: [Bootle,England] na página: soccer/www.teamtalk.com/2483_9141.html
+Faltando: [Cascais,Portugal] na página: soccer/www.teamtalk.com/2483_99310.html
+Faltando: [Bellshill, Scotland] na página: soccer/www.teamtalk.com/12248_29702.html
+Faltando: [Leeds, England] na página: soccer/www.teamtalk.com/1815_8233.html
+Faltando: [Chester,England] na página: soccer/www.teamtalk.com/2483_9128.html
+Faltando: [Edinburgh] na página: soccer/www.teamtalk.com/1870_3649.html
+Faltando: [Wallsend,England] na página: soccer/www.teamtalk.com/2483_8865.html
+Faltando: [Derby, England] na página: soccer/www.teamtalk.com/1844_8451.html
+Faltando: [Leicester, England] na página: soccer/www.teamtalk.com/1796_139188.html
+Faltando: [Hitchin,England] na página: soccer/www.teamtalk.com/1805_34245.html
+Faltando: [Hemel Hempstead,England] na página: soccer/www.teamtalk.com/1829_12347.html
+Faltando: [Retford,England] na página: soccer/www.teamtalk.com/1805_7846.html
+Faltando: [Manchester, England] na página: soccer/www.teamtalk.com/1803_56081.html
+Faltando: [Derby,England] na página: soccer/www.teamtalk.com/1779_8897.html
+Faltando: [Accra, Ghana] na página: soccer/www.teamtalk.com/2483_152357.html
+Faltando: [Ballymena, N/ Ireland] na página: soccer/www.teamtalk.com/1873_126121.html
+Faltando: [Bath, England] na página: soccer/www.teamtalk.com/1824_7940.html
+Faltando: [Leicester,England] na página: soccer/www.teamtalk.com/1792_93421.html
+Faltando: [Liverpool, England] na página: soccer/www.teamtalk.com/1822_8940.html
+Faltando: [Voorhout,Netherlands] na página: soccer/www.teamtalk.com/1778_73798.html
+Faltando: [Killpeddar, Ireland] na página: soccer/www.teamtalk.com/1806_130682.html
+Faltando: [Kingston upon Thames, England] na página: soccer/www.teamtalk.com/1825_87211.html
+Faltando: [Glasgow,Scotland] na página: soccer/www.teamtalk.com/1807_7292.html
+Faltando: [Glasgow, Scotland] na página: soccer/www.teamtalk.com/1821_25811.html
+Faltando: [Cleckheaton, England] na página: soccer/www.teamtalk.com/1822_8932.html
+Faltando: [Sandwell, England] na página: soccer/www.teamtalk.com/1846_6682.html
+Faltando: [Southampton, England] na página: soccer/www.teamtalk.com/1839_20314.html
+Faltando: [Buenos Aires,Argentina] na página: soccer/www.teamtalk.com/2483_9096.html
+Faltando: [Kingston upon Thames, England] na página: soccer/www.teamtalk.com/1834_6568.html
+Faltando: [Bellshill,Scotland] na página: soccer/www.teamtalk.com/1867_133369.html
+Faltando: [Dublin] na página: soccer/www.teamtalk.com/1865_72884.html
+Faltando: [Scarborough,England] na página: soccer/www.teamtalk.com/1785_9113.html
+Faltando: [Haverfordwest, Wales] na página: soccer/www.teamtalk.com/1775_9035.html
+Faltando: [Wrexham, Wales] na página: soccer/www.teamtalk.com/1792_9067.html
+Faltando: [Cork, Ireland] na página: soccer/www.teamtalk.com/1839_7100.html
+Faltando: [Cambridge,England] na página: soccer/www.teamtalk.com/1810_128906.html
+Faltando: [Riedlingen, Germany] na página: soccer/www.teamtalk.com/2483_114125.html
+Faltando: [Bradford, England] na página: soccer/www.teamtalk.com/1844_8327.html
+Faltando: [Sheffield, England] na página: soccer/www.teamtalk.com/1855_88375.html
+Faltando: [Birkenhead, England] na página: soccer/www.teamtalk.com/1842_157213.html
+Faltando: [Edinburgh] na página: soccer/www.teamtalk.com/8547_87866.html
+Faltando: [Wallsend, England] na página: soccer/www.teamtalk.com/1842_6835.html
+Faltando: [Marseille,France] na página: soccer/www.teamtalk.com/2483_126422.html
+Faltando: [Coatbridge,Scotland] na página: soccer/www.teamtalk.com/1810_8082.html
+Faltando: [London, England] na página: soccer/www.teamtalk.com/1824_151346.html
+Faltando: [Stevenage,England] na página: soccer/www.teamtalk.com/2483_98621.html
+Faltando: [Conakry, Guinea] na página: soccer/www.teamtalk.com/1792_8827.html
+Faltando: [Monaghan, Ireland] na página: soccer/www.teamtalk.com/982_10065.html
+Faltando: [Coatbridge,Scotland] na página: soccer/www.teamtalk.com/1914_8082.html
+Faltando: [Amersham] na página: soccer/www.teamtalk.com/1814_7374.html
+Faltando: [Belfast,Northern Ireland] na página: soccer/www.teamtalk.com/2483_145176.html
+Faltando: [Hartismere, England] na página: soccer/www.teamtalk.com/1808_6551.html
+Faltando: [Aberdeen, Scotland] na página: soccer/www.teamtalk.com/1873_152011.html
+Faltando: [Barking, England] na página: soccer/www.teamtalk.com/1816_105253.html
+Faltando: [Middlesex,England] na página: soccer/www.teamtalk.com/2483_136583.html
+Faltando: [Mouscron, Belguim] na página: soccer/www.teamtalk.com/1784_16762.html
+Faltando: [Voorhout,Netherlands] na página: soccer/www.teamtalk.com/2483_73798.html
+Faltando: [Chambray-Les-Tours,France] na página: soccer/www.teamtalk.com/2483_8833.html
+Faltando: [Dundee, Scotland] na página: soccer/www.teamtalk.com/1800_79266.html
+Faltando: [Swindon, England] na página: soccer/www.teamtalk.com/1831_103136.html
+Faltando: [Akranes,Iceland] na página: soccer/www.teamtalk.com/1788_84221.html
+Faltando: [Libreville] na página: soccer/www.teamtalk.com/1823_92761.html
+Faltando: [Saint-Julien, France] na página: soccer/www.teamtalk.com/1784_115523.html
+Faltando: [Ibadan, Nigeria] na página: soccer/www.teamtalk.com/1812_58605.html
+Faltando: [Kilmarnock] na página: soccer/www.teamtalk.com/1865_133272.html
+Faltando: [Constantim,Portugal] na página: soccer/www.teamtalk.com/2483_94259.html
+Faltando: [Liverpool, England] na página: soccer/www.teamtalk.com/1813_42001.html
+Faltando: [Brent,England] na página: soccer/www.teamtalk.com/1819_124281.html
+Faltando: [Salford, England] na página: soccer/www.teamtalk.com/1843_79161.html
+Faltando: [Stalybridge, England] na página: soccer/www.teamtalk.com/1826_149560.html
+Faltando: [St Asaph, Wales] na página: soccer/www.teamtalk.com/1916_65965.html
+Faltando: [Burnley, England] na página: soccer/www.teamtalk.com/1839_147531.html
+Faltando: [Saint-Claude, France (represents Algeria)] na página: soccer/www.teamtalk.com/2483_142434.html
+Faltando: [Barking-London,England] na página: soccer/www.teamtalk.com/2483_7109.html
+Faltando: [Sidcup, England] na página: soccer/www.teamtalk.com/1833_74388.html
+Faltando: [Swindon,England] na página: soccer/www.teamtalk.com/1838_146742.html
+Faltando: [Limoges, France] na página: soccer/www.teamtalk.com/1812_149300.html
+Faltando: [Szombathely,Hungary] na página: soccer/www.teamtalk.com/2483_100292.html
+Faltando: [Dublin, Ireland] na página: soccer/www.teamtalk.com/1819_8954.html
+Faltando: [Leicester, England] na página: soccer/www.teamtalk.com/1843_73718.html
+Faltando: [Haltwhistle, England] na página: soccer/www.teamtalk.com/1834_7343.html
+Faltando: [Chertsey,England] na página: soccer/www.teamtalk.com/1908_7313.html
+Faltando: [Dublin, Ireland] na página: soccer/www.teamtalk.com/2483_140810.html
+Faltando: [Enniskillen,Ireland] na página: soccer/www.teamtalk.com/1873_136547.html
+Faltando: [Bedford,England] na página: soccer/www.teamtalk.com/1775_6554.html
+Faltando: [Bromley-London,England] na página: soccer/www.teamtalk.com/1779_7205.html
+Faltando: [Strin, Norway] na página: soccer/www.teamtalk.com/1825_7064.html
+Faltando: [England] na página: soccer/www.teamtalk.com/1790_84069.html
+Faltando: [Swansea, Wales] na página: soccer/www.teamtalk.com/1844_7319.html
+Faltando: [Luton,England] na página: soccer/www.teamtalk.com/1785_127674.html
+Faltando: [Norwich, England] na página: soccer/www.teamtalk.com/1912_131103.html
+Faltando: [Birkenhead, England] na página: soccer/www.teamtalk.com/1836_8008.html
+Faltando: [Carlisle, England] na página: soccer/www.teamtalk.com/1856_7054.html
+Faltando: [Hackney,England] na página: soccer/www.teamtalk.com/1794_6971.html
+Faltando: [Northallerton,England] na página: soccer/www.teamtalk.com/1784_66442.html
+Faltando: [Stoke-on-Trent, England] na página: soccer/www.teamtalk.com/1842_61389.html
+Faltando: [Higher End-Wigan,England] na página: soccer/www.teamtalk.com/2483_21339.html
+Faltando: [Mostar, Herzegovina] na página: soccer/www.teamtalk.com/1873_101080.html
+Faltando: [Handlova,Slovakia] na página: soccer/www.teamtalk.com/2483_128666.html
+Faltando: [Chesterfield, England] na página: soccer/www.teamtalk.com/1818_155502.html
+Faltando: [Wigan, England] na página: soccer/www.teamtalk.com/1830_147514.html
+Faltando: [London, England] na página: soccer/www.teamtalk.com/982_144325.html
+Faltando: [Waterford,Ireland] na página: soccer/www.teamtalk.com/1778_17943.html
+Faltando: [Berekum,Ghana] na página: soccer/www.teamtalk.com/2483_126541.html
+Faltando: [Bath,England] na página: soccer/www.teamtalk.com/1768_131104.html
+Faltando: [Rio De Janeiro,Brazil] na página: soccer/www.teamtalk.com/1766_100246.html
+Faltando: [Lewisham,England] na página: soccer/www.teamtalk.com/1775_7023.html
+Faltando: [Braniewo,Poland] na página: soccer/www.teamtalk.com/1783_142993.html
+Faltando: [Plymouth, England] na página: soccer/www.teamtalk.com/1843_7697.html
+Faltando: [Aberdeen, Scotland] na página: soccer/www.teamtalk.com/1869_3585.html
+Faltando: [Telford, England] na página: soccer/www.teamtalk.com/1843_14950.html
+Faltando: [Dublin,Ireland] na página: soccer/www.teamtalk.com/2483_8925.html
+Faltando: [Glasgow] na página: soccer/www.teamtalk.com/2483_114424.html
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

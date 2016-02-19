@@ -1,0 +1,9 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,finance,www.marketwatch.com,value,rule_881.csv,Change,451,451,451,1.0,1.0,2016-02-18 13:15
+WEIR,finance,www.marketwatch.com,var_per,rule_984.csv,Volume,451,451,451,1.0,1.0,2016-02-18 13:15
+WEIR,finance,www.marketwatch.com,var_value,rule_519.csv,Change,451,451,451,1.0,1.0,2016-02-18 13:15
+WEIR,finance,www.marketwatch.com,high,rule_251.csv,Day low,451,451,451,1.0,1.0,2016-02-18 13:15
+WEIR,finance,www.marketwatch.com,low,rule_862.csv,Day low,451,451,451,1.0,1.0,2016-02-18 13:15
+WEIR,finance,www.marketwatch.com,volume,rule_804.csv,Volume,451,451,451,1.0,1.0,2016-02-18 13:15
+WEIR,finance,www.marketwatch.com,52wk_low,rule_82.csv,52 week low,451,451,451,1.0,1.0,2016-02-18 13:15
+WEIR,finance,www.marketwatch.com,52wk_high,rule_195.csv,52 week low,451,451,451,1.0,1.0,2016-02-18 13:15

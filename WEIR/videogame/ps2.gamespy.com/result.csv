@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,videogame,ps2.gamespy.com,publisher,rule_855.csv,Publisher,401,400,379,0.9451371571072319,0.9475,2016-02-18 13:21
+WEIR,videogame,ps2.gamespy.com,genre,rule_1098.csv,Genre,401,401,401,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,ps2.gamespy.com,developer,rule_156.csv,Developer,394,394,394,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,ps2.gamespy.com,esrb,rule_711.csv,ESRB,401,401,401,1.0,1.0,2016-02-18 13:21

@@ -1,0 +1,4 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,book,www.goodreads.com,author,rule_1153.csv,by,140,140,140,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.goodreads.com,title,rule_613.csv,rating details,140,140,140,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.goodreads.com,isbn13,rule_368.csv,(ISBN13:,140,140,140,1.0,1.0,2016-02-18 13:13

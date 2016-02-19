@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,book,www.bookfinder4u.com,author,rule_62.csv,By:,173,151,151,0.8728323699421965,1.0,2016-02-18 13:13
+WEIR,book,www.bookfinder4u.com,title,rule_61.csv,Read more from,192,192,192,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.bookfinder4u.com,publisher,rule_14.csv,Price Alert,187,100,98,0.5240641711229946,0.98,2016-02-18 13:13
+WEIR,book,www.bookfinder4u.com,binding,rule_33.csv,Price Alert,191,98,98,0.5130890052356021,1.0,2016-02-18 13:13

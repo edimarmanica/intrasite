@@ -1,0 +1,4 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,videogame,www.askmen.com,publisher,rule_263.csv,Publisher:,983,983,983,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,www.askmen.com,genre,rule_232.csv,Category:,979,979,979,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,www.askmen.com,developer,rule_110.csv,Developer:,983,983,983,1.0,1.0,2016-02-18 13:21

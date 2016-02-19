@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,auto,auto-msn,model,rule_52.csv,Specs and Features,2000,2000,2000,1.0,1.0,2016-02-18 12:47
+SWDE,auto,auto-msn,price,rule_13.csv,Price With Options,2000,1941,1941,0.9705,1.0,2016-02-18 12:48
+SWDE,auto,auto-msn,engine,rule_24.csv,Standard Engine,2000,2000,2000,1.0,1.0,2016-02-18 12:48
+SWDE,auto,auto-msn,fuel_economy,rule_28.csv,City (mpg),2000,2000,2000,1.0,1.0,2016-02-18 12:48

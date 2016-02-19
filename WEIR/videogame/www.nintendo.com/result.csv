@@ -1,0 +1,4 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,videogame,www.nintendo.com,publisher,rule_206.csv,Publisher:,721,721,721,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,www.nintendo.com,genre,rule_171.csv,Genre:,727,727,727,1.0,1.0,2016-02-18 13:21
+WEIR,videogame,www.nintendo.com,esrb,rule_218.csv,ESRB Rating:,727,727,727,1.0,1.0,2016-02-18 13:21

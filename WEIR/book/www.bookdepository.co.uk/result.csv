@@ -1,0 +1,7 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,book,www.bookdepository.co.uk,author,rule_3.csv,By (author),169,163,163,0.9644970414201184,1.0,2016-02-18 13:13
+WEIR,book,www.bookdepository.co.uk,title,rule_31.csv,Format:,187,187,187,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.bookdepository.co.uk,publisher,rule_38.csv,Publisher:,187,187,187,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.bookdepository.co.uk,isbn13,rule_36.csv,ISBN 13:,187,187,187,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.bookdepository.co.uk,binding,rule_88.csv,Format:,187,187,187,1.0,1.0,2016-02-18 13:13
+WEIR,book,www.bookdepository.co.uk,date,rule_54.csv,Published:,187,187,187,1.0,1.0,2016-02-18 13:13

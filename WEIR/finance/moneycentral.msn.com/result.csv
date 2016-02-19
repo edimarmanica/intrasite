@@ -1,0 +1,9 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,finance,moneycentral.msn.com,value,rule_91.csv,52 Week Low,463,463,463,1.0,1.0,2016-02-18 13:14
+WEIR,finance,moneycentral.msn.com,var_per,rule_215.csv,Avg. Daily Vol. (13 wk.),449,449,449,1.0,1.0,2016-02-18 13:14
+WEIR,finance,moneycentral.msn.com,var_value,rule_243.csv,Open,463,463,463,1.0,1.0,2016-02-18 13:14
+WEIR,finance,moneycentral.msn.com,open,rule_321.csv,Bid Size,463,463,463,1.0,1.0,2016-02-18 13:14
+WEIR,finance,moneycentral.msn.com,high,rule_186.csv,Ask,463,463,463,1.0,1.0,2016-02-18 13:14
+WEIR,finance,moneycentral.msn.com,low,rule_52.csv,Ask Size,463,463,463,1.0,1.0,2016-02-18 13:14
+WEIR,finance,moneycentral.msn.com,52wk_low,rule_244.csv,Avg. Daily Vol. (13 wk.),463,463,463,1.0,1.0,2016-02-18 13:14
+WEIR,finance,moneycentral.msn.com,52wk_high,rule_3.csv,Volume,463,463,463,1.0,1.0,2016-02-18 13:14

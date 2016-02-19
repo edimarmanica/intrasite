@@ -1,0 +1,9 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,finance,www.bloomberg.com,value,rule_23.csv,Price,443,443,443,1.0,1.0,2016-02-18 13:14
+WEIR,finance,www.bloomberg.com,var_per,rule_22.csv,% Change,443,443,443,1.0,1.0,2016-02-18 13:14
+WEIR,finance,www.bloomberg.com,var_value,rule_11.csv,Change,443,443,443,1.0,1.0,2016-02-18 13:14
+WEIR,finance,www.bloomberg.com,open,rule_36.csv,Open,443,443,443,1.0,1.0,2016-02-18 13:14
+WEIR,finance,www.bloomberg.com,high,rule_21.csv,High,443,443,443,1.0,1.0,2016-02-18 13:14
+WEIR,finance,www.bloomberg.com,low,rule_25.csv,Low,443,443,443,1.0,1.0,2016-02-18 13:14
+WEIR,finance,www.bloomberg.com,52wk_low,rule_35.csv,High,443,443,443,1.0,1.0,2016-02-18 13:14
+WEIR,finance,www.bloomberg.com,52wk_high,rule_34.csv,High,443,443,443,1.0,1.0,2016-02-18 13:14

@@ -1,0 +1,8 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,finance,quotes.freerealtime.com,value,rule_28.csv,Exchange Quote,452,452,452,1.0,1.0,2016-02-18 13:14
+WEIR,finance,quotes.freerealtime.com,open,rule_22.csv,2009-06-12,452,447,447,0.9889380530973452,1.0,2016-02-18 13:14
+WEIR,finance,quotes.freerealtime.com,high,rule_1.csv,Fiscal Yr. End,452,452,452,1.0,1.0,2016-02-18 13:14
+WEIR,finance,quotes.freerealtime.com,low,rule_67.csv,52 Wk Low,452,452,452,1.0,1.0,2016-02-18 13:14
+WEIR,finance,quotes.freerealtime.com,volume,rule_16.csv,Last,452,452,452,1.0,1.0,2016-02-18 13:14
+WEIR,finance,quotes.freerealtime.com,52wk_low,rule_29.csv,"# of Trades",452,452,452,1.0,1.0,2016-02-18 13:14
+WEIR,finance,quotes.freerealtime.com,52wk_high,rule_68.csv,P/E Ratio,452,452,452,1.0,1.0,2016-02-18 13:14

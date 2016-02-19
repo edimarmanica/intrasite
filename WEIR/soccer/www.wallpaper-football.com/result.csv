@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+WEIR,soccer,www.wallpaper-football.com,position,rule_6.csv,Playing position,154,154,154,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,www.wallpaper-football.com,height,rule_5.csv,Height,154,154,154,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,www.wallpaper-football.com,birthdate,rule_3.csv,Date of birth,154,154,154,1.0,1.0,2016-02-18 13:19
+WEIR,soccer,www.wallpaper-football.com,birthplace,rule_0.csv,Place of birth,154,154,154,1.0,1.0,2016-02-18 13:19

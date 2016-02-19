@@ -1,0 +1,32 @@
+
+
+*************2016-02-18 11:35 - height********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-foxsports;attribute;height;relevantes;425;recuperados;425;relevantes recuperados; 425;recall;1.0;precision;1.0;date;2016-02-18 11:35
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 11:35 - name********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-foxsports;attribute;name;relevantes;425;recuperados;425;relevantes recuperados; 425;recall;1.0;precision;1.0;date;2016-02-18 11:35
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 11:35 - team********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-foxsports;attribute;team;relevantes;425;recuperados;425;relevantes recuperados; 425;recall;1.0;precision;1.0;date;2016-02-18 11:35
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-18 11:35 - weight********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-foxsports;attribute;weight;relevantes;425;recuperados;425;relevantes recuperados; 425;recall;1.0;precision;1.0;date;2016-02-18 11:35
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
