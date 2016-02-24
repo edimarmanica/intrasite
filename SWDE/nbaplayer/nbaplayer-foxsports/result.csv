@@ -1,5 +1,5 @@
 DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
-SWDE,nbaplayer,nbaplayer-foxsports,height,rule_403.csv,Wt:,425,425,425,1.0,1.0,2016-02-18 11:35
-SWDE,nbaplayer,nbaplayer-foxsports,name,rule_115.csv,2010-11 Season,425,425,425,1.0,1.0,2016-02-18 11:35
-SWDE,nbaplayer,nbaplayer-foxsports,team,rule_121.csv,2010-11 Season,425,425,425,1.0,1.0,2016-02-18 11:35
-SWDE,nbaplayer,nbaplayer-foxsports,weight,rule_410.csv,Born:,425,425,425,1.0,1.0,2016-02-18 11:35
+SWDE,nbaplayer,nbaplayer-foxsports,height,rule_403.csv,Wt:,425,425,425,1.0,1.0,2016-02-24 08:25
+SWDE,nbaplayer,nbaplayer-foxsports,name,rule_115.csv,2010-11 Season,425,425,425,1.0,1.0,2016-02-24 08:25
+SWDE,nbaplayer,nbaplayer-foxsports,team,rule_121.csv,2010-11 Season,425,425,425,1.0,1.0,2016-02-24 08:25
+SWDE,nbaplayer,nbaplayer-foxsports,weight,rule_410.csv,Born:,425,425,425,1.0,1.0,2016-02-24 08:25

@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,restaurant,restaurant-usdiners,address,rule_12.csv,Address:,2000,2000,2000,1.0,1.0,2016-02-23 10:09
+SWDE,restaurant,restaurant-usdiners,cuisine,rule_473.csv,Cuisine:,1999,1999,1999,1.0,1.0,2016-02-23 10:09
+SWDE,restaurant,restaurant-usdiners,name,rule_174.csv,Recipes,2000,1342,1342,0.671,1.0,2016-02-23 10:09
+SWDE,restaurant,restaurant-usdiners,phone,rule_281.csv,Phone/Fax:,2000,2000,2000,1.0,1.0,2016-02-23 10:09

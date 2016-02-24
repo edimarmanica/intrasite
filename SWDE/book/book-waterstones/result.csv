@@ -1,0 +1,6 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,book,book-waterstones,author,rule_183.csv,by,1918,1918,1918,1.0,1.0,2016-02-23 09:56
+SWDE,book,book-waterstones,isbn_13,rule_223.csv,ISBN,2000,2000,2000,1.0,1.0,2016-02-23 09:56
+SWDE,book,book-waterstones,publication_date,rule_52.csv,Published,1998,1998,1998,1.0,1.0,2016-02-23 09:56
+SWDE,book,book-waterstones,publisher,rule_126.csv,Publisher,1998,1998,1998,1.0,1.0,2016-02-23 09:56
+SWDE,book,book-waterstones,title,rule_204.csv,Format:,2000,1995,1995,0.9975,1.0,2016-02-23 09:56

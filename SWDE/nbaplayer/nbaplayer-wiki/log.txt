@@ -1,58 +1,58 @@
 
 
-*************2016-02-18 11:48 - height********************************
-dataset;SWDE;domain;nbaplayer;site;nbaplayer-wiki;attribute;height;relevantes;420;recuperados;420;relevantes recuperados; 420;recall;1.0;precision;1.0;date;2016-02-18 11:48
+*************2016-02-24 08:43 - height********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-wiki;attribute;height;relevantes;420;recuperados;420;relevantes recuperados; 420;recall;1.0;precision;1.0;date;2016-02-24 08:43
 --------------------------------------------
 Relevantes não recuperados (Problema de recall):
 --------------------------------------------
 Irrelevantes recuperados (Problema de precision):
 
 
-*************2016-02-18 11:48 - name********************************
-dataset;SWDE;domain;nbaplayer;site;nbaplayer-wiki;attribute;name;relevantes;420;recuperados;406;relevantes recuperados; 406;recall;0.9666666666666667;precision;1.0;date;2016-02-18 11:48
+*************2016-02-24 08:44 - name********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-wiki;attribute;name;relevantes;420;recuperados;406;relevantes recuperados; 406;recall;0.9666666666666667;precision;1.0;date;2016-02-24 08:44
 --------------------------------------------
 Relevantes não recuperados (Problema de recall):
-Faltando: [1_@_AnthonyRandolph] na página: 37
-Faltando: [1_@_JohnLucasIII] na página: 76
-Faltando: [1_@_SherronMarlonCollins] na página: 158
-Faltando: [1_@_PapeSy] na página: 149
 Faltando: [1_@_KirkHinrich] na página: 202
-Faltando: [1_@_HiltonArmstrong] na página: 198
+Faltando: [1_@_PapeSy] na página: 149
 Faltando: [1_@_MalikAllen] na página: 195
-Faltando: [1_@_KenyonMartin] na página: 287
-Faltando: [1_@_PopsMensahBonsu] na página: 259
+Faltando: [1_@_SherronMarlonCollins] na página: 158
 Faltando: [1_@_SheldenWilliams] na página: 290
+Faltando: [1_@_AnthonyRandolph] na página: 37
 Faltando: [1_@_JeffAdrien] na página: 347
-Faltando: [1_@_RyanGomes] na página: 368
 Faltando: [1_@_BrianCook] na página: 365
 Faltando: [1_@_NikolaPekovi] na página: 415
+Faltando: [1_@_KenyonMartin] na página: 287
+Faltando: [1_@_HiltonArmstrong] na página: 198
+Faltando: [1_@_RyanGomes] na página: 368
+Faltando: [1_@_PopsMensahBonsu] na página: 259
+Faltando: [1_@_JohnLucasIII] na página: 76
 --------------------------------------------
 Irrelevantes recuperados (Problema de precision):
 
 
-*************2016-02-18 11:49 - team********************************
-dataset;SWDE;domain;nbaplayer;site;nbaplayer-wiki;attribute;team;relevantes;420;recuperados;407;relevantes recuperados; 407;recall;0.969047619047619;precision;1.0;date;2016-02-18 11:49
+*************2016-02-24 08:44 - team********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-wiki;attribute;team;relevantes;420;recuperados;407;relevantes recuperados; 407;recall;0.969047619047619;precision;1.0;date;2016-02-24 08:44
 --------------------------------------------
 Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_LosAngelesLakers] na página: 379
+Faltando: [1_@_WashingtonWizards] na página: 202
+Faltando: [1_@_MiamiHeat] na página: 170
+Faltando: [1_@_MilwaukeeBucks] na página: 125
+Faltando: [1_@_AtlantaHawks] na página: 153
+Faltando: [1_@_WashingtonWizards] na página: 201
+Faltando: [1_@_MilwaukeeBucks] na página: 137
+Faltando: [1_@_PhoenixSuns] na página: 397
+Faltando: [1_@_DallasMavericks] na página: 218
+Faltando: [1_@_OrlandoMagic] na página: 189
 Faltando: [1_@_BostonCeltics] na página: 8
 Faltando: [1_@_NewYorkKnicks] na página: 37
-Faltando: [1_@_MilwaukeeBucks] na página: 125
-Faltando: [1_@_MilwaukeeBucks] na página: 137
-Faltando: [1_@_AtlantaHawks] na página: 153
-Faltando: [1_@_MiamiHeat] na página: 170
-Faltando: [1_@_OrlandoMagic] na página: 189
-Faltando: [1_@_WashingtonWizards] na página: 201
-Faltando: [1_@_WashingtonWizards] na página: 202
-Faltando: [1_@_DallasMavericks] na página: 218
 Faltando: [1_@_MinnesotaTimberwolves] na página: 291
-Faltando: [1_@_LosAngelesLakers] na página: 379
-Faltando: [1_@_PhoenixSuns] na página: 397
 --------------------------------------------
 Irrelevantes recuperados (Problema de precision):
 
 
-*************2016-02-18 11:49 - weight********************************
-dataset;SWDE;domain;nbaplayer;site;nbaplayer-wiki;attribute;weight;relevantes;420;recuperados;420;relevantes recuperados; 420;recall;1.0;precision;1.0;date;2016-02-18 11:49
+*************2016-02-24 08:45 - weight********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-wiki;attribute;weight;relevantes;420;recuperados;420;relevantes recuperados; 420;recall;1.0;precision;1.0;date;2016-02-24 08:45
 --------------------------------------------
 Relevantes não recuperados (Problema de recall):
 --------------------------------------------

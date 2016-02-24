@@ -1,5 +1,5 @@
 DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
-SWDE,job,job-dice,company,rule_1113.csv,Company:,2000,2000,2000,1.0,1.0,2016-02-17 12:27
-SWDE,job,job-dice,date_posted,rule_1494.csv,Date:,2000,2000,2000,1.0,1.0,2016-02-17 12:27
-SWDE,job,job-dice,location,rule_105.csv,Location:,2000,2000,2000,1.0,1.0,2016-02-17 12:27
-SWDE,job,job-dice,title,rule_1337.csv,Job Description,2000,2000,2000,1.0,1.0,2016-02-17 12:27
+SWDE,job,job-dice,company,rule_1113.csv,Company:,2000,2000,2000,1.0,1.0,2016-02-23 12:15
+SWDE,job,job-dice,date_posted,rule_1494.csv,Date:,2000,2000,2000,1.0,1.0,2016-02-23 12:16
+SWDE,job,job-dice,location,rule_105.csv,Location:,2000,2000,2000,1.0,1.0,2016-02-23 12:16
+SWDE,job,job-dice,title,rule_1337.csv,Job Description,2000,2000,2000,1.0,1.0,2016-02-23 12:16

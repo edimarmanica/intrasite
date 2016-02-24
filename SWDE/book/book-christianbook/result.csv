@@ -1,0 +1,6 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,book,book-christianbook,author,rule_6665.csv,By:,2000,2000,2000,1.0,1.0,2016-02-23 09:50
+SWDE,book,book-christianbook,isbn_13,rule_16275.csv,ISBN:,2000,1021,1021,0.5105,1.0,2016-02-23 09:51
+SWDE,book,book-christianbook,publication_date,rule_8331.csv,Publication Date:,2000,1671,1671,0.8355,1.0,2016-02-23 09:51
+SWDE,book,book-christianbook,publisher,rule_20018.csv,Vendor:,2000,1673,1673,0.8365,1.0,2016-02-23 09:52
+SWDE,book,book-christianbook,title,rule_12420.csv,I'm the author/artist and I want to review,2000,1947,1945,0.9725,0.9989727786337956,2016-02-23 09:53

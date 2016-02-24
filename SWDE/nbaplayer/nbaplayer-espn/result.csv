@@ -1,5 +1,5 @@
 DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
-SWDE,nbaplayer,nbaplayer-espn,height,rule_887.csv,Height,434,434,434,1.0,1.0,2016-02-18 11:33
-SWDE,nbaplayer,nbaplayer-espn,name,rule_305.csv,Data provided by Elias Sports Bureau,434,434,434,1.0,1.0,2016-02-18 11:33
-SWDE,nbaplayer,nbaplayer-espn,team,rule_2108.csv,Depth,434,434,434,1.0,1.0,2016-02-18 11:33
-SWDE,nbaplayer,nbaplayer-espn,weight,rule_1679.csv,Weight,434,434,434,1.0,1.0,2016-02-18 11:33
+SWDE,nbaplayer,nbaplayer-espn,height,rule_887.csv,Height,434,434,434,1.0,1.0,2016-02-24 08:25
+SWDE,nbaplayer,nbaplayer-espn,name,rule_305.csv,Data provided by Elias Sports Bureau,434,434,434,1.0,1.0,2016-02-24 08:25
+SWDE,nbaplayer,nbaplayer-espn,team,rule_2108.csv,Depth,434,434,434,1.0,1.0,2016-02-24 08:25
+SWDE,nbaplayer,nbaplayer-espn,weight,rule_1679.csv,Weight,434,434,434,1.0,1.0,2016-02-24 08:25

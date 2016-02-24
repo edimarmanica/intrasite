@@ -1,5 +1,5 @@
 DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
-SWDE,nbaplayer,nbaplayer-yahoo,height,rule_3648.csv,Height:,438,438,438,1.0,1.0,2016-02-18 11:45
-SWDE,nbaplayer,nbaplayer-yahoo,name,rule_5921.csv,NBA,438,438,438,1.0,1.0,2016-02-18 11:45
-SWDE,nbaplayer,nbaplayer-yahoo,team,rule_914.csv,Team Home,438,438,438,1.0,1.0,2016-02-18 11:45
-SWDE,nbaplayer,nbaplayer-yahoo,weight,rule_4448.csv,Weight:,438,438,438,1.0,1.0,2016-02-18 11:45
+SWDE,nbaplayer,nbaplayer-yahoo,height,rule_3648.csv,Height:,438,438,438,1.0,1.0,2016-02-24 08:49
+SWDE,nbaplayer,nbaplayer-yahoo,name,rule_5921.csv,NBA,438,438,438,1.0,1.0,2016-02-24 08:49
+SWDE,nbaplayer,nbaplayer-yahoo,team,rule_914.csv,Team Home,438,438,438,1.0,1.0,2016-02-24 08:49
+SWDE,nbaplayer,nbaplayer-yahoo,weight,rule_4448.csv,Weight:,438,438,438,1.0,1.0,2016-02-24 08:49

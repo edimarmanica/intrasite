@@ -1,0 +1,39 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,job,job-careerbuilder,company,rule_15020.csv,Company:,2000,1469,1469,0.7345,1.0,2016-02-23 12:14
+SWDE,job,job-careerbuilder,location,rule_14632.csv,Loading Map...,2000,1495,1495,0.7475,1.0,2016-02-23 12:15
+SWDE,job,job-careerbuilder,title,rule_16470.csv,Report It,2000,1668,1668,0.834,1.0,2016-02-23 12:15
+SWDE,job,job-dice,company,rule_1113.csv,Company:,2000,2000,2000,1.0,1.0,2016-02-23 12:15
+SWDE,job,job-dice,date_posted,rule_1494.csv,Date:,2000,2000,2000,1.0,1.0,2016-02-23 12:16
+SWDE,job,job-dice,location,rule_105.csv,Location:,2000,2000,2000,1.0,1.0,2016-02-23 12:16
+SWDE,job,job-dice,title,rule_1337.csv,Job Description,2000,2000,2000,1.0,1.0,2016-02-23 12:16
+SWDE,job,job-hotjobs,company,rule_4338.csv,Company Name,2000,2000,2000,1.0,1.0,2016-02-23 12:17
+SWDE,job,job-hotjobs,date_posted,rule_6645.csv,Date Posted,2000,1392,1392,0.696,1.0,2016-02-23 12:17
+SWDE,job,job-hotjobs,location,rule_5525.csv,Location,2000,2000,2000,1.0,1.0,2016-02-23 12:17
+SWDE,job,job-hotjobs,title,rule_6038.csv,Jobs Home,2000,2000,2000,1.0,1.0,2016-02-23 12:18
+SWDE,job,job-job,company,rule_2435.csv,Company:,2000,2000,2000,1.0,1.0,2016-02-23 12:19
+SWDE,job,job-job,date_posted,rule_984.csv,Date Posted:,2000,2000,2000,1.0,1.0,2016-02-23 12:19
+SWDE,job,job-job,location,rule_1897.csv,Location:,2000,2000,2000,1.0,1.0,2016-02-23 12:19
+SWDE,job,job-job,title,rule_2131.csv,Job Description,2000,2000,2000,1.0,1.0,2016-02-23 12:19
+SWDE,job,job-jobcircle,company,rule_2060.csv,Upcoming Events,2000,2000,2000,1.0,1.0,2016-02-23 12:20
+SWDE,job,job-jobcircle,date_posted,rule_868.csv,Please refer to job code,2000,345,345,0.1725,1.0,2016-02-23 12:20
+SWDE,job,job-jobcircle,location,rule_3232.csv,Location:,2000,2000,2000,1.0,1.0,2016-02-23 12:20
+SWDE,job,job-jobcircle,title,rule_2044.csv,Classifieds,2000,2000,782,0.391,0.391,2016-02-23 12:20
+SWDE,job,job-jobtarget,company,rule_22.csv,« Return to Results,2000,1595,1595,0.7975,1.0,2016-02-23 12:21
+SWDE,job,job-jobtarget,date_posted,rule_1950.csv,Posted:,2000,2000,2000,1.0,1.0,2016-02-23 12:21
+SWDE,job,job-jobtarget,location,rule_4714.csv,« Return to Results,2000,1595,1595,0.7975,1.0,2016-02-23 12:22
+SWDE,job,job-jobtarget,title,rule_8032.csv,Position Title:,2000,2000,2000,1.0,1.0,2016-02-23 12:22
+SWDE,job,job-monster,company,rule_5547.csv,Company,2000,2000,2000,1.0,1.0,2016-02-23 12:23
+SWDE,job,job-monster,location,rule_15178.csv,Location,2000,2000,2000,1.0,1.0,2016-02-23 12:24
+SWDE,job,job-monster,title,rule_16005.csv,About the Job,2000,2000,2000,1.0,1.0,2016-02-23 12:24
+SWDE,job,job-nettemps,company,rule_16.csv,Contact Information:,2000,1236,1236,0.618,1.0,2016-02-23 12:24
+SWDE,job,job-nettemps,date_posted,rule_72.csv,Similar Job Searches,2000,2000,2000,1.0,1.0,2016-02-23 12:24
+SWDE,job,job-nettemps,location,rule_130.csv,Location:,2000,2000,2000,1.0,1.0,2016-02-23 12:24
+SWDE,job,job-nettemps,title,rule_113.csv,Back to search,2000,2000,2000,1.0,1.0,2016-02-23 12:24
+SWDE,job,job-rightitjobs,company,rule_527.csv,Company's Name,2000,2000,2000,1.0,1.0,2016-02-23 12:25
+SWDE,job,job-rightitjobs,date_posted,rule_40.csv,Creation Date,2000,2000,2000,1.0,1.0,2016-02-23 12:25
+SWDE,job,job-rightitjobs,location,rule_1444.csv,Map job,2000,2000,2000,1.0,1.0,2016-02-23 12:25
+SWDE,job,job-rightitjobs,title,rule_1057.csv,.job_desc li {margin-left:20px;},2000,2000,2000,1.0,1.0,2016-02-23 12:25
+SWDE,job,job-techcentric,company,rule_3798.csv,Company,2000,2000,2000,1.0,1.0,2016-02-23 12:25
+SWDE,job,job-techcentric,date_posted,rule_50.csv,Published on,2000,2000,2000,1.0,1.0,2016-02-23 12:25
+SWDE,job,job-techcentric,location,rule_3481.csv,Location,2000,2000,2000,1.0,1.0,2016-02-23 12:25
+SWDE,job,job-techcentric,title,rule_2885.csv,Job title,2000,2000,2000,1.0,1.0,2016-02-23 12:26

@@ -1,0 +1,5 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,restaurant,restaurant-tripadvisor,address,rule_2663.csv,Get Directions,2000,2000,2000,1.0,1.0,2016-02-23 10:07
+SWDE,restaurant,restaurant-tripadvisor,cuisine,rule_525.csv,Write a review,1849,1829,1822,0.9853975121687398,0.996172772006561,2016-02-23 10:07
+SWDE,restaurant,restaurant-tripadvisor,name,rule_3751.csv,Click map pins for more information.,2000,2000,2000,1.0,1.0,2016-02-23 10:07
+SWDE,restaurant,restaurant-tripadvisor,phone,rule_3805.csv,Tel:,1935,1935,1935,1.0,1.0,2016-02-23 10:08

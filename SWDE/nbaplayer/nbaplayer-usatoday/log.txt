@@ -1,0 +1,44 @@
+
+
+*************2016-02-24 08:31 - height********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-usatoday;attribute;height;relevantes;436;recuperados;433;relevantes recuperados; 433;recall;0.9931192660550459;precision;1.0;date;2016-02-24 08:31
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Height611] na página: 294
+Faltando: [1_@_Height66] na página: 206
+Faltando: [1_@_Height63] na página: 346
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-24 08:31 - name********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-usatoday;attribute;name;relevantes;436;recuperados;433;relevantes recuperados; 433;recall;0.9931192660550459;precision;1.0;date;2016-02-24 08:31
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_MarcusCousin] na página: 294
+Faltando: [1_@_StephenDennis] na página: 206
+Faltando: [1_@_BenUzoh] na página: 346
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-24 08:31 - team********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-usatoday;attribute;team;relevantes;436;recuperados;433;relevantes recuperados; 433;recall;0.9931192660550459;precision;1.0;date;2016-02-24 08:31
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_SanAntonioSpurs] na página: 294
+Faltando: [1_@_LosAngelesClippers] na página: 206
+Faltando: [1_@_NewJerseyNets] na página: 346
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-24 08:31 - weight********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-usatoday;attribute;weight;relevantes;436;recuperados;433;relevantes recuperados; 433;recall;0.9931192660550459;precision;1.0;date;2016-02-24 08:31
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_Weight250] na página: 294
+Faltando: [1_@_Weight185] na página: 206
+Faltando: [1_@_Weight205] na página: 346
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

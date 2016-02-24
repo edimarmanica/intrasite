@@ -1,0 +1,45 @@
+
+
+*************2016-02-23 09:56 - author********************************
+dataset;SWDE;domain;book;site;book-waterstones;attribute;author;relevantes;1918;recuperados;1918;relevantes recuperados; 1918;recall;1.0;precision;1.0;date;2016-02-23 09:56
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-23 09:56 - isbn_13********************************
+dataset;SWDE;domain;book;site;book-waterstones;attribute;isbn_13;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-23 09:56
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-23 09:56 - publication_date********************************
+dataset;SWDE;domain;book;site;book-waterstones;attribute;publication_date;relevantes;1998;recuperados;1998;relevantes recuperados; 1998;recall;1.0;precision;1.0;date;2016-02-23 09:56
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-23 09:56 - publisher********************************
+dataset;SWDE;domain;book;site;book-waterstones;attribute;publisher;relevantes;1998;recuperados;1998;relevantes recuperados; 1998;recall;1.0;precision;1.0;date;2016-02-23 09:56
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-23 09:56 - title********************************
+dataset;SWDE;domain;book;site;book-waterstones;attribute;title;relevantes;2000;recuperados;1995;relevantes recuperados; 1995;recall;0.9975;precision;1.0;date;2016-02-23 09:56
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_TheIllustratedPracticalGuidetoBirdsintheGardenTheCompleteBookofBirdFeedersBirdTablesBirdbathsNestBoxesandBackyardBirdwatching] na página: 1514
+Faltando: [1_@_HowtoCreateaWildlifeGardenCompleteInstructionsforDesigningandPlantingWildlifeHabitatswithOver40PracticalProjectsaDirectoryof70WildlifeSpeciesand800Photographs] na página: 1234
+Faltando: [1_@_APracticalHandbookofArchaeologyABeginnersGuidetoUnearthingthePastanInvaluableToolforAmateurArchaeologistswith300StepbystepPhotographsMapsandIllustrationsfromExcavationsAroundtheWorld] na página: 1070
+Faltando: [1_@_HowtoSucceedatanAssessmentCentreEssentialPreparationforPsychometricTestsGroupandRoleplayExercisesPanelInterviewsandPresentations] na página: 1775
+Faltando: [1_@_EnglandsForgottenPastTheUnsungHeroesandHeroinesValiantKingsGreatBattlesandOtherGenerallyOverlookedEpisodesinOurNationsGloriousHistory] na página: 1085
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

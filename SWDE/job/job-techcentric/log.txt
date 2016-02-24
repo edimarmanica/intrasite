@@ -1,31 +1,31 @@
 
 
-*************2016-02-17 13:12 - company********************************
-dataset;SWDE;domain;job;site;job-techcentric;attribute;company;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-17 13:12
+*************2016-02-23 12:25 - company********************************
+dataset;SWDE;domain;job;site;job-techcentric;attribute;company;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-23 12:25
 --------------------------------------------
 Relevantes não recuperados (Problema de recall):
 --------------------------------------------
 Irrelevantes recuperados (Problema de precision):
 
 
-*************2016-02-17 13:12 - date_posted********************************
-dataset;SWDE;domain;job;site;job-techcentric;attribute;date_posted;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-17 13:12
+*************2016-02-23 12:25 - date_posted********************************
+dataset;SWDE;domain;job;site;job-techcentric;attribute;date_posted;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-23 12:25
 --------------------------------------------
 Relevantes não recuperados (Problema de recall):
 --------------------------------------------
 Irrelevantes recuperados (Problema de precision):
 
 
-*************2016-02-17 13:12 - location********************************
-dataset;SWDE;domain;job;site;job-techcentric;attribute;location;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-17 13:12
+*************2016-02-23 12:25 - location********************************
+dataset;SWDE;domain;job;site;job-techcentric;attribute;location;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-23 12:25
 --------------------------------------------
 Relevantes não recuperados (Problema de recall):
 --------------------------------------------
 Irrelevantes recuperados (Problema de precision):
 
 
-*************2016-02-17 13:12 - title********************************
-dataset;SWDE;domain;job;site;job-techcentric;attribute;title;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-17 13:12
+*************2016-02-23 12:26 - title********************************
+dataset;SWDE;domain;job;site;job-techcentric;attribute;title;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-23 12:26
 --------------------------------------------
 Relevantes não recuperados (Problema de recall):
 --------------------------------------------

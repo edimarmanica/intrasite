@@ -1,0 +1,66 @@
+
+
+*************2016-02-23 10:07 - address********************************
+dataset;SWDE;domain;restaurant;site;restaurant-tripadvisor;attribute;address;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-23 10:07
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-23 10:07 - cuisine********************************
+dataset;SWDE;domain;restaurant;site;restaurant-tripadvisor;attribute;cuisine;relevantes;1849;recuperados;1829;relevantes recuperados; 1822;recall;0.9853975121687398;precision;0.996172772006561;date;2016-02-23 10:07
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+Faltando: [1_@_CuisinesContinentalItalian] na página: 1008
+Faltando: [1_@_CuisinesBakery] na página: 384
+Faltando: [1_@_CuisinesAsian] na página: 768
+Faltando: [1_@_CuisinesFrench] na página: 1970
+Faltando: [1_@_CuisinesAmericanHamburgers] na página: 1549
+Faltando: [1_@_CuisinesAmerican] na página: 287
+Faltando: [1_@_CuisinesVegetarianHamburgersAmericanSouthwesternSandwichesDonutsHealthyBakeryLatinFamilyFareCoffeeShopSoupsDinerDelicatessenBagelsDessert] na página: 1627
+Faltando: [1_@_CuisinesAmerican] na página: 175
+Faltando: [1_@_CuisinesFrench] na página: 1567
+Faltando: [1_@_CuisinesAmerican] na página: 1170
+Faltando: [1_@_CuisinesAmericanContemporaryEuropeanFrench] na página: 741
+Faltando: [1_@_CuisinesItalian] na página: 1280
+Faltando: [1_@_CuisinesFrench] na página: 127
+Faltando: [1_@_CuisinesAmericanEclecticInternationalSeafoodThaiVeganVegetarian] na página: 509
+Faltando: [1_@_CuisinesGuatemalanLatin] na página: 1425
+Faltando: [1_@_CuisinesIceCream] na página: 1900
+Faltando: [1_@_CuisinesAmerican] na página: 342
+Faltando: [1_@_CuisinesFrenchSeafood] na página: 1403
+Faltando: [1_@_CuisinesAmericanAsianContemporaryPacificRimSeafood] na página: 1904
+Faltando: [1_@_CuisinesMexican] na página: 937
+Faltando: [1_@_CuisinesDessert] na página: 792
+Faltando: [1_@_CuisinesSteakhouse] na página: 1880
+Faltando: [1_@_CuisinesFrenchInternational] na página: 1235
+Faltando: [1_@_CuisinesJapaneseSushi] na página: 1236
+Faltando: [1_@_CuisinesItalianPizza] na página: 1490
+Faltando: [1_@_CuisinesSeafoodSteakhouse] na página: 1336
+Faltando: [1_@_CuisinesAmerican] na página: 733
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+Faltando: [NeighborhoodSouthwest] na página: 734
+Faltando: [NeighborhoodMurrayHill] na página: 7
+Faltando: [NeighborhoodWestVillage] na página: 534
+Faltando: [NeighborhoodUpperEastSide] na página: 5
+Faltando: [NeighborhoodHellsKitchen] na página: 39
+Faltando: [NeighborhoodTimesSquareTheaterDistrict] na página: 37
+Faltando: [NeighborhoodTheaterDistrict] na página: 641
+
+
+*************2016-02-23 10:07 - name********************************
+dataset;SWDE;domain;restaurant;site;restaurant-tripadvisor;attribute;name;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-23 10:07
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-23 10:08 - phone********************************
+dataset;SWDE;domain;restaurant;site;restaurant-tripadvisor;attribute;phone;relevantes;1935;recuperados;1935;relevantes recuperados; 1935;recall;1.0;precision;1.0;date;2016-02-23 10:08
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):

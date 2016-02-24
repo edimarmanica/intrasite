@@ -1,0 +1,6 @@
+DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
+SWDE,book,book-deepdiscount,author,rule_144.csv,Author:,2000,2000,2000,1.0,1.0,2016-02-23 09:54
+SWDE,book,book-deepdiscount,isbn_13,rule_767.csv,ISBN:,2000,2000,2000,1.0,1.0,2016-02-23 09:54
+SWDE,book,book-deepdiscount,publication_date,rule_297.csv,Publish Date:,2000,2000,2000,1.0,1.0,2016-02-23 09:54
+SWDE,book,book-deepdiscount,publisher,rule_353.csv,Publisher:,1999,1999,1999,1.0,1.0,2016-02-23 09:54
+SWDE,book,book-deepdiscount,title,rule_746.csv,Email a Friend,2000,2000,2000,1.0,1.0,2016-02-23 09:54

@@ -1,5 +1,5 @@
 DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
-SWDE,nbaplayer,nbaplayer-fanhouse,height,rule_100.csv,Height:,446,446,446,1.0,1.0,2016-02-18 11:34
-SWDE,nbaplayer,nbaplayer-fanhouse,name,rule_115.csv,Name:,446,446,446,1.0,1.0,2016-02-18 11:34
-SWDE,nbaplayer,nbaplayer-fanhouse,team,rule_136.csv,Team:,446,446,446,1.0,1.0,2016-02-18 11:34
-SWDE,nbaplayer,nbaplayer-fanhouse,weight,rule_45.csv,Weight:,446,446,446,1.0,1.0,2016-02-18 11:34
+SWDE,nbaplayer,nbaplayer-fanhouse,height,rule_100.csv,Height:,446,446,446,1.0,1.0,2016-02-24 08:25
+SWDE,nbaplayer,nbaplayer-fanhouse,name,rule_115.csv,Name:,446,446,446,1.0,1.0,2016-02-24 08:25
+SWDE,nbaplayer,nbaplayer-fanhouse,team,rule_136.csv,Team:,446,446,446,1.0,1.0,2016-02-24 08:25
+SWDE,nbaplayer,nbaplayer-fanhouse,weight,rule_45.csv,Weight:,446,446,446,1.0,1.0,2016-02-24 08:25

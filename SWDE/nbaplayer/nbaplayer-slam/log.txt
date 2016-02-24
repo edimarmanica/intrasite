@@ -1,31 +1,31 @@
 
 
-*************2016-02-18 11:41 - height********************************
-dataset;SWDE;domain;nbaplayer;site;nbaplayer-slam;attribute;height;relevantes;423;recuperados;423;relevantes recuperados; 423;recall;1.0;precision;1.0;date;2016-02-18 11:41
+*************2016-02-24 08:29 - height********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-slam;attribute;height;relevantes;423;recuperados;423;relevantes recuperados; 423;recall;1.0;precision;1.0;date;2016-02-24 08:29
 --------------------------------------------
 Relevantes não recuperados (Problema de recall):
 --------------------------------------------
 Irrelevantes recuperados (Problema de precision):
 
 
-*************2016-02-18 11:41 - name********************************
-dataset;SWDE;domain;nbaplayer;site;nbaplayer-slam;attribute;name;relevantes;423;recuperados;423;relevantes recuperados; 423;recall;1.0;precision;1.0;date;2016-02-18 11:41
+*************2016-02-24 08:29 - name********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-slam;attribute;name;relevantes;423;recuperados;423;relevantes recuperados; 423;recall;1.0;precision;1.0;date;2016-02-24 08:29
 --------------------------------------------
 Relevantes não recuperados (Problema de recall):
 --------------------------------------------
 Irrelevantes recuperados (Problema de precision):
 
 
-*************2016-02-18 11:41 - team********************************
-dataset;SWDE;domain;nbaplayer;site;nbaplayer-slam;attribute;team;relevantes;423;recuperados;423;relevantes recuperados; 423;recall;1.0;precision;1.0;date;2016-02-18 11:41
+*************2016-02-24 08:29 - team********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-slam;attribute;team;relevantes;423;recuperados;423;relevantes recuperados; 423;recall;1.0;precision;1.0;date;2016-02-24 08:29
 --------------------------------------------
 Relevantes não recuperados (Problema de recall):
 --------------------------------------------
 Irrelevantes recuperados (Problema de precision):
 
 
-*************2016-02-18 11:41 - weight********************************
-dataset;SWDE;domain;nbaplayer;site;nbaplayer-slam;attribute;weight;relevantes;423;recuperados;423;relevantes recuperados; 423;recall;1.0;precision;1.0;date;2016-02-18 11:41
+*************2016-02-24 08:29 - weight********************************
+dataset;SWDE;domain;nbaplayer;site;nbaplayer-slam;attribute;weight;relevantes;423;recuperados;423;relevantes recuperados; 423;recall;1.0;precision;1.0;date;2016-02-24 08:29
 --------------------------------------------
 Relevantes não recuperados (Problema de recall):
 --------------------------------------------

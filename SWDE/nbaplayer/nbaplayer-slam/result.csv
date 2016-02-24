@@ -1,5 +1,5 @@
 DATASET,DOMAIN,SITE,ATTRIBUTE,RULE,LABEL,RELEVANTS,RETRIEVED,RETRIEVED RELEVANTS,RECALL,PRECISION,DATE
-SWDE,nbaplayer,nbaplayer-slam,height,rule_809.csv,Height,423,423,423,1.0,1.0,2016-02-18 11:41
-SWDE,nbaplayer,nbaplayer-slam,name,rule_1274.csv,PLAYERS,423,423,423,1.0,1.0,2016-02-18 11:41
-SWDE,nbaplayer,nbaplayer-slam,team,rule_2011.csv,PLAYERS,423,423,423,1.0,1.0,2016-02-18 11:41
-SWDE,nbaplayer,nbaplayer-slam,weight,rule_3061.csv,Weight,423,423,423,1.0,1.0,2016-02-18 11:41
+SWDE,nbaplayer,nbaplayer-slam,height,rule_809.csv,Height,423,423,423,1.0,1.0,2016-02-24 08:29
+SWDE,nbaplayer,nbaplayer-slam,name,rule_1274.csv,PLAYERS,423,423,423,1.0,1.0,2016-02-24 08:29
+SWDE,nbaplayer,nbaplayer-slam,team,rule_2011.csv,PLAYERS,423,423,423,1.0,1.0,2016-02-24 08:29
+SWDE,nbaplayer,nbaplayer-slam,weight,rule_3061.csv,Weight,423,423,423,1.0,1.0,2016-02-24 08:29

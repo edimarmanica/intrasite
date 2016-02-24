@@ -1,0 +1,40 @@
+
+
+*************2016-02-23 09:54 - author********************************
+dataset;SWDE;domain;book;site;book-deepdiscount;attribute;author;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-23 09:54
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-23 09:54 - isbn_13********************************
+dataset;SWDE;domain;book;site;book-deepdiscount;attribute;isbn_13;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-23 09:54
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-23 09:54 - publication_date********************************
+dataset;SWDE;domain;book;site;book-deepdiscount;attribute;publication_date;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-23 09:54
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-23 09:54 - publisher********************************
+dataset;SWDE;domain;book;site;book-deepdiscount;attribute;publisher;relevantes;1999;recuperados;1999;relevantes recuperados; 1999;recall;1.0;precision;1.0;date;2016-02-23 09:54
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
+
+
+*************2016-02-23 09:54 - title********************************
+dataset;SWDE;domain;book;site;book-deepdiscount;attribute;title;relevantes;2000;recuperados;2000;relevantes recuperados; 2000;recall;1.0;precision;1.0;date;2016-02-23 09:54
+--------------------------------------------
+Relevantes não recuperados (Problema de recall):
+--------------------------------------------
+Irrelevantes recuperados (Problema de precision):
